@@ -29,6 +29,15 @@
 .col-10{
     width:100%;
 }
+.h-10 {
+    height: 100%;
+}
+.max-col-10 {
+    max-width: 100%;
+}
+.max-h-10 {
+    max-height: 100%;
+}
 .p-1 {
     padding:10px;
 }
@@ -40,4 +49,10 @@
 }
 .p-4 {
     padding:40px;
+}
+.m-1 {
+    margin:10px;
+}
+.d-block{
+    display:inline-block;
 }
