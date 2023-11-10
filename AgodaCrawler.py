@@ -15,14 +15,6 @@ chrome_options = Options()
 chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
 
-#리뷰 데이터 리스트
-local_list = []
-hotel_list = []
-review_score = []
-review_title = []
-review_context = []
-
-
 def accom_review_crawling() :
     # 크롤링할 국가 지역
     URL = 'https://www.agoda.com/ko-kr/?ds=rQL3Oqsd%2FK%2FPTWIy'

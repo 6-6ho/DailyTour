@@ -1,12 +1,15 @@
 import './Dashboard.css'
-import MonthlyChart from './MonthlyChart'
-import YearChart from './YearChart'
+import MiddleContainer from './MiddleConainer'
+// import MonthlyChart from './MonthlyChart'
+import MonthlyChartjs from './MonthlyChartjs'
+
 
 export default function Dashboard() {
     return (
         <div className="dashboard-div">
-            <MonthlyChart></MonthlyChart>
-            <YearChart> </YearChart>
+            <MonthlyChartjs></MonthlyChartjs>
+            <MiddleContainer></MiddleContainer>
+
         </div>
     )
 }

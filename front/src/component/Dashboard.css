@@ -9,8 +9,8 @@
 /* MonthlyChart */
 .monthly-chart-box-wrap {
     width: 100%;
-    height: 250px;
-    padding: 20px;
+    height: 300px;
+    padding: 10px;
     box-sizing: border-box;
 }
 .monthly-chart-box {
@@ -24,21 +24,64 @@
     background-color: white;
 }
 .monthly-chart-left {
+    width: 70%;
+    height: 100%;
     /* width:50%; */
 }
 .monthly-chart-right{
+    width: 30%;
+    
     /* width:50%;
     padding: 10px; */
 }
 .chart-wrap{
-    height: 100%;
     box-sizing: border-box;
+}
+.monthly-line-charts-container {
+    position: relative;
+    height: 100%;
+    width:100%;
 }
 
 /*Year Chart*/
-/* .year-chart-box-wrap {
+/* .year-chart-box-wrap {npm start
     width: 100%;
     height: 300px;
     padding: 20px;
     box-sizing: border-box;
 } */
+
+.middle-container-box-wrap {
+    width: 100%;
+    padding:10px;
+    height: 300px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.year-chart-box-container {
+    width: 50%;
+    height: 100%;
+}
+
+.year-chart-box{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+.select-box-container {
+    float: right;
+}
+
+/* 워드 클라우드 박스 */
+.word-cloud-box {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
