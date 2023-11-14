@@ -3,15 +3,23 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 from bs4 import BeautifulSoup
+import json
 
-test_list = ["마리나 베이", "상하이"]
 driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
+
+input_path = '../Data/Country_Region_Data/country_data.json'
+
+def get_regions():
+    region_data = json.loads(input_path)
+    for country, regions in region_data:
+        print(country, regions)
+        
 
 
 def crawler():
     # 메인 페이지 들어가기
-    for country in test_list:
+    for country in region_list:
         driver.get(main_url)
         driver.implicitly_wait(5)
         sleep(2)

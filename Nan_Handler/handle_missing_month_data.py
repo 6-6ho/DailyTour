@@ -1,7 +1,7 @@
 import pandas as pd
 
-csv_path = '/Data/OutBound_Data/Outbound_Month_Data.csv' # input file path
-output_path = '/Data/OutBound_Data/Outbound_Month_Data_Fillna.csv'# output file path
+csv_path = '../Data/OutBound_Data/Outbound_Month_Data.csv' # input file path
+output_path = '../Data/OutBound_Data/Outbound_Month_Data_Fillna.csv'# output file path
 
 df = pd.read_csv(csv_path)
 
