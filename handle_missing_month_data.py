@@ -1,13 +1,13 @@
 import pandas as pd
 
-csv_path = 'OutBound_Data/Outbound_Month_Data.csv'
-output_path = 'OutBound_Data/Outbound_Month_Data_Fillna.csv'
+csv_path = 'OutBound_Data/Outbound_Month_Data.csv' # input file path
+output_path = 'OutBound_Data/Outbound_Month_Data_Fillna.csv'# output file path
 
 df = pd.read_csv(csv_path)
 
 # 연도별 전년도 대비 증가율
 increase_rates = {
-    'month': [1, 2, 3, 4, 5, 6, 7, 8],
+    'month': [1, 2, 3, 4, 5, 6, 7, 8], # 각 월에 매칭된다고 생각하면 돼 1월 증가율이 0인 이유는 작년 12월에 비례해서 증가하게 하는게 아니라 2월 증가량에 대해서 역연산 하기 위함임
     'increase_rate': [0, 3, 17, -2, -11, -5, -18, 3]
 }
 
