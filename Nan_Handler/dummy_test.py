@@ -30,6 +30,7 @@ def fill_missing_values(df, rates_df):
                 current_year = df['year'].iloc[i]
                 rate = rates_df['increase_rate'].loc[rates_df['year'] == current_year].values[0] / 100
                 df[column].iloc[i] = df[column].iloc[i-1] * (1 + rate)
+                
             # 첫 번째 값이 NaN이면 그 이후 첫 번째 비NaN 값을 찾아 역산을 수행 (위로 올라가면서 채우기)
             elif pd.isnull(df[column].iloc[0]):
                 first_valid_index = df[column].first_valid_index()
