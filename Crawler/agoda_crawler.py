@@ -38,12 +38,13 @@ def agoda_crawling() :
 
             time.sleep(10)
 
-            close_btn = driver.find_element(By.CLASS_NAME, 'ab-close-button')   
-            close_btn.click() # 페이지 연결 시 광고 창 삭제
+            try : 
+                close_btn = driver.find_element(By.CLASS_NAME, 'ab-close-button')   
+                close_btn.click() # 페이지 연결 시 광고 창 삭제
+            except: 
+                print()
 
             # 숙소를 검색할 국가의 지역 
-            # accom = '도쿄'  # 검색할 국가의 지역
-
             keyword_element = driver.find_element(By.ID, 'textInput') # 검색창 element
             keyword_element.clear() 
             keyword_element.send_keys(region)    # 검색창에 지역 입력하고 입력 타이핑
@@ -102,6 +103,8 @@ def hotel_review_crawling(country, region, hotel_url_list):
         hotel_name = soup.find('p', class_='HeaderCerebrum__Name').text
         print(hotel_name)
 
+        driver.implicitly_wait(3)
+
         element = soup.find('li', {'data-href' : '#customer-reviews-panel'})
         data_href = element['data-href']
         print(data_href)
@@ -110,6 +113,8 @@ def hotel_review_crawling(country, region, hotel_url_list):
 
 
         time.sleep(3)
+
+        driver.implicitly_wait(3)
 
        # 리뷰 작성 언어 선택 (크롤러 시작할 때마다 페이지 html 양식이 바뀌어서 예외 처리.. )
         try:
@@ -129,18 +134,18 @@ def hotel_review_crawling(country, region, hotel_url_list):
         #    driver.execute_script("arguments[0].click();", language)
         except NoSuchElementException as e:
             continue
+        
+        time.sleep(3)
        
-       
-       
-        for i in range(1, 4) :
+        for i in range(2, 4) :
             sort_select = Select(driver.find_element(By.XPATH, '//*[@id="review-sort-id"]'))
             time.sleep(2)
             sort_select.select_by_value(str(i)) # 1 - 최신순, 2 - 높은 평점 우선 보기, 3 - 낮은평점우선보기
 
-            time.sleep(1)
+            time.sleep(3)
+            driver.implicitly_wait(3)
 
-
-            for i in range(0, 5) :  # 리뷰 3 페이지까지 이동하면서 데이터 추가.
+            for i in range(0, 3) :  # 리뷰 3 페이지까지 이동하면서 데이터 추가.
                 html = driver.page_source   # 리뷰 페이지 이동할 때 파싱 새로 해주기 
                 soup = BeautifulSoup(html, 'html.parser')
 
@@ -148,19 +153,26 @@ def hotel_review_crawling(country, region, hotel_url_list):
                 # print(review_div)
 
                 for review in review_div : 
-                    review_score = review.find('div', class_='Review-comment-leftScore').text  # 리뷰 평점
-                    review_title = review.find('h3', class_='Review-comment-bodyTitle').text   # 리뷰 제목
-                    review_content = review.find('p', class_='Review-comment-bodyText').text   # 리뷰 상세 정보 
-
+                    try :
+                        review_score = review.find('div', class_='Review-comment-leftScore').text  # 리뷰 평점
+                        review_title = review.find('h3', class_='Review-comment-bodyTitle').text   # 리뷰 제목
+                        review_content = review.find('p', class_='Review-comment-bodyText').text   # 리뷰 상세 정보 
+                    except:
+                        continue
+                        
                     parse_to_json(country, region, hotel_name, float(review_score)//2, review_title, review_content, hotel_list)  # json으로 저장
 
                 print(len(hotel_list))
 
-                page_btn = driver.find_element(By.XPATH, '//*[@id="reviewSection"]/div[4]/div/span[3]/i')
-                driver.execute_script("arguments[0].click();", page_btn)
+                try : 
+                    page_btn = driver.find_element(By.XPATH, '//*[@id="reviewSection"]/div[4]/div/span[3]/i')
+                    driver.execute_script("arguments[0].click();", page_btn)
+                except: 
+                    continue
+
                 time.sleep(3)
 
-    save_to_json(country, hotel_list) # json 파일로 저장 
+    save_to_json(country, region, hotel_list) # json 파일로 저장 
 
 
 # json으로 변경
@@ -177,8 +189,8 @@ def parse_to_json(country, region, hotel_name, review_score, review_title, revie
 
 
 # 크롤링 데이터 json 파일로 저장
-def save_to_json(country, hotel_list):
-    with open(f'{country}_accom_review.json', 'w', encoding='utf-8') as file :
+def save_to_json(country, region, hotel_list):
+    with open(f'{country}_{region}_accom_review.json', 'w', encoding='utf-8') as file :
         json.dump({'accom_review' : hotel_list}, file, ensure_ascii=False, indent=4)
 
 

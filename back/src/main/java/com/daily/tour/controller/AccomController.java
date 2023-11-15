@@ -1,2 +1,4 @@
-package com.daily.tour.controller;public class AccomController {
+package com.daily.tour.controller;
+
+public class AccomController {
 }
