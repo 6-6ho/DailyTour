@@ -21,6 +21,8 @@ def controller():
         country = country_info['country']
         regions = country_info['regions']
         country_crawler(country, regions)
+        
+    driver.quit()
     
 def save_to_json(country, data, type):
     if type == 'train':
@@ -284,8 +286,6 @@ def country_crawler(country, regions):
             
     save_to_json(country, train_data, 'train')
     save_to_json(country, recent_data, 'recent')
-    
-    driver.quit()
     
 if __name__=='__main__':
     controller()
