@@ -1,9 +1,11 @@
 from time import sleep
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import json
+
 
 driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
@@ -101,14 +103,26 @@ def country_crawler(country, regions):
             attr_review_content_list = []
             attr_review_score_list = []
             
-            driver.find_element(By.XPATH, '//*[@id="tab-data-qa-reviews-0"]/div/div[1]/div/div/div[2]/div/div/div[1]/div/button/div/span').click() # 필터
+            try:
+                driver.find_element(By.XPATH, '//*[@id="tab-data-qa-reviews-0"]/div/div[1]/div/div/div[2]/div/div/div[1]/div/button/div/span').click() # 필터
+            except:
+                pass
             driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[4]').click() # 4점
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[5]').click() # 5점
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[3]/div/div[1]/button').click() # 적용
-            driver.implicitly_wait(3)
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[4]').click() # 4점
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[5]').click() # 5점
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[3]/div/div[1]/button').click() # 적용
+                driver.implicitly_wait(3)
+            except:
+                pass
             sleep(3)
             
             # 뷰숲
@@ -152,18 +166,36 @@ def country_crawler(country, regions):
             
             ################ 부정적 리뷰 (1~2점) 
             # 4,5점 지우고 1,2점 체크
-            driver.find_element(By.XPATH, '//*[@id="tab-data-qa-reviews-0"]/div/div[1]/div/div/div[2]/div/div/div[1]/div/button/div/span').click() # 필터
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[4]').click() # 4점 눌러서 해제
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[5]').click() # 5점 눌러서 해제
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[2]').click() # 2점 체크
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[1]').click() # 1점 체크
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[3]/div/div[1]/button').click() # 적용
-            driver.implicitly_wait(3)
+            try:    
+                driver.find_element(By.XPATH, '//*[@id="tab-data-qa-reviews-0"]/div/div[1]/div/div/div[2]/div/div/div[1]/div/button/div/span').click() # 필터
+                driver.implicitly_wait(3)
+            except:
+                pass    
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[4]').click() # 4점 눌러서 해제
+                driver.implicitly_wait(3)
+            except:
+                pass                            
+            try:                
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[5]').click() # 5점 눌러서 해제
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[2]').click() # 2점 체크
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[1]').click() # 1점 체크
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[3]/div/div[1]/button').click() # 적용
+                driver.implicitly_wait(3)
+            except:
+                pass
             sleep(3)
             
             # 뷰숲
@@ -216,14 +248,26 @@ def country_crawler(country, regions):
                 train_data.append({'country':country, 'region': region, 'attr_name':attr_name, 'score':score, 'title':title, 'content':content})
             
             ################ 최신순 리뷰
-            driver.find_element(By.XPATH, '//*[@id="tab-data-qa-reviews-0"]/div/div[1]/div/div/div[2]/div/div/div[1]/div/button/div/span').click() # 필터
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[2]').click() # 2점 눌러서 해제
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[1]').click() # 1점 눌러서 해제
-            driver.implicitly_wait(3)
-            driver.find_element(By.XPATH, '/html/body/div[5]/div/div[3]/div/div[1]/button').click() # 적용
-            driver.implicitly_wait(3)
+            try:
+                driver.find_element(By.XPATH, '//*[@id="tab-data-qa-reviews-0"]/div/div[1]/div/div/div[2]/div/div/div[1]/div/button/div/span').click() # 필터
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:    
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[2]').click() # 2점 눌러서 해제
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[2]/div/div[2]/div/button[1]').click() # 1점 눌러서 해제
+                driver.implicitly_wait(3)
+            except:
+                pass
+            try:
+                driver.find_element(By.XPATH, '/html/body/div[5]/div/div[3]/div/div[1]/button').click() # 적용
+                driver.implicitly_wait(3)
+            except:
+                pass    
             sleep(3)
             
             # 뷰숲
