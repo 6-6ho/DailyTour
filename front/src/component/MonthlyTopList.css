@@ -1,0 +1,45 @@
+.list-container {
+    width: 100%;
+    background-color: white;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative; /* 상대 위치 지정 */
+  }
+  
+  .list-title {
+    position: absolute; /* 절대 위치 지정 */
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border-bottom-left-radius: 6px; /* 컨테이너 모서리에 맞게 조정 */
+  }
+  
+  .list-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #ececec;
+  }
+  
+  .list-items {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .list-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ececec;
+  }
+  
+  .list-item:last-child {
+    border-bottom: none;
+  }
+  
+  /* 추가 스타일 */
+  

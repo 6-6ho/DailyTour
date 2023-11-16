@@ -9,7 +9,6 @@ export default function MiddleContainer() {
                 <div className='year-chart-box p-1'>
                     <div className="select-box-container">
                         <select>
-                            <option></option>
                         </select>
                     </div>
                     <div className="">

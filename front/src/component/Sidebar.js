@@ -1,4 +1,5 @@
 import './Bar.css'
+import MonthlyChartjs from './MonthlyChartjs'
 
 export default function Sidebar() {
     return(
@@ -11,6 +12,12 @@ export default function Sidebar() {
                     <span className='logo-font'>
                         Daily Tour
                     </span>
+                    <div>
+                    <MonthlyTopList></MonthlyTopList>
+                    </div>
+                    <div>
+                    <YearlyTopList></YearlyTopList>
+                    </div>
                 </div>
             </div>
         </div>

@@ -88,13 +88,13 @@ def country_crawler(country, regions):
         
         
         # 관광지 개수가 15개 미만이라면 href의 개수만큼, 아니라면 15개
-        for i in range(min(15, len(attr_hrefs))):
+        for i in range(min(10, len(attr_hrefs))):
             driver.get(f"{main_url}{attr_hrefs[i]}")
             driver.implicitly_wait(5)
             sleep(3)
             
             # 관광지 이름        
-            attr_name = driver.find_element(By.XPATH, '//*[@id="tab-data-qa-reviews-0"]/div/div[3]/div[1]/div/div[1]/div[1]').text
+            attr_name = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]').text
             print(attr_name)
             sleep(5)
             

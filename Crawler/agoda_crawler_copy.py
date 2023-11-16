@@ -85,13 +85,14 @@ def agoda_crawling() :
                 if "href" in a.attrs:
                     hotel_url = 'https://www.agoda.com/' + a["href"]
                     hotel_url_list.append(hotel_url)
-            print(hotel_url_list)
             print(f'url list len : {len(hotel_url_list)}')
 
-            train_data, recent_data = hotel_review_crawling(country, region, hotel_url_list)    
+            train, recent = hotel_review_crawling(country, region, hotel_url_list)
+            train_data.append(train)
+            recent_data.append(recent)
 
-    save_to_json(country, train_data, 'train')
-    save_to_json(country, recent_data, 'recent')
+        save_to_json(country, train_data, 'train')
+        save_to_json(country, recent_data, 'recent')
 
     # return (country, region, hotel_url_list)
 
@@ -102,7 +103,7 @@ def hotel_review_crawling(country, region, hotel_url_list):
     train_data = []
     recent_data = []
 
-    for hotel in hotel_url_list[:min(15, len(hotel_url_list))]:
+    for hotel in hotel_url_list[:min(10, len(hotel_url_list))]:
         if type(hotel) != str:
             print(f'type : {type(hotel)}')
             continue
@@ -118,7 +119,10 @@ def hotel_review_crawling(country, region, hotel_url_list):
         driver.implicitly_wait(3)
 
         element = soup.find('li', {'data-href' : '#customer-reviews-panel'})
-        data_href = element['data-href']
+        try:
+            data_href = element['data-href']
+        except:
+            continue
         print(data_href)
         nav_bar = driver.find_element(By.CSS_SELECTOR, f'[data-href="{data_href}"] > button')
         driver.execute_script("arguments[0].click();", nav_bar)
@@ -135,16 +139,18 @@ def hotel_review_crawling(country, region, hotel_url_list):
             korean_xpath = """//*[@id="reviews-language-filter_list"]/ul/li/span//span[text()='한국어']"""
             korean_language = driver.find_element(By.XPATH, korean_xpath)
             korean_language.click()
-        #    language_select = Select(driver.find_element(By.CSS_SELECTOR, '#reviewFilterSection > div.sc-bdfBwQ.sc-gsTCUz.gdcQLK > div.sc-bdfBwQ.sc-gsTCUz.djZOQg > div > div > label > div.sc-bdfBwQ.sc-gsTCUz.bqqCNI > span > select') )
-        #    time.sleep(3)
-        #    language_select.select_by_visible_text('한국어')
-        #    time.sleep(3)
-        #    language_select = driver.find_element(By.XPATH, '//*[@id="reviews-language-filter_list"]')
-        #    driver.execute_script("arguments[0].click();", language_select)
-        #    language = driver.find_element(By.XPATH, '//*[@id="reviews-language-filter_list"]/ul/li[3]/span/span[2]')
-        #    driver.execute_script("arguments[0].click();", language)
         except NoSuchElementException as e:
-            continue
+            try:
+                language_select = Select(driver.find_element(By.CSS_SELECTOR, '#reviewFilterSection > div.sc-bdfBwQ.sc-gsTCUz.gdcQLK > div.sc-bdfBwQ.sc-gsTCUz.djZOQg > div > div > label > div.sc-bdfBwQ.sc-gsTCUz.bqqCNI > span > select') )
+                time.sleep(3)
+                language_select.select_by_visible_text('한국어')
+                time.sleep(3)
+                language_select = driver.find_element(By.XPATH, '//*[@id="reviews-language-filter_list"]')
+                driver.execute_script("arguments[0].click();", language_select)
+                language = driver.find_element(By.XPATH, '//*[@id="reviews-language-filter_list"]/ul/li[3]/span/span[2]')
+                driver.execute_script("arguments[0].click();", language)
+            except:
+                pass
         
         time.sleep(3)
        
@@ -173,8 +179,10 @@ def hotel_review_crawling(country, region, hotel_url_list):
 
                     if i == 1:
                         train_data.append({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
+                        print({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
                     else:
                         recent_data.append({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
+                        print({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
 
 
                 try : 
