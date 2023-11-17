@@ -1,5 +1,8 @@
-package com.daily.tour.domain;
+package com.daily.tour.dto;
 
+import lombok.Data;
+
+@Data
 public class CountryInfo {
     private String cntCode; // 국가 코드
     private long search_vol;   // 검색량

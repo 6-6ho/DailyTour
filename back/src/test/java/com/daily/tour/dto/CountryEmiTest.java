@@ -1,4 +1,4 @@
 package com.daily.tour.dto;
 
-public class CountryEmiDTOTest {
+public class CountryEmiTest {
 }
