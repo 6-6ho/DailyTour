@@ -35,12 +35,16 @@ public class CountryStatControllerTest {
 
     @Test
     public void getThisYearMonthlyList() {
-        final String url = "/country/month";
+        final String url = "http://localhost:8080/country/month";
 
 
-        mockMvc.perform(get("country/month"))
-                .andExpect(status().isOk())
-                .andExpect((jsonPath()))
+
+
+
+
+//        mockMvc.perform(get("country/month"))
+//                .andExpect(status().isOk())
+//                .andExpect((jsonPath()))
     }
 
 

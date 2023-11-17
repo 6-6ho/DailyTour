@@ -24,7 +24,7 @@ public class AccomodationController {   // 숙박시설 관련 컨트롤러
     }
 
     @GetMapping("/accom/{accomCode}")
-    public ResponseEntity<Accommodation> getAccomDetail(@PathVariable String accomCode) {   // 관광지 디테일
+    public ResponseEntity<Accommodation> getAccomDetail(@PathVariable String accomCode) {   // 숙소 디테일
         return ResponseEntity.ok().body(accomodationService.getAccomDetailByAccomCode(accomCode));
     }
 }

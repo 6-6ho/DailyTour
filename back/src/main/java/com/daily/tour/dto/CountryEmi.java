@@ -9,7 +9,7 @@ import lombok.RequiredArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@RequiredArgsConstructor
+//@RequiredArgsConstructor
 public class CountryEmi {
     private String cntCode; // 국가코드
     private String cntName; // 국가명

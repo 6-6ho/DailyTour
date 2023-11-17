@@ -26,25 +26,16 @@ public class CountryStatController {
 
     @GetMapping("/country/month") // 2023년 월별 통계 리스트 (2023년 전체)
     public ResponseEntity<List<CountryEmi>> getThisYearMonthlyStat() {
-//        List<CountryEmi> countryList = new ArrayList<>();
-//        countryList = countryService.getEmiThisYearMonthlyList();
         return ResponseEntity.ok().body(countryService.getEmiThisYearMonthlyList());
     }
 
-
     @GetMapping("/country/year/{year}")  // 연도별 통계
     public ResponseEntity<List<CountryEmi>> getYearStat(@PathVariable int year) {
-//        List<CountryEmi> countryList = new ArrayList<>();
-//        countryList = countryService.getEmiYearList(year);
-
         return ResponseEntity.ok().body(countryService.getEmiYearList(year));
     }
 
-
     @GetMapping("/country/month/{month}")   // 월별 통계
     ResponseEntity<List<CountryEmi>> getMonthStat(@PathVariable int month) {
-//        List<CountryEmi> countryList = new ArrayList<>();
-//        countryList = countryService.getEmiMonthList(month);
         return ResponseEntity.ok().body(countryService.getEmiMonthList(month));
     }
 }
