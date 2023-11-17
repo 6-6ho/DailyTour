@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support import expected_conditions as EC
 import time
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, TimeoutException
 import json
 
 # 브라우저 꺼짐 방지 옵션 설정 및 driver 생성
@@ -16,7 +16,7 @@ chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
 
 def get_region_list():
-    with open('../Data/Region_Data/region_data.json', 'r', encoding='utf8') as f:
+    with open('../Data/Region_Data/region_data_accom.json', 'r', encoding='utf8') as f:
         country_list = json.load(f)
 
     return country_list
@@ -35,7 +35,7 @@ def agoda_crawling() :
         regions = country_data["regions"]
 
         print(f"Country : {country} ")
-        print(f"Country : {regions} ")
+        print(f"Regions : {regions} ")
 
         for region in regions:    
             URL = 'https://www.agoda.com/ko-kr'
@@ -56,8 +56,12 @@ def agoda_crawling() :
             
             time.sleep(1)
 
-            li_btn = WebDriverWait(driver, timeout=10).until(EC.presence_of_element_located((By.CLASS_NAME, "Suggestion__categoryName")))
-            li_btn.click()
+            try:
+                li_btn = WebDriverWait(driver, timeout=10).until(EC.presence_of_element_located((By.CLASS_NAME, "Suggestion__categoryName")))
+                li_btn.click()
+            except TimeoutException:
+                continue
+
 
             driver.execute_script("window.scrollTo(0, 700)") 
             time.sleep(1)
@@ -74,11 +78,14 @@ def agoda_crawling() :
             driver.implicitly_wait(5)
             time.sleep(3)
 
-            html = driver.page_source 
+            html = driver.page_source
             soup = BeautifulSoup(html, 'html.parser')
 
-            hotel_list_element = soup.find('ol', class_='hotel-list-container') # 호텔 리스트를 담고 있는 태그 
-            a_tag = hotel_list_element.find_all('a')  # 호텔 상세 페이지 링크 태그 찾기
+            hotel_list_element = soup.find('ol', class_='hotel-list-container') # 호텔 리스트를 담고 있는 태그
+            try:
+                a_tag = hotel_list_element.find_all('a')  # 호텔 상세 페이지 링크 태그 찾기
+            except:
+                continue
 
             hotel_url_list = []  # url을 담을 list
             for a in a_tag:
@@ -155,9 +162,12 @@ def hotel_review_crawling(country, region, hotel_url_list):
         time.sleep(3)
        
         for i in range(1, 4) :
-            sort_select = Select(driver.find_element(By.XPATH, '//*[@id="review-sort-id"]'))
-            time.sleep(2)
-            sort_select.select_by_value(str(i)) # 1 - 최신순, 2 - 높은 평점 우선 보기, 3 - 낮은평점우선보기
+            try:
+                sort_select = Select(driver.find_element(By.XPATH, '//*[@id="review-sort-id"]'))
+                time.sleep(2)
+                sort_select.select_by_value(str(i)) # 1 - 최신순, 2 - 높은 평점 우선 보기, 3 - 낮은평점우선보기
+            except:
+                break
 
             time.sleep(3)
             driver.implicitly_wait(3)

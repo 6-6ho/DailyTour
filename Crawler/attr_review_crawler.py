@@ -56,9 +56,13 @@ def country_crawler(country, regions):
         sleep(5)
         
         # 즐길거리 클릭
-        driver.find_element(By.XPATH, '//*[@id="search-filters"]/ul/li[4]/a').click()
-        driver.implicitly_wait(5)
-        sleep(5)
+        try:
+            driver.find_element(By.XPATH, '//*[@id="search-filters"]/ul/li[4]/a').click()
+            driver.implicitly_wait(5)
+            sleep(5)
+        except:
+            continue
+
         
         # 뷰숲
         html = driver.page_source
