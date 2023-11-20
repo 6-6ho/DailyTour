@@ -1,2 +1,6 @@
-package com.daily.tour.repository;public interface AttractionRepository {
+package com.daily.tour.repository;
+
+
+
+public interface AttractionRepository  {
 }

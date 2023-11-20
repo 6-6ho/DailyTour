@@ -14,8 +14,8 @@ public class CountryTest {
     @Autowired
     private MockMvc mvc;
 
-    @Autowired
-    private CountryStatMapper countryMapper;
+//    @Autowired
+//    private CountryStatMapper countryMapper;
 
 
 

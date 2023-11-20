@@ -1,8 +1,13 @@
 package com.daily.tour.dto;
 
+
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class CountryInfo {
     private String cntCode; // 국가 코드
     private long search_vol;   // 검색량

@@ -18,24 +18,23 @@ import java.util.List;
 public class CountryStatController {
 
 //    @Autowired
-    private final CountryService countryService;
-
-    public CountryStatController(CountryService countryService) {
-        this.countryService = countryService;
-    }
-
-    @GetMapping("/country/month") // 2023년 월별 통계 리스트 (2023년 전체)
-    public ResponseEntity<List<CountryEmi>> getThisYearMonthlyStat() {
-        return ResponseEntity.ok().body(countryService.getEmiThisYearMonthlyList());
-    }
-
-    @GetMapping("/country/year/{year}")  // 연도별 통계
-    public ResponseEntity<List<CountryEmi>> getYearStat(@PathVariable int year) {
-        return ResponseEntity.ok().body(countryService.getEmiYearList(year));
-    }
-
-    @GetMapping("/country/month/{month}")   // 월별 통계
-    ResponseEntity<List<CountryEmi>> getMonthStat(@PathVariable int month) {
-        return ResponseEntity.ok().body(countryService.getEmiMonthList(month));
-    }
+//    private final CountryService countryService;
+//
+//    public CountryStatController(CountryService countryService) {
+//        this.countryService = countryService;
+//    }
+//
+//    @GetMapping("/country/month") // 2023년 월별 통계 리스트 (2023년 전체)
+//    public ResponseEntity<List<CountryEmi>> getThisYearMonthlyStat() {
+//        return ResponseEntity.ok().body(countryService.getEmiThisYearMonthlyList());
+//    }
+//
+//    @GetMapping("/country/year/{year}")  // 연도별 통계
+//    public ResponseEntity<List<CountryEmi>> getYearStat(@PathVariable int year) {
+//        return ResponseEntity.ok().body(countryService.getEmiYearList(year));
+//    }
+//    @GetMapping("/country/month/{month}")   // 월별 통계
+//    ResponseEntity<List<CountryEmi>> getMonthStat(@PathVariable int month) {
+//        return ResponseEntity.ok().body(countryService.getEmiMonthList(month));
+//    }
 }

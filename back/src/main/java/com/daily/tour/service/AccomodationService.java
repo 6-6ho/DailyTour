@@ -8,14 +8,17 @@ import java.util.List;
 
 @Service
 public class AccomodationService {
-    private static AccomodationMapper accomodationMapper;
+    /*private static AccomodationMapper accomodationMapper;
 
+    public AccomodationService(AccomodationMapper accomodationMapper) {
+        this.accomodationMapper = accomodationMapper;
+    }
     public List<Accommodation> getAccomListByRegCode(String regCode) {  // 지역별 슥소 리스트 상위 5개
         return accomodationMapper.findByAccomListByRegCode(regCode);
     }
 
     public Accommodation getAccomDetailByAccomCode(String accomCode) {  // 숙소 디테일 정보 
         return accomodationMapper.findByAccomDetailByAccomCode(accomCode);
-    }
+    }*/
 
 }

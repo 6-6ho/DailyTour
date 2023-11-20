@@ -40,3 +40,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/main/java/com/daily/tour/entity/

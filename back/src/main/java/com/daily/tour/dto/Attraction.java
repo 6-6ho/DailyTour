@@ -1,5 +1,6 @@
 package com.daily.tour.dto;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
