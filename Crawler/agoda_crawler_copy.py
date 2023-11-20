@@ -209,9 +209,9 @@ def hotel_review_crawling(country, region, hotel_url_list):
 # 크롤링 데이터 json 파일로 저장
 def save_to_json(country, data, type):
     if type == 'train':
-        filename = f"{country}_acoom_review_train.json"
+        filename = f"{country}_accom_review_train.json"
     else:
-        filename = f"{country}_acoom_review_recent.json"
+        filename = f"{country}_accom_review_recent.json"
         
     filepath = f'../Data/Review_Data/Accom_Review/{filename}'
     with open(filepath, 'w', encoding='utf-8') as file:

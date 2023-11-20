@@ -1,0 +1,967 @@
+CNT_NAME,REG_NAME,ATTR_NAME,ATTR_REV_POS,ATTR_REV_NEG,score
+뉴질랜드,오클랜드,오클랜드 박물관,21,0,4.6
+뉴질랜드,오클랜드,오클랜드 도메인,20,1,4.5
+뉴질랜드,오클랜드,스카이 타워,21,0,4.6
+뉴질랜드,오클랜드,이든 산,20,1,4.5
+뉴질랜드,오클랜드,Mount Victoria Reserve,10,0,4.5
+뉴질랜드,오클랜드,원 트리 힐,21,0,4.6
+뉴질랜드,오클랜드,알버트 파크,10,0,4.5
+뉴질랜드,오클랜드,뉴질랜드 위투어,10,0,4.5
+뉴질랜드,오클랜드,랑기토토 섬,9,1,4.3
+뉴질랜드,오클랜드,비아덕트 하버,19,2,4.4
+뉴질랜드,퀸스타운,퀸즈타운 스카이 라인 - 곤돌라 & 루지,21,0,4.6
+뉴질랜드,퀸스타운,Queenstown Hill,21,0,4.6
+뉴질랜드,퀸스타운,Shotover Jet,9,1,4.3
+뉴질랜드,퀸스타운,Glenorchy-Queenstown Road,21,0,4.6
+뉴질랜드,퀸스타운,Queenstown Gardens,21,0,4.6
+뉴질랜드,퀸스타운,Milford Sound,21,0,4.6
+뉴질랜드,퀸스타운,JUCY Cruise Milford Sound,10,0,4.5
+뉴질랜드,퀸스타운,Lake Wakatipu,19,2,4.4
+뉴질랜드,퀸스타운,Canyon Explorers,10,0,4.5
+뉴질랜드,퀸스타운,RealNZ,10,0,4.5
+뉴질랜드,크라이스트처치,크라이스트처치 식물원,20,1,4.5
+뉴질랜드,크라이스트처치,Christ Church Meadow,10,0,4.5
+뉴질랜드,크라이스트처치,해글리 공원,20,1,4.5
+뉴질랜드,크라이스트처치,Quake City,10,0,4.5
+뉴질랜드,크라이스트처치,Christ Church,19,2,4.4
+뉴질랜드,크라이스트처치,International Antarctic Centre,7,3,4.0
+뉴질랜드,크라이스트처치,Christchurch Tramway,7,3,4.0
+뉴질랜드,크라이스트처치,Christchurch Cathedral,18,3,4.3
+뉴질랜드,크라이스트처치,캔터베리 박물관,21,0,4.6
+뉴질랜드,크라이스트처치,Robert Falcon Scott Statue,7,2,4.2
+뉴질랜드,웰링턴,웰링턴 케이블 카,20,1,4.5
+뉴질랜드,웰링턴,빅토리아 산,10,0,4.5
+뉴질랜드,웰링턴,뉴질랜드 박물관 (테파파),21,0,4.6
+뉴질랜드,웰링턴,웰링턴 식물원,10,0,4.5
+뉴질랜드,웰링턴,쿠바 스트리트 지구,17,4,4.2
+뉴질랜드,웰링턴,Oriental Bay,9,1,4.3
+뉴질랜드,웰링턴,Wellington Waterfront,10,0,4.5
+뉴질랜드,웰링턴,웰링턴 시티 & 해양 박물관,10,0,4.5
+뉴질랜드,웰링턴,국회 의사당,10,0,4.5
+뉴질랜드,웰링턴,Mount Wellington,10,0,4.5
+대만,타이베이,Casino at Mandalay Bay,8,2,4.2
+대만,타이베이,Koi Kei Bakery,21,0,4.6
+대만,타이베이,Tenganan Ancient Village,21,0,4.6
+대만,타이베이,Hanalei Beach,10,0,4.5
+대만,타이베이,Like It Formosa,10,0,4.5
+대만,타이베이,Gunung Raya Golf Resort,6,0,4.4
+대만,타이베이,Taiwan Railway Steam locomotive No. LDK58,4,1,4.2
+대만,타이베이,타이베이 101,21,0,4.6
+대만,타이베이,National Museum of Taiwan History,10,0,4.5
+대만,타이베이,Galway Bay,10,0,4.5
+대만,가오슝,The Pier-2 Art Centre,19,2,4.4
+대만,가오슝,포광산,21,0,4.6
+대만,가오슝,Kaohsiung Main Public Library,21,0,4.6
+대만,가오슝,Kaohsiung Museum of Fine Arts,9,1,4.3
+대만,가오슝,Dragon Tiger Tower,21,0,4.6
+대만,가오슝,Fo Guang Shan Buddha Museum,21,0,4.6
+대만,가오슝,Tuntex 85 Sky Tower,19,2,4.4
+대만,가오슝,Cijin Island,21,0,4.6
+대만,가오슝,Xiziwan,21,0,4.6
+대만,가오슝,Formosa Boulevard Station,20,1,4.5
+대만,화롄,Chishingtan Scenic Area,20,1,4.5
+대만,화롄,Taroko National Park,20,1,4.5
+대만,화롄,Lotung,4,0,4.4
+대만,화롄,Taroko Gorge,21,0,4.6
+대만,화롄,Hualien Tourist Fish Harbor,1,0,4.3
+대만,화롄,Hualien Harbor Scenic Bridge,3,0,4.4
+대만,화롄,Xiouyeliu,10,0,4.5
+대만,화롄,Yanzihkou Trail (Swallow Grotto),29,1,4.6
+대만,화롄,Farglory Ocean Park,21,0,4.6
+대만,타이난,Chihkan Tower (Fort Provintia),19,2,4.4
+대만,타이난,Guanziling Hot Spring,10,0,4.5
+대만,타이난,Confucius Temple,20,1,4.5
+대만,타이난,Ji Dian Wu Miao,6,0,4.4
+대만,타이난,Chimei Museum,17,4,4.2
+대만,타이난,National Cheng Kung University,10,0,4.5
+대만,타이난,National Museum of Taiwan History,10,0,4.5
+대만,타이난,Tainan Art Museum,6,1,4.3
+대만,타이난,Anping Fort (Anping gubao),18,3,4.3
+대만,타이난,Tainan Station,10,0,4.5
+독일,베를린, 브란덴부르크 문 (브란덴부르크 토어),19,2,4.4
+독일,베를린, 이스트 사이드 갤러리,21,0,4.6
+독일,베를린,Berliner Dom,21,0,4.6
+독일,베를린,Berlin Central Station,19,2,4.4
+독일,베를린,Tiergarten,21,0,4.6
+독일,베를린,도이쳐 분데슈타크,21,0,4.6
+독일,베를린,테러의 토포그래피 박물관,21,0,4.6
+독일,베를린, 홀로코스트 기념관 (유대인 학살 추모 공원),21,0,4.6
+독일,베를린,Museum Island,19,2,4.4
+독일,베를린, 베를린 장벽 기념관,20,1,4.5
+독일,뮌헨,마리엔 광장,21,0,4.6
+독일,뮌헨,New Town Hall (Neus Rathaus),21,0,4.6
+독일,뮌헨,BMW 박물관,20,1,4.5
+독일,뮌헨,Allianz Arena,21,0,4.6
+독일,뮌헨,Nymphenburg Palace,20,1,4.5
+독일,뮌헨,Olympic Tower,19,2,4.4
+독일,뮌헨, 다하우 강제 수용소,21,0,4.6
+독일,뮌헨,잉글리쉬 가든,21,0,4.6
+독일,뮌헨,Residenz,21,0,4.6
+독일,뮌헨,FC Bayern Museum,9,1,4.3
+독일,프랑크푸르트,Romer,21,0,4.6
+독일,프랑크푸르트,Cathedral of St. Bartholomew (Dom St. Bartholomaus),21,0,4.6
+독일,프랑크푸르트,Main Tower,18,3,4.3
+독일,프랑크푸르트,Frankfurt am Main Hauptbahnhof,20,1,4.5
+독일,프랑크푸르트,Roemerberg,10,0,4.5
+독일,프랑크푸르트,Stadel Museum,21,0,4.6
+독일,프랑크푸르트,Messe Frankfurt,21,0,4.6
+독일,프랑크푸르트,Deutsche Bank Park,10,0,4.5
+독일,프랑크푸르트,Iron Bridge,21,0,4.6
+독일,프랑크푸르트,The Hauptwache,21,0,4.6
+독일,함브루크,USS 보우핀 잠수함 박물관 & 공원,21,0,4.6
+독일,함브루크,INS 쿠루수라 잠수함 박물관,21,0,4.6
+독일,함브루크,Hakodate Morning Market,19,2,4.4
+독일,함브루크,하코다테산,21,0,4.6
+독일,함브루크,Deyang Quchujian Exhibition Hall,2,0,4.3
+독일,함브루크,Goryokaku Tower,21,0,4.6
+독일,함브루크,Goryokaku Park,21,0,4.6
+독일,함브루크,Mt.Hakodate Ropeway,21,0,4.6
+독일,함브루크,Memorial Ship MIKASA,21,0,4.6
+러시아,모스크바, 붉은 광장,21,0,4.6
+러시아,모스크바, 모스크바 크렘린,21,0,4.6
+러시아,모스크바,Moscow Metro,18,3,4.3
+러시아,모스크바, 성 바실리 성당,19,2,4.4
+러시아,모스크바,Sparrow Hills (Vorobyovy Gory),10,0,4.5
+러시아,모스크바,Lomonosov Moscow State University (MGU),10,0,4.5
+러시아,모스크바,Moscow-City,9,1,4.3
+러시아,모스크바,Bolshoi Theatre,21,0,4.6
+러시아,모스크바,High-Speed Train Sapsan,10,0,4.5
+러시아,모스크바,Old Arbat (Stary Arbat),17,4,4.2
+러시아,상트페테르부르크,피의 사원,21,0,4.6
+러시아,상트페테르부르크, 네프스키 프로스펙트,21,0,4.6
+러시아,상트페테르부르크,High-Speed Train Sapsan,10,0,4.5
+러시아,상트페테르부르크,Leningradskiy Railway Station,7,3,4.0
+러시아,상트페테르부르크,Palace Bridge,10,0,4.5
+러시아,상트페테르부르크,The State Museum St. Isaac’s Cathedral,21,0,4.6
+러시아,상트페테르부르크,Admiralteyskaya Station,1,0,4.3
+러시아,상트페테르부르크,Gazprom Arena,10,0,4.5
+러시아,상트페테르부르크,University Embankment,9,0,4.5
+러시아,상트페테르부르크,The Building Of The Admiralty,10,0,4.5
+러시아,블라디보스토크,Eagle's Nest Mount,21,0,4.6
+러시아,블라디보스토크,Memorial to the Fighters for the Soviet Power in the Far East,21,0,4.6
+러시아,블라디보스토크,Golden Bridge,21,0,4.6
+러시아,블라디보스토크,Russky Bridge,20,1,4.5
+러시아,블라디보스토크,Monument to Sailors,1,1,4.1
+러시아,블라디보스토크,Railroad Terminal,18,3,4.3
+러시아,블라디보스토크,Betancourt Bridge,1,0,4.3
+러시아,블라디보스토크,Railway Station,3,0,4.4
+러시아,블라디보스토크,Svetlanskaya Street,18,3,4.3
+러시아,블라디보스토크,Primorsky Aquarim,9,1,4.3
+러시아,소치,소치기념관,1,0,4.3
+러시아,소치,Arboretum Park,7,3,4.0
+러시아,소치,Krasnaya Polyana Mountain Cluster,9,1,4.3
+러시아,소치,Riviera Park,7,3,4.0
+러시아,소치,Olimpiyskiy Park,21,0,4.6
+러시아,소치,Rosa Khutor Ski Resort,21,0,4.6
+러시아,소치,Sochi Discovery World Aquarium,21,0,4.6
+마카오,윈 팰리스 리조트,Taipa Village Macau,20,1,4.5
+마카오,윈 팰리스 리조트,윈 마카오,21,0,4.6
+마카오,윈 팰리스 리조트,에미리트 팰리스,20,1,4.5
+마카오,윈 팰리스 리조트,자이푸르 시티 팰리스,21,0,4.6
+마카오,윈 팰리스 리조트,가르다랜드 리조트,8,2,4.2
+마카오,윈 팰리스 리조트, 부다 왕궁 - 로얄 팰리스,21,0,4.6
+마카오,윈 팰리스 리조트,유니버셜 올랜도 리조트,20,1,4.5
+마카오,윈 팰리스 리조트,리조트 월드 센토사 카지노,9,1,4.3
+마카오,윈 팰리스 리조트,벨레트리즈니 팰리스 (국립 미술관),20,1,4.5
+마카오,윈 팰리스 리조트,크노벨 어뮤즈먼트 리조트,30,0,4.7
+마카오,샌즈 코타이 센트럴,Londoner Macau,20,1,4.5
+마카오,샌즈 코타이 센트럴,샌즈 스카이파크,19,2,4.4
+마카오,샌즈 코타이 센트럴,센트럴 파크,20,1,4.5
+마카오,샌즈 코타이 센트럴,센트럴 월드 플라자,19,2,4.4
+마카오,샌즈 코타이 센트럴,센트럴 플라자,9,1,4.3
+마카오,마카오 반도,몬테 요새,21,0,4.6
+마카오,마카오 반도,Macau-Taipa Bridge,21,0,4.6
+마카오,마카오 반도,뉴야오한 백화점,10,0,4.5
+마카오,마카오 반도,St. Lawrence's Church,21,0,4.6
+마카오,마카오 반도,마카오 역사지구,21,0,4.6
+마카오,마카오 반도,꼴로안,20,1,4.5
+마카오,마카오 반도,하우스 오브 댄싱 워터,21,0,4.6
+마카오,마카오 반도,Outer Harbour Ferry Terminal,20,1,4.5
+마카오,마카오 반도,그랜드 캐널 숍스,21,0,4.6
+마카오,마카오 반도,Na Tcha Temple,10,0,4.5
+마카오,세인트 폴 성당 유적,세인트 폴 대성당,21,0,4.6
+마카오,세인트 폴 성당 유적,세이트 패트릭 대성당,21,0,4.6
+마카오,세인트 폴 성당 유적,성 바울 거리(다산바),21,0,4.6
+마카오,세인트 폴 성당 유적,몬테 요새,21,0,4.6
+마카오,세인트 폴 성당 유적,세인트 폴 성당,21,0,4.6
+마카오,세인트 폴 성당 유적,Abbazia di San Paolo Fuori Le Mura,10,0,4.5
+마카오,세인트 폴 성당 유적,St. Paul's Hill & Church (Bukit St. Paul),21,0,4.6
+마카오,세인트 폴 성당 유적,Macao Government Tourism Office,17,4,4.2
+마카오,세인트 폴 성당 유적, 올드 세인트 폴 성당,10,0,4.5
+마카오,세인트 폴 성당 유적,세인트 패트릭 성당,21,0,4.6
+말레이시아,쿠알라룸푸르,페트로나스 트윈 타워,21,0,4.6
+말레이시아,쿠알라룸푸르,센트럴 마켓 쿠알라룸푸르,17,4,4.2
+말레이시아,쿠알라룸푸르,쿠알라룸푸르 컨벤션 센터,20,1,4.5
+말레이시아,쿠알라룸푸르,리틀 인디아 - 쿠알라룸푸르,18,3,4.3
+말레이시아,쿠알라룸푸르,KLCC Park,21,0,4.6
+말레이시아,쿠알라룸푸르,파빌리온 KL,21,0,4.6
+말레이시아,쿠알라룸푸르,쿠알라룸푸르 버드 파크,19,2,4.4
+말레이시아,쿠알라룸푸르,GO KL City Bus,20,1,4.5
+말레이시아,쿠알라룸푸르,KLIA Ekspres,20,1,4.5
+말레이시아,쿠알라룸푸르,바투 동굴,21,0,4.6
+말레이시아,코타키나발루,마누칸 섬,18,3,4.3
+말레이시아,코타키나발루,Kota Kinabalu City Mosque,21,0,4.6
+말레이시아,코타키나발루,Tanjung Aru Beach,20,1,4.5
+말레이시아,코타키나발루,Imago Shopping Mall,21,0,4.6
+말레이시아,코타키나발루,Mantanani Island,17,4,4.2
+말레이시아,코타키나발루,자스민 마사지,19,2,4.4
+말레이시아,코타키나발루,Sapi Island,18,3,4.3
+말레이시아,코타키나발루,I Love KK,9,1,4.3
+말레이시아,코타키나발루,Tanjung Aru Perdana Park,19,2,4.4
+말레이시아,코타키나발루,Tunku Abdul Rahman Marine Park,19,2,4.4
+말레이시아,랑카위,Panorama Langkawi SkyCab,21,0,4.6
+말레이시아,랑카위,랑카위 스카이 브리지,20,1,4.5
+말레이시아,랑카위,Eagle Square,21,0,4.6
+말레이시아,랑카위,Kilim Karst Geoforest Park,20,1,4.5
+말레이시아,랑카위,Tanjung Rhu Beach,19,2,4.4
+말레이시아,랑카위,Cenang Beach,19,2,4.4
+말레이시아,랑카위,Oriental Village,9,1,4.3
+말레이시아,랑카위,Ko Lipe,10,0,4.5
+말레이시아,랑카위,Langkawi Night Market,10,0,4.5
+말레이시아,랑카위,Fauna Flora Eco,10,0,4.5
+말레이시아,말라카, 존커 스트리트,20,1,4.5
+말레이시아,말라카,Malacca River,21,0,4.6
+말레이시아,말라카,Red Square (Dutch Square),21,0,4.6
+말레이시아,말라카,St. Paul's Hill & Church (Bukit St. Paul),21,0,4.6
+말레이시아,말라카,Menara Taming Sari,10,0,4.5
+말레이시아,말라카,Malacca Heritage Centre,9,1,4.3
+말레이시아,말라카,Stadthuys,10,0,4.5
+말레이시아,말라카,River Walk,21,0,4.6
+말레이시아,말라카,Christ Church,20,1,4.5
+말레이시아,말라카,St. Francis Xavier Church,21,0,4.6
+멕시코,멕시코시티,Zocalo,21,0,4.6
+멕시코,멕시코시티,국립 인류학 박물관,21,0,4.6
+멕시코,멕시코시티, 코요아칸,21,0,4.6
+멕시코,멕시코시티,Paseo de la Reforma,20,1,4.5
+멕시코,멕시코시티,마요르 사원 박물관,10,0,4.5
+멕시코,멕시코시티, 테오티우아칸,21,0,4.6
+멕시코,멕시코시티,San Angel,9,1,4.3
+멕시코,멕시코시티,Mercado De Artesanias La Ciudadela,9,1,4.3
+멕시코,멕시코시티,Catedral Metropolitana de la Ciudad de México,21,0,4.6
+멕시코,멕시코시티, 차풀테펙 성,20,1,4.5
+멕시코,칸쿤, 치첸 이트사,19,2,4.4
+멕시코,칸쿤,La Isla,18,3,4.3
+멕시코,칸쿤,Xcaret,20,1,4.5
+멕시코,칸쿤,Avenida Kukulkan,9,1,4.3
+멕시코,칸쿤,Playa Delfines,19,2,4.4
+멕시코,칸쿤,Xplor Park by Xcaret,20,1,4.5
+멕시코,칸쿤,Happy Shuttle Cancun,10,0,4.5
+멕시코,칸쿤,셀하 공원,21,0,4.6
+멕시코,칸쿤,Coco Bongo Playa del Carmen,5,5,3.7
+멕시코,칸쿤,Coco Bongo Cancun,19,2,4.4
+멕시코,툴룸, 툴룸의 마야 유적지,21,0,4.6
+멕시코,툴룸,Tulum Avenue,9,1,4.3
+멕시코,툴룸,Mayan Beach,10,0,4.5
+멕시코,툴룸,OZ Adventures,9,1,4.3
+멕시코,툴룸,Playa Paraiso,6,4,3.9
+멕시코,툴룸, 코바 유적지,8,2,4.2
+멕시코,툴룸,Gran Cenote,9,1,4.3
+멕시코,툴룸,Nuestra Senora del Carmen Catholic Church,10,0,4.5
+멕시코,툴룸,Scubascoolmexico,10,0,4.5
+멕시코,툴룸,Palacio Municipal,1,1,4.1
+멕시코,프라야델카르멘,지하 궁전,17,4,4.2
+몽골,울란바토르,Zaisan Memorial,21,0,4.6
+몽골,울란바토르,Gorkhi-Terelj National Park,21,0,4.6
+몽골,울란바토르,Galleria Souvenir Store,10,0,4.5
+몽골,울란바토르,Galleria Souvenir,4,0,4.4
+몽골,울란바토르,Choijin Lama Temple Museum,9,1,4.3
+몽골,울란바토르,Altai Bighorn Statue,3,1,4.2
+몽골,울란바토르,Genghis Khan Square,21,0,4.6
+몽골,울란바토르,The State Department Store,8,2,4.2
+몽골,울란바토르,Datsan Rinpoche Bagsha,8,2,4.2
+몽골,울란바토르,National History Museum,21,0,4.6
+미국,뉴욕,메트로폴리탄 미술관,19,2,4.4
+미국,뉴욕,록펠러 센터 전망대,21,0,4.6
+미국,뉴욕,센트럴 파크,20,1,4.5
+미국,뉴욕, 타임 스퀘어,19,2,4.4
+미국,뉴욕,엠파이어 스테이트 빌딩,20,1,4.5
+미국,뉴욕,뉴욕 공공 도서관,21,0,4.6
+미국,뉴욕,브로드웨이,20,1,4.5
+미국,뉴욕,하이 라인,21,0,4.6
+미국,뉴욕,브라이언트 파크,21,0,4.6
+미국,뉴욕,그랜드 센트럴 터미널,21,0,4.6
+미국,샌프란시스코,금문교,21,0,4.6
+미국,샌프란시스코,샌프란시스코 베이,21,0,4.6
+미국,샌프란시스코,트윈 픽스,21,0,4.6
+미국,샌프란시스코,샌프란시스코 현대 미술관,21,0,4.6
+미국,샌프란시스코,케이블 카,20,1,4.5
+미국,샌프란시스코,샌프란시스코 시청,21,0,4.6
+미국,샌프란시스코,샌프란시스코 베이 브리지,21,0,4.6
+미국,샌프란시스코,Lombard Street,21,0,4.6
+미국,샌프란시스코,피어 39,18,3,4.3
+미국,샌프란시스코, 알카트라즈,21,0,4.6
+미국,로스엔젤레스,다저 스타디움,21,0,4.6
+미국,로스엔젤레스,그리피스 파크,21,0,4.6
+미국,로스엔젤레스,게티 센터,20,1,4.5
+미국,로스엔젤레스,Moonstone Beach,10,0,4.5
+미국,로스엔젤레스,판타지스 극장,8,2,4.2
+미국,로스엔젤레스,Angel Stadium of Anaheim,10,0,4.5
+미국,로스엔젤레스,Greystone Mansion and Park,10,0,4.5
+미국,로스엔젤레스,Gloria Molina Grand Park,10,0,4.5
+미국,로스엔젤레스,Kelso Dunes,9,1,4.3
+미국,로스엔젤레스,17-Mile Drive,20,1,4.5
+미국,라스베이거스,라스베이거스 프리미엄 아울렛,21,0,4.6
+미국,라스베이거스,The Strip,20,1,4.5
+미국,라스베이거스,Vegas Rockstar VIP,21,0,4.6
+미국,라스베이거스,Welcome to Fabulous Las Vegas Sign,19,2,4.4
+미국,라스베이거스,The Spa at Vdara,7,3,4.0
+미국,라스베이거스,The Grand Canal Shoppes at The Venetian Resort,20,1,4.5
+미국,라스베이거스,라스베가스 다운타운,19,2,4.4
+미국,라스베이거스,Paris Las Vegas,21,0,4.6
+미국,라스베이거스,Seminole Hard Rock Casino Tampa,3,7,3.4
+미국,라스베이거스,Fremont Street Experience,20,1,4.5
+미얀마,양곤,Yangon Central Railway Station,18,3,4.3
+미얀마,양곤,쉐다곤 파고다,21,0,4.6
+미얀마,양곤,Sule Pagoda,19,2,4.4
+미얀마,양곤,Yangon Circular Train,14,7,3.8
+미얀마,양곤,Botahtaung Pagoda,10,0,4.5
+미얀마,양곤,Bogyoke Aung San Market,20,1,4.5
+미얀마,양곤,Myanmar Plaza Shopping Center,10,0,4.5
+미얀마,양곤,Immaculate Conception Cathedral,20,1,4.5
+미얀마,양곤,The Rangoon War Cemetery,10,0,4.5
+미얀마,양곤,JJ Express,21,0,4.6
+미얀마,만달레이,Mandalay Hill,21,0,4.6
+미얀마,만달레이,Kuthodaw Pagoda & the World's Largest Book,20,1,4.5
+미얀마,만달레이,미하무니 파고다,19,2,4.4
+미얀마,만달레이,우 베인 다리,20,1,4.5
+미얀마,만달레이,Shark Reef Aquarium,8,2,4.2
+미얀마,만달레이, 황금 궁전 수도원 (쉐난도 짜웅),21,0,4.6
+미얀마,만달레이,Sanda Muni Paya,10,0,4.5
+미얀마,만달레이,Health Center Thai Massage,8,2,4.2
+미얀마,만달레이,Mandalay Palace,10,0,4.5
+미얀마,만달레이,Mandalay Fort,7,3,4.0
+미얀마,낭우,Nyaung U Market,8,2,4.2
+미얀마,바간,바간의 사원들,21,0,4.6
+미얀마,바간,아난다 사원,20,1,4.5
+미얀마,바간,쉐산도 파고다,21,0,4.6
+미얀마,바간,Sulamani Guphaya Temple,10,0,4.5
+미얀마,바간,쉐지곤 파야,21,0,4.6
+미얀마,바간,Dhammayangyi Temple,19,2,4.4
+미얀마,바간,Htilominlo Pahto,10,0,4.5
+미얀마,바간,JJ Express,21,0,4.6
+미얀마,바간,Thatbyinnyu Temple,10,0,4.5
+미얀마,바간,Oriental Ballooning Bagan,10,0,4.5
+베트남,호치민시티,People's Committee Building,10,0,4.5
+베트남,호치민시티,Dong Khoi Street,21,0,4.6
+베트남,호치민시티,비텍스코 파이낸셜 타워 스카이데크,18,3,4.3
+베트남,호치민시티,Asiana Link Travel,21,0,4.6
+베트남,호치민시티,Saigon River,19,2,4.4
+베트남,호치민시티,Saigon Hotpot - Travel With Local Youth,10,0,4.5
+베트남,호치민시티,Notre Dame Square,21,0,4.6
+베트남,호치민시티, 중앙 우체국,20,1,4.5
+베트남,호치민시티,호치민 관저,20,1,4.5
+베트남,호치민시티,Asia Pacific Travel Vietnam,10,0,4.5
+베트남,하노이,하노이 구시가,19,2,4.4
+베트남,하노이,호안 끼엠 호수,19,2,4.4
+베트남,하노이,LA Spa Trendy,21,0,4.6
+베트남,하노이,Mido Spa,21,0,4.6
+베트남,하노이,Serene Spa,21,0,4.6
+베트남,하노이,La Belle Vie Spa,30,0,4.7
+베트남,하노이,Hanoi Labelle Vie Spa,20,1,4.5
+베트남,하노이,Mido Spa 1,21,0,4.6
+베트남,하노이,Estheva Spa,21,0,4.6
+베트남,하노이,L'essence Spa,21,0,4.6
+베트남,나트랑, 스와얌부나트 사원,19,2,4.4
+베트남,나트랑,보드나트 사리탑,19,2,4.4
+베트남,나트랑,Nha Trang Beach,20,1,4.5
+베트남,나트랑,Po Nagar Cham Towers,21,0,4.6
+베트남,나트랑, 파슈파티나트 사원,21,0,4.6
+베트남,나트랑,Monkey Island,20,1,4.5
+베트남,나트랑,Nha Trang Sea Star,21,0,4.6
+베트남,나트랑,Charm Spa Grand Nha Trang,21,0,4.6
+베트남,나트랑,Casa Spa,19,2,4.4
+베트남,나트랑,Long Son Pagoda,18,3,4.3
+베트남,다낭,프라낭 비치,20,1,4.5
+베트남,다낭,Dragon Bridge,17,4,4.2
+베트남,다낭,Herbal Spa,21,0,4.6
+베트남,다낭,다 낭 비치,20,1,4.5
+베트남,다낭,Ba Na Hills,20,1,4.5
+베트남,다낭,Pandanus Spa Hoi An,20,1,4.5
+베트남,다낭,Lady Buddha,21,0,4.6
+베트남,다낭,Dahan Spa Danang,21,0,4.6
+베트남,다낭,Tabalo Outdoor,20,1,4.5
+베트남,다낭,카오산 로드,19,2,4.4
+스페인,바르셀로나,사그라다 파밀리아 성당,21,0,4.6
+스페인,바르셀로나,구엘 공원,19,2,4.4
+스페인,바르셀로나,Spotify Camp Nou,21,0,4.6
+스페인,바르셀로나,몬주익 공원,20,1,4.5
+스페인,바르셀로나, 고딕 지구 (바리 고틱),21,0,4.6
+스페인,바르셀로나,Aerobús,19,2,4.4
+스페인,바르셀로나,Parc d’Atraccions Tibidabo,21,0,4.6
+스페인,바르셀로나,카탈루냐 국립 미술관 - MNAC,21,0,4.6
+스페인,바르셀로나,Plaza de Catalunya,19,2,4.4
+스페인,바르셀로나,Barcelona Cathedral,21,0,4.6
+스페인,마드리드,프라도 박물관,21,0,4.6
+스페인,마드리드,Puerta del Sol,20,1,4.5
+스페인,마드리드, 마드리드 왕궁,20,1,4.5
+스페인,마드리드,Santiago Bernabeu Stadium,17,4,4.2
+스페인,마드리드,Gran Via,21,0,4.6
+스페인,마드리드,레티로 파크 (파르 델 레티로),21,0,4.6
+스페인,마드리드,Plaza de Cibeles,21,0,4.6
+스페인,마드리드,Palacio de Cibeles,20,1,4.5
+스페인,마드리드,Plaza Mayor,20,1,4.5
+스페인,마드리드,Templo de Debod,17,4,4.2
+스페인,세비야,스페인 광장,21,0,4.6
+스페인,세비야, 세비야 대성당 (카테드랄 데 세비야),21,0,4.6
+스페인,세비야,Torre Giralda,20,1,4.5
+스페인,세비야,알카사르,20,1,4.5
+스페인,세비야,Centro Historico de Sevilla,21,0,4.6
+스페인,세비야,Setas de Sevilla (Metropol Parasol),19,2,4.4
+스페인,세비야,Barrio Santa Cruz,21,0,4.6
+스페인,세비야,마리아 루이사 공원,21,0,4.6
+스페인,세비야,Torre del Oro,17,4,4.2
+스페인,세비야,Iglesia Colegial del Salvador,21,0,4.6
+스페인,발렌시아,Ciudad de las Artes y las Ciencias,20,1,4.5
+스페인,발렌시아,Oceanogràfic València,8,2,4.2
+스페인,발렌시아,Central Market of Valencia,18,3,4.3
+스페인,발렌시아,Valencia Cathedral,9,1,4.3
+스페인,발렌시아,Estació del Nord,9,1,4.3
+스페인,발렌시아,Miguelete,9,1,4.3
+스페인,발렌시아,Plaza del Ayuntamiento,9,1,4.3
+스페인,발렌시아,Plaza del Mercado (Placa del Mercat),10,0,4.5
+스페인,발렌시아,Museu Faller de València,8,2,4.2
+스페인,발렌시아,La Lonja de la Seda,10,0,4.5
+슬로베니아,블레드, 블레드 성,20,1,4.5
+슬로베니아,블레드, 빈트가르 협곡,29,1,4.6
+슬로베니아,블레드,Lake Bled,21,0,4.6
+슬로베니아,블레드,Lake Bohinj,9,1,4.3
+슬로베니아,블레드,Bled Island,20,1,4.5
+슬로베니아,블레드,Vogel Ski Center,9,1,4.3
+슬로베니아,블레드,Mamut Slovenija,7,3,4.0
+슬로베니아,블레드,Vrsic Pass - Julian Alps,9,1,4.3
+슬로베니아,블레드,Straza Bled,8,2,4.2
+슬로베니아,류블랴나,The Ljubljana Castle,21,0,4.6
+슬로베니아,류블랴나,프레세렌 광장,21,0,4.6
+슬로베니아,류블랴나,River Ljubljanica Kanal,10,0,4.5
+슬로베니아,류블랴나, 삼중교 (트로모스토브예),19,2,4.4
+슬로베니아,류블랴나,Cankarjevo Nabrežje,10,0,4.5
+슬로베니아,류블랴나,Ljubljana Free Tour,10,0,4.5
+슬로베니아,류블랴나,Franciscan Church (Frančiškanska cerkev),10,0,4.5
+슬로베니아,류블랴나,Skyscraper (Nebotičnik),9,1,4.3
+슬로베니아,류블랴나,Ljubljana Old Town,21,0,4.6
+슬로베니아,피란,Piran Town Walls,20,1,4.5
+슬로베니아,피란,Church of St. George (Cerkev sv. Jurija) in Piran,10,0,4.5
+슬로베니아,피란, 타르티니 광장,21,0,4.6
+슬로베니아,피란,Port Piran,10,0,4.5
+슬로베니아,피란,First of May Square,10,0,4.5
+슬로베니아,피란,임시수도기념관,10,0,4.5
+슬로베니아,피란,Church of St. Francis of Assisi,10,0,4.5
+슬로베니아,피란,Old Town,10,0,4.5
+슬로베니아,피란,Kandovan,8,2,4.2
+슬로베니아,피란,Roundabout Travel,10,0,4.5
+슬로베니아,포르토로즈, 조나 리빈이린엣,21,0,4.6
+슬로베니아,포르토로즈,Douro River,21,0,4.6
+슬로베니아,포르토로즈,Taylor's Port,21,0,4.6
+슬로베니아,포르토로즈,Liberdade Square,19,2,4.4
+슬로베니아,포르토로즈,로즈 밸리,21,0,4.6
+슬로베니아,포르토로즈,Church of Santa Clara,10,0,4.5
+슬로베니아,포르토로즈,Jardim do Morro,10,0,4.5
+슬로베니아,포르토로즈,Igreja do Carmo,10,0,4.5
+슬로베니아,포르토로즈,Ribeira Square,21,0,4.6
+슬로베니아,포르토로즈,Mercado do Bolhão,18,3,4.3
+싱가포르,센토사 아일랜드,Adventure Cove Waterpark,19,2,4.4
+싱가포르,센토사 아일랜드,센토사 익스프레스,21,0,4.6
+싱가포르,센토사 아일랜드,Deception Pass State Park,9,1,4.3
+싱가포르,센토사 아일랜드,Finn McCools Tours,10,0,4.5
+싱가포르,센토사 아일랜드,EPIC The Irish Emigration Museum,9,1,4.3
+싱가포르,센토사 아일랜드,Guinness Storehouse,21,0,4.6
+싱가포르,센토사 아일랜드,Titanic Belfast,9,1,4.3
+싱가포르,센토사 아일랜드,세인트 스테판 가든,20,1,4.5
+싱가포르,센토사 아일랜드,유니버셜 어드벤처 아일랜드,20,1,4.5
+싱가포르,센토사 아일랜드, 블라니 캐슬 & 가든,9,1,4.3
+싱가포르,오차드로드, 오차드 로드,18,3,4.3
+싱가포르,오차드로드,ION Orchard,20,1,4.5
+싱가포르,오차드로드,Wisma Atria Shopping Centre,9,1,4.3
+싱가포르,오차드로드,Tangs Plaza,9,1,4.3
+싱가포르,마리나 베이,마리나 베이,21,0,4.6
+싱가포르,마리나 베이,가든즈 바이 더 베이,21,0,4.6
+싱가포르,마리나 베이,샌즈 스카이파크,19,2,4.4
+싱가포르,마리나 베이, 싱가포르 플라이어,21,0,4.6
+싱가포르,마리나 베이,헬릭스 브리지,20,1,4.5
+싱가포르,마리나 베이,Supertree Grove,20,1,4.5
+싱가포르,마리나 베이,OCBC Skyway,9,1,4.3
+싱가포르,마리나 베이,에스플러네이드 - 해변 극장,20,1,4.5
+싱가포르,마리나 베이,마리나 베이 샌즈 아트 사이언스 박물관,17,4,4.2
+싱가포르,마리나 베이,마리나 버라지,10,0,4.5
+싱가포르,차이나타운,차이나타운,64,9,4.4
+싱가포르,차이나타운,불아사 용화원,21,0,4.6
+영국,런던, 런던아이,20,1,4.5
+영국,런던,대영 박물관,20,1,4.5
+영국,런던,국립 미술관,21,0,4.6
+영국,런던,런던 지하철,15,6,3.9
+영국,런던, 빅 벤,16,5,4.0
+영국,런던,버킹엄 궁전,20,1,4.5
+영국,런던,타워 브리지,21,0,4.6
+영국,런던,런던 자연사 박물관,21,0,4.6
+영국,런던, 런던 타워,21,0,4.6
+영국,런던,Sky Garden,21,0,4.6
+영국,에든버러, 에든버러 성,21,0,4.6
+영국,에든버러, 로열 마일,21,0,4.6
+영국,에든버러,Calton Hill,21,0,4.6
+영국,에든버러,Scott Monument,21,0,4.6
+영국,에든버러,Edinburgh Old Town,21,0,4.6
+영국,에든버러,프린세스 스트리트 가든,21,0,4.6
+영국,에든버러,Castle Rock,10,0,4.5
+영국,에든버러,The Royal Edinburgh Military Tattoo,9,1,4.3
+영국,에든버러,Grassmarket,10,0,4.5
+영국,에든버러,홀리루드 파크,21,0,4.6
+영국,맨체스터,Old Trafford,10,0,4.5
+영국,맨체스터,Etihad Stadium,9,1,4.3
+영국,맨체스터,National Football Museum,8,2,4.2
+영국,맨체스터,The John Rylands Library,8,2,4.2
+영국,맨체스터,J-UK Golf,10,0,4.5
+영국,맨체스터,Manchester Metrolink,6,4,3.9
+영국,맨체스터,Victoria Station,5,5,3.7
+영국,맨체스터,Science and Industry Museum,10,0,4.5
+영국,맨체스터,채스워스,10,0,4.5
+영국,맨체스터,The Nolen,10,0,4.5
+영국,캠브리지,University of Cambridge,10,0,4.5
+영국,캠브리지,Cambridge University Botanic Garden,10,0,4.5
+영국,캠브리지,Lets Go Punting,10,0,4.5
+영국,캠브리지,Great St Mary's Church (Church of England),10,0,4.5
+영국,캠브리지,Mathematical Bridge,10,0,4.5
+영국,캠브리지,찰스 리버,10,0,4.5
+영국,캠브리지,King's College,10,0,4.5
+영국,캠브리지,The River Cam,9,1,4.3
+영국,캠브리지,Galt,10,0,4.5
+영국,캠브리지,King's College Chapel,10,0,4.5
+오스트레일리아,시드니,시드니 오페라 하우스,20,1,4.5
+오스트레일리아,시드니,시드니 하버,20,1,4.5
+오스트레일리아,시드니,시드니 하버 브리지,21,0,4.6
+오스트레일리아,시드니,시드니 아쿠아리움,20,1,4.5
+오스트레일리아,시드니,시드니 페리,21,0,4.6
+오스트레일리아,시드니,시드니 천문대,21,0,4.6
+오스트레일리아,시드니,시드니 타워 아이 & 스카이워크,21,0,4.6
+오스트레일리아,시드니,서큘러 키,21,0,4.6
+오스트레일리아,시드니,본다이 비치,21,0,4.6
+오스트레일리아,시드니,퀸 빅토리아 빌딩 (QVB),19,2,4.4
+오스트레일리아,멜버른,유레카 스카이덱 88,21,0,4.6
+오스트레일리아,멜버른,시티 서클 트램,21,0,4.6
+오스트레일리아,멜버른,플린더스 스트리트 역,21,0,4.6
+오스트레일리아,멜버른,야라 강,21,0,4.6
+오스트레일리아,멜버른,멜버른 박물관,21,0,4.6
+오스트레일리아,멜버른,The Great Ocean Road,21,0,4.6
+오스트레일리아,멜버른,세이트 패트릭 대성당,21,0,4.6
+오스트레일리아,멜버른,Degraves Street,20,1,4.5
+오스트레일리아,멜버른,멜버른 전쟁 기념관,21,0,4.6
+오스트레일리아,멜버른,구 멜버른 감옥,17,4,4.2
+오스트레일리아,브리즈번,브리즈번 강,21,0,4.6
+오스트레일리아,브리즈번,마운트 쿠사 전망대,21,0,4.6
+오스트레일리아,브리즈번,사우스 뱅크 파크랜드,21,0,4.6
+오스트레일리아,브리즈번,휠 오브 브리즈번,21,0,4.6
+오스트레일리아,브리즈번,시티캣 페리,21,0,4.6
+오스트레일리아,브리즈번,브리즈번 식물원,10,0,4.5
+오스트레일리아,브리즈번,City Hopper,10,0,4.5
+오스트레일리아,브리즈번,론 파인 코알라 보호 구역,21,0,4.6
+오스트레일리아,브리즈번,브리즈번 박물관,10,0,4.5
+오스트레일리아,브리즈번,City Hall,10,0,4.5
+오스트레일리아,케언스,Esplanade Boardwalk,20,1,4.5
+오스트레일리아,케언스,Kuranda Scenic Railway,10,0,4.5
+오스트레일리아,케언스,Cairns Aquarium,10,0,4.5
+오스트레일리아,케언스,Northern Experience Eco Tours,10,0,4.5
+오스트레일리아,케언스,사우스 뱅크 파크랜드,21,0,4.6
+오스트레일리아,케언스,Reef Magic Cruises,21,0,4.6
+오스트레일리아,케언스,Cairns Esplanade Lagoon,21,0,4.6
+오스트레일리아,케언스,Josephine Falls,10,0,4.5
+오스트레일리아,케언스,Rusty's Market,10,0,4.5
+오스트레일리아,케언스,Cairns Botanic Gardens,10,0,4.5
+인도,뭄바이,게이트웨이 오브 인디아,19,2,4.4
+인도,뭄바이,차트라바띠 시와지 역,21,0,4.6
+인도,뭄바이, 마린 드라이브,21,0,4.6
+인도,뭄바이,Bandra-Worli Sea Link,10,0,4.5
+인도,뭄바이,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,10,0,4.5
+인도,뭄바이,Powai Lake,8,2,4.2
+인도,뭄바이,Hanging Gardens,7,3,4.0
+인도,뭄바이,High Street Phoenix,10,0,4.5
+인도,뭄바이,High Court Principal Bench Bombay,10,0,4.5
+인도,뭄바이,Sanjay Gandhi National Park,8,2,4.2
+인도,뉴델리, 꾸뜹 미나르,20,1,4.5
+인도,뉴델리,인디아 게이트,20,1,4.5
+인도,뉴델리,Delhi Airport Metro Express,21,0,4.6
+인도,뉴델리, 후마윤의 묘,20,1,4.5
+인도,뉴델리,Connaught Place,20,1,4.5
+인도,뉴델리,Driver India Private Tours,10,0,4.5
+인도,뉴델리,대통령 관저 (라파티 바반),8,2,4.2
+인도,뉴델리,Classic Golf Resort,6,0,4.4
+인도,뉴델리,하우즈 카스 빌리지,10,0,4.5
+인도,뉴델리,North India Private Driver,10,0,4.5
+인도,아그라, 아그라 요새,20,1,4.5
+인도,아그라,타지마할,19,2,4.4
+인도,아그라,Raj Travels India,9,1,4.3
+인도,아그라,Discover India By Car,10,0,4.5
+인도,아그라,시칸드라 (악바르 황제의 무덤),10,0,4.5
+인도,아그라,Private India Tour Advisor,10,0,4.5
+인도,아그라,붉은 요새 (랄 킬라),20,1,4.5
+인도,아그라,Maria Luxury Tours,30,0,4.7
+인도,아그라,Sheesh Mahal,8,2,4.2
+인도,아그라,City of love boat tour,9,0,4.5
+인도,자이푸르,안 벨성,21,0,4.6
+인도,자이푸르,바람의 궁전 (하와 마할),20,1,4.5
+인도,자이푸르,자이푸르 시티 팰리스,21,0,4.6
+인도,자이푸르,Discover India By Car,10,0,4.5
+인도,자이푸르,Sunny Tour Travels,1,0,4.3
+인도,자이푸르,Jaigarh Fort,10,0,4.5
+인도,자이푸르,Unique Jaipur Tour,10,0,4.5
+인도,자이푸르,Easy Peasy Tours,10,0,4.5
+인도,자이푸르,Nahargarh Fort,9,1,4.3
+인도,자이푸르,Namaste Jaipur Tours,10,0,4.5
+인도네시아,발리,워터밤 발리,21,0,4.6
+인도네시아,발리,발리 컬렉션,20,1,4.5
+인도네시아,발리,Kuta Beach - Bali,18,3,4.3
+인도네시아,발리,발리 고급 스파 & 한국 식당 로즈힐,21,0,4.6
+인도네시아,발리,UP2U 서프 스쿨 발리,21,0,4.6
+인도네시아,발리,Bali SUN Tours,21,0,4.6
+인도네시아,발리,Bali Swing,20,1,4.5
+인도네시아,발리,몽키 포레스트,21,0,4.6
+인도네시아,발리,몰 발리 갤러리아,17,4,4.2
+인도네시아,발리,The Care Day Spa,20,1,4.5
+인도네시아,반둥,Braga Street,9,1,4.3
+인도네시아,반둥,Tangkuban Perahu,9,1,4.3
+인도네시아,반둥,Jalan Asia Afrika,10,0,4.5
+인도네시아,반둥,White Crater,10,0,4.5
+인도네시아,반둥,Bandung Grand Mosque,10,0,4.5
+인도네시아,반둥,Bandung City Square,8,2,4.2
+인도네시아,반둥,Maribaya Hot Springs,8,2,4.2
+인도네시아,반둥,Ciater Hot Spring,9,1,4.3
+인도네시아,반둥,Trans Studio Bandung,7,3,4.0
+인도네시아,반둥,Gambir Train Station,9,1,4.3
+인도네시아,센트럴 자카르타,모나스,21,0,4.6
+인도네시아,센트럴 자카르타,타만 미니 인도네시아 인다,18,3,4.3
+인도네시아,센트럴 자카르타,Kota Kasablanka,10,0,4.5
+인도네시아,센트럴 자카르타, 이스티크랄 모스크 (이스티크랄 사원),19,2,4.4
+일본,도쿄,도쿄 디즈니시,18,3,4.3
+일본,도쿄,도쿄 타워,21,0,4.6
+일본,도쿄,오다이바,21,0,4.6
+일본,도쿄,에도-도쿄 박물관,29,1,4.6
+일본,도쿄,도쿄역,21,0,4.6
+일본,도쿄,모리 타워,21,0,4.6
+일본,도쿄,도쿄 스카이 트리,21,0,4.6
+일본,도쿄,리틀 도쿄,21,0,4.6
+일본,도쿄,도쿄 도청,18,3,4.3
+일본,도쿄,도쿄 국립 박물관,21,0,4.6
+일본,오사카,도톤보리,18,3,4.3
+일본,오사카,유니버셜 스튜디오 재팬,19,2,4.4
+일본,오사카,우메다 스카이 빌딩 - 공중 정원 전망대,18,3,4.3
+일본,오사카,오사카 성,18,3,4.3
+일본,오사카,신사이바시,19,2,4.4
+일본,오사카,쿠로몬 시장,17,4,4.2
+일본,오사카,Osaka Kale Parkı,20,1,4.5
+일본,오사카,HEP FIVE 관람차,19,2,4.4
+일본,오사카,오사카 생활 박물관,19,2,4.4
+일본,오사카,텐포잔 대관람차,19,2,4.4
+일본,교토,금각사,18,3,4.3
+일본,교토,후시미 이나리 신사,20,1,4.5
+일본,교토,Kiyomizu-dera,17,4,4.2
+일본,교토,은각사,20,1,4.5
+일본,교토,교토역 빌딩,21,0,4.6
+일본,교토,교토 타워,20,1,4.5
+일본,교토,교토 니시키 시장,18,3,4.3
+일본,교토,Gion,20,1,4.5
+일본,교토,Arashiyama,21,0,4.6
+일본,교토,교토 식물원,20,1,4.5
+일본,삿포로,JR 타워 전망대 T38,19,2,4.4
+일본,삿포로,Odori Park,20,1,4.5
+일본,삿포로,Susukino,21,0,4.6
+일본,삿포로,Sapporo Beer Museum,20,1,4.5
+일본,삿포로,삿포로 오쿠라야마 전망대,20,1,4.5
+일본,삿포로,Sapporo TV Tower,21,0,4.6
+일본,삿포로,홋카이도 대학 삿포로 캠퍼스,21,0,4.6
+일본,삿포로,Clock Tower (Tokei-dai),9,12,3.2
+일본,삿포로,Mt. Moiwa,21,0,4.6
+일본,삿포로,Sapporo Underground Pedestrian Space,20,1,4.5
+중국,상하이,상하이의 와이탄 (와이탄),21,0,4.6
+중국,상하이,동방 명주 타워 (Dongfang Mingzhu),21,0,4.6
+중국,상하이,신천지,20,1,4.5
+중국,상하이,번드 인터내셔널 아키텍처 익스히비션,30,0,4.7
+중국,상하이,Shanghai Urban Planning Exhibition Hall,19,2,4.4
+중국,상하이,Shanghai Metro,19,2,4.4
+중국,상하이, 상하이 세계 금융 센터,20,1,4.5
+중국,상하이,상하이 역사 박물관,21,0,4.6
+중국,상하이,Pudong New Area,21,0,4.6
+중국,상하이,상하이 박물관,18,3,4.3
+중국,베이징,만리장성,21,0,4.6
+중국,베이징,이화원,21,0,4.6
+중국,베이징,천안문,21,0,4.6
+중국,베이징,The Great Wall at Badaling,20,1,4.5
+중국,베이징,Wangfujing Street,16,5,4.0
+중국,베이징,Beijing Subway,19,2,4.4
+중국,베이징,천단 (티엔탄 공원),21,0,4.6
+중국,베이징,경산 공원 (잉샨 꽁위엔),21,0,4.6
+중국,베이징,천안문 광장,20,1,4.5
+중국,베이징,고궁 박물관,19,2,4.4
+중국,광저우,Canton Tower,21,0,4.6
+중국,광저우,Shamian Island,20,1,4.5
+중국,광저우,Guangzhou Metro,10,0,4.5
+중국,광저우,Huaisheng Mosque,10,0,4.5
+중국,광저우,Museum of the Western Han Dynasty Mausoleum of the Nanyue King,10,0,4.5
+중국,광저우,Sacred Heart Cathedral,10,0,4.5
+중국,광저우,Beijing Road Ancient Avenue,10,0,4.5
+중국,광저우,Beijing Road Shopping District,8,2,4.2
+중국,광저우,Pearl River (Zhujiang),10,0,4.5
+중국,광저우,Guangdong Museum of Art,6,4,3.9
+중국,항저우,West Lake (Xi Hu),21,0,4.6
+중국,항저우,Hangzhou Songcheng,9,1,4.3
+중국,항저우,QingHeFang,9,1,4.3
+중국,항저우,Fei Lai Feng,10,0,4.5
+중국,항저우,중국 고속 철도,20,1,4.5
+중국,항저우,Pagoda of Six Harmonies,7,3,4.0
+중국,항저우,Xixi Wetland Park,7,3,4.0
+중국,항저우,Ping Hu Qiu Yue,10,0,4.5
+중국,항저우,National Tea Museum,9,1,4.3
+중국,항저우,Hangzhou Chenghuang Pagoda,10,0,4.5
+캄보디아,씨엠립,앙코르와트,21,0,4.6
+캄보디아,씨엠립,보디아 스파 시엠립,21,0,4.6
+캄보디아,씨엠립,Pub Street,21,0,4.6
+캄보디아,씨엠립,Lucky Mall Siem Reap,20,1,4.5
+캄보디아,씨엠립,Mudita Spa,21,0,4.6
+캄보디아,씨엠립,Siem Reap Shuttle Tours,21,0,4.6
+캄보디아,씨엠립,반테아이 스레이,21,0,4.6
+캄보디아,씨엠립,Giant Ibis Transport,7,3,4.0
+캄보디아,씨엠립,쿼드 어드벤처 캄보디아,10,0,4.5
+캄보디아,씨엠립,Cambodia Quad Bike,10,0,4.5
+캄보디아,프놈펜,프놈펜 독립 기념탑,19,2,4.4
+캄보디아,프놈펜,뚜얼 슬렝 대량학살 박물관,19,2,4.4
+캄보디아,프놈펜,Angkor Spa,21,0,4.6
+캄보디아,프놈펜,왓 프놈,17,4,4.2
+캄보디아,프놈펜,Aeon Mall,21,0,4.6
+캄보디아,프놈펜,Soma Spa,21,0,4.6
+캄보디아,프놈펜, 중앙 시장,17,4,4.2
+캄보디아,프놈펜, 로얄 팰리스,18,3,4.3
+캄보디아,프놈펜,킬링 필드 (청아익),19,2,4.4
+캄보디아,프놈펜,나가월드 카지노,19,2,4.4
+캄보디아,시아누크빌,Golden Lion Gym,10,0,4.5
+캄보디아,시아누크빌,Cambodia Private Taxi,10,0,4.5
+캄보디아,시아누크빌,Koh Rong,9,1,4.3
+캄보디아,시아누크빌,Independence Beach,5,5,3.7
+캄보디아,시아누크빌,Angkor Taxis,10,0,4.5
+캄보디아,시아누크빌,Scuba Nation Diving Centre,10,0,4.5
+캄보디아,시아누크빌,Blue Lagoon Divers,10,0,4.5
+캄보디아,시아누크빌,Phnom Penh Green Tour and Transport,10,0,4.5
+캄보디아,시아누크빌,The Party Boat,4,6,3.6
+캄보디아,시아누크빌,Unique Spa,8,2,4.2
+캄보디아,캄폿,Phnom Chhngok Cave Temple,7,3,4.0
+캄보디아,캄폿,Butterfly Tours,10,0,4.5
+캄보디아,캄폿,La Plantation,10,0,4.5
+캄보디아,캄폿,Bokor National Park,8,2,4.2
+캄보디아,캄폿,Climbodia,10,0,4.5
+캄보디아,캄폿,Golden Hands Massage & Spa,8,2,4.2
+캄보디아,캄폿,SUP Asia,9,1,4.3
+캄보디아,캄폿,Old Catholic Church,10,0,4.5
+캄보디아,캄폿,Kampot-Kep Tuk Tuk-Taxi Drivers,10,0,4.5
+캄보디아,캄폿,Rany - The TukTuk Driver in Kampot and Kep,10,0,4.5
+캐나다,토론토,토론토 아일랜드 파크,20,1,4.5
+캐나다,토론토,Hockey Hall of Fame,10,0,4.5
+캐나다,토론토,Toronto City Hall,19,2,4.4
+캐나다,토론토,영국국회의사당,21,0,4.6
+캐나다,토론토,Yale University Art Gallery,10,0,4.5
+캐나다,토론토,Jack Darling Memorial Park,10,0,4.5
+캐나다,토론토,Castle Church,10,0,4.5
+캐나다,토론토,Dostoevskiy Museum,2,1,4.2
+캐나다,토론토,Statue of Lajos Kossuth,10,0,4.5
+캐나다,토론토,Faniry Madagascar Tours,6,4,3.9
+캐나다,밴쿠버,밴쿠버 아쿠아리움,18,3,4.3
+캐나다,밴쿠버,밴쿠버 전망대,19,2,4.4
+캐나다,밴쿠버, 밴쿠버 다운타운,21,0,4.6
+캐나다,밴쿠버,밴쿠버 공공 도서관,21,0,4.6
+캐나다,밴쿠버,스탠리 파크,21,0,4.6
+캐나다,밴쿠버,스카이 트레인,20,1,4.5
+캐나다,밴쿠버,퀸 엘리자베스 공원,20,2,4.4
+캐나다,밴쿠버,잉글리시 베이,20,1,4.5
+캐나다,밴쿠버,그라우스 마운틴,21,0,4.6
+캐나다,밴쿠버,개스타운,17,4,4.2
+캐나다,몬트리올,Old Montreal,19,2,4.4
+캐나다,몬트리올,마운트 로얄,21,0,4.6
+캐나다,몬트리올,몬트리올 미술관 (Musee des Beaux-Arts),10,0,4.5
+캐나다,몬트리올, 노트르담 성당 (바질리키 노트르 - 담),21,0,4.6
+캐나다,몬트리올,Old Port of Montreal,20,1,4.5
+캐나다,몬트리올,성 요셉 대성당,21,0,4.6
+캐나다,몬트리올,VIA Rail Canada Montreal Station,10,0,4.5
+캐나다,몬트리올,Place des Arts,10,0,4.5
+캐나다,몬트리올,Jean-Talon Market,10,0,4.5
+캐나다,몬트리올,Montreal Botanical Garden,10,0,4.5
+캐나다,나이아가라 폭포,나이아가라 폭포,21,0,4.6
+캐나다,나이아가라 폭포,Journey Behind the Falls,20,1,4.5
+캐나다,나이아가라 폭포,Niagara City Cruises,21,0,4.6
+캐나다,나이아가라 폭포,Horseshoe Falls,21,0,4.6
+캐나다,나이아가라 폭포,Skylon Tower,20,1,4.5
+캐나다,나이아가라 폭포,Shifen Waterfall Walk Area,19,2,4.4
+캐나다,나이아가라 폭포,Table Rock Welcome Centre,19,2,4.4
+캐나다,나이아가라 폭포,Clifton Hill,18,3,4.3
+캐나다,나이아가라 폭포, 바람의 동굴,21,0,4.6
+캐나다,나이아가라 폭포,Parc de la Chute-Montmorency,19,2,4.4
+태국,방콕,BTS 스카이트레인,21,0,4.6
+태국,방콕,석가모니 열반상이 있는 사원 (왓 포),21,0,4.6
+태국,방콕,카오산 로드,19,2,4.4
+태국,방콕,왕궁,17,4,4.2
+태국,방콕,Chatuchak Weekend Market,21,0,4.6
+태국,방콕,시암 파라곤,21,0,4.6
+태국,방콕,에메랄드 사원 (왓 프라깨우),21,0,4.6
+태국,방콕,Asiatique The Riverfront,20,1,4.5
+태국,방콕,룸피니 공원,19,2,4.4
+태국,방콕,짐 톰슨 하우스,21,0,4.6
+태국,푸켓,Banana Beach,21,0,4.6
+태국,푸켓, 푸켓 빅 부다,20,1,4.5
+태국,푸켓,오리엔탈 드 푸켓,19,2,4.4
+태국,푸켓,푸켓 사이먼 쇼,19,2,4.4
+태국,푸켓,방라 로드,17,4,4.2
+태국,푸켓,Patong Beach,19,2,4.4
+태국,푸켓,정실론,17,4,4.2
+태국,푸켓,왓찰롱,19,2,4.4
+태국,푸켓,카타 비치,19,2,4.4
+태국,푸켓,Cheaper than Hotel Taxis,20,1,4.5
+태국,치앙마이,도이수텝 (부처의 사리를 모신) 사원,21,0,4.6
+태국,치앙마이,Night Bazaar,14,7,3.8
+태국,치앙마이, 왓 체디 루앙,21,0,4.6
+태국,치앙마이,Wat Phra Singh,21,0,4.6
+태국,치앙마이,Wat Phra That Doi Kham (Temple of the Golden Mountain),21,0,4.6
+태국,치앙마이,Doi Inthanon,21,0,4.6
+태국,치앙마이,기빙트리,21,0,4.6
+태국,치앙마이,Tha Phae Gate,21,0,4.6
+태국,치앙마이,Tha Pae Walking Street,20,1,4.5
+태국,치앙마이,Anantara Spa,10,0,4.5
+태국,파타야,워킹 스트리트 파타야,13,8,3.7
+태국,파타야,파타야 비치,15,6,3.9
+태국,파타야,파타야 수상 시장,8,13,3.1
+태국,파타야,능눅 트로피컬 보태니컬 가든,18,3,4.3
+태국,파타야,엘리펀트 빌리지 파타야,13,8,3.7
+태국,파타야,CentralFestival Pattaya Beach,20,1,4.5
+태국,파타야,진리의 성전,20,1,4.5
+태국,파타야,Koh Larn,21,0,4.6
+태국,파타야,Grace Spa,21,0,4.6
+태국,파타야,좀티엔 비치,19,2,4.4
+터키,이스탄불,Aya Sofya Müzesi / Kilisesi,20,1,4.5
+터키,이스탄불, 술탄아흐메트 지구,21,0,4.6
+터키,이스탄불,이스탄불 역사 지구,21,0,4.6
+터키,이스탄불,블루 모스크 (술탄 아흐멧 모스크),16,5,4.0
+터키,이스탄불,이스탄불 현대 미술관,19,2,4.4
+터키,이스탄불,지하 궁전,17,4,4.2
+터키,이스탄불, 쉴레이마니예 모스크,21,0,4.6
+터키,이스탄불,갈라타 타워,20,1,4.5
+터키,이스탄불,보스포루스 해협,21,0,4.6
+터키,이스탄불,굴하네 파크,18,3,4.3
+터키,괴레메,괴레메 야외 박물관,21,0,4.6
+터키,괴레메,괴레메 국립 공원,21,0,4.6
+터키,괴레메,Fairy Chimneys,21,0,4.6
+터키,괴레메,Sunset Point,21,0,4.6
+터키,괴레메,피존 밸리,19,2,4.4
+터키,괴레메,MyTrip Travel & Tourism Agency,21,0,4.6
+터키,괴레메,Uchisar Castle,21,0,4.6
+터키,괴레메,Love Valley,20,1,4.5
+터키,괴레메,Goreme Panorama,10,0,4.5
+터키,괴레메,아바노스,21,0,4.6
+필리핀,보라카이,화이트 비치,21,0,4.6
+필리핀,보라카이,D'Mall,18,3,4.3
+필리핀,보라카이,Alona Beach,20,1,4.5
+필리핀,보라카이,Crystal Cove Island,18,3,4.3
+필리핀,보라카이,루호산,21,0,4.6
+필리핀,보라카이,윌리스 록,19,2,4.4
+필리핀,보라카이,Red Whale Boracay,4,0,4.4
+필리핀,보라카이,Fisheye Divers,10,0,4.5
+필리핀,보라카이,불라복 비치,20,1,4.5
+필리핀,보라카이,야팍 비치,21,0,4.6
+필리핀,마닐라,마닐라 베이,19,2,4.4
+필리핀,마닐라,마닐라 오션 파크,15,6,3.9
+필리핀,마닐라,마닐라 대성당,21,0,4.6
+필리핀,마닐라, 인트라무로스,20,1,4.5
+필리핀,마닐라,산 아구스틴 교회,21,0,4.6
+필리핀,마닐라,SM Mall of Asia,21,0,4.6
+필리핀,마닐라, 산티아고 요새,19,2,4.4
+필리핀,마닐라,리살 공원,19,2,4.4
+필리핀,마닐라,Bonifacio Global City,10,0,4.5
+필리핀,마닐라,Malate District,7,3,4.0
+필리핀,세부,Ayala Center Cebu,19,2,4.4
+필리핀,세부,Santo Nino Bazilikası,20,1,4.5
+필리핀,세부,Tops Lookout,21,0,4.6
+필리핀,세부,Gold Moon Spa,21,0,4.6
+필리핀,세부,Taoist Temple,21,0,4.6
+필리핀,세부,Fort San Pedro,21,0,4.6
+필리핀,세부,Magellan's Cross,19,2,4.4
+필리핀,세부,SM City Cebu,20,1,4.5
+필리핀,세부,Marcelo Fernan Bridge,20,1,4.5
+필리핀,세부,Oslob Whale Sharks,21,0,4.6
+필리핀,마카티,Ayala Triangle Gardens,10,0,4.5
+필리핀,마카티,Ayala Center,10,0,4.5
+필리핀,마카티,그린벨트 파크,21,0,4.6
+필리핀,마카티,Greenbelt Mall,20,1,4.5
+필리핀,마카티,Caracol Festival,1,0,4.3
+필리핀,마카티,P Burgos Street,7,3,4.0
+필리핀,마카티,아얄라 박물관,9,1,4.3
+필리핀,마카티,Venice Grand Canal Mall,9,1,4.3
+필리핀,마카티,Asian Massage,7,3,4.0
+필리핀,마카티,Bonifacio Global City,10,0,4.5
+호주,시드니,시드니 오페라 하우스,20,1,4.5
+호주,시드니,시드니 하버,20,1,4.5
+호주,시드니,시드니 하버 브리지,21,0,4.6
+호주,시드니,시드니 아쿠아리움,20,1,4.5
+호주,시드니,시드니 페리,21,0,4.6
+호주,시드니,시드니 천문대,21,0,4.6
+호주,시드니,시드니 타워 아이 & 스카이워크,21,0,4.6
+호주,시드니,서큘러 키,21,0,4.6
+호주,시드니,본다이 비치,21,0,4.6
+호주,시드니,퀸 빅토리아 빌딩 (QVB),19,2,4.4
+호주,멜버른,유레카 스카이덱 88,21,0,4.6
+호주,멜버른,시티 서클 트램,21,0,4.6
+호주,멜버른,플린더스 스트리트 역,21,0,4.6
+호주,멜버른,야라 강,21,0,4.6
+호주,멜버른,멜버른 박물관,21,0,4.6
+호주,멜버른,The Great Ocean Road,21,0,4.6
+호주,멜버른,세이트 패트릭 대성당,21,0,4.6
+호주,멜버른,Degraves Street,20,1,4.5
+호주,멜버른,멜버른 전쟁 기념관,21,0,4.6
+호주,멜버른,구 멜버른 감옥,17,4,4.2
+호주,브리즈번,브리즈번 강,21,0,4.6
+호주,브리즈번,마운트 쿠사 전망대,21,0,4.6
+호주,브리즈번,사우스 뱅크 파크랜드,21,0,4.6
+호주,브리즈번,휠 오브 브리즈번,21,0,4.6
+호주,브리즈번,시티캣 페리,21,0,4.6
+호주,브리즈번,브리즈번 식물원,10,0,4.5
+호주,브리즈번,City Hopper,10,0,4.5
+호주,브리즈번,론 파인 코알라 보호 구역,21,0,4.6
+호주,브리즈번,브리즈번 박물관,10,0,4.5
+호주,브리즈번,City Hall,10,0,4.5
+호주,케언스,Esplanade Boardwalk,20,1,4.5
+호주,케언스,Kuranda Scenic Railway,10,0,4.5
+호주,케언스,Cairns Aquarium,10,0,4.5
+호주,케언스,Northern Experience Eco Tours,10,0,4.5
+호주,케언스,사우스 뱅크 파크랜드,21,0,4.6
+호주,케언스,Reef Magic Cruises,21,0,4.6
+호주,케언스,Cairns Esplanade Lagoon,21,0,4.6
+호주,케언스,Rusty's Market,10,0,4.5
+호주,케언스,Josephine Falls,10,0,4.5
+호주,케언스,Cairns Botanic Gardens,10,0,4.5
+홍콩,침사추이,침사추이 산책로,20,1,4.5
+홍콩,침사추이,침사추이,42,0,4.8
+홍콩,침사추이,스타 페리,21,0,4.6
+홍콩,침사추이,카우룽 공원,21,0,4.6
+홍콩,침사추이,네이선 거리,21,0,4.6
+홍콩,침사추이,홍콩 스카이라인,21,0,4.6
+홍콩,침사추이,클락 타워,20,1,4.5
+홍콩,침사추이,빅토리아 하버,21,0,4.6
+홍콩,침사추이,Kowloon Mosque & Islamic Centre,9,1,4.3
+홍콩,홍콩디즈니랜드,홍콩 디즈니랜드,20,1,4.5
+홍콩,홍콩디즈니랜드,디즈니랜드 파크,15,6,3.9
+홍콩,홍콩디즈니랜드,디즈니 캘리포니아 어드벤처,21,0,4.6
+홍콩,홍콩디즈니랜드,오션 파크,19,2,4.4
+홍콩,홍콩디즈니랜드,란타우 섬,21,0,4.6
+홍콩,홍콩디즈니랜드,매직 킹덤,21,0,4.6
+홍콩,홍콩디즈니랜드,MTR,21,0,4.6
+홍콩,홍콩디즈니랜드,HZMB,9,0,4.5
+홍콩,빅토리아 하버,빅토리아 하버,21,0,4.6
+홍콩,빅토리아 하버,Inner Harbour,21,0,4.6
+홍콩,빅토리아 하버,심포니 오브 라이츠,18,3,4.3
+홍콩,빅토리아 하버,Garden of Stars,9,1,4.3
+홍콩,빅토리아 하버,Legislative Assembly of British Columbia,21,0,4.6
+홍콩,빅토리아 하버,Government Street,10,0,4.5
+홍콩,빅토리아 하버,Empress Hotel National Historic Site of Canada,10,0,4.5
+홍콩,빅토리아 하버,Star House,7,2,4.2
+홍콩,빅토리아 하버,Wharf Street,10,0,4.5
+홍콩,완차이구,Takao Railway Museum,21,0,4.6
+홍콩,완차이구,Sheung Wan,20,1,4.5
+홍콩,완차이구,람마 섬,20,1,4.5
+홍콩,완차이구,스타 페리,21,0,4.6
+홍콩,완차이구,Lower Antelope Canyon,20,1,4.5
+홍콩,완차이구,홍콩 공원,21,0,4.6
+홍콩,완차이구,Zahra Spa,20,1,4.5
+홍콩,완차이구,빅토리아 피크,20,1,4.5
+홍콩,완차이구,신비의도로,15,6,3.9
+홍콩,완차이구,이층 케이블 카,21,0,4.6

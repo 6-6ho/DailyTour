@@ -3,9 +3,9 @@ import json
 from konlpy.tag import Okt
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.linear_model import SGDClassifier
-from joblib import dump, load
+from joblib import dump
 
 okt = Okt()
 
@@ -15,45 +15,60 @@ def tokenize_korean_text(text):
         if tag in ['Noun', 'Verb', 'Adjective']
     ]
 
-def train():
-    file_pattern = '../data/Review_Data/Attr_Review/*_attr_review_train.json'
+def remove_locations(text, locations):
+    for location in locations:
+        text = text.replace(location, '')
+    return text
 
+def load_data_and_labels(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        reviews_data = json.load(file)
+        comments = [' '.join(tokenize_korean_text(remove_locations(review['title'] + " " + review['content'], [review.get('region', ''), review.get('country', '')]))) for review in reviews_data]
+        labels = [1 if int(review['score']) > 3 else 0 for review in reviews_data]
+    return comments, labels
+
+def train_and_evaluate(review_type):
+    file_pattern = f'../data/Review_Data/{review_type.capitalize()}_Review/*_{review_type}_review_train.json'
     review_files = glob.glob(file_pattern)
-
-    combined_comments = []
-    combined_labels = []
-
-    for file_path in review_files:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            reviews_data = json.load(file)
-            for review in reviews_data:
-                combined_comments.append(' '.join(tokenize_korean_text(review['title'] + " " + review['content'])))
-                combined_labels.append(1 if int(review['score']) > 3 else 0)  # 1 for positive, 0 for negative
-
-    vectorizer = CountVectorizer(tokenizer=lambda x: x.split(), lowercase=False)
-    combined_comment_vectors = vectorizer.fit_transform(combined_comments)
-
-    X_train, X_test, y_train, y_test = train_test_split(combined_comment_vectors, combined_labels, test_size=0.2, random_state=42)
-
-    sgd_model = SGDClassifier(loss='log_loss', max_iter=1000)
-
-    sgd_model.fit(X_train, y_train)
-
-    for file_path in review_files:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            reviews_data = json.load(file)
-            country_comments = [' '.join(tokenize_korean_text(review['title'] + " " + review['content'])) for review in reviews_data]
-            country_labels = [1 if int(review['score']) > 3 else 0 for review in reviews_data]
-
-            country_comment_vectors = vectorizer.transform(country_comments)
-
-            country_pred = sgd_model.predict(country_comment_vectors)
-
-            country_accuracy = accuracy_score(country_labels, country_pred)
-            print(country_accuracy)
-
-    dump(sgd_model, 'sgd_model.joblib')
-    dump(vectorizer, 'vectorizer.joblib')
     
-if __name__=='__main__':
-    train()
+    all_comments = []
+    all_labels = []
+
+    for file_path in review_files:
+        print(f'Processing file: {file_path}')
+        comments, labels = load_data_and_labels(file_path)
+        all_comments.extend(comments)
+        all_labels.extend(labels)
+
+    # vectorize
+    vectorizer = CountVectorizer(tokenizer=tokenize_korean_text, lowercase=False)
+    comment_vectors = vectorizer.fit_transform(all_comments)
+
+    X_train, X_test, y_train, y_test = train_test_split(comment_vectors, all_labels, test_size=0.2, random_state=42)
+
+    # hyper parameter grid
+    param_grid = {
+        'alpha': [0.0001, 0.001, 0.01, 0.1],
+        'penalty': ['l2', 'l1', 'elasticnet'],
+        'max_iter': [1000, 2000, 3000]
+    }
+
+    grid_search = GridSearchCV(SGDClassifier(loss='log_loss'), param_grid, cv=5, scoring='accuracy')
+    grid_search.fit(X_train, y_train)
+
+    best_params = grid_search.best_params_
+    best_model = grid_search.best_estimator_
+
+    test_predictions = best_model.predict(X_test)
+    test_accuracy = accuracy_score(y_test, test_predictions)
+    print(f'Best parameters: {best_params}')
+    print(f'Test Accuracy with best parameters: {test_accuracy:.2f}')
+
+    dump(best_model, f'sgd_model_{review_type}.joblib')
+    dump(vectorizer, f'vectorizer_{review_type}.joblib')
+
+if __name__ == '__main__':
+    print("ATTR REVIEW")
+    train_and_evaluate('attr')
+    print("ACCOM REVIEW")
+    train_and_evaluate('accom')
