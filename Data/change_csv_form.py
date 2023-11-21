@@ -4,14 +4,14 @@ import os
 
 # region_path = '../Data/OutBound_Data/country_info.csv'
 def seperate_file() : # 연도별 분리
-    data_path = 'Data/OutBound_Data/Outbound_10Y_Data_Fillna.csv'
+    data_path = 'Data/OutBound_Data/Outbound_Month_Data_Fillna.csv'
 
     df = pd.read_csv(data_path, encoding='cp949')
     data = pd.DataFrame(df)
     print(data)
 
-    for year in data['year']:
-        year_df = data[data['year'] == year]
+    for year in data['month']:
+        year_df = data[data['month'] == year]
         save_to_csv(year, year_df)
         # year_df.to_csv(f'Data/Year_Data/{year}.csv', index=False, encoding='cp949')
 
@@ -21,18 +21,44 @@ def save_to_csv(year, year_df) :
     
     country_list = df_trans.index[1:].tolist()      # 국가이름이 index로 되어 있어서 index를 가져와 리스트로 반환
     emi_list = df_trans.iloc[:,0][1:].tolist()     # 첫번째열(출국자 수)가져와 리스트로 반환
-    year_list = [year] * len(country_list)  # year 컬럼을 위한
+    month_list = [year] * len(country_list)
+    #year_list = [year] * len(country_list)  # year 컬럼을 위한
     
     data = {
-        'cnt_name' : country_list,
-        'emi' : emi_list,
-        'year' : year_list
+        'CNT_NAME' : country_list,
+        'EMI' : emi_list,
+        'YEAR' : 2023,
+        'MONTH' : month_list
+
     }
 
     new_df = pd.DataFrame(data)
     print(new_df)
 
-    new_df.to_csv(f'Data/Year_Data/Outbound_Data_{year}.csv', index=False, encoding='cp949')
+    new_df.to_csv(f'Data/Year_Data/Outbound_Data_{year}월.csv', encoding='utf-8', index=False)
+
+
+def add_cntCode():
+    reg_pd = pd.read_csv('Data/region_Data/region_data.csv', encoding='utf-8')
+    country_df = pd.DataFrame(reg_pd)
+
+
+    # reg_pd.to_csv('Data/region_Data/region_data2.csv', encoding='utf-8', index=False)
+
+
+    directory = 'Data/Year_Data'  
+
+    files = [file.split('.')[0] for file in os.listdir(directory) if os.path.isfile(os.path.join(directory, file))]
+
+    for file in files:
+        fileName = file+ '.csv'
+        filePath = os.path.join(directory, fileName)
+        
+        emi_df = pd.read_csv(filePath, index_col=0, encoding='utf-8')
+
+        merged_df = pd.merge(emi_df, country_df, on='CNT_NAME', how='left')
+        print(merged_df)
+        merged_df.to_csv(f'Data/Year_Data/{file}_merge.csv', encoding='utf-8', index=False)
 
 
 
@@ -45,6 +71,7 @@ def save_to(year, year_df) :
 
     # 각 파일을 읽어와 행과 열을 바꾼 후 저장
     for file in files:
+
         fileName = file + '.csv'
         file_path = os.path.join(directory, fileName)
         
@@ -81,7 +108,8 @@ def save_to(year, year_df) :
     print("Files transposed and saved successfully.")
 
 def main() :
-    seperate_file()
+    add_cntCode()
+    # seperate_file()
 
 if __name__ == '__main__' :
     main()

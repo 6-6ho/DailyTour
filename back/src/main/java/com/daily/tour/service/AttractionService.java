@@ -9,7 +9,7 @@ import java.util.List;
 
 @Service
 public class AttractionService {
-    /*private static AttractionMapper attractionMapper;
+    private static AttractionMapper attractionMapper;
 
     public AttractionService(AttractionMapper attractionMapper) {
         this.attractionMapper = attractionMapper;
@@ -23,5 +23,5 @@ public class AttractionService {
     
     public Attraction getAttrDetail(String attrCode) {  // 관광지 디테일 정보
         return attractionMapper.findAttrDetailByAttrCode(attrCode);
-    }*/
+    }
 }

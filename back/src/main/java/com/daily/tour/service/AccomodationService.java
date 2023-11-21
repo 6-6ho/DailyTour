@@ -8,7 +8,7 @@ import java.util.List;
 
 @Service
 public class AccomodationService {
-    /*private static AccomodationMapper accomodationMapper;
+    private static AccomodationMapper accomodationMapper;
 
     public AccomodationService(AccomodationMapper accomodationMapper) {
         this.accomodationMapper = accomodationMapper;
@@ -19,6 +19,6 @@ public class AccomodationService {
 
     public Accommodation getAccomDetailByAccomCode(String accomCode) {  // 숙소 디테일 정보 
         return accomodationMapper.findByAccomDetailByAccomCode(accomCode);
-    }*/
+    }
 
 }
