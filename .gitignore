@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/Data/Search_Data
+
+# chromedriver
+chromedriver.exe
+
+test.py
+
 # C extensions
 *.so
 
@@ -152,10 +159,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# chromedriver
-chromedriver.exe
-
-test.py
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
@@ -206,3 +209,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
