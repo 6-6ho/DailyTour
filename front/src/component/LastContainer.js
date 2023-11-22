@@ -12,7 +12,6 @@ export default function LastContainer() {
             </div>
             <div className="col-8 right-wrap">
                 <Navbar></Navbar>
-                
             </div>
         </div>
     )    

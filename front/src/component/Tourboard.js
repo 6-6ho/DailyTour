@@ -15,7 +15,6 @@ export default function Tourboard() {
                 <div class='dashboard-div'>
                     <div class='exchange-rate-box-wrap'>
                         <div class='exchange-rate-box'>
-                        
                         </div>
                     </div>
                     
@@ -23,7 +22,6 @@ export default function Tourboard() {
                         <div class="col-5 p-10">
                             <div class="rank-box-wrap">
                                 <div class="rank-box">
-
                                 </div>
                             </div>
                         </div>
@@ -31,7 +29,6 @@ export default function Tourboard() {
                         <div class="col-5 p-10">
                             <div class="rank-box-wrap">
                                 <div class="rank-box">
-                                    
                                 </div>
                             </div>
                         </div>

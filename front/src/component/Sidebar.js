@@ -1,5 +1,7 @@
 import './Bar.css'
 import MonthlyChartjs from './MonthlyChartjs'
+import MonthlyTopList from './MonthlyTopList'
+import YearlyTopList from './YearlyTopList'
 
 export default function Sidebar() {
     return(
@@ -13,10 +15,10 @@ export default function Sidebar() {
                         Daily Tour
                     </span>
                     <div>
-                    <MonthlyTopList></MonthlyTopList>
+                    <MonthlyTopList/>
                     </div>
                     <div>
-                    <YearlyTopList></YearlyTopList>
+                    <YearlyTopList/>
                     </div>
                 </div>
             </div>
