@@ -1,0 +1,79 @@
+// -JPA 사용
+//plugins {
+//    id 'java'
+//    id 'org.springframework.boot' version '3.0.2'
+//    id 'io.spring.dependency-management' version '1.1.0'
+//}
+//
+//group = 'com.daily.tour'
+//version = '1.0-SNAPSHOT'
+//
+//repositories {
+//    mavenCentral()
+//}
+//
+//dependencies {
+//
+//
+//    implementation group: 'org.javassist', name: 'javassist', version: '3.15.0-GA'
+//    implementation 'org.springframework.boot:spring-boot-starter-web'
+//    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+//    testImplementation 'org.projectlombok:lombok:1.18.28'
+//    runtimeOnly 'mysql:mysql-connector-java' // MYSQL
+//    // runtimeOnly 'com.h2database:h2'
+//
+//    compileOnly 'org.projectlombok:lombok'
+//    annotationProcessor 'org.projectlombok:lombok'
+//    testAnnotationProcessor 'org.projectlombok:lombok'
+//    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+//    testImplementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter-test:3.0.2'  //mybatis
+//}
+//
+//test {
+//    useJUnitPlatform()
+//}
+
+
+// -- mybatis 사용
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.1.1'
+    id 'io.spring.dependency-management' version '1.1.0'
+}
+
+group = 'org.myname'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    sourceCompatibility = '17'
+}
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:3.0.2'
+    testImplementation 'org.projectlombok:lombok:1.18.28'//mybatis
+    compileOnly 'org.projectlombok:lombok'
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
+
+    runtimeOnly 'com.mysql:mysql-connector-j'  // MySQL 8.0.31 이후 버전
+
+    annotationProcessor 'org.projectlombok:lombok'
+    testAnnotationProcessor 'org.projectlombok:lombok'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter-test:3.0.2'  //mybatis
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}

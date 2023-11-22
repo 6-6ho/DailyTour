@@ -1,5 +1,5 @@
 import './Dashboard.css'
-import MiddleContainer from './MiddleContainer'
+import MiddleContainer from './MiddleConainer'
 // import MonthlyChart from './MonthlyChart'
 import MonthlyChartjs from './MonthlyChartjs'
 
@@ -9,6 +9,7 @@ export default function Dashboard() {
         <div className="dashboard-div">
             <MonthlyChartjs></MonthlyChartjs>
             <MiddleContainer></MiddleContainer>
+
         </div>
     )
 }
