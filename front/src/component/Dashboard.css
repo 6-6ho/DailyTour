@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@500;600;900&display=swap');
+.dashboard-div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* MonthlyChart */
+.monthly-chart-box-wrap {
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.monthly-chart-box {
+    width: 100%;
+    height: 100%;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+.monthly-chart-left {
+    width: 70%;
+    height: 100%;
+    /* width:50%; */
+}
+.monthly-chart-right{
+    width: 30%;
+    
+    /* width:50%;
+    padding: 10px; */
+}
+.chart-wrap{
+    box-sizing: border-box;
+}
+.monthly-line-charts-container {
+    position: relative;
+    height: 100%;
+    width:100%;
+}
+
+/*Year Chart*/
+/* .year-chart-box-wrap {npm start
+    width: 100%;
+    height: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+} */
+
+.middle-container-box-wrap {
+    width: 100%;
+    padding:10px;
+    height: 300px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.year-chart-box-container {
+    width: 50%;
+    height: 100%;
+}
+
+.year-chart-box{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+.select-box-container {
+    float: right;
+}
+
+/* 워드 클라우드 박스 */
+.word-cloud-box {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+/* Tourboard */
+.exchange-rate-box-wrap {
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.exchange-rate-box {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
+.rank-div {
+    width: 100%;
+    height: calc(100vh - 375px);
+    display: flex;
+    flex-direction: row;
+}
+
+.rank-box-wrap {
+    width:100%;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.rank-box {
+    width: 100%;
+    height: 100%;
+    padding:10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
