@@ -1,7 +1,4 @@
 import './Bar.css'
-import MonthlyChartjs from './MonthlyChartjs'
-import MonthlyTopList from './MonthlyTopList'
-import YearlyTopList from './YearlyTopList'
 
 export default function Sidebar() {
     return(
@@ -14,12 +11,6 @@ export default function Sidebar() {
                     <span className='logo-font'>
                         Daily Tour
                     </span>
-                    <div>
-                    <MonthlyTopList/>
-                    </div>
-                    <div>
-                    <YearlyTopList/>
-                    </div>
                 </div>
             </div>
         </div>

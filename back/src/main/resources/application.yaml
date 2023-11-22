@@ -1,0 +1,21 @@
+# mybatis
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/tourdb
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: 'root'
+    password: '0000'
+
+# JPA 사용
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/tourdb
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    username: 'root'
+#    password: '1234'
+#  jpa:
+#    open-in-view: false
+#    generate-ddl: true
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
