@@ -210,3 +210,71 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+
+### Back-end specific rules ###
+/back/.gradle
+/back/build/
+!/back/gradle/wrapper/gradle-wrapper.jar
+!/back/**/src/main/**/build/
+!/back/**/src/test/**/build/
+
+# IntelliJ IDEA specific rules
+/back/.idea/modules.xml
+/back/.idea/jarRepositories.xml
+/back/.idea/compiler.xml
+/back/.idea/libraries/
+/back/*.iws
+/back/*.iml
+/back/*.ipr
+/back/out/
+!/back/**/src/main/**/out/
+!/back/**/src/test/**/out/
+
+# Eclipse specific rules
+/back/.apt_generated
+/back/.classpath
+/back/.factorypath
+/back/.project
+/back/.settings
+/back/.springBeans
+/back/.sts4-cache
+/back/bin/
+!/back/**/src/main/**/bin/
+!/back/**/src/test/**/bin/
+
+# NetBeans specific rules
+/back/nbproject/private/
+/back/nbbuild/
+/back/dist/
+/back/nbdist/
+/back/.nb-gradle/
+
+# VS Code specific rules
+/back/.vscode/
+
+# Mac OS specific rules
+/back/.DS_Store
+/back/src/main/java/com/daily/tour/entity/
+
+### Front-end specific rules ###
+/front/node_modules
+/front/.pnp
+/front.pnp.js
+
+# testing
+/front/coverage
+
+# production
+/front/build
+
+# misc
+/front/.DS_Store
+/front.env.local
+/front.env.development.local
+/front.env.test.local
+/front.env.production.local
+
+# Logs
+/front/npm-debug.log*
+/front/yarn-debug.log*
+/front/yarn-error.log*
