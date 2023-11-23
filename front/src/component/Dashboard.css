@@ -72,6 +72,8 @@
     border-radius: 10px;
     box-sizing: border-box;
     background-color: white;
+    display: flex;
+    flex-direction: column;
 }
 .select-box-container {
     float: right;

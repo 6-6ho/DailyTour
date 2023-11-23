@@ -93,7 +93,7 @@ export default function MonthlyChartjs() {
             console.log(countryStat);
     });
 
-    });
+    }, []);
 
       const options = {
           maintainAspectRatio: false,

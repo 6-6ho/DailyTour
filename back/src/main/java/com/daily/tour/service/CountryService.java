@@ -28,4 +28,6 @@ public class CountryService {
     }
 
     public List<String> getMonthList() { return countryStatMapper.findMonth(); }
+
+    public List<String> getYearList() {return countryStatMapper.findYear(); }
 }

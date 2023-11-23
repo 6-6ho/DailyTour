@@ -10,7 +10,7 @@ spring:
     url: jdbc:mysql://localhost:3306/tourdb
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: 'root'
-    password: '0000'
+    password: '1234'
 
 
 

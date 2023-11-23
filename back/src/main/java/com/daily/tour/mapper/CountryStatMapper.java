@@ -22,12 +22,12 @@ public interface CountryStatMapper {
             "limit 5)as top_country on cet.cnt_code = top_country.cnt_code")
     List<CountryEmi> findEmiThisYear();  // 국가별 올해 월별 출국자 수
 
-    @Select("SELECT cet.cnt_code as cntCode, ct.cnt_name as cntName, cet.year as year, cet.emi as emi " +
+    @Select("SELECT distinct cet.cnt_code as cntCode, ct.cnt_name as cntName, cet.year as year, cet.emi as emi " +
             "FROM Country_Emi_tb cet JOIN Country_tb ct ON cet.cnt_code = ct.cnt_code " +
-            "WHERE cet.year = #{year} ORDER BY cet.year DESC LIMIT 5")
+            "WHERE cet.year = #{year} ORDER BY emi DESC LIMIT 5")
     List<CountryEmi> findEmiByYear(@Param("year") int year); //  연도별 출국자 수
 
-    @Select("SELECT distinct ct.cnt_code as cntCode, cet.emi as emi, cet.month as month, ct.cnt_name as cntCode " +
+    @Select("SELECT distinct ct.cnt_code as cntCode, cet.emi as emi, cet.month as month, ct.cnt_name as cntName  " +
             "FROM Country_Month_Emi_tb cet join Country_tb ct on cet.cnt_code = ct.cnt_code " +
             "WHERE cet.month = #{month} " +
             "ORDER BY emi desc " +
@@ -36,5 +36,7 @@ public interface CountryStatMapper {
 
     @Select("SELECT DISTINCT month FROM Country_Month_Emi_tb")
     List<String> findMonth();
+    @Select("SELECT DISTINCT year FROM Country_Emi_tb")
+    List<String> findYear();
 
 }
