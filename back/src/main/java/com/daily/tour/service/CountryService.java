@@ -26,4 +26,6 @@ public class CountryService {
     public List<CountryEmi> getEmiMonthList(int month) {    // 월별 출국자 상위 5개 리스트
         return countryStatMapper.findEmiByMonth(month);
     }
+
+    public List<String> getMonthList() { return countryStatMapper.findMonth(); }
 }

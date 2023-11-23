@@ -37,4 +37,9 @@ public class CountryStatController {
     ResponseEntity<List<CountryEmi>> getMonthStat(@PathVariable int month) {
         return ResponseEntity.ok().body(countryService.getEmiMonthList(month));
     }
+
+    @GetMapping("country/month/list")
+    ResponseEntity<List<String>> getMonthList() {   // 월 리스트
+        return  ResponseEntity.ok().body(countryService.getMonthList());
+    }
 }
