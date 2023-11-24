@@ -68,7 +68,7 @@ export default function MiddleContainer() {
                 labels: data.map((country) => country.cntName),
                 datasets: [{
                         type:'bar',
-                        // label: data.map((country) => country.cntName),
+                        label: data.map((country) => country.cntName),
                         data: data.map((country) => country.emi),
                         backgroundColor: [
                         'rgba(255, 99, 132, 0.2)',
@@ -123,7 +123,7 @@ export default function MiddleContainer() {
     return (
         <div className="middle-container-box-wrap">
 
-            <div className="col-5 h-10">
+            <div className="col-4 h-10">
                 <div className='year-chart-box p-1'>
                     <div className="select-box-container">
                         <select onChange={changeSelect} value={selected} defaultValue={1}>
@@ -140,7 +140,7 @@ export default function MiddleContainer() {
                 </div>
             </div>
 
-            <div className="col-5 h-10 pl-1">
+            <div className="col-6 h-10 pl-1">
                 <div className="word-cloud-box">
 
                 </div>

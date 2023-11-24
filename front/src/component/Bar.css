@@ -52,3 +52,18 @@
     font-size: 30px;
     color: rgba(7, 7, 51, 0.9);
 }
+.side-chart-box-container {
+    /* margin: 20px; */
+    width:100%;
+}
+.side-chart-box {
+    height: 320px;
+    margin: 30px;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #8080803b;
+}
