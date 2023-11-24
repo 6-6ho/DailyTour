@@ -1,927 +1,927 @@
-CNT_NAME,REG_NAME,ATTR_NAME,ATTR_REV_POS,ATTR_REV_NEG,score
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ì˜¤í´ëžœë“œ ë°•ë¬¼ê´€,21,0,4.6
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ì˜¤í´ëžœë“œ ë„ë©”ì¸,20,1,4.5
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ìŠ¤ì¹´ì´ íƒ€ì›Œ,21,0,4.6
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ì´ë“  ì‚°,20,1,4.5
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,Mount Victoria Reserve,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ì› íŠ¸ë¦¬ íž,21,0,4.6
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ì•Œë²„íŠ¸ íŒŒí¬,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ë‰´ì§ˆëžœë“œ ìœ„íˆ¬ì–´,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ëž‘ê¸°í† í†  ì„¬,9,1,4.3
-ë‰´ì§ˆëžœë“œ,ì˜¤í´ëžœë“œ,ë¹„ì•„ë•íŠ¸ í•˜ë²„,19,2,4.4
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,í€¸ì¦ˆíƒ€ìš´ ìŠ¤ì¹´ì´ ë¼ì¸ - ê³¤ëŒë¼ & ë£¨ì§€,21,0,4.6
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,Queenstown Hill,21,0,4.6
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,Shotover Jet,9,1,4.3
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,Glenorchy-Queenstown Road,21,0,4.6
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,Queenstown Gardens,21,0,4.6
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,Milford Sound,21,0,4.6
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,JUCY Cruise Milford Sound,10,0,4.5
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,Lake Wakatipu,19,2,4.4
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,Canyon Explorers,10,0,4.5
-ë‰´ì§ˆëžœë“œ,í€¸ìŠ¤íƒ€ìš´,RealNZ,10,0,4.5
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜ ì‹ë¬¼ì›,20,1,4.5
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,Christ Church Meadow,10,0,4.5
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,í•´ê¸€ë¦¬ ê³µì›,20,1,4.5
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,Quake City,10,0,4.5
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,Christ Church,19,2,4.4
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,International Antarctic Centre,7,3,4.0
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,Christchurch Tramway,7,3,4.0
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,Christchurch Cathedral,18,3,4.3
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,ìº”í„°ë² ë¦¬ ë°•ë¬¼ê´€,21,0,4.6
-ë‰´ì§ˆëžœë“œ,í¬ë¼ì´ìŠ¤íŠ¸ì²˜ì¹˜,Robert Falcon Scott Statue,7,2,4.2
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,ì›°ë§í„´ ì¼€ì´ë¸” ì¹´,20,1,4.5
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,ë¹…í† ë¦¬ì•„ ì‚°,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,ë‰´ì§ˆëžœë“œ ë°•ë¬¼ê´€ (í…ŒíŒŒíŒŒ),21,0,4.6
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,ì›°ë§í„´ ì‹ë¬¼ì›,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,ì¿ ë°” ìŠ¤íŠ¸ë¦¬íŠ¸ ì§€êµ¬,17,4,4.2
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,Oriental Bay,9,1,4.3
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,Wellington Waterfront,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,ì›°ë§í„´ ì‹œí‹° & í•´ì–‘ ë°•ë¬¼ê´€,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,êµ­íšŒ ì˜ì‚¬ë‹¹,10,0,4.5
-ë‰´ì§ˆëžœë“œ,ì›°ë§í„´,Mount Wellington,10,0,4.5
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Casino at Mandalay Bay,8,2,4.2
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Koi Kei Bakery,21,0,4.6
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Tenganan Ancient Village,21,0,4.6
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Hanalei Beach,10,0,4.5
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Like It Formosa,10,0,4.5
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Gunung Raya Golf Resort,6,0,4.4
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Taiwan Railway Steam locomotive No. LDK58,4,1,4.2
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,íƒ€ì´ë² ì´ 101,21,0,4.6
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,National Museum of Taiwan History,10,0,4.5
-ëŒ€ë§Œ,íƒ€ì´ë² ì´,Galway Bay,10,0,4.5
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,The Pier-2 Art Centre,19,2,4.4
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,í¬ê´‘ì‚°,21,0,4.6
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Kaohsiung Main Public Library,21,0,4.6
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Kaohsiung Museum of Fine Arts,9,1,4.3
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Dragon Tiger Tower,21,0,4.6
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Fo Guang Shan Buddha Museum,21,0,4.6
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Tuntex 85 Sky Tower,19,2,4.4
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Cijin Island,21,0,4.6
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Xiziwan,21,0,4.6
-ëŒ€ë§Œ,ê°€ì˜¤ìŠ,Formosa Boulevard Station,20,1,4.5
-ëŒ€ë§Œ,í™”ë¡„,Chishingtan Scenic Area,20,1,4.5
-ëŒ€ë§Œ,í™”ë¡„,Taroko National Park,20,1,4.5
-ëŒ€ë§Œ,í™”ë¡„,Lotung,4,0,4.4
-ëŒ€ë§Œ,í™”ë¡„,Taroko Gorge,21,0,4.6
-ëŒ€ë§Œ,í™”ë¡„,Hualien Tourist Fish Harbor,1,0,4.3
-ëŒ€ë§Œ,í™”ë¡„,Hualien Harbor Scenic Bridge,3,0,4.4
-ëŒ€ë§Œ,í™”ë¡„,Xiouyeliu,10,0,4.5
-ëŒ€ë§Œ,í™”ë¡„,Yanzihkou Trail (Swallow Grotto),29,1,4.6
-ëŒ€ë§Œ,í™”ë¡„,Farglory Ocean Park,21,0,4.6
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Chihkan Tower (Fort Provintia),19,2,4.4
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Guanziling Hot Spring,10,0,4.5
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Confucius Temple,20,1,4.5
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Ji Dian Wu Miao,6,0,4.4
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Chimei Museum,17,4,4.2
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,National Cheng Kung University,10,0,4.5
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,National Museum of Taiwan History,10,0,4.5
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Tainan Art Museum,6,1,4.3
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Anping Fort (Anping gubao),18,3,4.3
-ëŒ€ë§Œ,íƒ€ì´ë‚œ,Tainan Station,10,0,4.5
-ë…ì¼,ë² ë¥¼ë¦°, ë¸Œëž€ë´ë¶€ë¥´í¬ ë¬¸ (ë¸Œëž€ë´ë¶€ë¥´í¬ í† ì–´),19,2,4.4
-ë…ì¼,ë² ë¥¼ë¦°, ì´ìŠ¤íŠ¸ ì‚¬ì´ë“œ ê°¤ëŸ¬ë¦¬,21,0,4.6
-ë…ì¼,ë² ë¥¼ë¦°,Berliner Dom,21,0,4.6
-ë…ì¼,ë² ë¥¼ë¦°,Berlin Central Station,19,2,4.4
-ë…ì¼,ë² ë¥¼ë¦°,Tiergarten,21,0,4.6
-ë…ì¼,ë² ë¥¼ë¦°,ë„ì´ì³ ë¶„ë°ìŠˆíƒ€í¬,21,0,4.6
-ë…ì¼,ë² ë¥¼ë¦°,í…ŒëŸ¬ì˜ í† í¬ê·¸ëž˜í”¼ ë°•ë¬¼ê´€,21,0,4.6
-ë…ì¼,ë² ë¥¼ë¦°, í™€ë¡œì½”ìŠ¤íŠ¸ ê¸°ë…ê´€ (ìœ ëŒ€ì¸ í•™ì‚´ ì¶”ëª¨ ê³µì›),21,0,4.6
-ë…ì¼,ë² ë¥¼ë¦°,Museum Island,19,2,4.4
-ë…ì¼,ë² ë¥¼ë¦°, ë² ë¥¼ë¦° ìž¥ë²½ ê¸°ë…ê´€,20,1,4.5
-ë…ì¼,ë®Œí—¨,ë§ˆë¦¬ì—” ê´‘ìž¥,21,0,4.6
-ë…ì¼,ë®Œí—¨,New Town Hall (Neus Rathaus),21,0,4.6
-ë…ì¼,ë®Œí—¨,BMW ë°•ë¬¼ê´€,20,1,4.5
-ë…ì¼,ë®Œí—¨,Allianz Arena,21,0,4.6
-ë…ì¼,ë®Œí—¨,Nymphenburg Palace,20,1,4.5
-ë…ì¼,ë®Œí—¨,Olympic Tower,19,2,4.4
-ë…ì¼,ë®Œí—¨, ë‹¤í•˜ìš° ê°•ì œ ìˆ˜ìš©ì†Œ,21,0,4.6
-ë…ì¼,ë®Œí—¨,ìž‰ê¸€ë¦¬ì‰¬ ê°€ë“ ,21,0,4.6
-ë…ì¼,ë®Œí—¨,Residenz,21,0,4.6
-ë…ì¼,ë®Œí—¨,FC Bayern Museum,9,1,4.3
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Romer,21,0,4.6
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Cathedral of St. Bartholomew (Dom St. Bartholomaus),21,0,4.6
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Main Tower,18,3,4.3
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Frankfurt am Main Hauptbahnhof,20,1,4.5
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Roemerberg,10,0,4.5
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Stadel Museum,21,0,4.6
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Messe Frankfurt,21,0,4.6
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Deutsche Bank Park,10,0,4.5
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,Iron Bridge,21,0,4.6
-ë…ì¼,í”„ëž‘í¬í‘¸ë¥´íŠ¸,The Hauptwache,21,0,4.6
-ë…ì¼,í•¨ë¸Œë£¨í¬,USS ë³´ìš°í•€ ìž ìˆ˜í•¨ ë°•ë¬¼ê´€ & ê³µì›,21,0,4.6
-ë…ì¼,í•¨ë¸Œë£¨í¬,INS ì¿ ë£¨ìˆ˜ë¼ ìž ìˆ˜í•¨ ë°•ë¬¼ê´€,21,0,4.6
-ë…ì¼,í•¨ë¸Œë£¨í¬,Hakodate Morning Market,19,2,4.4
-ë…ì¼,í•¨ë¸Œë£¨í¬,í•˜ì½”ë‹¤í…Œì‚°,21,0,4.6
-ë…ì¼,í•¨ë¸Œë£¨í¬,Deyang Quchujian Exhibition Hall,2,0,4.3
-ë…ì¼,í•¨ë¸Œë£¨í¬,Goryokaku Tower,21,0,4.6
-ë…ì¼,í•¨ë¸Œë£¨í¬,Goryokaku Park,21,0,4.6
-ë…ì¼,í•¨ë¸Œë£¨í¬,Mt.Hakodate Ropeway,21,0,4.6
-ë…ì¼,í•¨ë¸Œë£¨í¬,Memorial Ship MIKASA,21,0,4.6
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”, ë¶‰ì€ ê´‘ìž¥,21,0,4.6
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”, ëª¨ìŠ¤í¬ë°” í¬ë ˜ë¦°,21,0,4.6
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”,Moscow Metro,18,3,4.3
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”, ì„± ë°”ì‹¤ë¦¬ ì„±ë‹¹,19,2,4.4
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”,Sparrow Hills (Vorobyovy Gory),10,0,4.5
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”,Lomonosov Moscow State University (MGU),10,0,4.5
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”,Moscow-City,9,1,4.3
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”,Bolshoi Theatre,21,0,4.6
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”,High-Speed Train Sapsan,10,0,4.5
-ëŸ¬ì‹œì•„,ëª¨ìŠ¤í¬ë°”,Old Arbat (Stary Arbat),17,4,4.2
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,í”¼ì˜ ì‚¬ì›,21,0,4.6
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬, ë„¤í”„ìŠ¤í‚¤ í”„ë¡œìŠ¤íŽ™íŠ¸,21,0,4.6
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,High-Speed Train Sapsan,10,0,4.5
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,Leningradskiy Railway Station,7,3,4.0
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,Palace Bridge,10,0,4.5
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,The State Museum St. Isaacâ€™s Cathedral,21,0,4.6
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,Admiralteyskaya Station,1,0,4.3
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,Gazprom Arena,10,0,4.5
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,University Embankment,9,0,4.5
-ëŸ¬ì‹œì•„,ìƒíŠ¸íŽ˜í…Œë¥´ë¶€ë¥´í¬,The Building Of The Admiralty,10,0,4.5
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Eagle's Nest Mount,21,0,4.6
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Memorial to the Fighters for the Soviet Power in the Far East,21,0,4.6
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Golden Bridge,21,0,4.6
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Russky Bridge,20,1,4.5
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Monument to Sailors,1,1,4.1
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Railroad Terminal,18,3,4.3
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Betancourt Bridge,1,0,4.3
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Railway Station,3,0,4.4
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Svetlanskaya Street,18,3,4.3
-ëŸ¬ì‹œì•„,ë¸”ë¼ë””ë³´ìŠ¤í† í¬,Primorsky Aquarim,9,1,4.3
-ëŸ¬ì‹œì•„,ì†Œì¹˜,ì†Œì¹˜ê¸°ë…ê´€,1,0,4.3
-ëŸ¬ì‹œì•„,ì†Œì¹˜,Arboretum Park,7,3,4.0
-ëŸ¬ì‹œì•„,ì†Œì¹˜,Krasnaya Polyana Mountain Cluster,9,1,4.3
-ëŸ¬ì‹œì•„,ì†Œì¹˜,Riviera Park,7,3,4.0
-ëŸ¬ì‹œì•„,ì†Œì¹˜,Olimpiyskiy Park,21,0,4.6
-ëŸ¬ì‹œì•„,ì†Œì¹˜,Rosa Khutor Ski Resort,21,0,4.6
-ëŸ¬ì‹œì•„,ì†Œì¹˜,Sochi Discovery World Aquarium,21,0,4.6
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,Taipa Village Macau,20,1,4.5
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,ìœˆ ë§ˆì¹´ì˜¤,21,0,4.6
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,ì—ë¯¸ë¦¬íŠ¸ íŒ°ë¦¬ìŠ¤,20,1,4.5
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,ìžì´í‘¸ë¥´ ì‹œí‹° íŒ°ë¦¬ìŠ¤,21,0,4.6
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,ê°€ë¥´ë‹¤ëžœë“œ ë¦¬ì¡°íŠ¸,8,2,4.2
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸, ë¶€ë‹¤ ì™•ê¶ - ë¡œì–„ íŒ°ë¦¬ìŠ¤,21,0,4.6
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,ìœ ë‹ˆë²„ì…œ ì˜¬ëžœë„ ë¦¬ì¡°íŠ¸,20,1,4.5
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,ë¦¬ì¡°íŠ¸ ì›”ë“œ ì„¼í† ì‚¬ ì¹´ì§€ë…¸,9,1,4.3
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,ë²¨ë ˆíŠ¸ë¦¬ì¦ˆë‹ˆ íŒ°ë¦¬ìŠ¤ (êµ­ë¦½ ë¯¸ìˆ ê´€),20,1,4.5
-ë§ˆì¹´ì˜¤,ìœˆ íŒ°ë¦¬ìŠ¤ ë¦¬ì¡°íŠ¸,í¬ë…¸ë²¨ ì–´ë®¤ì¦ˆë¨¼íŠ¸ ë¦¬ì¡°íŠ¸,30,0,4.7
-ë§ˆì¹´ì˜¤,ìƒŒì¦ˆ ì½”íƒ€ì´ ì„¼íŠ¸ëŸ´,Londoner Macau,20,1,4.5
-ë§ˆì¹´ì˜¤,ìƒŒì¦ˆ ì½”íƒ€ì´ ì„¼íŠ¸ëŸ´,ìƒŒì¦ˆ ìŠ¤ì¹´ì´íŒŒí¬,19,2,4.4
-ë§ˆì¹´ì˜¤,ìƒŒì¦ˆ ì½”íƒ€ì´ ì„¼íŠ¸ëŸ´,ì„¼íŠ¸ëŸ´ íŒŒí¬,20,1,4.5
-ë§ˆì¹´ì˜¤,ìƒŒì¦ˆ ì½”íƒ€ì´ ì„¼íŠ¸ëŸ´,ì„¼íŠ¸ëŸ´ ì›”ë“œ í”Œë¼ìž,19,2,4.4
-ë§ˆì¹´ì˜¤,ìƒŒì¦ˆ ì½”íƒ€ì´ ì„¼íŠ¸ëŸ´,ì„¼íŠ¸ëŸ´ í”Œë¼ìž,9,1,4.3
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,ëª¬í…Œ ìš”ìƒˆ,21,0,4.6
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,Macau-Taipa Bridge,21,0,4.6
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,ë‰´ì•¼ì˜¤í•œ ë°±í™”ì ,10,0,4.5
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,St. Lawrence's Church,21,0,4.6
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,ë§ˆì¹´ì˜¤ ì—­ì‚¬ì§€êµ¬,21,0,4.6
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,ê¼´ë¡œì•ˆ,20,1,4.5
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,í•˜ìš°ìŠ¤ ì˜¤ë¸Œ ëŒ„ì‹± ì›Œí„°,21,0,4.6
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,Outer Harbour Ferry Terminal,20,1,4.5
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,ê·¸ëžœë“œ ìºë„ ìˆìŠ¤,21,0,4.6
-ë§ˆì¹´ì˜¤,ë§ˆì¹´ì˜¤ ë°˜ë„,Na Tcha Temple,10,0,4.5
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,ì„¸ì¸íŠ¸ í´ ëŒ€ì„±ë‹¹,21,0,4.6
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,ì„¸ì´íŠ¸ íŒ¨íŠ¸ë¦­ ëŒ€ì„±ë‹¹,21,0,4.6
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,ì„± ë°”ìš¸ ê±°ë¦¬(ë‹¤ì‚°ë°”),21,0,4.6
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,ëª¬í…Œ ìš”ìƒˆ,21,0,4.6
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹,21,0,4.6
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,Abbazia di San Paolo Fuori Le Mura,10,0,4.5
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,St. Paul's Hill & Church (Bukit St. Paul),21,0,4.6
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,Macao Government Tourism Office,17,4,4.2
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì , ì˜¬ë“œ ì„¸ì¸íŠ¸ í´ ì„±ë‹¹,10,0,4.5
-ë§ˆì¹´ì˜¤,ì„¸ì¸íŠ¸ í´ ì„±ë‹¹ ìœ ì ,ì„¸ì¸íŠ¸ íŒ¨íŠ¸ë¦­ ì„±ë‹¹,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,íŽ˜íŠ¸ë¡œë‚˜ìŠ¤ íŠ¸ìœˆ íƒ€ì›Œ,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,ì„¼íŠ¸ëŸ´ ë§ˆì¼“ ì¿ ì•Œë¼ë£¸í‘¸ë¥´,17,4,4.2
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,ì¿ ì•Œë¼ë£¸í‘¸ë¥´ ì»¨ë²¤ì…˜ ì„¼í„°,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,ë¦¬í‹€ ì¸ë””ì•„ - ì¿ ì•Œë¼ë£¸í‘¸ë¥´,18,3,4.3
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,KLCC Park,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,íŒŒë¹Œë¦¬ì˜¨ KL,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,ì¿ ì•Œë¼ë£¸í‘¸ë¥´ ë²„ë“œ íŒŒí¬,19,2,4.4
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,GO KL City Bus,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,KLIA Ekspres,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ì¿ ì•Œë¼ë£¸í‘¸ë¥´,ë°”íˆ¬ ë™êµ´,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,ë§ˆëˆ„ì¹¸ ì„¬,18,3,4.3
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,Kota Kinabalu City Mosque,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,Tanjung Aru Beach,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,Imago Shopping Mall,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,Mantanani Island,17,4,4.2
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,ìžìŠ¤ë¯¼ ë§ˆì‚¬ì§€,19,2,4.4
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,Sapi Island,18,3,4.3
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,I Love KK,9,1,4.3
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,Tanjung Aru Perdana Park,19,2,4.4
-ë§ë ˆì´ì‹œì•„,ì½”íƒ€í‚¤ë‚˜ë°œë£¨,Tunku Abdul Rahman Marine Park,19,2,4.4
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Panorama Langkawi SkyCab,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,ëž‘ì¹´ìœ„ ìŠ¤ì¹´ì´ ë¸Œë¦¬ì§€,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Eagle Square,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Kilim Karst Geoforest Park,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Tanjung Rhu Beach,19,2,4.4
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Cenang Beach,19,2,4.4
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Oriental Village,9,1,4.3
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Ko Lipe,10,0,4.5
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Langkawi Night Market,10,0,4.5
-ë§ë ˆì´ì‹œì•„,ëž‘ì¹´ìœ„,Fauna Flora Eco,10,0,4.5
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´, ì¡´ì»¤ ìŠ¤íŠ¸ë¦¬íŠ¸,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,Malacca River,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,Red Square (Dutch Square),21,0,4.6
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,St. Paul's Hill & Church (Bukit St. Paul),21,0,4.6
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,Menara Taming Sari,10,0,4.5
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,Malacca Heritage Centre,9,1,4.3
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,Stadthuys,10,0,4.5
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,River Walk,21,0,4.6
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,Christ Church,20,1,4.5
-ë§ë ˆì´ì‹œì•„,ë§ë¼ì¹´,St. Francis Xavier Church,21,0,4.6
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°,Zocalo,21,0,4.6
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°,êµ­ë¦½ ì¸ë¥˜í•™ ë°•ë¬¼ê´€,21,0,4.6
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°, ì½”ìš”ì•„ì¹¸,21,0,4.6
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°,Paseo de la Reforma,20,1,4.5
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°,ë§ˆìš”ë¥´ ì‚¬ì› ë°•ë¬¼ê´€,10,0,4.5
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°, í…Œì˜¤í‹°ìš°ì•„ì¹¸,21,0,4.6
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°,San Angel,9,1,4.3
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°,Mercado De Artesanias La Ciudadela,9,1,4.3
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°,Catedral Metropolitana de la Ciudad de MÃ©xico,21,0,4.6
-ë©•ì‹œì½”,ë©•ì‹œì½”ì‹œí‹°, ì°¨í’€í…ŒíŽ™ ì„±,20,1,4.5
-ë©•ì‹œì½”,ì¹¸ì¿¤, ì¹˜ì²¸ ì´íŠ¸ì‚¬,19,2,4.4
-ë©•ì‹œì½”,ì¹¸ì¿¤,La Isla,18,3,4.3
-ë©•ì‹œì½”,ì¹¸ì¿¤,Xcaret,20,1,4.5
-ë©•ì‹œì½”,ì¹¸ì¿¤,Avenida Kukulkan,9,1,4.3
-ë©•ì‹œì½”,ì¹¸ì¿¤,Playa Delfines,19,2,4.4
-ë©•ì‹œì½”,ì¹¸ì¿¤,Xplor Park by Xcaret,20,1,4.5
-ë©•ì‹œì½”,ì¹¸ì¿¤,Happy Shuttle Cancun,10,0,4.5
-ë©•ì‹œì½”,ì¹¸ì¿¤,ì…€í•˜ ê³µì›,21,0,4.6
-ë©•ì‹œì½”,ì¹¸ì¿¤,Coco Bongo Playa del Carmen,5,5,3.7
-ë©•ì‹œì½”,ì¹¸ì¿¤,Coco Bongo Cancun,19,2,4.4
-ë©•ì‹œì½”,íˆ´ë£¸, íˆ´ë£¸ì˜ ë§ˆì•¼ ìœ ì ì§€,21,0,4.6
-ë©•ì‹œì½”,íˆ´ë£¸,Tulum Avenue,9,1,4.3
-ë©•ì‹œì½”,íˆ´ë£¸,Mayan Beach,10,0,4.5
-ë©•ì‹œì½”,íˆ´ë£¸,OZ Adventures,9,1,4.3
-ë©•ì‹œì½”,íˆ´ë£¸,Playa Paraiso,6,4,3.9
-ë©•ì‹œì½”,íˆ´ë£¸, ì½”ë°” ìœ ì ì§€,8,2,4.2
-ë©•ì‹œì½”,íˆ´ë£¸,Gran Cenote,9,1,4.3
-ë©•ì‹œì½”,íˆ´ë£¸,Nuestra Senora del Carmen Catholic Church,10,0,4.5
-ë©•ì‹œì½”,íˆ´ë£¸,Scubascoolmexico,10,0,4.5
-ë©•ì‹œì½”,íˆ´ë£¸,Palacio Municipal,1,1,4.1
-ë©•ì‹œì½”,í”„ë¼ì•¼ë¸ì¹´ë¥´ë©˜,ì§€í•˜ ê¶ì „,17,4,4.2
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Zaisan Memorial,21,0,4.6
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Gorkhi-Terelj National Park,21,0,4.6
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Galleria Souvenir Store,10,0,4.5
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Galleria Souvenir,4,0,4.4
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Choijin Lama Temple Museum,9,1,4.3
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Altai Bighorn Statue,3,1,4.2
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Genghis Khan Square,21,0,4.6
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,The State Department Store,8,2,4.2
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,Datsan Rinpoche Bagsha,8,2,4.2
-ëª½ê³¨,ìš¸ëž€ë°”í† ë¥´,National History Museum,21,0,4.6
-ë¯¸êµ­,ë‰´ìš•,ë©”íŠ¸ë¡œí´ë¦¬íƒ„ ë¯¸ìˆ ê´€,19,2,4.4
-ë¯¸êµ­,ë‰´ìš•,ë¡íŽ ëŸ¬ ì„¼í„° ì „ë§ëŒ€,21,0,4.6
-ë¯¸êµ­,ë‰´ìš•,ì„¼íŠ¸ëŸ´ íŒŒí¬,20,1,4.5
-ë¯¸êµ­,ë‰´ìš•, íƒ€ìž„ ìŠ¤í€˜ì–´,19,2,4.4
-ë¯¸êµ­,ë‰´ìš•,ì— íŒŒì´ì–´ ìŠ¤í…Œì´íŠ¸ ë¹Œë”©,20,1,4.5
-ë¯¸êµ­,ë‰´ìš•,ë‰´ìš• ê³µê³µ ë„ì„œê´€,21,0,4.6
-ë¯¸êµ­,ë‰´ìš•,ë¸Œë¡œë“œì›¨ì´,20,1,4.5
-ë¯¸êµ­,ë‰´ìš•,í•˜ì´ ë¼ì¸,21,0,4.6
-ë¯¸êµ­,ë‰´ìš•,ë¸Œë¼ì´ì–¸íŠ¸ íŒŒí¬,21,0,4.6
-ë¯¸êµ­,ë‰´ìš•,ê·¸ëžœë“œ ì„¼íŠ¸ëŸ´ í„°ë¯¸ë„,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,ê¸ˆë¬¸êµ,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,ìƒŒí”„ëž€ì‹œìŠ¤ì½” ë² ì´,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,íŠ¸ìœˆ í”½ìŠ¤,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,ìƒŒí”„ëž€ì‹œìŠ¤ì½” í˜„ëŒ€ ë¯¸ìˆ ê´€,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,ì¼€ì´ë¸” ì¹´,20,1,4.5
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,ìƒŒí”„ëž€ì‹œìŠ¤ì½” ì‹œì²­,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,ìƒŒí”„ëž€ì‹œìŠ¤ì½” ë² ì´ ë¸Œë¦¬ì§€,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,Lombard Street,21,0,4.6
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”,í”¼ì–´ 39,18,3,4.3
-ë¯¸êµ­,ìƒŒí”„ëž€ì‹œìŠ¤ì½”, ì•Œì¹´íŠ¸ë¼ì¦ˆ,21,0,4.6
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,ë‹¤ì € ìŠ¤íƒ€ë””ì›€,21,0,4.6
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,ê·¸ë¦¬í”¼ìŠ¤ íŒŒí¬,21,0,4.6
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,ê²Œí‹° ì„¼í„°,20,1,4.5
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,Moonstone Beach,10,0,4.5
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,íŒíƒ€ì§€ìŠ¤ ê·¹ìž¥,8,2,4.2
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,Angel Stadium of Anaheim,10,0,4.5
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,Greystone Mansion and Park,10,0,4.5
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,Gloria Molina Grand Park,10,0,4.5
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,Kelso Dunes,9,1,4.3
-ë¯¸êµ­,ë¡œìŠ¤ì—”ì ¤ë ˆìŠ¤,17-Mile Drive,20,1,4.5
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,ë¼ìŠ¤ë² ì´ê±°ìŠ¤ í”„ë¦¬ë¯¸ì—„ ì•„ìš¸ë ›,21,0,4.6
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,The Strip,20,1,4.5
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,Vegas Rockstar VIP,21,0,4.6
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,Welcome to Fabulous Las Vegas Sign,19,2,4.4
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,The Spa at Vdara,7,3,4.0
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,The Grand Canal Shoppes at The Venetian Resort,20,1,4.5
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,ë¼ìŠ¤ë² ê°€ìŠ¤ ë‹¤ìš´íƒ€ìš´,19,2,4.4
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,Paris Las Vegas,21,0,4.6
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,Seminole Hard Rock Casino Tampa,3,7,3.4
-ë¯¸êµ­,ë¼ìŠ¤ë² ì´ê±°ìŠ¤,Fremont Street Experience,20,1,4.5
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,Yangon Central Railway Station,18,3,4.3
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,ì‰ë‹¤ê³¤ íŒŒê³ ë‹¤,21,0,4.6
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,Sule Pagoda,19,2,4.4
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,Yangon Circular Train,14,7,3.8
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,Botahtaung Pagoda,10,0,4.5
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,Bogyoke Aung San Market,20,1,4.5
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,Myanmar Plaza Shopping Center,10,0,4.5
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,Immaculate Conception Cathedral,20,1,4.5
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,The Rangoon War Cemetery,10,0,4.5
-ë¯¸ì–€ë§ˆ,ì–‘ê³¤,JJ Express,21,0,4.6
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,Mandalay Hill,21,0,4.6
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,Kuthodaw Pagoda & the World's Largest Book,20,1,4.5
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,ë¯¸í•˜ë¬´ë‹ˆ íŒŒê³ ë‹¤,19,2,4.4
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,ìš° ë² ì¸ ë‹¤ë¦¬,20,1,4.5
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,Shark Reef Aquarium,8,2,4.2
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´, í™©ê¸ˆ ê¶ì „ ìˆ˜ë„ì› (ì‰ë‚œë„ ì§œì›…),21,0,4.6
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,Sanda Muni Paya,10,0,4.5
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,Health Center Thai Massage,8,2,4.2
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,Mandalay Palace,10,0,4.5
-ë¯¸ì–€ë§ˆ,ë§Œë‹¬ë ˆì´,Mandalay Fort,7,3,4.0
-ë¯¸ì–€ë§ˆ,ë‚­ìš°,Nyaung U Market,8,2,4.2
-ë¯¸ì–€ë§ˆ,ë°”ê°„,ë°”ê°„ì˜ ì‚¬ì›ë“¤,21,0,4.6
-ë¯¸ì–€ë§ˆ,ë°”ê°„,ì•„ë‚œë‹¤ ì‚¬ì›,20,1,4.5
-ë¯¸ì–€ë§ˆ,ë°”ê°„,ì‰ì‚°ë„ íŒŒê³ ë‹¤,21,0,4.6
-ë¯¸ì–€ë§ˆ,ë°”ê°„,Sulamani Guphaya Temple,10,0,4.5
-ë¯¸ì–€ë§ˆ,ë°”ê°„,ì‰ì§€ê³¤ íŒŒì•¼,21,0,4.6
-ë¯¸ì–€ë§ˆ,ë°”ê°„,Dhammayangyi Temple,19,2,4.4
-ë¯¸ì–€ë§ˆ,ë°”ê°„,Htilominlo Pahto,10,0,4.5
-ë¯¸ì–€ë§ˆ,ë°”ê°„,JJ Express,21,0,4.6
-ë¯¸ì–€ë§ˆ,ë°”ê°„,Thatbyinnyu Temple,10,0,4.5
-ë¯¸ì–€ë§ˆ,ë°”ê°„,Oriental Ballooning Bagan,10,0,4.5
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,People's Committee Building,10,0,4.5
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,Dong Khoi Street,21,0,4.6
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,ë¹„í…ìŠ¤ì½” íŒŒì´ë‚¸ì…œ íƒ€ì›Œ ìŠ¤ì¹´ì´ë°í¬,18,3,4.3
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,Asiana Link Travel,21,0,4.6
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,Saigon River,19,2,4.4
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,Saigon Hotpot - Travel With Local Youth,10,0,4.5
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,Notre Dame Square,21,0,4.6
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°, ì¤‘ì•™ ìš°ì²´êµ­,20,1,4.5
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,í˜¸ì¹˜ë¯¼ ê´€ì €,20,1,4.5
-ë² íŠ¸ë‚¨,í˜¸ì¹˜ë¯¼ì‹œí‹°,Asia Pacific Travel Vietnam,10,0,4.5
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,í•˜ë…¸ì´ êµ¬ì‹œê°€,19,2,4.4
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,í˜¸ì•ˆ ë¼ì—  í˜¸ìˆ˜,19,2,4.4
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,LA Spa Trendy,21,0,4.6
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,Mido Spa,21,0,4.6
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,Serene Spa,21,0,4.6
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,La Belle Vie Spa,30,0,4.7
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,Hanoi Labelle Vie Spa,20,1,4.5
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,Mido Spa 1,21,0,4.6
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,Estheva Spa,21,0,4.6
-ë² íŠ¸ë‚¨,í•˜ë…¸ì´,L'essence Spa,21,0,4.6
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘, ìŠ¤ì™€ì–Œë¶€ë‚˜íŠ¸ ì‚¬ì›,19,2,4.4
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,ë³´ë“œë‚˜íŠ¸ ì‚¬ë¦¬íƒ‘,19,2,4.4
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,Nha Trang Beach,20,1,4.5
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,Po Nagar Cham Towers,21,0,4.6
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘, íŒŒìŠˆíŒŒí‹°ë‚˜íŠ¸ ì‚¬ì›,21,0,4.6
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,Monkey Island,20,1,4.5
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,Nha Trang Sea Star,21,0,4.6
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,Charm Spa Grand Nha Trang,21,0,4.6
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,Casa Spa,19,2,4.4
-ë² íŠ¸ë‚¨,ë‚˜íŠ¸ëž‘,Long Son Pagoda,18,3,4.3
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,í”„ë¼ë‚­ ë¹„ì¹˜,20,1,4.5
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,Dragon Bridge,17,4,4.2
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,Herbal Spa,21,0,4.6
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,ë‹¤ ë‚­ ë¹„ì¹˜,20,1,4.5
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,Ba Na Hills,20,1,4.5
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,Pandanus Spa Hoi An,20,1,4.5
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,Lady Buddha,21,0,4.6
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,Dahan Spa Danang,21,0,4.6
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,Tabalo Outdoor,20,1,4.5
-ë² íŠ¸ë‚¨,ë‹¤ë‚­,ì¹´ì˜¤ì‚° ë¡œë“œ,19,2,4.4
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,ì‚¬ê·¸ë¼ë‹¤ íŒŒë°€ë¦¬ì•„ ì„±ë‹¹,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,êµ¬ì—˜ ê³µì›,19,2,4.4
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,Spotify Camp Nou,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,ëª¬ì£¼ìµ ê³µì›,20,1,4.5
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜, ê³ ë”• ì§€êµ¬ (ë°”ë¦¬ ê³ í‹±),21,0,4.6
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,AerobÃºs,19,2,4.4
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,Parc dâ€™Atraccions Tibidabo,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,ì¹´íƒˆë£¨ëƒ êµ­ë¦½ ë¯¸ìˆ ê´€ - MNAC,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,Plaza de Catalunya,19,2,4.4
-ìŠ¤íŽ˜ì¸,ë°”ë¥´ì…€ë¡œë‚˜,Barcelona Cathedral,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,í”„ë¼ë„ ë°•ë¬¼ê´€,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,Puerta del Sol,20,1,4.5
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ, ë§ˆë“œë¦¬ë“œ ì™•ê¶,20,1,4.5
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,Santiago Bernabeu Stadium,17,4,4.2
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,Gran Via,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,ë ˆí‹°ë¡œ íŒŒí¬ (íŒŒë¥´ ë¸ ë ˆí‹°ë¡œ),21,0,4.6
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,Plaza de Cibeles,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,Palacio de Cibeles,20,1,4.5
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,Plaza Mayor,20,1,4.5
-ìŠ¤íŽ˜ì¸,ë§ˆë“œë¦¬ë“œ,Templo de Debod,17,4,4.2
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,ìŠ¤íŽ˜ì¸ ê´‘ìž¥,21,0,4.6
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼, ì„¸ë¹„ì•¼ ëŒ€ì„±ë‹¹ (ì¹´í…Œë“œëž„ ë° ì„¸ë¹„ì•¼),21,0,4.6
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,Torre Giralda,20,1,4.5
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,ì•Œì¹´ì‚¬ë¥´,20,1,4.5
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,Centro Historico de Sevilla,21,0,4.6
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,Setas de Sevilla (Metropol Parasol),19,2,4.4
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,Barrio Santa Cruz,21,0,4.6
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,ë§ˆë¦¬ì•„ ë£¨ì´ì‚¬ ê³µì›,21,0,4.6
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,Torre del Oro,17,4,4.2
-ìŠ¤íŽ˜ì¸,ì„¸ë¹„ì•¼,Iglesia Colegial del Salvador,21,0,4.6
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,Ciudad de las Artes y las Ciencias,20,1,4.5
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,OceanogrÃ fic ValÃ¨ncia,8,2,4.2
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,Central Market of Valencia,18,3,4.3
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,Valencia Cathedral,9,1,4.3
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,EstaciÃ³ del Nord,9,1,4.3
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,Miguelete,9,1,4.3
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,Plaza del Ayuntamiento,9,1,4.3
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,Plaza del Mercado (Placa del Mercat),10,0,4.5
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,Museu Faller de ValÃ¨ncia,8,2,4.2
-ìŠ¤íŽ˜ì¸,ë°œë Œì‹œì•„,La Lonja de la Seda,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ, ë¸”ë ˆë“œ ì„±,20,1,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ, ë¹ˆíŠ¸ê°€ë¥´ í˜‘ê³¡,29,1,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ,Lake Bled,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ,Lake Bohinj,9,1,4.3
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ,Bled Island,20,1,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ,Vogel Ski Center,9,1,4.3
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ,Mamut Slovenija,7,3,4.0
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ,Vrsic Pass - Julian Alps,9,1,4.3
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¸”ë ˆë“œ,Straza Bled,8,2,4.2
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,The Ljubljana Castle,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,í”„ë ˆì„¸ë Œ ê´‘ìž¥,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,River Ljubljanica Kanal,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜, ì‚¼ì¤‘êµ (íŠ¸ë¡œëª¨ìŠ¤í† ë¸Œì˜ˆ),19,2,4.4
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,Cankarjevo NabreÅ¾je,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,Ljubljana Free Tour,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,Franciscan Church (FranÄiÅ¡kanska cerkev),10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,Skyscraper (NebotiÄnik),9,1,4.3
-ìŠ¬ë¡œë² ë‹ˆì•„,ë¥˜ë¸”ëž´ë‚˜,Ljubljana Old Town,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,Piran Town Walls,20,1,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,Church of St. George (Cerkev sv. Jurija) in Piran,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€, íƒ€ë¥´í‹°ë‹ˆ ê´‘ìž¥,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,Port Piran,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,First of May Square,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,ìž„ì‹œìˆ˜ë„ê¸°ë…ê´€,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,Church of St. Francis of Assisi,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,Old Town,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,Kandovan,8,2,4.2
-ìŠ¬ë¡œë² ë‹ˆì•„,í”¼ëž€,Roundabout Travel,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ, ì¡°ë‚˜ ë¦¬ë¹ˆì´ë¦°ì—£,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Douro River,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Taylor's Port,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Liberdade Square,19,2,4.4
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,ë¡œì¦ˆ ë°¸ë¦¬,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Church of Santa Clara,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Jardim do Morro,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Igreja do Carmo,10,0,4.5
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Ribeira Square,21,0,4.6
-ìŠ¬ë¡œë² ë‹ˆì•„,í¬ë¥´í† ë¡œì¦ˆ,Mercado do BolhÃ£o,18,3,4.3
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,Adventure Cove Waterpark,19,2,4.4
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,ì„¼í† ì‚¬ ìµìŠ¤í”„ë ˆìŠ¤,21,0,4.6
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,Deception Pass State Park,9,1,4.3
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,Finn McCools Tours,10,0,4.5
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,EPIC The Irish Emigration Museum,9,1,4.3
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,Guinness Storehouse,21,0,4.6
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,Titanic Belfast,9,1,4.3
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,ì„¸ì¸íŠ¸ ìŠ¤í…ŒíŒ ê°€ë“ ,20,1,4.5
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ,ìœ ë‹ˆë²„ì…œ ì–´ë“œë²¤ì²˜ ì•„ì¼ëžœë“œ,20,1,4.5
-ì‹±ê°€í¬ë¥´,ì„¼í† ì‚¬ ì•„ì¼ëžœë“œ, ë¸”ë¼ë‹ˆ ìºìŠ¬ & ê°€ë“ ,9,1,4.3
-ì‹±ê°€í¬ë¥´,ì˜¤ì°¨ë“œë¡œë“œ, ì˜¤ì°¨ë“œ ë¡œë“œ,18,3,4.3
-ì‹±ê°€í¬ë¥´,ì˜¤ì°¨ë“œë¡œë“œ,ION Orchard,20,1,4.5
-ì‹±ê°€í¬ë¥´,ì˜¤ì°¨ë“œë¡œë“œ,Wisma Atria Shopping Centre,9,1,4.3
-ì‹±ê°€í¬ë¥´,ì˜¤ì°¨ë“œë¡œë“œ,Tangs Plaza,9,1,4.3
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,ë§ˆë¦¬ë‚˜ ë² ì´,21,0,4.6
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,ê°€ë“ ì¦ˆ ë°”ì´ ë” ë² ì´,21,0,4.6
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,ìƒŒì¦ˆ ìŠ¤ì¹´ì´íŒŒí¬,19,2,4.4
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´, ì‹±ê°€í¬ë¥´ í”Œë¼ì´ì–´,21,0,4.6
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,í—¬ë¦­ìŠ¤ ë¸Œë¦¬ì§€,20,1,4.5
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,Supertree Grove,20,1,4.5
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,OCBC Skyway,9,1,4.3
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,ì—ìŠ¤í”ŒëŸ¬ë„¤ì´ë“œ - í•´ë³€ ê·¹ìž¥,20,1,4.5
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,ë§ˆë¦¬ë‚˜ ë² ì´ ìƒŒì¦ˆ ì•„íŠ¸ ì‚¬ì´ì–¸ìŠ¤ ë°•ë¬¼ê´€,17,4,4.2
-ì‹±ê°€í¬ë¥´,ë§ˆë¦¬ë‚˜ ë² ì´,ë§ˆë¦¬ë‚˜ ë²„ë¼ì§€,10,0,4.5
-ì‹±ê°€í¬ë¥´,ì°¨ì´ë‚˜íƒ€ìš´,ì°¨ì´ë‚˜íƒ€ìš´,64,9,4.4
-ì‹±ê°€í¬ë¥´,ì°¨ì´ë‚˜íƒ€ìš´,ë¶ˆì•„ì‚¬ ìš©í™”ì›,21,0,4.6
-ì˜êµ­,ëŸ°ë˜, ëŸ°ë˜ì•„ì´,20,1,4.5
-ì˜êµ­,ëŸ°ë˜,ëŒ€ì˜ ë°•ë¬¼ê´€,20,1,4.5
-ì˜êµ­,ëŸ°ë˜,êµ­ë¦½ ë¯¸ìˆ ê´€,21,0,4.6
-ì˜êµ­,ëŸ°ë˜,ëŸ°ë˜ ì§€í•˜ì² ,15,6,3.9
-ì˜êµ­,ëŸ°ë˜, ë¹… ë²¤,16,5,4.0
-ì˜êµ­,ëŸ°ë˜,ë²„í‚¹ì—„ ê¶ì „,20,1,4.5
-ì˜êµ­,ëŸ°ë˜,íƒ€ì›Œ ë¸Œë¦¬ì§€,21,0,4.6
-ì˜êµ­,ëŸ°ë˜,ëŸ°ë˜ ìžì—°ì‚¬ ë°•ë¬¼ê´€,21,0,4.6
-ì˜êµ­,ëŸ°ë˜, ëŸ°ë˜ íƒ€ì›Œ,21,0,4.6
-ì˜êµ­,ëŸ°ë˜,Sky Garden,21,0,4.6
-ì˜êµ­,ì—ë“ ë²„ëŸ¬, ì—ë“ ë²„ëŸ¬ ì„±,21,0,4.6
-ì˜êµ­,ì—ë“ ë²„ëŸ¬, ë¡œì—´ ë§ˆì¼,21,0,4.6
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,Calton Hill,21,0,4.6
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,Scott Monument,21,0,4.6
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,Edinburgh Old Town,21,0,4.6
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,í”„ë¦°ì„¸ìŠ¤ ìŠ¤íŠ¸ë¦¬íŠ¸ ê°€ë“ ,21,0,4.6
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,Castle Rock,10,0,4.5
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,The Royal Edinburgh Military Tattoo,9,1,4.3
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,Grassmarket,10,0,4.5
-ì˜êµ­,ì—ë“ ë²„ëŸ¬,í™€ë¦¬ë£¨ë“œ íŒŒí¬,21,0,4.6
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,Old Trafford,10,0,4.5
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,Etihad Stadium,9,1,4.3
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,National Football Museum,8,2,4.2
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,The John Rylands Library,8,2,4.2
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,J-UK Golf,10,0,4.5
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,Manchester Metrolink,6,4,3.9
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,Victoria Station,5,5,3.7
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,Science and Industry Museum,10,0,4.5
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,ì±„ìŠ¤ì›ŒìŠ¤,10,0,4.5
-ì˜êµ­,ë§¨ì²´ìŠ¤í„°,The Nolen,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,University of Cambridge,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,Cambridge University Botanic Garden,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,Lets Go Punting,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,Great St Mary's Church (Church of England),10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,Mathematical Bridge,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,ì°°ìŠ¤ ë¦¬ë²„,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,King's College,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,The River Cam,9,1,4.3
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,Galt,10,0,4.5
-ì˜êµ­,ìº ë¸Œë¦¬ì§€,King's College Chapel,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì‹œë“œë‹ˆ ì˜¤íŽ˜ë¼ í•˜ìš°ìŠ¤,20,1,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì‹œë“œë‹ˆ í•˜ë²„,20,1,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì‹œë“œë‹ˆ í•˜ë²„ ë¸Œë¦¬ì§€,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì‹œë“œë‹ˆ ì•„ì¿ ì•„ë¦¬ì›€,20,1,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì‹œë“œë‹ˆ íŽ˜ë¦¬,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì‹œë“œë‹ˆ ì²œë¬¸ëŒ€,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì‹œë“œë‹ˆ íƒ€ì›Œ ì•„ì´ & ìŠ¤ì¹´ì´ì›Œí¬,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ì„œí˜ëŸ¬ í‚¤,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,ë³¸ë‹¤ì´ ë¹„ì¹˜,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì‹œë“œë‹ˆ,í€¸ ë¹…í† ë¦¬ì•„ ë¹Œë”© (QVB),19,2,4.4
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,ìœ ë ˆì¹´ ìŠ¤ì¹´ì´ë± 88,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,ì‹œí‹° ì„œí´ íŠ¸ëž¨,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,í”Œë¦°ë”ìŠ¤ ìŠ¤íŠ¸ë¦¬íŠ¸ ì—­,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,ì•¼ë¼ ê°•,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,ë©œë²„ë¥¸ ë°•ë¬¼ê´€,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,The Great Ocean Road,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,ì„¸ì´íŠ¸ íŒ¨íŠ¸ë¦­ ëŒ€ì„±ë‹¹,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,Degraves Street,20,1,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,ë©œë²„ë¥¸ ì „ìŸ ê¸°ë…ê´€,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë©œë²„ë¥¸,êµ¬ ë©œë²„ë¥¸ ê°ì˜¥,17,4,4.2
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,ë¸Œë¦¬ì¦ˆë²ˆ ê°•,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,ë§ˆìš´íŠ¸ ì¿ ì‚¬ ì „ë§ëŒ€,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,ì‚¬ìš°ìŠ¤ ë±…í¬ íŒŒí¬ëžœë“œ,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,íœ  ì˜¤ë¸Œ ë¸Œë¦¬ì¦ˆë²ˆ,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,ì‹œí‹°ìº£ íŽ˜ë¦¬,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,ë¸Œë¦¬ì¦ˆë²ˆ ì‹ë¬¼ì›,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,City Hopper,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,ë¡  íŒŒì¸ ì½”ì•Œë¼ ë³´í˜¸ êµ¬ì—­,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,ë¸Œë¦¬ì¦ˆë²ˆ ë°•ë¬¼ê´€,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ë¸Œë¦¬ì¦ˆë²ˆ,City Hall,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Esplanade Boardwalk,20,1,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Kuranda Scenic Railway,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Cairns Aquarium,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Northern Experience Eco Tours,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,ì‚¬ìš°ìŠ¤ ë±…í¬ íŒŒí¬ëžœë“œ,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Reef Magic Cruises,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Cairns Esplanade Lagoon,21,0,4.6
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Josephine Falls,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Rusty's Market,10,0,4.5
-ì˜¤ìŠ¤íŠ¸ë ˆì¼ë¦¬ì•„,ì¼€ì–¸ìŠ¤,Cairns Botanic Gardens,10,0,4.5
-ì¸ë„,ë­„ë°”ì´,ê²Œì´íŠ¸ì›¨ì´ ì˜¤ë¸Œ ì¸ë””ì•„,19,2,4.4
-ì¸ë„,ë­„ë°”ì´,ì°¨íŠ¸ë¼ë°”ë  ì‹œì™€ì§€ ì—­,21,0,4.6
-ì¸ë„,ë­„ë°”ì´, ë§ˆë¦° ë“œë¼ì´ë¸Œ,21,0,4.6
-ì¸ë„,ë­„ë°”ì´,Bandra-Worli Sea Link,10,0,4.5
-ì¸ë„,ë­„ë°”ì´,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,10,0,4.5
-ì¸ë„,ë­„ë°”ì´,Powai Lake,8,2,4.2
-ì¸ë„,ë­„ë°”ì´,Hanging Gardens,7,3,4.0
-ì¸ë„,ë­„ë°”ì´,High Street Phoenix,10,0,4.5
-ì¸ë„,ë­„ë°”ì´,High Court Principal Bench Bombay,10,0,4.5
-ì¸ë„,ë­„ë°”ì´,Sanjay Gandhi National Park,8,2,4.2
-ì¸ë„,ë‰´ë¸ë¦¬, ê¾¸ëœ¹ ë¯¸ë‚˜ë¥´,20,1,4.5
-ì¸ë„,ë‰´ë¸ë¦¬,ì¸ë””ì•„ ê²Œì´íŠ¸,20,1,4.5
-ì¸ë„,ë‰´ë¸ë¦¬,Delhi Airport Metro Express,21,0,4.6
-ì¸ë„,ë‰´ë¸ë¦¬, í›„ë§ˆìœ¤ì˜ ë¬˜,20,1,4.5
-ì¸ë„,ë‰´ë¸ë¦¬,Connaught Place,20,1,4.5
-ì¸ë„,ë‰´ë¸ë¦¬,Driver India Private Tours,10,0,4.5
-ì¸ë„,ë‰´ë¸ë¦¬,ëŒ€í†µë ¹ ê´€ì € (ë¼íŒŒí‹° ë°”ë°˜),8,2,4.2
-ì¸ë„,ë‰´ë¸ë¦¬,Classic Golf Resort,6,0,4.4
-ì¸ë„,ë‰´ë¸ë¦¬,í•˜ìš°ì¦ˆ ì¹´ìŠ¤ ë¹Œë¦¬ì§€,10,0,4.5
-ì¸ë„,ë‰´ë¸ë¦¬,North India Private Driver,10,0,4.5
-ì¸ë„,ì•„ê·¸ë¼, ì•„ê·¸ë¼ ìš”ìƒˆ,20,1,4.5
-ì¸ë„,ì•„ê·¸ë¼,íƒ€ì§€ë§ˆí• ,19,2,4.4
-ì¸ë„,ì•„ê·¸ë¼,Raj Travels India,9,1,4.3
-ì¸ë„,ì•„ê·¸ë¼,Discover India By Car,10,0,4.5
-ì¸ë„,ì•„ê·¸ë¼,ì‹œì¹¸ë“œë¼ (ì•…ë°”ë¥´ í™©ì œì˜ ë¬´ë¤),10,0,4.5
-ì¸ë„,ì•„ê·¸ë¼,Private India Tour Advisor,10,0,4.5
-ì¸ë„,ì•„ê·¸ë¼,ë¶‰ì€ ìš”ìƒˆ (ëž„ í‚¬ë¼),20,1,4.5
-ì¸ë„,ì•„ê·¸ë¼,Maria Luxury Tours,30,0,4.7
-ì¸ë„,ì•„ê·¸ë¼,Sheesh Mahal,8,2,4.2
-ì¸ë„,ì•„ê·¸ë¼,City of love boat tour,9,0,4.5
-ì¸ë„,ìžì´í‘¸ë¥´,ì•ˆ ë²¨ì„±,21,0,4.6
-ì¸ë„,ìžì´í‘¸ë¥´,ë°”ëžŒì˜ ê¶ì „ (í•˜ì™€ ë§ˆí• ),20,1,4.5
-ì¸ë„,ìžì´í‘¸ë¥´,ìžì´í‘¸ë¥´ ì‹œí‹° íŒ°ë¦¬ìŠ¤,21,0,4.6
-ì¸ë„,ìžì´í‘¸ë¥´,Discover India By Car,10,0,4.5
-ì¸ë„,ìžì´í‘¸ë¥´,Sunny Tour Travels,1,0,4.3
-ì¸ë„,ìžì´í‘¸ë¥´,Jaigarh Fort,10,0,4.5
-ì¸ë„,ìžì´í‘¸ë¥´,Unique Jaipur Tour,10,0,4.5
-ì¸ë„,ìžì´í‘¸ë¥´,Easy Peasy Tours,10,0,4.5
-ì¸ë„,ìžì´í‘¸ë¥´,Nahargarh Fort,9,1,4.3
-ì¸ë„,ìžì´í‘¸ë¥´,Namaste Jaipur Tours,10,0,4.5
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,ì›Œí„°ë°¤ ë°œë¦¬,21,0,4.6
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,ë°œë¦¬ ì»¬ë ‰ì…˜,20,1,4.5
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,Kuta Beach - Bali,18,3,4.3
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,ë°œë¦¬ ê³ ê¸‰ ìŠ¤íŒŒ & í•œêµ­ ì‹ë‹¹ ë¡œì¦ˆíž,21,0,4.6
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,UP2U ì„œí”„ ìŠ¤ì¿¨ ë°œë¦¬,21,0,4.6
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,Bali SUN Tours,21,0,4.6
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,Bali Swing,20,1,4.5
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,ëª½í‚¤ í¬ë ˆìŠ¤íŠ¸,21,0,4.6
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,ëª° ë°œë¦¬ ê°¤ëŸ¬ë¦¬ì•„,17,4,4.2
-ì¸ë„ë„¤ì‹œì•„,ë°œë¦¬,The Care Day Spa,20,1,4.5
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Braga Street,9,1,4.3
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Tangkuban Perahu,9,1,4.3
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Jalan Asia Afrika,10,0,4.5
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,White Crater,10,0,4.5
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Bandung Grand Mosque,10,0,4.5
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Bandung City Square,8,2,4.2
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Maribaya Hot Springs,8,2,4.2
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Ciater Hot Spring,9,1,4.3
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Trans Studio Bandung,7,3,4.0
-ì¸ë„ë„¤ì‹œì•„,ë°˜ë‘¥,Gambir Train Station,9,1,4.3
-ì¸ë„ë„¤ì‹œì•„,ì„¼íŠ¸ëŸ´ ìžì¹´ë¥´íƒ€,ëª¨ë‚˜ìŠ¤,21,0,4.6
-ì¸ë„ë„¤ì‹œì•„,ì„¼íŠ¸ëŸ´ ìžì¹´ë¥´íƒ€,íƒ€ë§Œ ë¯¸ë‹ˆ ì¸ë„ë„¤ì‹œì•„ ì¸ë‹¤,18,3,4.3
-ì¸ë„ë„¤ì‹œì•„,ì„¼íŠ¸ëŸ´ ìžì¹´ë¥´íƒ€,Kota Kasablanka,10,0,4.5
-ì¸ë„ë„¤ì‹œì•„,ì„¼íŠ¸ëŸ´ ìžì¹´ë¥´íƒ€, ì´ìŠ¤í‹°í¬ëž„ ëª¨ìŠ¤í¬ (ì´ìŠ¤í‹°í¬ëž„ ì‚¬ì›),19,2,4.4
-ì¼ë³¸,ë„ì¿„,ë„ì¿„ ë””ì¦ˆë‹ˆì‹œ,18,3,4.3
-ì¼ë³¸,ë„ì¿„,ë„ì¿„ íƒ€ì›Œ,21,0,4.6
-ì¼ë³¸,ë„ì¿„,ì˜¤ë‹¤ì´ë°”,21,0,4.6
-ì¼ë³¸,ë„ì¿„,ì—ë„-ë„ì¿„ ë°•ë¬¼ê´€,29,1,4.6
-ì¼ë³¸,ë„ì¿„,ë„ì¿„ì—­,21,0,4.6
-ì¼ë³¸,ë„ì¿„,ëª¨ë¦¬ íƒ€ì›Œ,21,0,4.6
-ì¼ë³¸,ë„ì¿„,ë„ì¿„ ìŠ¤ì¹´ì´ íŠ¸ë¦¬,21,0,4.6
-ì¼ë³¸,ë„ì¿„,ë¦¬í‹€ ë„ì¿„,21,0,4.6
-ì¼ë³¸,ë„ì¿„,ë„ì¿„ ë„ì²­,18,3,4.3
-ì¼ë³¸,ë„ì¿„,ë„ì¿„ êµ­ë¦½ ë°•ë¬¼ê´€,21,0,4.6
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,ë„í†¤ë³´ë¦¬,18,3,4.3
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,ìœ ë‹ˆë²„ì…œ ìŠ¤íŠœë””ì˜¤ ìž¬íŒ¬,19,2,4.4
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,ìš°ë©”ë‹¤ ìŠ¤ì¹´ì´ ë¹Œë”© - ê³µì¤‘ ì •ì› ì „ë§ëŒ€,18,3,4.3
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,ì˜¤ì‚¬ì¹´ ì„±,18,3,4.3
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,ì‹ ì‚¬ì´ë°”ì‹œ,19,2,4.4
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,ì¿ ë¡œëª¬ ì‹œìž¥,17,4,4.2
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,Osaka Kale ParkÄ±,20,1,4.5
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,HEP FIVE ê´€ëžŒì°¨,19,2,4.4
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,ì˜¤ì‚¬ì¹´ ìƒí™œ ë°•ë¬¼ê´€,19,2,4.4
-ì¼ë³¸,ì˜¤ì‚¬ì¹´,í…í¬ìž” ëŒ€ê´€ëžŒì°¨,19,2,4.4
-ì¼ë³¸,êµí† ,ê¸ˆê°ì‚¬,18,3,4.3
-ì¼ë³¸,êµí† ,í›„ì‹œë¯¸ ì´ë‚˜ë¦¬ ì‹ ì‚¬,20,1,4.5
-ì¼ë³¸,êµí† ,Kiyomizu-dera,17,4,4.2
-ì¼ë³¸,êµí† ,ì€ê°ì‚¬,20,1,4.5
-ì¼ë³¸,êµí† ,êµí† ì—­ ë¹Œë”©,21,0,4.6
-ì¼ë³¸,êµí† ,êµí†  íƒ€ì›Œ,20,1,4.5
-ì¼ë³¸,êµí† ,êµí†  ë‹ˆì‹œí‚¤ ì‹œìž¥,18,3,4.3
-ì¼ë³¸,êµí† ,Gion,20,1,4.5
-ì¼ë³¸,êµí† ,Arashiyama,21,0,4.6
-ì¼ë³¸,êµí† ,êµí†  ì‹ë¬¼ì›,20,1,4.5
-ì¼ë³¸,ì‚¿í¬ë¡œ,JR íƒ€ì›Œ ì „ë§ëŒ€ T38,19,2,4.4
-ì¼ë³¸,ì‚¿í¬ë¡œ,Odori Park,20,1,4.5
-ì¼ë³¸,ì‚¿í¬ë¡œ,Susukino,21,0,4.6
-ì¼ë³¸,ì‚¿í¬ë¡œ,Sapporo Beer Museum,20,1,4.5
-ì¼ë³¸,ì‚¿í¬ë¡œ,ì‚¿í¬ë¡œ ì˜¤ì¿ ë¼ì•¼ë§ˆ ì „ë§ëŒ€,20,1,4.5
-ì¼ë³¸,ì‚¿í¬ë¡œ,Sapporo TV Tower,21,0,4.6
-ì¼ë³¸,ì‚¿í¬ë¡œ,í™‹ì¹´ì´ë„ ëŒ€í•™ ì‚¿í¬ë¡œ ìº í¼ìŠ¤,21,0,4.6
-ì¼ë³¸,ì‚¿í¬ë¡œ,Clock Tower (Tokei-dai),9,12,3.2
-ì¼ë³¸,ì‚¿í¬ë¡œ,Mt. Moiwa,21,0,4.6
-ì¼ë³¸,ì‚¿í¬ë¡œ,Sapporo Underground Pedestrian Space,20,1,4.5
-ì¤‘êµ­,ìƒí•˜ì´,ìƒí•˜ì´ì˜ ì™€ì´íƒ„ (ì™€ì´íƒ„),21,0,4.6
-ì¤‘êµ­,ìƒí•˜ì´,ë™ë°© ëª…ì£¼ íƒ€ì›Œ (Dongfang Mingzhu),21,0,4.6
-ì¤‘êµ­,ìƒí•˜ì´,ì‹ ì²œì§€,20,1,4.5
-ì¤‘êµ­,ìƒí•˜ì´,ë²ˆë“œ ì¸í„°ë‚´ì…”ë„ ì•„í‚¤í…ì²˜ ìµìŠ¤ížˆë¹„ì…˜,30,0,4.7
-ì¤‘êµ­,ìƒí•˜ì´,Shanghai Urban Planning Exhibition Hall,19,2,4.4
-ì¤‘êµ­,ìƒí•˜ì´,Shanghai Metro,19,2,4.4
-ì¤‘êµ­,ìƒí•˜ì´, ìƒí•˜ì´ ì„¸ê³„ ê¸ˆìœµ ì„¼í„°,20,1,4.5
-ì¤‘êµ­,ìƒí•˜ì´,ìƒí•˜ì´ ì—­ì‚¬ ë°•ë¬¼ê´€,21,0,4.6
-ì¤‘êµ­,ìƒí•˜ì´,Pudong New Area,21,0,4.6
-ì¤‘êµ­,ìƒí•˜ì´,ìƒí•˜ì´ ë°•ë¬¼ê´€,18,3,4.3
-ì¤‘êµ­,ë² ì´ì§•,ë§Œë¦¬ìž¥ì„±,21,0,4.6
-ì¤‘êµ­,ë² ì´ì§•,ì´í™”ì›,21,0,4.6
-ì¤‘êµ­,ë² ì´ì§•,ì²œì•ˆë¬¸,21,0,4.6
-ì¤‘êµ­,ë² ì´ì§•,The Great Wall at Badaling,20,1,4.5
-ì¤‘êµ­,ë² ì´ì§•,Wangfujing Street,16,5,4.0
-ì¤‘êµ­,ë² ì´ì§•,Beijing Subway,19,2,4.4
-ì¤‘êµ­,ë² ì´ì§•,ì²œë‹¨ (í‹°ì—”íƒ„ ê³µì›),21,0,4.6
-ì¤‘êµ­,ë² ì´ì§•,ê²½ì‚° ê³µì› (ìž‰ìƒ¨ ê½ìœ„ì—”),21,0,4.6
-ì¤‘êµ­,ë² ì´ì§•,ì²œì•ˆë¬¸ ê´‘ìž¥,20,1,4.5
-ì¤‘êµ­,ë² ì´ì§•,ê³ ê¶ ë°•ë¬¼ê´€,19,2,4.4
-ì¤‘êµ­,ê´‘ì €ìš°,Canton Tower,21,0,4.6
-ì¤‘êµ­,ê´‘ì €ìš°,Shamian Island,20,1,4.5
-ì¤‘êµ­,ê´‘ì €ìš°,Guangzhou Metro,10,0,4.5
-ì¤‘êµ­,ê´‘ì €ìš°,Huaisheng Mosque,10,0,4.5
-ì¤‘êµ­,ê´‘ì €ìš°,Museum of the Western Han Dynasty Mausoleum of the Nanyue King,10,0,4.5
-ì¤‘êµ­,ê´‘ì €ìš°,Sacred Heart Cathedral,10,0,4.5
-ì¤‘êµ­,ê´‘ì €ìš°,Beijing Road Ancient Avenue,10,0,4.5
-ì¤‘êµ­,ê´‘ì €ìš°,Beijing Road Shopping District,8,2,4.2
-ì¤‘êµ­,ê´‘ì €ìš°,Pearl River (Zhujiang),10,0,4.5
-ì¤‘êµ­,ê´‘ì €ìš°,Guangdong Museum of Art,6,4,3.9
-ì¤‘êµ­,í•­ì €ìš°,West Lake (Xi Hu),21,0,4.6
-ì¤‘êµ­,í•­ì €ìš°,Hangzhou Songcheng,9,1,4.3
-ì¤‘êµ­,í•­ì €ìš°,QingHeFang,9,1,4.3
-ì¤‘êµ­,í•­ì €ìš°,Fei Lai Feng,10,0,4.5
-ì¤‘êµ­,í•­ì €ìš°,ì¤‘êµ­ ê³ ì† ì² ë„,20,1,4.5
-ì¤‘êµ­,í•­ì €ìš°,Pagoda of Six Harmonies,7,3,4.0
-ì¤‘êµ­,í•­ì €ìš°,Xixi Wetland Park,7,3,4.0
-ì¤‘êµ­,í•­ì €ìš°,Ping Hu Qiu Yue,10,0,4.5
-ì¤‘êµ­,í•­ì €ìš°,National Tea Museum,9,1,4.3
-ì¤‘êµ­,í•­ì €ìš°,Hangzhou Chenghuang Pagoda,10,0,4.5
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,ì•™ì½”ë¥´ì™€íŠ¸,21,0,4.6
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,ë³´ë””ì•„ ìŠ¤íŒŒ ì‹œì— ë¦½,21,0,4.6
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,Pub Street,21,0,4.6
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,Lucky Mall Siem Reap,20,1,4.5
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,Mudita Spa,21,0,4.6
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,Siem Reap Shuttle Tours,21,0,4.6
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,ë°˜í…Œì•„ì´ ìŠ¤ë ˆì´,21,0,4.6
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,Giant Ibis Transport,7,3,4.0
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,ì¿¼ë“œ ì–´ë“œë²¤ì²˜ ìº„ë³´ë””ì•„,10,0,4.5
-ìº„ë³´ë””ì•„,ì”¨ì— ë¦½,Cambodia Quad Bike,10,0,4.5
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,í”„ë†ˆíŽœ ë…ë¦½ ê¸°ë…íƒ‘,19,2,4.4
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,ëšœì–¼ ìŠ¬ë  ëŒ€ëŸ‰í•™ì‚´ ë°•ë¬¼ê´€,19,2,4.4
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,Angkor Spa,21,0,4.6
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,ì™“ í”„ë†ˆ,17,4,4.2
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,Aeon Mall,21,0,4.6
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,Soma Spa,21,0,4.6
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ, ì¤‘ì•™ ì‹œìž¥,17,4,4.2
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ, ë¡œì–„ íŒ°ë¦¬ìŠ¤,18,3,4.3
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,í‚¬ë§ í•„ë“œ (ì²­ì•„ìµ),19,2,4.4
-ìº„ë³´ë””ì•„,í”„ë†ˆíŽœ,ë‚˜ê°€ì›”ë“œ ì¹´ì§€ë…¸,19,2,4.4
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Golden Lion Gym,10,0,4.5
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Cambodia Private Taxi,10,0,4.5
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Koh Rong,9,1,4.3
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Independence Beach,5,5,3.7
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Angkor Taxis,10,0,4.5
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Scuba Nation Diving Centre,10,0,4.5
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Blue Lagoon Divers,10,0,4.5
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Phnom Penh Green Tour and Transport,10,0,4.5
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,The Party Boat,4,6,3.6
-ìº„ë³´ë””ì•„,ì‹œì•„ëˆ„í¬ë¹Œ,Unique Spa,8,2,4.2
-ìº„ë³´ë””ì•„,ìº„í¿,Phnom Chhngok Cave Temple,7,3,4.0
-ìº„ë³´ë””ì•„,ìº„í¿,Butterfly Tours,10,0,4.5
-ìº„ë³´ë””ì•„,ìº„í¿,La Plantation,10,0,4.5
-ìº„ë³´ë””ì•„,ìº„í¿,Bokor National Park,8,2,4.2
-ìº„ë³´ë””ì•„,ìº„í¿,Climbodia,10,0,4.5
-ìº„ë³´ë””ì•„,ìº„í¿,Golden Hands Massage & Spa,8,2,4.2
-ìº„ë³´ë””ì•„,ìº„í¿,SUP Asia,9,1,4.3
-ìº„ë³´ë””ì•„,ìº„í¿,Old Catholic Church,10,0,4.5
-ìº„ë³´ë””ì•„,ìº„í¿,Kampot-Kep Tuk Tuk-Taxi Drivers,10,0,4.5
-ìº„ë³´ë””ì•„,ìº„í¿,Rany - The TukTuk Driver in Kampot and Kep,10,0,4.5
-ìºë‚˜ë‹¤,í† ë¡ í† ,í† ë¡ í†  ì•„ì¼ëžœë“œ íŒŒí¬,20,1,4.5
-ìºë‚˜ë‹¤,í† ë¡ í† ,Hockey Hall of Fame,10,0,4.5
-ìºë‚˜ë‹¤,í† ë¡ í† ,Toronto City Hall,19,2,4.4
-ìºë‚˜ë‹¤,í† ë¡ í† ,ì˜êµ­êµ­íšŒì˜ì‚¬ë‹¹,21,0,4.6
-ìºë‚˜ë‹¤,í† ë¡ í† ,Yale University Art Gallery,10,0,4.5
-ìºë‚˜ë‹¤,í† ë¡ í† ,Jack Darling Memorial Park,10,0,4.5
-ìºë‚˜ë‹¤,í† ë¡ í† ,Castle Church,10,0,4.5
-ìºë‚˜ë‹¤,í† ë¡ í† ,Dostoevskiy Museum,2,1,4.2
-ìºë‚˜ë‹¤,í† ë¡ í† ,Statue of Lajos Kossuth,10,0,4.5
-ìºë‚˜ë‹¤,í† ë¡ í† ,Faniry Madagascar Tours,6,4,3.9
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ë°´ì¿ ë²„ ì•„ì¿ ì•„ë¦¬ì›€,18,3,4.3
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ë°´ì¿ ë²„ ì „ë§ëŒ€,19,2,4.4
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„, ë°´ì¿ ë²„ ë‹¤ìš´íƒ€ìš´,21,0,4.6
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ë°´ì¿ ë²„ ê³µê³µ ë„ì„œê´€,21,0,4.6
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ìŠ¤íƒ ë¦¬ íŒŒí¬,21,0,4.6
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ìŠ¤ì¹´ì´ íŠ¸ë ˆì¸,20,1,4.5
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,í€¸ ì—˜ë¦¬ìžë² ìŠ¤ ê³µì›,20,2,4.4
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ìž‰ê¸€ë¦¬ì‹œ ë² ì´,20,1,4.5
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ê·¸ë¼ìš°ìŠ¤ ë§ˆìš´í‹´,21,0,4.6
-ìºë‚˜ë‹¤,ë°´ì¿ ë²„,ê°œìŠ¤íƒ€ìš´,17,4,4.2
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,Old Montreal,19,2,4.4
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,ë§ˆìš´íŠ¸ ë¡œì–„,21,0,4.6
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,ëª¬íŠ¸ë¦¬ì˜¬ ë¯¸ìˆ ê´€ (Musee des Beaux-Arts),10,0,4.5
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬, ë…¸íŠ¸ë¥´ë‹´ ì„±ë‹¹ (ë°”ì§ˆë¦¬í‚¤ ë…¸íŠ¸ë¥´ - ë‹´),21,0,4.6
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,Old Port of Montreal,20,1,4.5
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,ì„± ìš”ì…‰ ëŒ€ì„±ë‹¹,21,0,4.6
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,VIA Rail Canada Montreal Station,10,0,4.5
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,Place des Arts,10,0,4.5
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,Jean-Talon Market,10,0,4.5
-ìºë‚˜ë‹¤,ëª¬íŠ¸ë¦¬ì˜¬,Montreal Botanical Garden,10,0,4.5
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,ë‚˜ì´ì•„ê°€ë¼ í­í¬,21,0,4.6
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Journey Behind the Falls,20,1,4.5
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Niagara City Cruises,21,0,4.6
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Horseshoe Falls,21,0,4.6
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Skylon Tower,20,1,4.5
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Shifen Waterfall Walk Area,19,2,4.4
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Table Rock Welcome Centre,19,2,4.4
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Clifton Hill,18,3,4.3
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬, ë°”ëžŒì˜ ë™êµ´,21,0,4.6
-ìºë‚˜ë‹¤,ë‚˜ì´ì•„ê°€ë¼ í­í¬,Parc de la Chute-Montmorency,19,2,4.4
-íƒœêµ­,ë°©ì½•,BTS ìŠ¤ì¹´ì´íŠ¸ë ˆì¸,21,0,4.6
-íƒœêµ­,ë°©ì½•,ì„ê°€ëª¨ë‹ˆ ì—´ë°˜ìƒì´ ìžˆëŠ” ì‚¬ì› (ì™“ í¬),21,0,4.6
-íƒœêµ­,ë°©ì½•,ì¹´ì˜¤ì‚° ë¡œë“œ,19,2,4.4
-íƒœêµ­,ë°©ì½•,ì™•ê¶,17,4,4.2
-íƒœêµ­,ë°©ì½•,Chatuchak Weekend Market,21,0,4.6
-íƒœêµ­,ë°©ì½•,ì‹œì•” íŒŒë¼ê³¤,21,0,4.6
-íƒœêµ­,ë°©ì½•,ì—ë©”ëž„ë“œ ì‚¬ì› (ì™“ í”„ë¼ê¹¨ìš°),21,0,4.6
-íƒœêµ­,ë°©ì½•,Asiatique The Riverfront,20,1,4.5
-íƒœêµ­,ë°©ì½•,ë£¸í”¼ë‹ˆ ê³µì›,19,2,4.4
-íƒœêµ­,ë°©ì½•,ì§ í†°ìŠ¨ í•˜ìš°ìŠ¤,21,0,4.6
-íƒœêµ­,í‘¸ì¼“,Banana Beach,21,0,4.6
-íƒœêµ­,í‘¸ì¼“, í‘¸ì¼“ ë¹… ë¶€ë‹¤,20,1,4.5
-íƒœêµ­,í‘¸ì¼“,ì˜¤ë¦¬ì—”íƒˆ ë“œ í‘¸ì¼“,19,2,4.4
-íƒœêµ­,í‘¸ì¼“,í‘¸ì¼“ ì‚¬ì´ë¨¼ ì‡¼,19,2,4.4
-íƒœêµ­,í‘¸ì¼“,ë°©ë¼ ë¡œë“œ,17,4,4.2
-íƒœêµ­,í‘¸ì¼“,Patong Beach,19,2,4.4
-íƒœêµ­,í‘¸ì¼“,ì •ì‹¤ë¡ ,17,4,4.2
-íƒœêµ­,í‘¸ì¼“,ì™“ì°°ë¡±,19,2,4.4
-íƒœêµ­,í‘¸ì¼“,ì¹´íƒ€ ë¹„ì¹˜,19,2,4.4
-íƒœêµ­,í‘¸ì¼“,Cheaper than Hotel Taxis,20,1,4.5
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,ë„ì´ìˆ˜í… (ë¶€ì²˜ì˜ ì‚¬ë¦¬ë¥¼ ëª¨ì‹ ) ì‚¬ì›,21,0,4.6
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,Night Bazaar,14,7,3.8
-íƒœêµ­,ì¹˜ì•™ë§ˆì´, ì™“ ì²´ë”” ë£¨ì•™,21,0,4.6
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,Wat Phra Singh,21,0,4.6
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,Wat Phra That Doi Kham (Temple of the Golden Mountain),21,0,4.6
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,Doi Inthanon,21,0,4.6
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,ê¸°ë¹™íŠ¸ë¦¬,21,0,4.6
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,Tha Phae Gate,21,0,4.6
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,Tha Pae Walking Street,20,1,4.5
-íƒœêµ­,ì¹˜ì•™ë§ˆì´,Anantara Spa,10,0,4.5
-íƒœêµ­,íŒŒíƒ€ì•¼,ì›Œí‚¹ ìŠ¤íŠ¸ë¦¬íŠ¸ íŒŒíƒ€ì•¼,13,8,3.7
-íƒœêµ­,íŒŒíƒ€ì•¼,íŒŒíƒ€ì•¼ ë¹„ì¹˜,15,6,3.9
-íƒœêµ­,íŒŒíƒ€ì•¼,íŒŒíƒ€ì•¼ ìˆ˜ìƒ ì‹œìž¥,8,13,3.1
-íƒœêµ­,íŒŒíƒ€ì•¼,ëŠ¥ëˆ… íŠ¸ë¡œí”¼ì»¬ ë³´íƒœë‹ˆì»¬ ê°€ë“ ,18,3,4.3
-íƒœêµ­,íŒŒíƒ€ì•¼,ì—˜ë¦¬íŽ€íŠ¸ ë¹Œë¦¬ì§€ íŒŒíƒ€ì•¼,13,8,3.7
-íƒœêµ­,íŒŒíƒ€ì•¼,CentralFestival Pattaya Beach,20,1,4.5
-íƒœêµ­,íŒŒíƒ€ì•¼,ì§„ë¦¬ì˜ ì„±ì „,20,1,4.5
-íƒœêµ­,íŒŒíƒ€ì•¼,Koh Larn,21,0,4.6
-íƒœêµ­,íŒŒíƒ€ì•¼,Grace Spa,21,0,4.6
-íƒœêµ­,íŒŒíƒ€ì•¼,ì¢€í‹°ì—” ë¹„ì¹˜,19,2,4.4
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,Aya Sofya MÃ¼zesi / Kilisesi,20,1,4.5
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ, ìˆ íƒ„ì•„íë©”íŠ¸ ì§€êµ¬,21,0,4.6
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,ì´ìŠ¤íƒ„ë¶ˆ ì—­ì‚¬ ì§€êµ¬,21,0,4.6
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,ë¸”ë£¨ ëª¨ìŠ¤í¬ (ìˆ íƒ„ ì•„íë©§ ëª¨ìŠ¤í¬),16,5,4.0
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,ì´ìŠ¤íƒ„ë¶ˆ í˜„ëŒ€ ë¯¸ìˆ ê´€,19,2,4.4
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,ì§€í•˜ ê¶ì „,17,4,4.2
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ, ì‰´ë ˆì´ë§ˆë‹ˆì˜ˆ ëª¨ìŠ¤í¬,21,0,4.6
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,ê°ˆë¼íƒ€ íƒ€ì›Œ,20,1,4.5
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,ë³´ìŠ¤í¬ë£¨ìŠ¤ í•´í˜‘,21,0,4.6
-í„°í‚¤,ì´ìŠ¤íƒ„ë¶ˆ,êµ´í•˜ë„¤ íŒŒí¬,18,3,4.3
-í„°í‚¤,ê´´ë ˆë©”,ê´´ë ˆë©” ì•¼ì™¸ ë°•ë¬¼ê´€,21,0,4.6
-í„°í‚¤,ê´´ë ˆë©”,ê´´ë ˆë©” êµ­ë¦½ ê³µì›,21,0,4.6
-í„°í‚¤,ê´´ë ˆë©”,Fairy Chimneys,21,0,4.6
-í„°í‚¤,ê´´ë ˆë©”,Sunset Point,21,0,4.6
-í„°í‚¤,ê´´ë ˆë©”,í”¼ì¡´ ë°¸ë¦¬,19,2,4.4
-í„°í‚¤,ê´´ë ˆë©”,MyTrip Travel & Tourism Agency,21,0,4.6
-í„°í‚¤,ê´´ë ˆë©”,Uchisar Castle,21,0,4.6
-í„°í‚¤,ê´´ë ˆë©”,Love Valley,20,1,4.5
-í„°í‚¤,ê´´ë ˆë©”,Goreme Panorama,10,0,4.5
-í„°í‚¤,ê´´ë ˆë©”,ì•„ë°”ë…¸ìŠ¤,21,0,4.6
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,í™”ì´íŠ¸ ë¹„ì¹˜,21,0,4.6
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,D'Mall,18,3,4.3
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,Alona Beach,20,1,4.5
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,Crystal Cove Island,18,3,4.3
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,ë£¨í˜¸ì‚°,21,0,4.6
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,ìœŒë¦¬ìŠ¤ ë¡,19,2,4.4
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,Red Whale Boracay,4,0,4.4
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,Fisheye Divers,10,0,4.5
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,ë¶ˆë¼ë³µ ë¹„ì¹˜,20,1,4.5
-í•„ë¦¬í•€,ë³´ë¼ì¹´ì´,ì•¼íŒ ë¹„ì¹˜,21,0,4.6
-í•„ë¦¬í•€,ë§ˆë‹ë¼,ë§ˆë‹ë¼ ë² ì´,19,2,4.4
-í•„ë¦¬í•€,ë§ˆë‹ë¼,ë§ˆë‹ë¼ ì˜¤ì…˜ íŒŒí¬,15,6,3.9
-í•„ë¦¬í•€,ë§ˆë‹ë¼,ë§ˆë‹ë¼ ëŒ€ì„±ë‹¹,21,0,4.6
-í•„ë¦¬í•€,ë§ˆë‹ë¼, ì¸íŠ¸ë¼ë¬´ë¡œìŠ¤,20,1,4.5
-í•„ë¦¬í•€,ë§ˆë‹ë¼,ì‚° ì•„êµ¬ìŠ¤í‹´ êµíšŒ,21,0,4.6
-í•„ë¦¬í•€,ë§ˆë‹ë¼,SM Mall of Asia,21,0,4.6
-í•„ë¦¬í•€,ë§ˆë‹ë¼, ì‚°í‹°ì•„ê³  ìš”ìƒˆ,19,2,4.4
-í•„ë¦¬í•€,ë§ˆë‹ë¼,ë¦¬ì‚´ ê³µì›,19,2,4.4
-í•„ë¦¬í•€,ë§ˆë‹ë¼,Bonifacio Global City,10,0,4.5
-í•„ë¦¬í•€,ë§ˆë‹ë¼,Malate District,7,3,4.0
-í•„ë¦¬í•€,ì„¸ë¶€,Ayala Center Cebu,19,2,4.4
-í•„ë¦¬í•€,ì„¸ë¶€,Santo Nino BazilikasÄ±,20,1,4.5
-í•„ë¦¬í•€,ì„¸ë¶€,Tops Lookout,21,0,4.6
-í•„ë¦¬í•€,ì„¸ë¶€,Gold Moon Spa,21,0,4.6
-í•„ë¦¬í•€,ì„¸ë¶€,Taoist Temple,21,0,4.6
-í•„ë¦¬í•€,ì„¸ë¶€,Fort San Pedro,21,0,4.6
-í•„ë¦¬í•€,ì„¸ë¶€,Magellan's Cross,19,2,4.4
-í•„ë¦¬í•€,ì„¸ë¶€,SM City Cebu,20,1,4.5
-í•„ë¦¬í•€,ì„¸ë¶€,Marcelo Fernan Bridge,20,1,4.5
-í•„ë¦¬í•€,ì„¸ë¶€,Oslob Whale Sharks,21,0,4.6
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,Ayala Triangle Gardens,10,0,4.5
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,Ayala Center,10,0,4.5
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,ê·¸ë¦°ë²¨íŠ¸ íŒŒí¬,21,0,4.6
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,Greenbelt Mall,20,1,4.5
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,Caracol Festival,1,0,4.3
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,P Burgos Street,7,3,4.0
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,ì•„ì–„ë¼ ë°•ë¬¼ê´€,9,1,4.3
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,Venice Grand Canal Mall,9,1,4.3
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,Asian Massage,7,3,4.0
-í•„ë¦¬í•€,ë§ˆì¹´í‹°,Bonifacio Global City,10,0,4.5
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,ì¹¨ì‚¬ì¶”ì´ ì‚°ì±…ë¡œ,20,1,4.5
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,ì¹¨ì‚¬ì¶”ì´,42,0,4.8
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,ìŠ¤íƒ€ íŽ˜ë¦¬,21,0,4.6
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,ì¹´ìš°ë£½ ê³µì›,21,0,4.6
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,ë„¤ì´ì„  ê±°ë¦¬,21,0,4.6
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,í™ì½© ìŠ¤ì¹´ì´ë¼ì¸,21,0,4.6
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,í´ë½ íƒ€ì›Œ,20,1,4.5
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,ë¹…í† ë¦¬ì•„ í•˜ë²„,21,0,4.6
-í™ì½©,ì¹¨ì‚¬ì¶”ì´,Kowloon Mosque & Islamic Centre,9,1,4.3
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,í™ì½© ë””ì¦ˆë‹ˆëžœë“œ,20,1,4.5
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,ë””ì¦ˆë‹ˆëžœë“œ íŒŒí¬,15,6,3.9
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,ë””ì¦ˆë‹ˆ ìº˜ë¦¬í¬ë‹ˆì•„ ì–´ë“œë²¤ì²˜,21,0,4.6
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,ì˜¤ì…˜ íŒŒí¬,19,2,4.4
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,ëž€íƒ€ìš° ì„¬,21,0,4.6
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,ë§¤ì§ í‚¹ë¤,21,0,4.6
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,MTR,21,0,4.6
-í™ì½©,í™ì½©ë””ì¦ˆë‹ˆëžœë“œ,HZMB,9,0,4.5
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,ë¹…í† ë¦¬ì•„ í•˜ë²„,21,0,4.6
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,Inner Harbour,21,0,4.6
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,ì‹¬í¬ë‹ˆ ì˜¤ë¸Œ ë¼ì´ì¸ ,18,3,4.3
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,Garden of Stars,9,1,4.3
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,Legislative Assembly of British Columbia,21,0,4.6
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,Government Street,10,0,4.5
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,Empress Hotel National Historic Site of Canada,10,0,4.5
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,Star House,7,2,4.2
-í™ì½©,ë¹…í† ë¦¬ì•„ í•˜ë²„,Wharf Street,10,0,4.5
-í™ì½©,ì™„ì°¨ì´êµ¬,Takao Railway Museum,21,0,4.6
-í™ì½©,ì™„ì°¨ì´êµ¬,Sheung Wan,20,1,4.5
-í™ì½©,ì™„ì°¨ì´êµ¬,ëžŒë§ˆ ì„¬,20,1,4.5
-í™ì½©,ì™„ì°¨ì´êµ¬,ìŠ¤íƒ€ íŽ˜ë¦¬,21,0,4.6
-í™ì½©,ì™„ì°¨ì´êµ¬,Lower Antelope Canyon,20,1,4.5
-í™ì½©,ì™„ì°¨ì´êµ¬,í™ì½© ê³µì›,21,0,4.6
-í™ì½©,ì™„ì°¨ì´êµ¬,Zahra Spa,20,1,4.5
-í™ì½©,ì™„ì°¨ì´êµ¬,ë¹…í† ë¦¬ì•„ í”¼í¬,20,1,4.5
-í™ì½©,ì™„ì°¨ì´êµ¬,ì‹ ë¹„ì˜ë„ë¡œ,15,6,3.9
-í™ì½©,ì™„ì°¨ì´êµ¬,ì´ì¸µ ì¼€ì´ë¸” ì¹´,21,0,4.6
+CNT_NAME,REG_NAME,ATTR_NAME,ATTR_REV_POS,ATTR_REV_NEG,SCORE
+´ºÁú·£µå,¿ÀÅ¬·£µå,¿ÀÅ¬·£µå ¹Ú¹°°ü,21,0,4.6
+´ºÁú·£µå,¿ÀÅ¬·£µå,¿ÀÅ¬·£µå µµ¸ÞÀÎ,20,1,4.5
+´ºÁú·£µå,¿ÀÅ¬·£µå,½ºÄ«ÀÌ Å¸¿ö,21,0,4.6
+´ºÁú·£µå,¿ÀÅ¬·£µå,ÀÌµç »ê,20,1,4.5
+´ºÁú·£µå,¿ÀÅ¬·£µå,Mount Victoria Reserve,10,0,4.5
+´ºÁú·£µå,¿ÀÅ¬·£µå,¿ø Æ®¸® Èú,21,0,4.6
+´ºÁú·£µå,¿ÀÅ¬·£µå,¾Ë¹öÆ® ÆÄÅ©,10,0,4.5
+´ºÁú·£µå,¿ÀÅ¬·£µå,´ºÁú·£µå À§Åõ¾î,10,0,4.5
+´ºÁú·£µå,¿ÀÅ¬·£µå,¶û±âÅäÅä ¼¶,9,1,4.3
+´ºÁú·£µå,¿ÀÅ¬·£µå,ºñ¾Æ´öÆ® ÇÏ¹ö,19,2,4.4
+´ºÁú·£µå,Äý½ºÅ¸¿î,ÄýÁîÅ¸¿î ½ºÄ«ÀÌ ¶óÀÎ - °ïµ¹¶ó & ·çÁö,21,0,4.6
+´ºÁú·£µå,Äý½ºÅ¸¿î,Queenstown Hill,21,0,4.6
+´ºÁú·£µå,Äý½ºÅ¸¿î,Shotover Jet,9,1,4.3
+´ºÁú·£µå,Äý½ºÅ¸¿î,Glenorchy-Queenstown Road,21,0,4.6
+´ºÁú·£µå,Äý½ºÅ¸¿î,Queenstown Gardens,21,0,4.6
+´ºÁú·£µå,Äý½ºÅ¸¿î,Milford Sound,21,0,4.6
+´ºÁú·£µå,Äý½ºÅ¸¿î,JUCY Cruise Milford Sound,10,0,4.5
+´ºÁú·£µå,Äý½ºÅ¸¿î,Lake Wakatipu,19,2,4.4
+´ºÁú·£µå,Äý½ºÅ¸¿î,Canyon Explorers,10,0,4.5
+´ºÁú·£µå,Äý½ºÅ¸¿î,RealNZ,10,0,4.5
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,Å©¶óÀÌ½ºÆ®Ã³Ä¡ ½Ä¹°¿ø,20,1,4.5
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,Christ Church Meadow,10,0,4.5
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,ÇØ±Û¸® °ø¿ø,20,1,4.5
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,Quake City,10,0,4.5
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,Christ Church,19,2,4.4
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,International Antarctic Centre,7,3,4.0
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,Christchurch Tramway,7,3,4.0
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,Christchurch Cathedral,18,3,4.3
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,ÄµÅÍº£¸® ¹Ú¹°°ü,21,0,4.6
+´ºÁú·£µå,Å©¶óÀÌ½ºÆ®Ã³Ä¡,Robert Falcon Scott Statue,7,2,4.2
+´ºÁú·£µå,À£¸µÅÏ,À£¸µÅÏ ÄÉÀÌºí Ä«,20,1,4.5
+´ºÁú·£µå,À£¸µÅÏ,ºòÅä¸®¾Æ »ê,10,0,4.5
+´ºÁú·£µå,À£¸µÅÏ,´ºÁú·£µå ¹Ú¹°°ü (Å×ÆÄÆÄ),21,0,4.6
+´ºÁú·£µå,À£¸µÅÏ,À£¸µÅÏ ½Ä¹°¿ø,10,0,4.5
+´ºÁú·£µå,À£¸µÅÏ,Äí¹Ù ½ºÆ®¸®Æ® Áö±¸,17,4,4.2
+´ºÁú·£µå,À£¸µÅÏ,Oriental Bay,9,1,4.3
+´ºÁú·£µå,À£¸µÅÏ,Wellington Waterfront,10,0,4.5
+´ºÁú·£µå,À£¸µÅÏ,À£¸µÅÏ ½ÃÆ¼ & ÇØ¾ç ¹Ú¹°°ü,10,0,4.5
+´ºÁú·£µå,À£¸µÅÏ,±¹È¸ ÀÇ»ç´ç,10,0,4.5
+´ºÁú·£µå,À£¸µÅÏ,Mount Wellington,10,0,4.5
+´ë¸¸,Å¸ÀÌº£ÀÌ,Casino at Mandalay Bay,8,2,4.2
+´ë¸¸,Å¸ÀÌº£ÀÌ,Koi Kei Bakery,21,0,4.6
+´ë¸¸,Å¸ÀÌº£ÀÌ,Tenganan Ancient Village,21,0,4.6
+´ë¸¸,Å¸ÀÌº£ÀÌ,Hanalei Beach,10,0,4.5
+´ë¸¸,Å¸ÀÌº£ÀÌ,Like It Formosa,10,0,4.5
+´ë¸¸,Å¸ÀÌº£ÀÌ,Gunung Raya Golf Resort,6,0,4.4
+´ë¸¸,Å¸ÀÌº£ÀÌ,Taiwan Railway Steam locomotive No. LDK58,4,1,4.2
+´ë¸¸,Å¸ÀÌº£ÀÌ,Å¸ÀÌº£ÀÌ 101,21,0,4.6
+´ë¸¸,Å¸ÀÌº£ÀÌ,National Museum of Taiwan History,10,0,4.5
+´ë¸¸,Å¸ÀÌº£ÀÌ,Galway Bay,10,0,4.5
+´ë¸¸,°¡¿À½¹,The Pier-2 Art Centre,19,2,4.4
+´ë¸¸,°¡¿À½¹,Æ÷±¤»ê,21,0,4.6
+´ë¸¸,°¡¿À½¹,Kaohsiung Main Public Library,21,0,4.6
+´ë¸¸,°¡¿À½¹,Kaohsiung Museum of Fine Arts,9,1,4.3
+´ë¸¸,°¡¿À½¹,Dragon Tiger Tower,21,0,4.6
+´ë¸¸,°¡¿À½¹,Fo Guang Shan Buddha Museum,21,0,4.6
+´ë¸¸,°¡¿À½¹,Tuntex 85 Sky Tower,19,2,4.4
+´ë¸¸,°¡¿À½¹,Cijin Island,21,0,4.6
+´ë¸¸,°¡¿À½¹,Xiziwan,21,0,4.6
+´ë¸¸,°¡¿À½¹,Formosa Boulevard Station,20,1,4.5
+´ë¸¸,È­·Ë,Chishingtan Scenic Area,20,1,4.5
+´ë¸¸,È­·Ë,Taroko National Park,20,1,4.5
+´ë¸¸,È­·Ë,Lotung,4,0,4.4
+´ë¸¸,È­·Ë,Taroko Gorge,21,0,4.6
+´ë¸¸,È­·Ë,Hualien Tourist Fish Harbor,1,0,4.3
+´ë¸¸,È­·Ë,Hualien Harbor Scenic Bridge,3,0,4.4
+´ë¸¸,È­·Ë,Xiouyeliu,10,0,4.5
+´ë¸¸,È­·Ë,Yanzihkou Trail (Swallow Grotto),29,1,4.6
+´ë¸¸,È­·Ë,Farglory Ocean Park,21,0,4.6
+´ë¸¸,Å¸ÀÌ³­,Chihkan Tower (Fort Provintia),19,2,4.4
+´ë¸¸,Å¸ÀÌ³­,Guanziling Hot Spring,10,0,4.5
+´ë¸¸,Å¸ÀÌ³­,Confucius Temple,20,1,4.5
+´ë¸¸,Å¸ÀÌ³­,Ji Dian Wu Miao,6,0,4.4
+´ë¸¸,Å¸ÀÌ³­,Chimei Museum,17,4,4.2
+´ë¸¸,Å¸ÀÌ³­,National Cheng Kung University,10,0,4.5
+´ë¸¸,Å¸ÀÌ³­,National Museum of Taiwan History,10,0,4.5
+´ë¸¸,Å¸ÀÌ³­,Tainan Art Museum,6,1,4.3
+´ë¸¸,Å¸ÀÌ³­,Anping Fort (Anping gubao),18,3,4.3
+´ë¸¸,Å¸ÀÌ³­,Tainan Station,10,0,4.5
+µ¶ÀÏ,º£¸¦¸°, ºê¶õµ§ºÎ¸£Å© ¹® (ºê¶õµ§ºÎ¸£Å© Åä¾î),19,2,4.4
+µ¶ÀÏ,º£¸¦¸°, ÀÌ½ºÆ® »çÀÌµå °¶·¯¸®,21,0,4.6
+µ¶ÀÏ,º£¸¦¸°,Berliner Dom,21,0,4.6
+µ¶ÀÏ,º£¸¦¸°,Berlin Central Station,19,2,4.4
+µ¶ÀÏ,º£¸¦¸°,Tiergarten,21,0,4.6
+µ¶ÀÏ,º£¸¦¸°,µµÀÌÃÄ ºÐµ¥½´Å¸Å©,21,0,4.6
+µ¶ÀÏ,º£¸¦¸°,Å×·¯ÀÇ ÅäÆ÷±×·¡ÇÇ ¹Ú¹°°ü,21,0,4.6
+µ¶ÀÏ,º£¸¦¸°, È¦·ÎÄÚ½ºÆ® ±â³ä°ü (À¯´ëÀÎ ÇÐ»ì Ãß¸ð °ø¿ø),21,0,4.6
+µ¶ÀÏ,º£¸¦¸°,Museum Island,19,2,4.4
+µ¶ÀÏ,º£¸¦¸°, º£¸¦¸° Àåº® ±â³ä°ü,20,1,4.5
+µ¶ÀÏ,¹ÀÇî,¸¶¸®¿£ ±¤Àå,21,0,4.6
+µ¶ÀÏ,¹ÀÇî,New Town Hall (Neus Rathaus),21,0,4.6
+µ¶ÀÏ,¹ÀÇî,BMW ¹Ú¹°°ü,20,1,4.5
+µ¶ÀÏ,¹ÀÇî,Allianz Arena,21,0,4.6
+µ¶ÀÏ,¹ÀÇî,Nymphenburg Palace,20,1,4.5
+µ¶ÀÏ,¹ÀÇî,Olympic Tower,19,2,4.4
+µ¶ÀÏ,¹ÀÇî, ´ÙÇÏ¿ì °­Á¦ ¼ö¿ë¼Ò,21,0,4.6
+µ¶ÀÏ,¹ÀÇî,À×±Û¸®½¬ °¡µç,21,0,4.6
+µ¶ÀÏ,¹ÀÇî,Residenz,21,0,4.6
+µ¶ÀÏ,¹ÀÇî,FC Bayern Museum,9,1,4.3
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Romer,21,0,4.6
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Cathedral of St. Bartholomew (Dom St. Bartholomaus),21,0,4.6
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Main Tower,18,3,4.3
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Frankfurt am Main Hauptbahnhof,20,1,4.5
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Roemerberg,10,0,4.5
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Stadel Museum,21,0,4.6
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Messe Frankfurt,21,0,4.6
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Deutsche Bank Park,10,0,4.5
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,Iron Bridge,21,0,4.6
+µ¶ÀÏ,ÇÁ¶ûÅ©Çª¸£Æ®,The Hauptwache,21,0,4.6
+µ¶ÀÏ,ÇÔºê·çÅ©,USS º¸¿ìÇÉ Àá¼öÇÔ ¹Ú¹°°ü & °ø¿ø,21,0,4.6
+µ¶ÀÏ,ÇÔºê·çÅ©,INS Äí·ç¼ö¶ó Àá¼öÇÔ ¹Ú¹°°ü,21,0,4.6
+µ¶ÀÏ,ÇÔºê·çÅ©,Hakodate Morning Market,19,2,4.4
+µ¶ÀÏ,ÇÔºê·çÅ©,ÇÏÄÚ´ÙÅ×»ê,21,0,4.6
+µ¶ÀÏ,ÇÔºê·çÅ©,Deyang Quchujian Exhibition Hall,2,0,4.3
+µ¶ÀÏ,ÇÔºê·çÅ©,Goryokaku Tower,21,0,4.6
+µ¶ÀÏ,ÇÔºê·çÅ©,Goryokaku Park,21,0,4.6
+µ¶ÀÏ,ÇÔºê·çÅ©,Mt.Hakodate Ropeway,21,0,4.6
+µ¶ÀÏ,ÇÔºê·çÅ©,Memorial Ship MIKASA,21,0,4.6
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù, ºÓÀº ±¤Àå,21,0,4.6
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù, ¸ð½ºÅ©¹Ù Å©·½¸°,21,0,4.6
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù,Moscow Metro,18,3,4.3
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù, ¼º ¹Ù½Ç¸® ¼º´ç,19,2,4.4
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù,Sparrow Hills (Vorobyovy Gory),10,0,4.5
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù,Lomonosov Moscow State University (MGU),10,0,4.5
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù,Moscow-City,9,1,4.3
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù,Bolshoi Theatre,21,0,4.6
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù,High-Speed Train Sapsan,10,0,4.5
+·¯½Ã¾Æ,¸ð½ºÅ©¹Ù,Old Arbat (Stary Arbat),17,4,4.2
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,ÇÇÀÇ »ç¿ø,21,0,4.6
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©, ³×ÇÁ½ºÅ° ÇÁ·Î½ºÆåÆ®,21,0,4.6
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,High-Speed Train Sapsan,10,0,4.5
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,Leningradskiy Railway Station,7,3,4.0
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,Palace Bridge,10,0,4.5
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,The State Museum St. Isaac¡¯s Cathedral,21,0,4.6
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,Admiralteyskaya Station,1,0,4.3
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,Gazprom Arena,10,0,4.5
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,University Embankment,9,0,4.5
+·¯½Ã¾Æ,»óÆ®ÆäÅ×¸£ºÎ¸£Å©,The Building Of The Admiralty,10,0,4.5
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Eagle's Nest Mount,21,0,4.6
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Memorial to the Fighters for the Soviet Power in the Far East,21,0,4.6
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Golden Bridge,21,0,4.6
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Russky Bridge,20,1,4.5
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Monument to Sailors,1,1,4.1
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Railroad Terminal,18,3,4.3
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Betancourt Bridge,1,0,4.3
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Railway Station,3,0,4.4
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Svetlanskaya Street,18,3,4.3
+·¯½Ã¾Æ,ºí¶óµðº¸½ºÅäÅ©,Primorsky Aquarim,9,1,4.3
+·¯½Ã¾Æ,¼ÒÄ¡,¼ÒÄ¡±â³ä°ü,1,0,4.3
+·¯½Ã¾Æ,¼ÒÄ¡,Arboretum Park,7,3,4.0
+·¯½Ã¾Æ,¼ÒÄ¡,Krasnaya Polyana Mountain Cluster,9,1,4.3
+·¯½Ã¾Æ,¼ÒÄ¡,Riviera Park,7,3,4.0
+·¯½Ã¾Æ,¼ÒÄ¡,Olimpiyskiy Park,21,0,4.6
+·¯½Ã¾Æ,¼ÒÄ¡,Rosa Khutor Ski Resort,21,0,4.6
+·¯½Ã¾Æ,¼ÒÄ¡,Sochi Discovery World Aquarium,21,0,4.6
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,Taipa Village Macau,20,1,4.5
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,À© ¸¶Ä«¿À,21,0,4.6
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,¿¡¹Ì¸®Æ® ÆÓ¸®½º,20,1,4.5
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,ÀÚÀÌÇª¸£ ½ÃÆ¼ ÆÓ¸®½º,21,0,4.6
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,°¡¸£´Ù·£µå ¸®Á¶Æ®,8,2,4.2
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®, ºÎ´Ù ¿Õ±Ã - ·Î¾â ÆÓ¸®½º,21,0,4.6
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,À¯´Ï¹ö¼È ¿Ã·£µµ ¸®Á¶Æ®,20,1,4.5
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,¸®Á¶Æ® ¿ùµå ¼¾Åä»ç Ä«Áö³ë,9,1,4.3
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,º§·¹Æ®¸®Áî´Ï ÆÓ¸®½º (±¹¸³ ¹Ì¼ú°ü),20,1,4.5
+¸¶Ä«¿À,À© ÆÓ¸®½º ¸®Á¶Æ®,Å©³ëº§ ¾î¹ÂÁî¸ÕÆ® ¸®Á¶Æ®,30,0,4.7
+¸¶Ä«¿À,»÷Áî ÄÚÅ¸ÀÌ ¼¾Æ®·²,Londoner Macau,20,1,4.5
+¸¶Ä«¿À,»÷Áî ÄÚÅ¸ÀÌ ¼¾Æ®·²,»÷Áî ½ºÄ«ÀÌÆÄÅ©,19,2,4.4
+¸¶Ä«¿À,»÷Áî ÄÚÅ¸ÀÌ ¼¾Æ®·²,¼¾Æ®·² ÆÄÅ©,20,1,4.5
+¸¶Ä«¿À,»÷Áî ÄÚÅ¸ÀÌ ¼¾Æ®·²,¼¾Æ®·² ¿ùµå ÇÃ¶óÀÚ,19,2,4.4
+¸¶Ä«¿À,»÷Áî ÄÚÅ¸ÀÌ ¼¾Æ®·²,¼¾Æ®·² ÇÃ¶óÀÚ,9,1,4.3
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,¸óÅ× ¿ä»õ,21,0,4.6
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,Macau-Taipa Bridge,21,0,4.6
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,´º¾ß¿ÀÇÑ ¹éÈ­Á¡,10,0,4.5
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,St. Lawrence's Church,21,0,4.6
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,¸¶Ä«¿À ¿ª»çÁö±¸,21,0,4.6
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,²Ã·Î¾È,20,1,4.5
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,ÇÏ¿ì½º ¿Àºê ´í½Ì ¿öÅÍ,21,0,4.6
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,Outer Harbour Ferry Terminal,20,1,4.5
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,±×·£µå Ä³³Î ¼ó½º,21,0,4.6
+¸¶Ä«¿À,¸¶Ä«¿À ¹Ýµµ,Na Tcha Temple,10,0,4.5
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,¼¼ÀÎÆ® Æú ´ë¼º´ç,21,0,4.6
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,¼¼ÀÌÆ® ÆÐÆ®¸¯ ´ë¼º´ç,21,0,4.6
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,¼º ¹Ù¿ï °Å¸®(´Ù»ê¹Ù),21,0,4.6
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,¸óÅ× ¿ä»õ,21,0,4.6
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,¼¼ÀÎÆ® Æú ¼º´ç,21,0,4.6
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,Abbazia di San Paolo Fuori Le Mura,10,0,4.5
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,St. Paul's Hill & Church (Bukit St. Paul),21,0,4.6
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,Macao Government Tourism Office,17,4,4.2
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû, ¿Ãµå ¼¼ÀÎÆ® Æú ¼º´ç,10,0,4.5
+¸¶Ä«¿À,¼¼ÀÎÆ® Æú ¼º´ç À¯Àû,¼¼ÀÎÆ® ÆÐÆ®¸¯ ¼º´ç,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,ÆäÆ®·Î³ª½º Æ®À© Å¸¿ö,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,¼¾Æ®·² ¸¶ÄÏ Äí¾Ë¶ó·ëÇª¸£,17,4,4.2
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,Äí¾Ë¶ó·ëÇª¸£ ÄÁº¥¼Ç ¼¾ÅÍ,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,¸®Æ² ÀÎµð¾Æ - Äí¾Ë¶ó·ëÇª¸£,18,3,4.3
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,KLCC Park,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,ÆÄºô¸®¿Â KL,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,Äí¾Ë¶ó·ëÇª¸£ ¹öµå ÆÄÅ©,19,2,4.4
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,GO KL City Bus,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,KLIA Ekspres,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,Äí¾Ë¶ó·ëÇª¸£,¹ÙÅõ µ¿±¼,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,¸¶´©Ä­ ¼¶,18,3,4.3
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,Kota Kinabalu City Mosque,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,Tanjung Aru Beach,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,Imago Shopping Mall,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,Mantanani Island,17,4,4.2
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,ÀÚ½º¹Î ¸¶»çÁö,19,2,4.4
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,Sapi Island,18,3,4.3
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,I Love KK,9,1,4.3
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,Tanjung Aru Perdana Park,19,2,4.4
+¸»·¹ÀÌ½Ã¾Æ,ÄÚÅ¸Å°³ª¹ß·ç,Tunku Abdul Rahman Marine Park,19,2,4.4
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Panorama Langkawi SkyCab,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,¶ûÄ«À§ ½ºÄ«ÀÌ ºê¸®Áö,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Eagle Square,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Kilim Karst Geoforest Park,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Tanjung Rhu Beach,19,2,4.4
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Cenang Beach,19,2,4.4
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Oriental Village,9,1,4.3
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Ko Lipe,10,0,4.5
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Langkawi Night Market,10,0,4.5
+¸»·¹ÀÌ½Ã¾Æ,¶ûÄ«À§,Fauna Flora Eco,10,0,4.5
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«, Á¸Ä¿ ½ºÆ®¸®Æ®,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,Malacca River,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,Red Square (Dutch Square),21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,St. Paul's Hill & Church (Bukit St. Paul),21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,Menara Taming Sari,10,0,4.5
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,Malacca Heritage Centre,9,1,4.3
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,Stadthuys,10,0,4.5
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,River Walk,21,0,4.6
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,Christ Church,20,1,4.5
+¸»·¹ÀÌ½Ã¾Æ,¸»¶óÄ«,St. Francis Xavier Church,21,0,4.6
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼,Zocalo,21,0,4.6
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼,±¹¸³ ÀÎ·ùÇÐ ¹Ú¹°°ü,21,0,4.6
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼, ÄÚ¿ä¾ÆÄ­,21,0,4.6
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼,Paseo de la Reforma,20,1,4.5
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼,¸¶¿ä¸£ »ç¿ø ¹Ú¹°°ü,10,0,4.5
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼, Å×¿ÀÆ¼¿ì¾ÆÄ­,21,0,4.6
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼,San Angel,9,1,4.3
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼,Mercado De Artesanias La Ciudadela,9,1,4.3
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼,Catedral Metropolitana de la Ciudad de Mexico,21,0,4.6
+¸ß½ÃÄÚ,¸ß½ÃÄÚ½ÃÆ¼, Â÷Ç®Å×Æå ¼º,20,1,4.5
+¸ß½ÃÄÚ,Ä­Äï, Ä¡Ã¾ ÀÌÆ®»ç,19,2,4.4
+¸ß½ÃÄÚ,Ä­Äï,La Isla,18,3,4.3
+¸ß½ÃÄÚ,Ä­Äï,Xcaret,20,1,4.5
+¸ß½ÃÄÚ,Ä­Äï,Avenida Kukulkan,9,1,4.3
+¸ß½ÃÄÚ,Ä­Äï,Playa Delfines,19,2,4.4
+¸ß½ÃÄÚ,Ä­Äï,Xplor Park by Xcaret,20,1,4.5
+¸ß½ÃÄÚ,Ä­Äï,Happy Shuttle Cancun,10,0,4.5
+¸ß½ÃÄÚ,Ä­Äï,¼¿ÇÏ °ø¿ø,21,0,4.6
+¸ß½ÃÄÚ,Ä­Äï,Coco Bongo Playa del Carmen,5,5,3.7
+¸ß½ÃÄÚ,Ä­Äï,Coco Bongo Cancun,19,2,4.4
+¸ß½ÃÄÚ,Åø·ë, Åø·ëÀÇ ¸¶¾ß À¯ÀûÁö,21,0,4.6
+¸ß½ÃÄÚ,Åø·ë,Tulum Avenue,9,1,4.3
+¸ß½ÃÄÚ,Åø·ë,Mayan Beach,10,0,4.5
+¸ß½ÃÄÚ,Åø·ë,OZ Adventures,9,1,4.3
+¸ß½ÃÄÚ,Åø·ë,Playa Paraiso,6,4,3.9
+¸ß½ÃÄÚ,Åø·ë, ÄÚ¹Ù À¯ÀûÁö,8,2,4.2
+¸ß½ÃÄÚ,Åø·ë,Gran Cenote,9,1,4.3
+¸ß½ÃÄÚ,Åø·ë,Nuestra Senora del Carmen Catholic Church,10,0,4.5
+¸ß½ÃÄÚ,Åø·ë,Scubascoolmexico,10,0,4.5
+¸ß½ÃÄÚ,Åø·ë,Palacio Municipal,1,1,4.1
+¸ß½ÃÄÚ,ÇÁ¶ó¾ßµ¨Ä«¸£¸à,ÁöÇÏ ±ÃÀü,17,4,4.2
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Zaisan Memorial,21,0,4.6
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Gorkhi-Terelj National Park,21,0,4.6
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Galleria Souvenir Store,10,0,4.5
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Galleria Souvenir,4,0,4.4
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Choijin Lama Temple Museum,9,1,4.3
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Altai Bighorn Statue,3,1,4.2
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Genghis Khan Square,21,0,4.6
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,The State Department Store,8,2,4.2
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,Datsan Rinpoche Bagsha,8,2,4.2
+¸ù°ñ,¿ï¶õ¹ÙÅä¸£,National History Museum,21,0,4.6
+¹Ì±¹,´º¿å,¸ÞÆ®·ÎÆú¸®Åº ¹Ì¼ú°ü,19,2,4.4
+¹Ì±¹,´º¿å,·ÏÆç·¯ ¼¾ÅÍ Àü¸Á´ë,21,0,4.6
+¹Ì±¹,´º¿å,¼¾Æ®·² ÆÄÅ©,20,1,4.5
+¹Ì±¹,´º¿å, Å¸ÀÓ ½ºÄù¾î,19,2,4.4
+¹Ì±¹,´º¿å,¿¥ÆÄÀÌ¾î ½ºÅ×ÀÌÆ® ºôµù,20,1,4.5
+¹Ì±¹,´º¿å,´º¿å °ø°ø µµ¼­°ü,21,0,4.6
+¹Ì±¹,´º¿å,ºê·Îµå¿þÀÌ,20,1,4.5
+¹Ì±¹,´º¿å,ÇÏÀÌ ¶óÀÎ,21,0,4.6
+¹Ì±¹,´º¿å,ºê¶óÀÌ¾ðÆ® ÆÄÅ©,21,0,4.6
+¹Ì±¹,´º¿å,±×·£µå ¼¾Æ®·² ÅÍ¹Ì³Î,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,±Ý¹®±³,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,»÷ÇÁ¶õ½Ã½ºÄÚ º£ÀÌ,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,Æ®À© ÇÈ½º,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,»÷ÇÁ¶õ½Ã½ºÄÚ Çö´ë ¹Ì¼ú°ü,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,ÄÉÀÌºí Ä«,20,1,4.5
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,»÷ÇÁ¶õ½Ã½ºÄÚ ½ÃÃ»,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,»÷ÇÁ¶õ½Ã½ºÄÚ º£ÀÌ ºê¸®Áö,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,Lombard Street,21,0,4.6
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ,ÇÇ¾î 39,18,3,4.3
+¹Ì±¹,»÷ÇÁ¶õ½Ã½ºÄÚ, ¾ËÄ«Æ®¶óÁî,21,0,4.6
+¹Ì±¹,·Î½º¿£Á©·¹½º,´ÙÀú ½ºÅ¸µð¿ò,21,0,4.6
+¹Ì±¹,·Î½º¿£Á©·¹½º,±×¸®ÇÇ½º ÆÄÅ©,21,0,4.6
+¹Ì±¹,·Î½º¿£Á©·¹½º,°ÔÆ¼ ¼¾ÅÍ,20,1,4.5
+¹Ì±¹,·Î½º¿£Á©·¹½º,Moonstone Beach,10,0,4.5
+¹Ì±¹,·Î½º¿£Á©·¹½º,ÆÇÅ¸Áö½º ±ØÀå,8,2,4.2
+¹Ì±¹,·Î½º¿£Á©·¹½º,Angel Stadium of Anaheim,10,0,4.5
+¹Ì±¹,·Î½º¿£Á©·¹½º,Greystone Mansion and Park,10,0,4.5
+¹Ì±¹,·Î½º¿£Á©·¹½º,Gloria Molina Grand Park,10,0,4.5
+¹Ì±¹,·Î½º¿£Á©·¹½º,Kelso Dunes,9,1,4.3
+¹Ì±¹,·Î½º¿£Á©·¹½º,17-Mile Drive,20,1,4.5
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,¶ó½ºº£ÀÌ°Å½º ÇÁ¸®¹Ì¾ö ¾Æ¿ï·¿,21,0,4.6
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,The Strip,20,1,4.5
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,Vegas Rockstar VIP,21,0,4.6
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,Welcome to Fabulous Las Vegas Sign,19,2,4.4
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,The Spa at Vdara,7,3,4.0
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,The Grand Canal Shoppes at The Venetian Resort,20,1,4.5
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,¶ó½ºº£°¡½º ´Ù¿îÅ¸¿î,19,2,4.4
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,Paris Las Vegas,21,0,4.6
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,Seminole Hard Rock Casino Tampa,3,7,3.4
+¹Ì±¹,¶ó½ºº£ÀÌ°Å½º,Fremont Street Experience,20,1,4.5
+¹Ì¾á¸¶,¾ç°ï,Yangon Central Railway Station,18,3,4.3
+¹Ì¾á¸¶,¾ç°ï,½¦´Ù°ï ÆÄ°í´Ù,21,0,4.6
+¹Ì¾á¸¶,¾ç°ï,Sule Pagoda,19,2,4.4
+¹Ì¾á¸¶,¾ç°ï,Yangon Circular Train,14,7,3.8
+¹Ì¾á¸¶,¾ç°ï,Botahtaung Pagoda,10,0,4.5
+¹Ì¾á¸¶,¾ç°ï,Bogyoke Aung San Market,20,1,4.5
+¹Ì¾á¸¶,¾ç°ï,Myanmar Plaza Shopping Center,10,0,4.5
+¹Ì¾á¸¶,¾ç°ï,Immaculate Conception Cathedral,20,1,4.5
+¹Ì¾á¸¶,¾ç°ï,The Rangoon War Cemetery,10,0,4.5
+¹Ì¾á¸¶,¾ç°ï,JJ Express,21,0,4.6
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,Mandalay Hill,21,0,4.6
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,Kuthodaw Pagoda & the World's Largest Book,20,1,4.5
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,¹ÌÇÏ¹«´Ï ÆÄ°í´Ù,19,2,4.4
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,¿ì º£ÀÎ ´Ù¸®,20,1,4.5
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,Shark Reef Aquarium,8,2,4.2
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ, È²±Ý ±ÃÀü ¼öµµ¿ø (½¦³­µµ Â¥¿õ),21,0,4.6
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,Sanda Muni Paya,10,0,4.5
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,Health Center Thai Massage,8,2,4.2
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,Mandalay Palace,10,0,4.5
+¹Ì¾á¸¶,¸¸´Þ·¹ÀÌ,Mandalay Fort,7,3,4.0
+¹Ì¾á¸¶,³¶¿ì,Nyaung U Market,8,2,4.2
+¹Ì¾á¸¶,¹Ù°£,¹Ù°£ÀÇ »ç¿øµé,21,0,4.6
+¹Ì¾á¸¶,¹Ù°£,¾Æ³­´Ù »ç¿ø,20,1,4.5
+¹Ì¾á¸¶,¹Ù°£,½¦»êµµ ÆÄ°í´Ù,21,0,4.6
+¹Ì¾á¸¶,¹Ù°£,Sulamani Guphaya Temple,10,0,4.5
+¹Ì¾á¸¶,¹Ù°£,½¦Áö°ï ÆÄ¾ß,21,0,4.6
+¹Ì¾á¸¶,¹Ù°£,Dhammayangyi Temple,19,2,4.4
+¹Ì¾á¸¶,¹Ù°£,Htilominlo Pahto,10,0,4.5
+¹Ì¾á¸¶,¹Ù°£,JJ Express,21,0,4.6
+¹Ì¾á¸¶,¹Ù°£,Thatbyinnyu Temple,10,0,4.5
+¹Ì¾á¸¶,¹Ù°£,Oriental Ballooning Bagan,10,0,4.5
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,People's Committee Building,10,0,4.5
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,Dong Khoi Street,21,0,4.6
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,ºñÅØ½ºÄÚ ÆÄÀÌ³½¼È Å¸¿ö ½ºÄ«ÀÌµ¥Å©,18,3,4.3
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,Asiana Link Travel,21,0,4.6
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,Saigon River,19,2,4.4
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,Saigon Hotpot - Travel With Local Youth,10,0,4.5
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,Notre Dame Square,21,0,4.6
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼, Áß¾Ó ¿ìÃ¼±¹,20,1,4.5
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,È£Ä¡¹Î °üÀú,20,1,4.5
+º£Æ®³²,È£Ä¡¹Î½ÃÆ¼,Asia Pacific Travel Vietnam,10,0,4.5
+º£Æ®³²,ÇÏ³ëÀÌ,ÇÏ³ëÀÌ ±¸½Ã°¡,19,2,4.4
+º£Æ®³²,ÇÏ³ëÀÌ,È£¾È ³¢¿¥ È£¼ö,19,2,4.4
+º£Æ®³²,ÇÏ³ëÀÌ,LA Spa Trendy,21,0,4.6
+º£Æ®³²,ÇÏ³ëÀÌ,Mido Spa,21,0,4.6
+º£Æ®³²,ÇÏ³ëÀÌ,Serene Spa,21,0,4.6
+º£Æ®³²,ÇÏ³ëÀÌ,La Belle Vie Spa,30,0,4.7
+º£Æ®³²,ÇÏ³ëÀÌ,Hanoi Labelle Vie Spa,20,1,4.5
+º£Æ®³²,ÇÏ³ëÀÌ,Mido Spa 1,21,0,4.6
+º£Æ®³²,ÇÏ³ëÀÌ,Estheva Spa,21,0,4.6
+º£Æ®³²,ÇÏ³ëÀÌ,L'essence Spa,21,0,4.6
+º£Æ®³²,³ªÆ®¶û, ½º¿Í¾äºÎ³ªÆ® »ç¿ø,19,2,4.4
+º£Æ®³²,³ªÆ®¶û,º¸µå³ªÆ® »ç¸®Å¾,19,2,4.4
+º£Æ®³²,³ªÆ®¶û,Nha Trang Beach,20,1,4.5
+º£Æ®³²,³ªÆ®¶û,Po Nagar Cham Towers,21,0,4.6
+º£Æ®³²,³ªÆ®¶û, ÆÄ½´ÆÄÆ¼³ªÆ® »ç¿ø,21,0,4.6
+º£Æ®³²,³ªÆ®¶û,Monkey Island,20,1,4.5
+º£Æ®³²,³ªÆ®¶û,Nha Trang Sea Star,21,0,4.6
+º£Æ®³²,³ªÆ®¶û,Charm Spa Grand Nha Trang,21,0,4.6
+º£Æ®³²,³ªÆ®¶û,Casa Spa,19,2,4.4
+º£Æ®³²,³ªÆ®¶û,Long Son Pagoda,18,3,4.3
+º£Æ®³²,´Ù³¶,ÇÁ¶ó³¶ ºñÄ¡,20,1,4.5
+º£Æ®³²,´Ù³¶,Dragon Bridge,17,4,4.2
+º£Æ®³²,´Ù³¶,Herbal Spa,21,0,4.6
+º£Æ®³²,´Ù³¶,´Ù ³¶ ºñÄ¡,20,1,4.5
+º£Æ®³²,´Ù³¶,Ba Na Hills,20,1,4.5
+º£Æ®³²,´Ù³¶,Pandanus Spa Hoi An,20,1,4.5
+º£Æ®³²,´Ù³¶,Lady Buddha,21,0,4.6
+º£Æ®³²,´Ù³¶,Dahan Spa Danang,21,0,4.6
+º£Æ®³²,´Ù³¶,Tabalo Outdoor,20,1,4.5
+º£Æ®³²,´Ù³¶,Ä«¿À»ê ·Îµå,19,2,4.4
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,»ç±×¶ó´Ù ÆÄ¹Ð¸®¾Æ ¼º´ç,21,0,4.6
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,±¸¿¤ °ø¿ø,19,2,4.4
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,Spotify Camp Nou,21,0,4.6
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,¸óÁÖÀÍ °ø¿ø,20,1,4.5
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª, °íµñ Áö±¸ (¹Ù¸® °íÆ½),21,0,4.6
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,Aerobus,19,2,4.4
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,Parc d¡¯Atraccions Tibidabo,21,0,4.6
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,Ä«Å»·ç³Ä ±¹¸³ ¹Ì¼ú°ü - MNAC,21,0,4.6
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,Plaza de Catalunya,19,2,4.4
+½ºÆäÀÎ,¹Ù¸£¼¿·Î³ª,Barcelona Cathedral,21,0,4.6
+½ºÆäÀÎ,¸¶µå¸®µå,ÇÁ¶óµµ ¹Ú¹°°ü,21,0,4.6
+½ºÆäÀÎ,¸¶µå¸®µå,Puerta del Sol,20,1,4.5
+½ºÆäÀÎ,¸¶µå¸®µå, ¸¶µå¸®µå ¿Õ±Ã,20,1,4.5
+½ºÆäÀÎ,¸¶µå¸®µå,Santiago Bernabeu Stadium,17,4,4.2
+½ºÆäÀÎ,¸¶µå¸®µå,Gran Via,21,0,4.6
+½ºÆäÀÎ,¸¶µå¸®µå,·¹Æ¼·Î ÆÄÅ© (ÆÄ¸£ µ¨ ·¹Æ¼·Î),21,0,4.6
+½ºÆäÀÎ,¸¶µå¸®µå,Plaza de Cibeles,21,0,4.6
+½ºÆäÀÎ,¸¶µå¸®µå,Palacio de Cibeles,20,1,4.5
+½ºÆäÀÎ,¸¶µå¸®µå,Plaza Mayor,20,1,4.5
+½ºÆäÀÎ,¸¶µå¸®µå,Templo de Debod,17,4,4.2
+½ºÆäÀÎ,¼¼ºñ¾ß,½ºÆäÀÎ ±¤Àå,21,0,4.6
+½ºÆäÀÎ,¼¼ºñ¾ß, ¼¼ºñ¾ß ´ë¼º´ç (Ä«Å×µå¶ö µ¥ ¼¼ºñ¾ß),21,0,4.6
+½ºÆäÀÎ,¼¼ºñ¾ß,Torre Giralda,20,1,4.5
+½ºÆäÀÎ,¼¼ºñ¾ß,¾ËÄ«»ç¸£,20,1,4.5
+½ºÆäÀÎ,¼¼ºñ¾ß,Centro Historico de Sevilla,21,0,4.6
+½ºÆäÀÎ,¼¼ºñ¾ß,Setas de Sevilla (Metropol Parasol),19,2,4.4
+½ºÆäÀÎ,¼¼ºñ¾ß,Barrio Santa Cruz,21,0,4.6
+½ºÆäÀÎ,¼¼ºñ¾ß,¸¶¸®¾Æ ·çÀÌ»ç °ø¿ø,21,0,4.6
+½ºÆäÀÎ,¼¼ºñ¾ß,Torre del Oro,17,4,4.2
+½ºÆäÀÎ,¼¼ºñ¾ß,Iglesia Colegial del Salvador,21,0,4.6
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Ciudad de las Artes y las Ciencias,20,1,4.5
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Oceanografic Valencia,8,2,4.2
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Central Market of Valencia,18,3,4.3
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Valencia Cathedral,9,1,4.3
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Estacio del Nord,9,1,4.3
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Miguelete,9,1,4.3
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Plaza del Ayuntamiento,9,1,4.3
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Plaza del Mercado (Placa del Mercat),10,0,4.5
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,Museu Faller de Valencia,8,2,4.2
+½ºÆäÀÎ,¹ß·»½Ã¾Æ,La Lonja de la Seda,10,0,4.5
+½½·Îº£´Ï¾Æ,ºí·¹µå, ºí·¹µå ¼º,20,1,4.5
+½½·Îº£´Ï¾Æ,ºí·¹µå, ºóÆ®°¡¸£ Çù°î,29,1,4.6
+½½·Îº£´Ï¾Æ,ºí·¹µå,Lake Bled,21,0,4.6
+½½·Îº£´Ï¾Æ,ºí·¹µå,Lake Bohinj,9,1,4.3
+½½·Îº£´Ï¾Æ,ºí·¹µå,Bled Island,20,1,4.5
+½½·Îº£´Ï¾Æ,ºí·¹µå,Vogel Ski Center,9,1,4.3
+½½·Îº£´Ï¾Æ,ºí·¹µå,Mamut Slovenija,7,3,4.0
+½½·Îº£´Ï¾Æ,ºí·¹µå,Vrsic Pass - Julian Alps,9,1,4.3
+½½·Îº£´Ï¾Æ,ºí·¹µå,Straza Bled,8,2,4.2
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,The Ljubljana Castle,21,0,4.6
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,ÇÁ·¹¼¼·» ±¤Àå,21,0,4.6
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,River Ljubljanica Kanal,10,0,4.5
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª, »ïÁß±³ (Æ®·Î¸ð½ºÅäºê¿¹),19,2,4.4
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,Cankarjevo Nabre?je,10,0,4.5
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,Ljubljana Free Tour,10,0,4.5
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,Franciscan Church (Fran?i?kanska cerkev),10,0,4.5
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,Skyscraper (Neboti?nik),9,1,4.3
+½½·Îº£´Ï¾Æ,·ùºí·ª³ª,Ljubljana Old Town,21,0,4.6
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,Piran Town Walls,20,1,4.5
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,Church of St. George (Cerkev sv. Jurija) in Piran,10,0,4.5
+½½·Îº£´Ï¾Æ,ÇÇ¶õ, Å¸¸£Æ¼´Ï ±¤Àå,21,0,4.6
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,Port Piran,10,0,4.5
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,First of May Square,10,0,4.5
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,ÀÓ½Ã¼öµµ±â³ä°ü,10,0,4.5
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,Church of St. Francis of Assisi,10,0,4.5
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,Old Town,10,0,4.5
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,Kandovan,8,2,4.2
+½½·Îº£´Ï¾Æ,ÇÇ¶õ,Roundabout Travel,10,0,4.5
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî, Á¶³ª ¸®ºóÀÌ¸°¿§,21,0,4.6
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Douro River,21,0,4.6
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Taylor's Port,21,0,4.6
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Liberdade Square,19,2,4.4
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,·ÎÁî ¹ë¸®,21,0,4.6
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Church of Santa Clara,10,0,4.5
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Jardim do Morro,10,0,4.5
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Igreja do Carmo,10,0,4.5
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Ribeira Square,21,0,4.6
+½½·Îº£´Ï¾Æ,Æ÷¸£Åä·ÎÁî,Mercado do Bolhao,18,3,4.3
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,Adventure Cove Waterpark,19,2,4.4
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,¼¾Åä»ç ÀÍ½ºÇÁ·¹½º,21,0,4.6
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,Deception Pass State Park,9,1,4.3
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,Finn McCools Tours,10,0,4.5
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,EPIC The Irish Emigration Museum,9,1,4.3
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,Guinness Storehouse,21,0,4.6
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,Titanic Belfast,9,1,4.3
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,¼¼ÀÎÆ® ½ºÅ×ÆÇ °¡µç,20,1,4.5
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå,À¯´Ï¹ö¼È ¾îµåº¥Ã³ ¾ÆÀÏ·£µå,20,1,4.5
+½Ì°¡Æ÷¸£,¼¾Åä»ç ¾ÆÀÏ·£µå, ºí¶ó´Ï Ä³½½ & °¡µç,9,1,4.3
+½Ì°¡Æ÷¸£,¿ÀÂ÷µå·Îµå, ¿ÀÂ÷µå ·Îµå,18,3,4.3
+½Ì°¡Æ÷¸£,¿ÀÂ÷µå·Îµå,ION Orchard,20,1,4.5
+½Ì°¡Æ÷¸£,¿ÀÂ÷µå·Îµå,Wisma Atria Shopping Centre,9,1,4.3
+½Ì°¡Æ÷¸£,¿ÀÂ÷µå·Îµå,Tangs Plaza,9,1,4.3
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,¸¶¸®³ª º£ÀÌ,21,0,4.6
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,°¡µçÁî ¹ÙÀÌ ´õ º£ÀÌ,21,0,4.6
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,»÷Áî ½ºÄ«ÀÌÆÄÅ©,19,2,4.4
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ, ½Ì°¡Æ÷¸£ ÇÃ¶óÀÌ¾î,21,0,4.6
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,Çï¸¯½º ºê¸®Áö,20,1,4.5
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,Supertree Grove,20,1,4.5
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,OCBC Skyway,9,1,4.3
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,¿¡½ºÇÃ·¯³×ÀÌµå - ÇØº¯ ±ØÀå,20,1,4.5
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,¸¶¸®³ª º£ÀÌ »÷Áî ¾ÆÆ® »çÀÌ¾ð½º ¹Ú¹°°ü,17,4,4.2
+½Ì°¡Æ÷¸£,¸¶¸®³ª º£ÀÌ,¸¶¸®³ª ¹ö¶óÁö,10,0,4.5
+½Ì°¡Æ÷¸£,Â÷ÀÌ³ªÅ¸¿î,Â÷ÀÌ³ªÅ¸¿î,64,9,4.4
+½Ì°¡Æ÷¸£,Â÷ÀÌ³ªÅ¸¿î,ºÒ¾Æ»ç ¿ëÈ­¿ø,21,0,4.6
+¿µ±¹,·±´ø, ·±´ø¾ÆÀÌ,20,1,4.5
+¿µ±¹,·±´ø,´ë¿µ ¹Ú¹°°ü,20,1,4.5
+¿µ±¹,·±´ø,±¹¸³ ¹Ì¼ú°ü,21,0,4.6
+¿µ±¹,·±´ø,·±´ø ÁöÇÏÃ¶,15,6,3.9
+¿µ±¹,·±´ø, ºò º¥,16,5,4.0
+¿µ±¹,·±´ø,¹öÅ·¾ö ±ÃÀü,20,1,4.5
+¿µ±¹,·±´ø,Å¸¿ö ºê¸®Áö,21,0,4.6
+¿µ±¹,·±´ø,·±´ø ÀÚ¿¬»ç ¹Ú¹°°ü,21,0,4.6
+¿µ±¹,·±´ø, ·±´ø Å¸¿ö,21,0,4.6
+¿µ±¹,·±´ø,Sky Garden,21,0,4.6
+¿µ±¹,¿¡µç¹ö·¯, ¿¡µç¹ö·¯ ¼º,21,0,4.6
+¿µ±¹,¿¡µç¹ö·¯, ·Î¿­ ¸¶ÀÏ,21,0,4.6
+¿µ±¹,¿¡µç¹ö·¯,Calton Hill,21,0,4.6
+¿µ±¹,¿¡µç¹ö·¯,Scott Monument,21,0,4.6
+¿µ±¹,¿¡µç¹ö·¯,Edinburgh Old Town,21,0,4.6
+¿µ±¹,¿¡µç¹ö·¯,ÇÁ¸°¼¼½º ½ºÆ®¸®Æ® °¡µç,21,0,4.6
+¿µ±¹,¿¡µç¹ö·¯,Castle Rock,10,0,4.5
+¿µ±¹,¿¡µç¹ö·¯,The Royal Edinburgh Military Tattoo,9,1,4.3
+¿µ±¹,¿¡µç¹ö·¯,Grassmarket,10,0,4.5
+¿µ±¹,¿¡µç¹ö·¯,È¦¸®·çµå ÆÄÅ©,21,0,4.6
+¿µ±¹,¸ÇÃ¼½ºÅÍ,Old Trafford,10,0,4.5
+¿µ±¹,¸ÇÃ¼½ºÅÍ,Etihad Stadium,9,1,4.3
+¿µ±¹,¸ÇÃ¼½ºÅÍ,National Football Museum,8,2,4.2
+¿µ±¹,¸ÇÃ¼½ºÅÍ,The John Rylands Library,8,2,4.2
+¿µ±¹,¸ÇÃ¼½ºÅÍ,J-UK Golf,10,0,4.5
+¿µ±¹,¸ÇÃ¼½ºÅÍ,Manchester Metrolink,6,4,3.9
+¿µ±¹,¸ÇÃ¼½ºÅÍ,Victoria Station,5,5,3.7
+¿µ±¹,¸ÇÃ¼½ºÅÍ,Science and Industry Museum,10,0,4.5
+¿µ±¹,¸ÇÃ¼½ºÅÍ,Ã¤½º¿ö½º,10,0,4.5
+¿µ±¹,¸ÇÃ¼½ºÅÍ,The Nolen,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,University of Cambridge,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,Cambridge University Botanic Garden,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,Lets Go Punting,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,Great St Mary's Church (Church of England),10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,Mathematical Bridge,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,Âû½º ¸®¹ö,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,King's College,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,The River Cam,9,1,4.3
+¿µ±¹,Ä·ºê¸®Áö,Galt,10,0,4.5
+¿µ±¹,Ä·ºê¸®Áö,King's College Chapel,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,½Ãµå´Ï ¿ÀÆä¶ó ÇÏ¿ì½º,20,1,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,½Ãµå´Ï ÇÏ¹ö,20,1,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,½Ãµå´Ï ÇÏ¹ö ºê¸®Áö,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,½Ãµå´Ï ¾ÆÄí¾Æ¸®¿ò,20,1,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,½Ãµå´Ï Æä¸®,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,½Ãµå´Ï Ãµ¹®´ë,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,½Ãµå´Ï Å¸¿ö ¾ÆÀÌ & ½ºÄ«ÀÌ¿öÅ©,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,¼­Å§·¯ Å°,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,º»´ÙÀÌ ºñÄ¡,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,½Ãµå´Ï,Äý ºòÅä¸®¾Æ ºôµù (QVB),19,2,4.4
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,À¯·¹Ä« ½ºÄ«ÀÌµ¦ 88,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,½ÃÆ¼ ¼­Å¬ Æ®·¥,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,ÇÃ¸°´õ½º ½ºÆ®¸®Æ® ¿ª,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,¾ß¶ó °­,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,¸á¹ö¸¥ ¹Ú¹°°ü,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,The Great Ocean Road,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,¼¼ÀÌÆ® ÆÐÆ®¸¯ ´ë¼º´ç,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,Degraves Street,20,1,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,¸á¹ö¸¥ ÀüÀï ±â³ä°ü,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,¸á¹ö¸¥,±¸ ¸á¹ö¸¥ °¨¿Á,17,4,4.2
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,ºê¸®Áî¹ø °­,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,¸¶¿îÆ® Äí»ç Àü¸Á´ë,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,»ç¿ì½º ¹ðÅ© ÆÄÅ©·£µå,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,ÈÙ ¿Àºê ºê¸®Áî¹ø,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,½ÃÆ¼Ä¹ Æä¸®,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,ºê¸®Áî¹ø ½Ä¹°¿ø,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,City Hopper,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,·Ð ÆÄÀÎ ÄÚ¾Ë¶ó º¸È£ ±¸¿ª,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,ºê¸®Áî¹ø ¹Ú¹°°ü,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ºê¸®Áî¹ø,City Hall,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Esplanade Boardwalk,20,1,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Kuranda Scenic Railway,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Cairns Aquarium,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Northern Experience Eco Tours,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,»ç¿ì½º ¹ðÅ© ÆÄÅ©·£µå,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Reef Magic Cruises,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Cairns Esplanade Lagoon,21,0,4.6
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Josephine Falls,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Rusty's Market,10,0,4.5
+¿À½ºÆ®·¹ÀÏ¸®¾Æ,ÄÉ¾ð½º,Cairns Botanic Gardens,10,0,4.5
+ÀÎµµ,¹³¹ÙÀÌ,°ÔÀÌÆ®¿þÀÌ ¿Àºê ÀÎµð¾Æ,19,2,4.4
+ÀÎµµ,¹³¹ÙÀÌ,Â÷Æ®¶ó¹Ù¶ì ½Ã¿ÍÁö ¿ª,21,0,4.6
+ÀÎµµ,¹³¹ÙÀÌ, ¸¶¸° µå¶óÀÌºê,21,0,4.6
+ÀÎµµ,¹³¹ÙÀÌ,Bandra-Worli Sea Link,10,0,4.5
+ÀÎµµ,¹³¹ÙÀÌ,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,10,0,4.5
+ÀÎµµ,¹³¹ÙÀÌ,Powai Lake,8,2,4.2
+ÀÎµµ,¹³¹ÙÀÌ,Hanging Gardens,7,3,4.0
+ÀÎµµ,¹³¹ÙÀÌ,High Street Phoenix,10,0,4.5
+ÀÎµµ,¹³¹ÙÀÌ,High Court Principal Bench Bombay,10,0,4.5
+ÀÎµµ,¹³¹ÙÀÌ,Sanjay Gandhi National Park,8,2,4.2
+ÀÎµµ,´ºµ¨¸®, ²Ù¶å ¹Ì³ª¸£,20,1,4.5
+ÀÎµµ,´ºµ¨¸®,ÀÎµð¾Æ °ÔÀÌÆ®,20,1,4.5
+ÀÎµµ,´ºµ¨¸®,Delhi Airport Metro Express,21,0,4.6
+ÀÎµµ,´ºµ¨¸®, ÈÄ¸¶À±ÀÇ ¹¦,20,1,4.5
+ÀÎµµ,´ºµ¨¸®,Connaught Place,20,1,4.5
+ÀÎµµ,´ºµ¨¸®,Driver India Private Tours,10,0,4.5
+ÀÎµµ,´ºµ¨¸®,´ëÅë·É °üÀú (¶óÆÄÆ¼ ¹Ù¹Ý),8,2,4.2
+ÀÎµµ,´ºµ¨¸®,Classic Golf Resort,6,0,4.4
+ÀÎµµ,´ºµ¨¸®,ÇÏ¿ìÁî Ä«½º ºô¸®Áö,10,0,4.5
+ÀÎµµ,´ºµ¨¸®,North India Private Driver,10,0,4.5
+ÀÎµµ,¾Æ±×¶ó, ¾Æ±×¶ó ¿ä»õ,20,1,4.5
+ÀÎµµ,¾Æ±×¶ó,Å¸Áö¸¶ÇÒ,19,2,4.4
+ÀÎµµ,¾Æ±×¶ó,Raj Travels India,9,1,4.3
+ÀÎµµ,¾Æ±×¶ó,Discover India By Car,10,0,4.5
+ÀÎµµ,¾Æ±×¶ó,½ÃÄ­µå¶ó (¾Ç¹Ù¸£ È²Á¦ÀÇ ¹«´ý),10,0,4.5
+ÀÎµµ,¾Æ±×¶ó,Private India Tour Advisor,10,0,4.5
+ÀÎµµ,¾Æ±×¶ó,ºÓÀº ¿ä»õ (¶ö Å³¶ó),20,1,4.5
+ÀÎµµ,¾Æ±×¶ó,Maria Luxury Tours,30,0,4.7
+ÀÎµµ,¾Æ±×¶ó,Sheesh Mahal,8,2,4.2
+ÀÎµµ,¾Æ±×¶ó,City of love boat tour,9,0,4.5
+ÀÎµµ,ÀÚÀÌÇª¸£,¾È º§¼º,21,0,4.6
+ÀÎµµ,ÀÚÀÌÇª¸£,¹Ù¶÷ÀÇ ±ÃÀü (ÇÏ¿Í ¸¶ÇÒ),20,1,4.5
+ÀÎµµ,ÀÚÀÌÇª¸£,ÀÚÀÌÇª¸£ ½ÃÆ¼ ÆÓ¸®½º,21,0,4.6
+ÀÎµµ,ÀÚÀÌÇª¸£,Discover India By Car,10,0,4.5
+ÀÎµµ,ÀÚÀÌÇª¸£,Sunny Tour Travels,1,0,4.3
+ÀÎµµ,ÀÚÀÌÇª¸£,Jaigarh Fort,10,0,4.5
+ÀÎµµ,ÀÚÀÌÇª¸£,Unique Jaipur Tour,10,0,4.5
+ÀÎµµ,ÀÚÀÌÇª¸£,Easy Peasy Tours,10,0,4.5
+ÀÎµµ,ÀÚÀÌÇª¸£,Nahargarh Fort,9,1,4.3
+ÀÎµµ,ÀÚÀÌÇª¸£,Namaste Jaipur Tours,10,0,4.5
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,¿öÅÍ¹ã ¹ß¸®,21,0,4.6
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,¹ß¸® ÄÃ·º¼Ç,20,1,4.5
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,Kuta Beach - Bali,18,3,4.3
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,¹ß¸® °í±Þ ½ºÆÄ & ÇÑ±¹ ½Ä´ç ·ÎÁîÈú,21,0,4.6
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,UP2U ¼­ÇÁ ½ºÄð ¹ß¸®,21,0,4.6
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,Bali SUN Tours,21,0,4.6
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,Bali Swing,20,1,4.5
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,¸ùÅ° Æ÷·¹½ºÆ®,21,0,4.6
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,¸ô ¹ß¸® °¶·¯¸®¾Æ,17,4,4.2
+ÀÎµµ³×½Ã¾Æ,¹ß¸®,The Care Day Spa,20,1,4.5
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Braga Street,9,1,4.3
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Tangkuban Perahu,9,1,4.3
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Jalan Asia Afrika,10,0,4.5
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,White Crater,10,0,4.5
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Bandung Grand Mosque,10,0,4.5
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Bandung City Square,8,2,4.2
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Maribaya Hot Springs,8,2,4.2
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Ciater Hot Spring,9,1,4.3
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Trans Studio Bandung,7,3,4.0
+ÀÎµµ³×½Ã¾Æ,¹ÝµÕ,Gambir Train Station,9,1,4.3
+ÀÎµµ³×½Ã¾Æ,¼¾Æ®·² ÀÚÄ«¸£Å¸,¸ð³ª½º,21,0,4.6
+ÀÎµµ³×½Ã¾Æ,¼¾Æ®·² ÀÚÄ«¸£Å¸,Å¸¸¸ ¹Ì´Ï ÀÎµµ³×½Ã¾Æ ÀÎ´Ù,18,3,4.3
+ÀÎµµ³×½Ã¾Æ,¼¾Æ®·² ÀÚÄ«¸£Å¸,Kota Kasablanka,10,0,4.5
+ÀÎµµ³×½Ã¾Æ,¼¾Æ®·² ÀÚÄ«¸£Å¸, ÀÌ½ºÆ¼Å©¶ö ¸ð½ºÅ© (ÀÌ½ºÆ¼Å©¶ö »ç¿ø),19,2,4.4
+ÀÏº»,µµÄì,µµÄì µðÁî´Ï½Ã,18,3,4.3
+ÀÏº»,µµÄì,µµÄì Å¸¿ö,21,0,4.6
+ÀÏº»,µµÄì,¿À´ÙÀÌ¹Ù,21,0,4.6
+ÀÏº»,µµÄì,¿¡µµ-µµÄì ¹Ú¹°°ü,29,1,4.6
+ÀÏº»,µµÄì,µµÄì¿ª,21,0,4.6
+ÀÏº»,µµÄì,¸ð¸® Å¸¿ö,21,0,4.6
+ÀÏº»,µµÄì,µµÄì ½ºÄ«ÀÌ Æ®¸®,21,0,4.6
+ÀÏº»,µµÄì,¸®Æ² µµÄì,21,0,4.6
+ÀÏº»,µµÄì,µµÄì µµÃ»,18,3,4.3
+ÀÏº»,µµÄì,µµÄì ±¹¸³ ¹Ú¹°°ü,21,0,4.6
+ÀÏº»,¿À»çÄ«,µµÅæº¸¸®,18,3,4.3
+ÀÏº»,¿À»çÄ«,À¯´Ï¹ö¼È ½ºÆ©µð¿À ÀçÆÒ,19,2,4.4
+ÀÏº»,¿À»çÄ«,¿ì¸Þ´Ù ½ºÄ«ÀÌ ºôµù - °øÁß Á¤¿ø Àü¸Á´ë,18,3,4.3
+ÀÏº»,¿À»çÄ«,¿À»çÄ« ¼º,18,3,4.3
+ÀÏº»,¿À»çÄ«,½Å»çÀÌ¹Ù½Ã,19,2,4.4
+ÀÏº»,¿À»çÄ«,Äí·Î¸ó ½ÃÀå,17,4,4.2
+ÀÏº»,¿À»çÄ«,Osaka Kale Park©¥,20,1,4.5
+ÀÏº»,¿À»çÄ«,HEP FIVE °ü¶÷Â÷,19,2,4.4
+ÀÏº»,¿À»çÄ«,¿À»çÄ« »ýÈ° ¹Ú¹°°ü,19,2,4.4
+ÀÏº»,¿À»çÄ«,ÅÙÆ÷ÀÜ ´ë°ü¶÷Â÷,19,2,4.4
+ÀÏº»,±³Åä,±Ý°¢»ç,18,3,4.3
+ÀÏº»,±³Åä,ÈÄ½Ã¹Ì ÀÌ³ª¸® ½Å»ç,20,1,4.5
+ÀÏº»,±³Åä,Kiyomizu-dera,17,4,4.2
+ÀÏº»,±³Åä,Àº°¢»ç,20,1,4.5
+ÀÏº»,±³Åä,±³Åä¿ª ºôµù,21,0,4.6
+ÀÏº»,±³Åä,±³Åä Å¸¿ö,20,1,4.5
+ÀÏº»,±³Åä,±³Åä ´Ï½ÃÅ° ½ÃÀå,18,3,4.3
+ÀÏº»,±³Åä,Gion,20,1,4.5
+ÀÏº»,±³Åä,Arashiyama,21,0,4.6
+ÀÏº»,±³Åä,±³Åä ½Ä¹°¿ø,20,1,4.5
+ÀÏº»,»ñÆ÷·Î,JR Å¸¿ö Àü¸Á´ë T38,19,2,4.4
+ÀÏº»,»ñÆ÷·Î,Odori Park,20,1,4.5
+ÀÏº»,»ñÆ÷·Î,Susukino,21,0,4.6
+ÀÏº»,»ñÆ÷·Î,Sapporo Beer Museum,20,1,4.5
+ÀÏº»,»ñÆ÷·Î,»ñÆ÷·Î ¿ÀÄí¶ó¾ß¸¶ Àü¸Á´ë,20,1,4.5
+ÀÏº»,»ñÆ÷·Î,Sapporo TV Tower,21,0,4.6
+ÀÏº»,»ñÆ÷·Î,ÈªÄ«ÀÌµµ ´ëÇÐ »ñÆ÷·Î Ä·ÆÛ½º,21,0,4.6
+ÀÏº»,»ñÆ÷·Î,Clock Tower (Tokei-dai),9,12,3.2
+ÀÏº»,»ñÆ÷·Î,Mt. Moiwa,21,0,4.6
+ÀÏº»,»ñÆ÷·Î,Sapporo Underground Pedestrian Space,20,1,4.5
+Áß±¹,»óÇÏÀÌ,»óÇÏÀÌÀÇ ¿ÍÀÌÅº (¿ÍÀÌÅº),21,0,4.6
+Áß±¹,»óÇÏÀÌ,µ¿¹æ ¸íÁÖ Å¸¿ö (Dongfang Mingzhu),21,0,4.6
+Áß±¹,»óÇÏÀÌ,½ÅÃµÁö,20,1,4.5
+Áß±¹,»óÇÏÀÌ,¹øµå ÀÎÅÍ³»¼Å³Î ¾ÆÅ°ÅØÃ³ ÀÍ½ºÈ÷ºñ¼Ç,30,0,4.7
+Áß±¹,»óÇÏÀÌ,Shanghai Urban Planning Exhibition Hall,19,2,4.4
+Áß±¹,»óÇÏÀÌ,Shanghai Metro,19,2,4.4
+Áß±¹,»óÇÏÀÌ, »óÇÏÀÌ ¼¼°è ±ÝÀ¶ ¼¾ÅÍ,20,1,4.5
+Áß±¹,»óÇÏÀÌ,»óÇÏÀÌ ¿ª»ç ¹Ú¹°°ü,21,0,4.6
+Áß±¹,»óÇÏÀÌ,Pudong New Area,21,0,4.6
+Áß±¹,»óÇÏÀÌ,»óÇÏÀÌ ¹Ú¹°°ü,18,3,4.3
+Áß±¹,º£ÀÌÂ¡,¸¸¸®Àå¼º,21,0,4.6
+Áß±¹,º£ÀÌÂ¡,ÀÌÈ­¿ø,21,0,4.6
+Áß±¹,º£ÀÌÂ¡,Ãµ¾È¹®,21,0,4.6
+Áß±¹,º£ÀÌÂ¡,The Great Wall at Badaling,20,1,4.5
+Áß±¹,º£ÀÌÂ¡,Wangfujing Street,16,5,4.0
+Áß±¹,º£ÀÌÂ¡,Beijing Subway,19,2,4.4
+Áß±¹,º£ÀÌÂ¡,Ãµ´Ü (Æ¼¿£Åº °ø¿ø),21,0,4.6
+Áß±¹,º£ÀÌÂ¡,°æ»ê °ø¿ø (À×¼¢ ²ÇÀ§¿£),21,0,4.6
+Áß±¹,º£ÀÌÂ¡,Ãµ¾È¹® ±¤Àå,20,1,4.5
+Áß±¹,º£ÀÌÂ¡,°í±Ã ¹Ú¹°°ü,19,2,4.4
+Áß±¹,±¤Àú¿ì,Canton Tower,21,0,4.6
+Áß±¹,±¤Àú¿ì,Shamian Island,20,1,4.5
+Áß±¹,±¤Àú¿ì,Guangzhou Metro,10,0,4.5
+Áß±¹,±¤Àú¿ì,Huaisheng Mosque,10,0,4.5
+Áß±¹,±¤Àú¿ì,Museum of the Western Han Dynasty Mausoleum of the Nanyue King,10,0,4.5
+Áß±¹,±¤Àú¿ì,Sacred Heart Cathedral,10,0,4.5
+Áß±¹,±¤Àú¿ì,Beijing Road Ancient Avenue,10,0,4.5
+Áß±¹,±¤Àú¿ì,Beijing Road Shopping District,8,2,4.2
+Áß±¹,±¤Àú¿ì,Pearl River (Zhujiang),10,0,4.5
+Áß±¹,±¤Àú¿ì,Guangdong Museum of Art,6,4,3.9
+Áß±¹,Ç×Àú¿ì,West Lake (Xi Hu),21,0,4.6
+Áß±¹,Ç×Àú¿ì,Hangzhou Songcheng,9,1,4.3
+Áß±¹,Ç×Àú¿ì,QingHeFang,9,1,4.3
+Áß±¹,Ç×Àú¿ì,Fei Lai Feng,10,0,4.5
+Áß±¹,Ç×Àú¿ì,Áß±¹ °í¼Ó Ã¶µµ,20,1,4.5
+Áß±¹,Ç×Àú¿ì,Pagoda of Six Harmonies,7,3,4.0
+Áß±¹,Ç×Àú¿ì,Xixi Wetland Park,7,3,4.0
+Áß±¹,Ç×Àú¿ì,Ping Hu Qiu Yue,10,0,4.5
+Áß±¹,Ç×Àú¿ì,National Tea Museum,9,1,4.3
+Áß±¹,Ç×Àú¿ì,Hangzhou Chenghuang Pagoda,10,0,4.5
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,¾ÓÄÚ¸£¿ÍÆ®,21,0,4.6
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,º¸µð¾Æ ½ºÆÄ ½Ã¿¥¸³,21,0,4.6
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,Pub Street,21,0,4.6
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,Lucky Mall Siem Reap,20,1,4.5
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,Mudita Spa,21,0,4.6
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,Siem Reap Shuttle Tours,21,0,4.6
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,¹ÝÅ×¾ÆÀÌ ½º·¹ÀÌ,21,0,4.6
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,Giant Ibis Transport,7,3,4.0
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,Äõµå ¾îµåº¥Ã³ Ä¯º¸µð¾Æ,10,0,4.5
+Ä¯º¸µð¾Æ,¾¾¿¥¸³,Cambodia Quad Bike,10,0,4.5
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,ÇÁ³ðÆæ µ¶¸³ ±â³äÅ¾,19,2,4.4
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,¶Ñ¾ó ½½·À ´ë·®ÇÐ»ì ¹Ú¹°°ü,19,2,4.4
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,Angkor Spa,21,0,4.6
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,¿Ó ÇÁ³ð,17,4,4.2
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,Aeon Mall,21,0,4.6
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,Soma Spa,21,0,4.6
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ, Áß¾Ó ½ÃÀå,17,4,4.2
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ, ·Î¾â ÆÓ¸®½º,18,3,4.3
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,Å³¸µ ÇÊµå (Ã»¾ÆÀÍ),19,2,4.4
+Ä¯º¸µð¾Æ,ÇÁ³ðÆæ,³ª°¡¿ùµå Ä«Áö³ë,19,2,4.4
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Golden Lion Gym,10,0,4.5
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Cambodia Private Taxi,10,0,4.5
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Koh Rong,9,1,4.3
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Independence Beach,5,5,3.7
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Angkor Taxis,10,0,4.5
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Scuba Nation Diving Centre,10,0,4.5
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Blue Lagoon Divers,10,0,4.5
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Phnom Penh Green Tour and Transport,10,0,4.5
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,The Party Boat,4,6,3.6
+Ä¯º¸µð¾Æ,½Ã¾Æ´©Å©ºô,Unique Spa,8,2,4.2
+Ä¯º¸µð¾Æ,Ä¯Æý,Phnom Chhngok Cave Temple,7,3,4.0
+Ä¯º¸µð¾Æ,Ä¯Æý,Butterfly Tours,10,0,4.5
+Ä¯º¸µð¾Æ,Ä¯Æý,La Plantation,10,0,4.5
+Ä¯º¸µð¾Æ,Ä¯Æý,Bokor National Park,8,2,4.2
+Ä¯º¸µð¾Æ,Ä¯Æý,Climbodia,10,0,4.5
+Ä¯º¸µð¾Æ,Ä¯Æý,Golden Hands Massage & Spa,8,2,4.2
+Ä¯º¸µð¾Æ,Ä¯Æý,SUP Asia,9,1,4.3
+Ä¯º¸µð¾Æ,Ä¯Æý,Old Catholic Church,10,0,4.5
+Ä¯º¸µð¾Æ,Ä¯Æý,Kampot-Kep Tuk Tuk-Taxi Drivers,10,0,4.5
+Ä¯º¸µð¾Æ,Ä¯Æý,Rany - The TukTuk Driver in Kampot and Kep,10,0,4.5
+Ä³³ª´Ù,Åä·ÐÅä,Åä·ÐÅä ¾ÆÀÏ·£µå ÆÄÅ©,20,1,4.5
+Ä³³ª´Ù,Åä·ÐÅä,Hockey Hall of Fame,10,0,4.5
+Ä³³ª´Ù,Åä·ÐÅä,Toronto City Hall,19,2,4.4
+Ä³³ª´Ù,Åä·ÐÅä,¿µ±¹±¹È¸ÀÇ»ç´ç,21,0,4.6
+Ä³³ª´Ù,Åä·ÐÅä,Yale University Art Gallery,10,0,4.5
+Ä³³ª´Ù,Åä·ÐÅä,Jack Darling Memorial Park,10,0,4.5
+Ä³³ª´Ù,Åä·ÐÅä,Castle Church,10,0,4.5
+Ä³³ª´Ù,Åä·ÐÅä,Dostoevskiy Museum,2,1,4.2
+Ä³³ª´Ù,Åä·ÐÅä,Statue of Lajos Kossuth,10,0,4.5
+Ä³³ª´Ù,Åä·ÐÅä,Faniry Madagascar Tours,6,4,3.9
+Ä³³ª´Ù,¹êÄí¹ö,¹êÄí¹ö ¾ÆÄí¾Æ¸®¿ò,18,3,4.3
+Ä³³ª´Ù,¹êÄí¹ö,¹êÄí¹ö Àü¸Á´ë,19,2,4.4
+Ä³³ª´Ù,¹êÄí¹ö, ¹êÄí¹ö ´Ù¿îÅ¸¿î,21,0,4.6
+Ä³³ª´Ù,¹êÄí¹ö,¹êÄí¹ö °ø°ø µµ¼­°ü,21,0,4.6
+Ä³³ª´Ù,¹êÄí¹ö,½ºÅÄ¸® ÆÄÅ©,21,0,4.6
+Ä³³ª´Ù,¹êÄí¹ö,½ºÄ«ÀÌ Æ®·¹ÀÎ,20,1,4.5
+Ä³³ª´Ù,¹êÄí¹ö,Äý ¿¤¸®ÀÚº£½º °ø¿ø,20,2,4.4
+Ä³³ª´Ù,¹êÄí¹ö,À×±Û¸®½Ã º£ÀÌ,20,1,4.5
+Ä³³ª´Ù,¹êÄí¹ö,±×¶ó¿ì½º ¸¶¿îÆ¾,21,0,4.6
+Ä³³ª´Ù,¹êÄí¹ö,°³½ºÅ¸¿î,17,4,4.2
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,Old Montreal,19,2,4.4
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,¸¶¿îÆ® ·Î¾â,21,0,4.6
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,¸óÆ®¸®¿Ã ¹Ì¼ú°ü (Musee des Beaux-Arts),10,0,4.5
+Ä³³ª´Ù,¸óÆ®¸®¿Ã, ³ëÆ®¸£´ã ¼º´ç (¹ÙÁú¸®Å° ³ëÆ®¸£ - ´ã),21,0,4.6
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,Old Port of Montreal,20,1,4.5
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,¼º ¿ä¼Á ´ë¼º´ç,21,0,4.6
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,VIA Rail Canada Montreal Station,10,0,4.5
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,Place des Arts,10,0,4.5
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,Jean-Talon Market,10,0,4.5
+Ä³³ª´Ù,¸óÆ®¸®¿Ã,Montreal Botanical Garden,10,0,4.5
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,21,0,4.6
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Journey Behind the Falls,20,1,4.5
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Niagara City Cruises,21,0,4.6
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Horseshoe Falls,21,0,4.6
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Skylon Tower,20,1,4.5
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Shifen Waterfall Walk Area,19,2,4.4
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Table Rock Welcome Centre,19,2,4.4
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Clifton Hill,18,3,4.3
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷, ¹Ù¶÷ÀÇ µ¿±¼,21,0,4.6
+Ä³³ª´Ù,³ªÀÌ¾Æ°¡¶ó ÆøÆ÷,Parc de la Chute-Montmorency,19,2,4.4
+ÅÂ±¹,¹æÄÛ,BTS ½ºÄ«ÀÌÆ®·¹ÀÎ,21,0,4.6
+ÅÂ±¹,¹æÄÛ,¼®°¡¸ð´Ï ¿­¹Ý»óÀÌ ÀÖ´Â »ç¿ø (¿Ó Æ÷),21,0,4.6
+ÅÂ±¹,¹æÄÛ,Ä«¿À»ê ·Îµå,19,2,4.4
+ÅÂ±¹,¹æÄÛ,¿Õ±Ã,17,4,4.2
+ÅÂ±¹,¹æÄÛ,Chatuchak Weekend Market,21,0,4.6
+ÅÂ±¹,¹æÄÛ,½Ã¾Ï ÆÄ¶ó°ï,21,0,4.6
+ÅÂ±¹,¹æÄÛ,¿¡¸Þ¶öµå »ç¿ø (¿Ó ÇÁ¶ó±ú¿ì),21,0,4.6
+ÅÂ±¹,¹æÄÛ,Asiatique The Riverfront,20,1,4.5
+ÅÂ±¹,¹æÄÛ,·ëÇÇ´Ï °ø¿ø,19,2,4.4
+ÅÂ±¹,¹æÄÛ,Áü Åè½¼ ÇÏ¿ì½º,21,0,4.6
+ÅÂ±¹,ÇªÄÏ,Banana Beach,21,0,4.6
+ÅÂ±¹,ÇªÄÏ, ÇªÄÏ ºò ºÎ´Ù,20,1,4.5
+ÅÂ±¹,ÇªÄÏ,¿À¸®¿£Å» µå ÇªÄÏ,19,2,4.4
+ÅÂ±¹,ÇªÄÏ,ÇªÄÏ »çÀÌ¸Õ ¼î,19,2,4.4
+ÅÂ±¹,ÇªÄÏ,¹æ¶ó ·Îµå,17,4,4.2
+ÅÂ±¹,ÇªÄÏ,Patong Beach,19,2,4.4
+ÅÂ±¹,ÇªÄÏ,Á¤½Ç·Ð,17,4,4.2
+ÅÂ±¹,ÇªÄÏ,¿ÓÂû·Õ,19,2,4.4
+ÅÂ±¹,ÇªÄÏ,Ä«Å¸ ºñÄ¡,19,2,4.4
+ÅÂ±¹,ÇªÄÏ,Cheaper than Hotel Taxis,20,1,4.5
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,µµÀÌ¼öÅÜ (ºÎÃ³ÀÇ »ç¸®¸¦ ¸ð½Å) »ç¿ø,21,0,4.6
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,Night Bazaar,14,7,3.8
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ, ¿Ó Ã¼µð ·ç¾Ó,21,0,4.6
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,Wat Phra Singh,21,0,4.6
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,Wat Phra That Doi Kham (Temple of the Golden Mountain),21,0,4.6
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,Doi Inthanon,21,0,4.6
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,±âºùÆ®¸®,21,0,4.6
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,Tha Phae Gate,21,0,4.6
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,Tha Pae Walking Street,20,1,4.5
+ÅÂ±¹,Ä¡¾Ó¸¶ÀÌ,Anantara Spa,10,0,4.5
+ÅÂ±¹,ÆÄÅ¸¾ß,¿öÅ· ½ºÆ®¸®Æ® ÆÄÅ¸¾ß,13,8,3.7
+ÅÂ±¹,ÆÄÅ¸¾ß,ÆÄÅ¸¾ß ºñÄ¡,15,6,3.9
+ÅÂ±¹,ÆÄÅ¸¾ß,ÆÄÅ¸¾ß ¼ö»ó ½ÃÀå,8,13,3.1
+ÅÂ±¹,ÆÄÅ¸¾ß,´É´ª Æ®·ÎÇÇÄÃ º¸ÅÂ´ÏÄÃ °¡µç,18,3,4.3
+ÅÂ±¹,ÆÄÅ¸¾ß,¿¤¸®ÆÝÆ® ºô¸®Áö ÆÄÅ¸¾ß,13,8,3.7
+ÅÂ±¹,ÆÄÅ¸¾ß,CentralFestival Pattaya Beach,20,1,4.5
+ÅÂ±¹,ÆÄÅ¸¾ß,Áø¸®ÀÇ ¼ºÀü,20,1,4.5
+ÅÂ±¹,ÆÄÅ¸¾ß,Koh Larn,21,0,4.6
+ÅÂ±¹,ÆÄÅ¸¾ß,Grace Spa,21,0,4.6
+ÅÂ±¹,ÆÄÅ¸¾ß,Á»Æ¼¿£ ºñÄ¡,19,2,4.4
+ÅÍÅ°,ÀÌ½ºÅººÒ,Aya Sofya Muzesi / Kilisesi,20,1,4.5
+ÅÍÅ°,ÀÌ½ºÅººÒ, ¼úÅº¾ÆÈå¸ÞÆ® Áö±¸,21,0,4.6
+ÅÍÅ°,ÀÌ½ºÅººÒ,ÀÌ½ºÅººÒ ¿ª»ç Áö±¸,21,0,4.6
+ÅÍÅ°,ÀÌ½ºÅººÒ,ºí·ç ¸ð½ºÅ© (¼úÅº ¾ÆÈå¸ä ¸ð½ºÅ©),16,5,4.0
+ÅÍÅ°,ÀÌ½ºÅººÒ,ÀÌ½ºÅººÒ Çö´ë ¹Ì¼ú°ü,19,2,4.4
+ÅÍÅ°,ÀÌ½ºÅººÒ,ÁöÇÏ ±ÃÀü,17,4,4.2
+ÅÍÅ°,ÀÌ½ºÅººÒ, ½¯·¹ÀÌ¸¶´Ï¿¹ ¸ð½ºÅ©,21,0,4.6
+ÅÍÅ°,ÀÌ½ºÅººÒ,°¥¶óÅ¸ Å¸¿ö,20,1,4.5
+ÅÍÅ°,ÀÌ½ºÅººÒ,º¸½ºÆ÷·ç½º ÇØÇù,21,0,4.6
+ÅÍÅ°,ÀÌ½ºÅººÒ,±¼ÇÏ³× ÆÄÅ©,18,3,4.3
+ÅÍÅ°,±«·¹¸Þ,±«·¹¸Þ ¾ß¿Ü ¹Ú¹°°ü,21,0,4.6
+ÅÍÅ°,±«·¹¸Þ,±«·¹¸Þ ±¹¸³ °ø¿ø,21,0,4.6
+ÅÍÅ°,±«·¹¸Þ,Fairy Chimneys,21,0,4.6
+ÅÍÅ°,±«·¹¸Þ,Sunset Point,21,0,4.6
+ÅÍÅ°,±«·¹¸Þ,ÇÇÁ¸ ¹ë¸®,19,2,4.4
+ÅÍÅ°,±«·¹¸Þ,MyTrip Travel & Tourism Agency,21,0,4.6
+ÅÍÅ°,±«·¹¸Þ,Uchisar Castle,21,0,4.6
+ÅÍÅ°,±«·¹¸Þ,Love Valley,20,1,4.5
+ÅÍÅ°,±«·¹¸Þ,Goreme Panorama,10,0,4.5
+ÅÍÅ°,±«·¹¸Þ,¾Æ¹Ù³ë½º,21,0,4.6
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,È­ÀÌÆ® ºñÄ¡,21,0,4.6
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,D'Mall,18,3,4.3
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,Alona Beach,20,1,4.5
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,Crystal Cove Island,18,3,4.3
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,·çÈ£»ê,21,0,4.6
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,Àª¸®½º ·Ï,19,2,4.4
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,Red Whale Boracay,4,0,4.4
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,Fisheye Divers,10,0,4.5
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,ºÒ¶óº¹ ºñÄ¡,20,1,4.5
+ÇÊ¸®ÇÉ,º¸¶óÄ«ÀÌ,¾ßÆÅ ºñÄ¡,21,0,4.6
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,¸¶´Ò¶ó º£ÀÌ,19,2,4.4
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,¸¶´Ò¶ó ¿À¼Ç ÆÄÅ©,15,6,3.9
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,¸¶´Ò¶ó ´ë¼º´ç,21,0,4.6
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó, ÀÎÆ®¶ó¹«·Î½º,20,1,4.5
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,»ê ¾Æ±¸½ºÆ¾ ±³È¸,21,0,4.6
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,SM Mall of Asia,21,0,4.6
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó, »êÆ¼¾Æ°í ¿ä»õ,19,2,4.4
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,¸®»ì °ø¿ø,19,2,4.4
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,Bonifacio Global City,10,0,4.5
+ÇÊ¸®ÇÉ,¸¶´Ò¶ó,Malate District,7,3,4.0
+ÇÊ¸®ÇÉ,¼¼ºÎ,Ayala Center Cebu,19,2,4.4
+ÇÊ¸®ÇÉ,¼¼ºÎ,Santo Nino Bazilikas©¥,20,1,4.5
+ÇÊ¸®ÇÉ,¼¼ºÎ,Tops Lookout,21,0,4.6
+ÇÊ¸®ÇÉ,¼¼ºÎ,Gold Moon Spa,21,0,4.6
+ÇÊ¸®ÇÉ,¼¼ºÎ,Taoist Temple,21,0,4.6
+ÇÊ¸®ÇÉ,¼¼ºÎ,Fort San Pedro,21,0,4.6
+ÇÊ¸®ÇÉ,¼¼ºÎ,Magellan's Cross,19,2,4.4
+ÇÊ¸®ÇÉ,¼¼ºÎ,SM City Cebu,20,1,4.5
+ÇÊ¸®ÇÉ,¼¼ºÎ,Marcelo Fernan Bridge,20,1,4.5
+ÇÊ¸®ÇÉ,¼¼ºÎ,Oslob Whale Sharks,21,0,4.6
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,Ayala Triangle Gardens,10,0,4.5
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,Ayala Center,10,0,4.5
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,±×¸°º§Æ® ÆÄÅ©,21,0,4.6
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,Greenbelt Mall,20,1,4.5
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,Caracol Festival,1,0,4.3
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,P Burgos Street,7,3,4.0
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,¾Æ¾â¶ó ¹Ú¹°°ü,9,1,4.3
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,Venice Grand Canal Mall,9,1,4.3
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,Asian Massage,7,3,4.0
+ÇÊ¸®ÇÉ,¸¶Ä«Æ¼,Bonifacio Global City,10,0,4.5
+È«Äá,Ä§»çÃßÀÌ,Ä§»çÃßÀÌ »êÃ¥·Î,20,1,4.5
+È«Äá,Ä§»çÃßÀÌ,Ä§»çÃßÀÌ,42,0,4.8
+È«Äá,Ä§»çÃßÀÌ,½ºÅ¸ Æä¸®,21,0,4.6
+È«Äá,Ä§»çÃßÀÌ,Ä«¿ì·î °ø¿ø,21,0,4.6
+È«Äá,Ä§»çÃßÀÌ,³×ÀÌ¼± °Å¸®,21,0,4.6
+È«Äá,Ä§»çÃßÀÌ,È«Äá ½ºÄ«ÀÌ¶óÀÎ,21,0,4.6
+È«Äá,Ä§»çÃßÀÌ,Å¬¶ô Å¸¿ö,20,1,4.5
+È«Äá,Ä§»çÃßÀÌ,ºòÅä¸®¾Æ ÇÏ¹ö,21,0,4.6
+È«Äá,Ä§»çÃßÀÌ,Kowloon Mosque & Islamic Centre,9,1,4.3
+È«Äá,È«ÄáµðÁî´Ï·£µå,È«Äá µðÁî´Ï·£µå,20,1,4.5
+È«Äá,È«ÄáµðÁî´Ï·£µå,µðÁî´Ï·£µå ÆÄÅ©,15,6,3.9
+È«Äá,È«ÄáµðÁî´Ï·£µå,µðÁî´Ï Ä¶¸®Æ÷´Ï¾Æ ¾îµåº¥Ã³,21,0,4.6
+È«Äá,È«ÄáµðÁî´Ï·£µå,¿À¼Ç ÆÄÅ©,19,2,4.4
+È«Äá,È«ÄáµðÁî´Ï·£µå,¶õÅ¸¿ì ¼¶,21,0,4.6
+È«Äá,È«ÄáµðÁî´Ï·£µå,¸ÅÁ÷ Å·´ý,21,0,4.6
+È«Äá,È«ÄáµðÁî´Ï·£µå,MTR,21,0,4.6
+È«Äá,È«ÄáµðÁî´Ï·£µå,HZMB,9,0,4.5
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,ºòÅä¸®¾Æ ÇÏ¹ö,21,0,4.6
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,Inner Harbour,21,0,4.6
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,½ÉÆ÷´Ï ¿Àºê ¶óÀÌÃ÷,18,3,4.3
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,Garden of Stars,9,1,4.3
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,Legislative Assembly of British Columbia,21,0,4.6
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,Government Street,10,0,4.5
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,Empress Hotel National Historic Site of Canada,10,0,4.5
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,Star House,7,2,4.2
+È«Äá,ºòÅä¸®¾Æ ÇÏ¹ö,Wharf Street,10,0,4.5
+È«Äá,¿ÏÂ÷ÀÌ±¸,Takao Railway Museum,21,0,4.6
+È«Äá,¿ÏÂ÷ÀÌ±¸,Sheung Wan,20,1,4.5
+È«Äá,¿ÏÂ÷ÀÌ±¸,¶÷¸¶ ¼¶,20,1,4.5
+È«Äá,¿ÏÂ÷ÀÌ±¸,½ºÅ¸ Æä¸®,21,0,4.6
+È«Äá,¿ÏÂ÷ÀÌ±¸,Lower Antelope Canyon,20,1,4.5
+È«Äá,¿ÏÂ÷ÀÌ±¸,È«Äá °ø¿ø,21,0,4.6
+È«Äá,¿ÏÂ÷ÀÌ±¸,Zahra Spa,20,1,4.5
+È«Äá,¿ÏÂ÷ÀÌ±¸,ºòÅä¸®¾Æ ÇÇÅ©,20,1,4.5
+È«Äá,¿ÏÂ÷ÀÌ±¸,½ÅºñÀÇµµ·Î,15,6,3.9
+È«Äá,¿ÏÂ÷ÀÌ±¸,ÀÌÃþ ÄÉÀÌºí Ä«,21,0,4.6
