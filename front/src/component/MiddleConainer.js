@@ -62,50 +62,38 @@ export default function MiddleContainer() {
 	        .then( data => {  
                 console.log(data);
 
-            // const dataArray = data.reduce((acc, { cntName, month, emi }) => {
-            //   if (!acc[cntName]) {
-            //     acc[cntName] = { cntName, month: [], emi: [] };
-            //   }
-            //   acc[cntName].month.push(month);
-            //   acc[cntName].emi.push(emi);
-            //   return acc;
-            // }, {});
-        
-            // const countryData = Object.values(dataArray);
             
-            const countryStat = {
+                const countryStat = {
+                    
+                labels: data.map((country) => country.cntName),
+                datasets: [{
+                        type:'bar',
+                        // label: data.map((country) => country.cntName),
+                        data: data.map((country) => country.emi),
+                        backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(255, 159, 64, 0.2)',
+                        'rgba(255, 205, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        ],
+                        borderColor: [
+                        'rgb(255, 99, 132)',
+                        'rgb(255, 159, 64)',
+                        'rgb(255, 205, 86)',
+                        'rgb(75, 192, 192)',
+                        'rgb(54, 162, 235)',
+                        ],
+
+                    }], 
+                borderWidth: 2
                 
-              labels: data.map((country) => country.cntName),
-              datasets: [
-                {
-                    type:'bar',
-                    label: data.map((country) => country.cntName),
-                    data: data.map((country) => country.emi),
-                    backgroundColor: [
-                      'rgba(255, 99, 132, 0.2)',
-                      'rgba(255, 159, 64, 0.2)',
-                      'rgba(255, 205, 86, 0.2)',
-                      'rgba(75, 192, 192, 0.2)',
-                      'rgba(54, 162, 235, 0.2)',
-                    ],
-                    borderColor: [
-                      'rgb(255, 99, 132)',
-                      'rgb(255, 159, 64)',
-                      'rgb(255, 205, 86)',
-                      'rgb(75, 192, 192)',
-                      'rgb(54, 162, 235)',
-                    ],
+                };
 
-                }
-              ], 
-              borderWidth: 2
-            
-            };
+                setCountryStatData(countryStat);
 
-            setCountryStatData(countryStat);
-
-            console.log(countryStat); 
-            } 
+                console.log(countryStat); 
+                } 
         ); 
     }
 
@@ -135,7 +123,7 @@ export default function MiddleContainer() {
     return (
         <div className="middle-container-box-wrap">
 
-            <div className="col-4 h-10">
+            <div className="col-5 h-10">
                 <div className='year-chart-box p-1'>
                     <div className="select-box-container">
                         <select onChange={changeSelect} value={selected} defaultValue={1}>
@@ -152,7 +140,7 @@ export default function MiddleContainer() {
                 </div>
             </div>
 
-            <div className="col-6 h-10 pl-1">
+            <div className="col-5 h-10 pl-1">
                 <div className="word-cloud-box">
 
                 </div>
