@@ -7,10 +7,11 @@ export default function Sidebar() {
                 <div className='logo-wrap'>
                     <div className='logo-box-wrap'>
                         <img src='img/airplane_icon.png'></img>
-                    </div>
-                    <span className='logo-font'>
+                        <span className='logo-font'>
                         Daily Tour
                     </span>
+                    </div>
+                    
                 </div>
             </div>
         </div>
