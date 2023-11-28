@@ -1,6 +1,6 @@
 import './Dashboard.css'
 import './Grid.css'
-import MiddleContainer from './MiddleConainer'
+import MiddleContainer from './MiddleContainer'
 // import MonthlyChart from './MonthlyChart'
 import MonthlyChartjs from './MonthlyChartjs'
 import Navbar from './Navbar'
