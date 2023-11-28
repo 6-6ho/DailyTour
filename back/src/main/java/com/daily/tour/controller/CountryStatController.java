@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.sql.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -37,4 +36,16 @@ public class CountryStatController {
     ResponseEntity<List<CountryEmi>> getMonthStat(@PathVariable int month) {
         return ResponseEntity.ok().body(countryService.getEmiMonthList(month));
     }
+
+    @GetMapping("/country/month/list")
+    ResponseEntity<List<String>> getMonthList() {   // 월 리스트
+        return  ResponseEntity.ok().body(countryService.getMonthList());
+    }
+    
+    @GetMapping("/country/year/list")
+    ResponseEntity<List<String>> getYearList() {    // 연도 리스트
+        return  ResponseEntity.ok().body(countryService.getYearList());
+    }
+
+
 }
