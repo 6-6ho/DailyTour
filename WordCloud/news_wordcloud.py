@@ -8,11 +8,18 @@ import matplotlib.pyplot as plt
 # %matplotlib inline 
 from wordcloud import WordCloud, STOPWORDS
 
-with open('travel_news.json', 'r', encoding='utf8') as f:
-    news_list = json.load(f)
 
-df = []
+def remove_special_chars(text):
+    text = re.sub('[^가-힣a-zA-Z0-9\s]', '', text)  # 한글, 영문, 숫자, 공백 제외한 모든 문자 제거
+    text = re.sub('\s+', ' ', text) # 개행 제거
+    return text
 
+
+def json_to_dict(): 
+    with open('./Data/News_Data/travel_news.json', 'r', encoding='utf8') as f:
+        news_list = json.load(f)
+
+    new_content = []
 
 
 # spwords = set(STOPWORDS)

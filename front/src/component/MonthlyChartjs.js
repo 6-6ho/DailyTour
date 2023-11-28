@@ -1,6 +1,6 @@
 import './Dashboard.css';
 import './Grid.css';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {Line} from 'react-chartjs-2';
 import { localDomain } from './common';
 import {
@@ -29,19 +29,7 @@ Chart.register(
 
 // 월별 해외여행 차트 
 export default function MonthlyChartjs() { 
-    const [country, setCountry] = useState([]);
-
-    useEffect (() => {
-        url = `${localDomain}/country/month`;
-
-        fetch(url)
-        .then(res => {return res.json()})
-        .then(data => {setCountry(data)}
-        );
-
-  }, [])
-
-
+    
     const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
     const data = {
         labels: labels,
@@ -73,27 +61,27 @@ export default function MonthlyChartjs() {
         ]
       };
 
-    const options = {
-        maintainAspectRatio: false,
-        charts: {
-          type: 'line',
-          
-        },
-        stroke: {
-          curve: 'smooth',
-        },
-        plugins: {
-          legend: {
-            position: 'top',
+      const options = {
+          maintainAspectRatio: false,
+          charts: {
+            type: 'line',
+            
           },
-          
-          title: {
-            display: true,
-            text: '2023 월별 국가별 출국자 수'
+          stroke: {
+            curve: 'smooth',
+          },
+          plugins: {
+            legend: {
+              position: 'top',
+            },
+            
+            title: {
+              display: true,
+              text: '2023 월별 국가별 출국자 수'
+            }
+            
           }
-          
-        }
-    };
+      };
 
 
     return(
@@ -110,7 +98,7 @@ export default function MonthlyChartjs() {
                 {/* 월별 국가 출국자 수 차트 */}
                 <div className='monthly-chart-right'>
                     <diV className='monthly-line-charts-container'>
-                    <Line type="line" data={data} options={options} className='monthly-line-charts'/>
+                    <Line type="line" data={countryStatData} options={options} className='monthly-line-charts'/>
                     </diV>
                 </div>
                

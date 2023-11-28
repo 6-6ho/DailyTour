@@ -56,7 +56,9 @@ def travel_news_crawling(url_list):
 
         parse_to_json(news_title, news_content, news_list)
     
+    
     save_to_json(news_list)
+
 
 def parse_to_json(news_title, news_content, news_list):
     news_list.append({
