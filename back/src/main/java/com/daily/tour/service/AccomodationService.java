@@ -13,12 +13,17 @@ public class AccomodationService {
     public AccomodationService(AccomodationMapper accomodationMapper) {
         this.accomodationMapper = accomodationMapper;
     }
+
+    public List<Accommodation> getRegListByCntCode(String cntCode) {
+        return accomodationMapper.findRegListByCntCode(cntCode);
+    }
+
     public List<Accommodation> getAccomListByRegCode(String regCode) {  // 지역별 슥소 리스트 상위 5개
-        return accomodationMapper.findByAccomListByRegCode(regCode);
+        return accomodationMapper.findAccomListByRegCode(regCode);
     }
 
     public Accommodation getAccomDetailByAccomCode(String accomCode) {  // 숙소 디테일 정보 
-        return accomodationMapper.findByAccomDetailByAccomCode(accomCode);
+        return accomodationMapper.findAccomDetailByAccomCode(accomCode);
     }
 
 }

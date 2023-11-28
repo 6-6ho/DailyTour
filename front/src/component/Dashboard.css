@@ -1,4 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@500;600;900&display=swap');
+.dashboard-wrap {
+    
+    width: 100%;
+    display: flex;
+    flex: row;
+
+}
+
+html, body {
+    background-color: rgba(207, 207, 218, 0.1);
+    height: 100%;
+}
+.right-wrap {
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+select {
+    box-sizing: border-box;
+    width: 100px;
+    padding: 4px;
+    font-size: 14px;
+    border-radius: 6px;
+  }
+  
+option {
+    padding: 4px;
+    font-size: 14px;
+    color: #fff;
+    background: #272822;
+}
+
 .dashboard-div {
     width: 100%;
     height: 100%;
