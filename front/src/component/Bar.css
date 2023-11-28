@@ -67,3 +67,9 @@
     background-color: white;
     box-shadow: 5px 5px 5px 5px #8080803b;
 }
+.side-ol-style{
+    padding-inline-start: 30px;
+    font-size: 20px;
+    font-weight: 400;
+
+}
