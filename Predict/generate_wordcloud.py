@@ -1,85 +1,97 @@
 import os
 import glob
 import json
-import matplotlib.pyplot as plt
 from konlpy.tag import Okt
-from typing import Dict
 import pandas as pd
 from train import remove_locations
 from wordcloud import WordCloud
 
 
-def text_normalization(text):
+def text_normalization(text: str)-> str:
     okt = Okt()
     # 제외하고 싶은 단어들의 리스트
-    stopwords = {'곳', '수', '것', '때', '의', '그', '이'}
+    stopwords = {'곳', '수', '것', '때', '의', '그', '이', '호텔', '숙소', '방', '위', '진짜', '위치', '좀', '아', '매우', '많이'}
     return ' '.join(
         word for word, tag in okt.pos(text, stem=True)
         if tag in ['Noun', 'Adjective'] and not word.endswith('다') and word not in stopwords
     )
 
-def get_attr_code(attr_name):
-    print('get attr code')
-    attr_code_df = pd.read_csv('../Data/DB/REG_ATTRS_TB.csv')
-    attr_code = attr_code_df[attr_code_df['ATTR_NAME']
-                             == attr_name]['ATTR_CODE'].values[0]
+def get_item_code(item_name: str, item_type: str) -> str:
+    if item_type == 'attr':
+        df = pd.read_csv('../Data/DB/REG_ATTRS_TB.csv')
+        filtered_df = df[df['ATTR_NAME'] == item_name]
+    elif item_type == 'accom':
+        df = pd.read_csv('../Data/DB/REG_ACCOM_TB.csv')
+        filtered_df = df[df['ACCOM_NAME'] == item_name]
 
-    return attr_code
+    if not filtered_df.empty and not pd.isna(filtered_df['ATTR_CODE' if item_type == 'attr' else 'ACCOM_CODE'].values[0]):
+        return filtered_df['ATTR_CODE' if item_type == 'attr' else 'ACCOM_CODE'].values[0]
+    else:
+        return None
 
 
-def load_review_files(review_type: str) -> None:
-    dir_path = f'../Data/Review_Data/{review_type.upper()}_Review'
+def load_review_files(item_type: str) -> None:
+    print('load_review_files')
+    dir_path = f'../Data/Review_Data/{item_type.upper()}_Review'
     pattern = os.path.join(dir_path, '*_review_recent.json')
     json_files = glob.glob(pattern)
 
     for json_file in json_files:
-        data = parse_json_to_string(json_file)
+        data = parse_json_to_string(json_file, item_type)
         for item_name, text_data in data.items():
-            generate_wordcloud(text_data, item_name)
+            generate_wordcloud(text_data, item_name, item_type)
 
 
-def parse_json_to_string(json_file):
-    print('parse json')
-    # 각 관광지에 대한 텍스트 데이터를 저장할 딕셔너리
-    attraction_data = {}
+def parse_json_to_string(json_file, item_type):
+    print('parse_json_to_string')
+    # 각 item에 대한 텍스트 데이터를 저장할 딕셔너리
+    item_data = {}
 
     with open(json_file, 'r', encoding='utf-8') as file:
-        reviews = json.load(file)
-        for review in reviews:
-            # 관광지 이름에서 선행 공백을 제거
-            attr_name = review['attr_name'].lstrip()
-            # 제목과 내용을 결합하고 위치 정보를 제거
-            extracted_text = remove_locations(review['title'] + " " + review['content'], review['region'])
-            # 관광지가 이미 존재하면 텍스트에 추가하고, 그렇지 않으면 새로운 항목을 생성
-            if attr_name in attraction_data:
-                attraction_data[attr_name] += " " + extracted_text
+        item_reviews = json.load(file)
+        for item_review in item_reviews:
+            # 선행 공백을 제거
+            if item_type == 'accom':
+                item_name = item_review['hotel_name'].lstrip()
             else:
-                attraction_data[attr_name] = extracted_text
+                item_name = item_review['attr_name'].lstrip()
+            # 제목과 내용을 결합하고 위치 정보를 제거
+            extracted_text = remove_locations(item_review['title'] + " " + item_review['content'], item_review['region'])
+            # item이 이미 존재하면 텍스트에 추가하고, 그렇지 않으면 새로운 항목을 생성
+            if item_name in item_data:
+                item_data[item_name] += " " + extracted_text
+            else:
+                item_data[item_name] = extracted_text
 
     # 각 관광지에 대해 누적된 텍스트 데이터를 반환
-    return attraction_data
+    return item_data
 
-def generate_wordcloud(text, attr_name):
-    print('gen wordcloud')
+def generate_wordcloud(text, item_name, item_type):
+    print('generate_wordcloud')
     normed_text = text_normalization(text)
-    wordcloud = WordCloud(width=800, height=400,
-                          background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
+    item_code = get_item_code(item_name, item_type)
+    
+    if item_code:
+        try:
+            wordcloud = WordCloud(width=400, height=200, max_words=100,
+                                  background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
+            save_wordcloud(wordcloud, item_code)
+        except ValueError:
+            print(f'Not enough words to create a word cloud for: {item_name}')
+    else:
+        print(f'Item code not found for: {item_name}')
 
-    save_wordcloud(wordcloud, attr_name)
 
-
-def save_wordcloud(wordcloud, attr_name):
-    print('save')
+def save_wordcloud(wordcloud, item_code):
     save_path = '../Data/word-cloud/'
-    attr_code = get_attr_code(attr_name)
-    file_name = f'{attr_code}_worldcloud.png'
+    file_name = f'{item_code}_worldcloud.png'
     wordcloud.to_file(save_path + file_name)
 
     print(f'save file : {file_name}')
 
 
 if __name__ == '__main__':
-    review_types = ['attr', 'accom']
+    item_types = ['accom']
 
-    for review in review_types:
-        load_review_files(review)
+    for item in item_types:
+        load_review_files(item)
