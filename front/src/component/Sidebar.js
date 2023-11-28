@@ -2,7 +2,7 @@ import './Bar.css'
 import SideChart from './SideChart'
 
 export default function Sidebar() {
-    return(
+    return (
         <div className='side-bar-wrap'>
             <div className='side-bar'>
                 <div className='logo-wrap'>
