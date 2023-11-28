@@ -1,8 +1,7 @@
 import './Dashboard.css';
 import './Grid.css';
-import React, { useState } from 'react';
+import React from 'react';
 import {Line} from 'react-chartjs-2';
-import { localDomain } from './common';
 import {
     Chart,
     LineController,
@@ -29,19 +28,7 @@ Chart.register(
 
 // 월별 해외여행 차트 
 export default function MonthlyChartjs() { 
-    const [country, setCountry] = useState([]);
-
-    useEffect (() => {
-        url = `${localDomain}/country/month`;
-
-        fetch(url)
-        .then(res => {return res.json()})
-        .then(data => {setCountry(data)}
-        );
-
-  }, [])
-
-
+    
     const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
     const data = {
         labels: labels,
