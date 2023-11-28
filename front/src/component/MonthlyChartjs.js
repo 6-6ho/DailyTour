@@ -1,6 +1,7 @@
 import './Dashboard.css';
 import './Grid.css';
 import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import {Line} from 'react-chartjs-2';
 import { localDomain } from './common';
 import {
