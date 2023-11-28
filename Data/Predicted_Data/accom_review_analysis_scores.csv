@@ -1,4 +1,4 @@
-CNT_NAME,REG_NAME,ACCOM_NAME,ACCOM_REV_POS,ACCOM_REV_NEG,score
+CNT_NAME,REG_NAME,ACCOM_NAME,ACCOM_REV_POS,ACCOM_REV_NEG,SCORE
 뉴질랜드,오클랜드,LyLo Auckland,1,0,4.3
 뉴질랜드,오클랜드,Imagine Beach Road,1,0,4.3
 뉴질랜드,오클랜드,더 애틱 백패커스 (The Attic Backpackers ),2,0,4.3
@@ -779,45 +779,6 @@ CNT_NAME,REG_NAME,ACCOM_NAME,ACCOM_REV_POS,ACCOM_REV_NEG,score
 필리핀,마카티,Dusit Thani Manila,18,6,4.0
 필리핀,마카티,RedDoorz Premium @ The Residences Olympia Makati,1,0,4.3
 필리핀,마카티,OYO 675 서킷 호스텔 - 직원 백신 접종 (OYO 675 Circuit Hostel),22,2,4.4
-호주,시드니,뷰 시드니 (View Sydney),55,10,4.2
-호주,시드니,풀만 시드니 에어포트 (Pullman Sydney Airport),5,0,4.4
-호주,시드니,YHA Sydney Harbour,48,7,4.3
-호주,시드니,메리톤 스위트 마스코트 센트럴 (Meriton Suites Mascot Central),34,2,4.6
-호주,시드니,포시즌스 호텔 시드니 (Four Seasons Hotel Sydney),53,10,4.2
-호주,시드니,Citadines Connect Sydney Airport,35,5,4.3
-호주,시드니,Radisson Blu Plaza Hotel Sydney,6,0,4.4
-호주,시드니,YEHS 호텔 시드니 QVB (YEHS Hotel Sydney QVB),76,15,4.2
-호주,시드니,트레블로지 호텔 시드니 에어포트 (Travelodge Hotel Sydney Airport),31,10,4.0
-호주,시드니,센트럴 스튜디오 시드니 호텔 (Central Studio Sydney Hotel),50,15,4.0
-호주,멜버른,Dorsett Melbourne,13,0,4.5
-호주,멜버른,오크스 멜버른 온 콜린스 호텔 (Oaks Melbourne on Collins Hotel),15,5,4.0
-호주,멜버른,아틀란티스 호텔 멜버른 (Atlantis Hotel Melbourne),74,20,4.0
-호주,멜버른,멜버른 시티 백패커스 (Melbourne City Backpackers),9,3,4.1
-호주,멜버른,Voco Melbourne Central,1,0,4.3
-호주,멜버른,스페이스 호텔 (Space Hotel),82,17,4.2
-호주,멜버른,오크스 멜버른 온 윌리엄 스위트 (Oaks Melbourne on William Suites),16,4,4.1
-호주,멜버른,Holiday Inn Express Melbourne Little Collins,2,1,4.2
-호주,멜버른,브래디 호텔 센트럴 멜번 (Brady Hotels Central Melbourne),39,5,4.4
-호주,멜버른,YHA Melbourne Central,27,14,3.6
-호주,브리즈번,이비스 스타일 브리즈번 엘리자베스 스트리트 (Ibis Styles Brisbane Elizabeth Street),36,5,4.4
-호주,브리즈번,포 포인츠 바이 쉐라톤 브리즈번 (Four Points by Sheraton Brisbane),4,1,4.2
-호주,브리즈번,YHA Brisbane City,65,15,4.1
-호주,브리즈번,노보텔 브리즈번 에어포트 (Novotel Brisbane Airport),8,1,4.3
-호주,브리즈번,W 브리즈번 (W Brisbane),6,0,4.4
-호주,브리즈번,하얏트 리젠시 브리즈번 (Hyatt Regency Brisbane),29,3,4.4
-호주,브리즈번,Selina Brisbane,22,2,4.4
-호주,브리즈번,홀리데이 인 익스프레스 브리즈번 센트럴 (Holiday Inn Express Brisbane Central),13,3,4.2
-호주,브리즈번,그레이트 서던 호텔 브리즈번 (Great Southern Hotel Brisbane),35,15,3.7
-호주,브리즈번,조지 윌리암스 호텔 (George Williams Hotel),19,9,3.8
-호주,케언스,오크스 케언즈 호텔 (Oaks Cairns Hotel),1,0,4.3
-호주,케언스,더블트리 바이 힐튼 케언즈 (DoubleTree by Hilton Cairns),6,3,4.0
-호주,케언스,The Village Cairns,10,2,4.2
-호주,케언스,글로벌 백패커스 케언즈 (Global Backpackers Cairns),5,3,4.0
-호주,케언스,크리스탈브룩 라일리 (Crystalbrook Riley),9,1,4.3
-호주,케언스,풀맨 케언즈 인터내셔널 (Pullman Cairns International),9,2,4.2
-호주,케언스,하이드 호텔 케언즈  (Hides Hotel Cairns),19,10,3.7
-호주,케언스,힐튼 케언즈 (Hilton Cairns),9,4,4.0
-호주,케언스,코럴 트리 인 호텔 (Coral Tree Inn Hotel),7,1,4.3
 홍콩,침사추이,로얄 가든 호텔 (Royal Garden Hotel),16,11,3.5
 홍콩,침사추이,더 솔즈베리 - YMCA 오브 홍콩 (The Salisbury - YMCA of Hong Kong),21,7,4.0
 홍콩,침사추이,더 오토 호텔 (The OTTO Hotel),19,9,3.8
