@@ -29,71 +29,37 @@ Chart.register(
 
 // 월별 해외여행 차트 
 export default function MonthlyChartjs() { 
-    // const [country, setCountry] = useState([]);
-    const [countryStatData, setCountryStatData] = useState({
-      datasets : []
-    });
     
-    useEffect (() => {
-        fetch(`${localDomain}/country/month`)
-        .then(res => {return res.json()})
-        .then(data => {
-            // setCountry(data);
-            console.log(data);
-
-            const dataArray = data.reduce((acc, { cntName, month, emi }) => {
-              if (!acc[cntName]) {
-                acc[cntName] = { cntName, month: [], emi: [] };
-              }
-              acc[cntName].month.push(month);
-              acc[cntName].emi.push(emi);
-              return acc;
-            }, {});
-        
-            const countryData = Object.values(dataArray);
-            
-            const countryStat = {
-              labels: countryData[0].month,
-              datasets: [
-                {
-                  label: countryData[0].cntName,
-                  data: countryData[0].emi,
-                  borderColor: 'rgb(255, 99, 132)',
-                  backgroundColor: 'rgba(255, 99, 132, 0.5)',
-                },
-                {
-                  label: countryData[1].cntName,
-                  data: countryData[1].emi,
-                  borderColor: 'rgb(100, 162, 100)',
-                  backgroundColor: 'rgba(255, 99, 132, 0.5)',
-                },
-                {
-                  label: countryData[2].cntName,
-                  data: countryData[2].emi,
-                  borderColor: 'rgb(90, 200, 235)',
-                  backgroundColor: 'rgba(255, 99, 132, 0.5)',
-                },
-                {
-                  label: countryData[3].cntName,
-                  data: countryData[3].emi,
-                  borderColor: 'rgb(150, 162, 235)',
-                  backgroundColor: 'rgba(255, 99, 132, 0.5)',
-                },
-                {
-                  label: countryData[4].cntName,
-                  data: countryData[4].emi,
-                  borderColor: 'rgb(150, 85, 125)',
-                  backgroundColor: 'rgba(255, 99, 132, 0.5)',
-                },
-              ]
-            };
-
-            setCountryStatData(countryStat);
-
-            console.log(countryStat);
-    });
-
-    }, []);
+    const labels = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
+    const data = {
+        labels: labels,
+        datasets: [
+          {
+            label: '일본',
+            data: [1300, 1500, 2100, 3000, 4000, 5000, 6000, 7000],
+            borderColor: 'rgb(255, 99, 132)',
+            backgroundColor: 'rgba(255, 99, 132, 0.5)',
+          },
+          {
+            label: '중국',
+            data: [500, 900, 1100, 1000, 1000, 900, 1100, 1000 ],
+            borderColor: 'rgb(100, 162, 100)',
+            backgroundColor: 'rgba(255, 99, 132, 0.5)',
+          },
+          {
+            label: '미국',
+            data:[1000, 1100, 1200, 2000, 2500, 4000, 3500, 3800 ],
+            borderColor: 'rgb(90, 200, 235)',
+            backgroundColor: 'rgba(255, 99, 132, 0.5)',
+          },
+          {
+            label: '베트남',
+            data: [1500, 1300, 1800, 2500, 3000, 3500, 3000, 4000 ],
+            borderColor: 'rgb(150, 162, 235)',
+            backgroundColor: 'rgba(255, 99, 132, 0.5)',
+          },
+        ]
+      };
 
       const options = {
           maintainAspectRatio: false,

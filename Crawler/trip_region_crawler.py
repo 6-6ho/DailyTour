@@ -5,7 +5,7 @@ from selenium import webdriver
 import pandas as pd
 import json
 
-csv_path = '../Data/OutBound_Data/Outbound_10Y_data.csv'
+csv_path = '../Data/OutBound_Data/Outbound_10Y_Data.csv'
 output_path = '../Data/Region_Data/region_data.json'
 
 
