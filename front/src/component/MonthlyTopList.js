@@ -1,4 +1,4 @@
-import './MonthlyTopList.css'; // 이 CSS 파일에서 스타일을 정의합니다.
+import './List.css'; // 이 CSS 파일에서 스타일을 정의합니다.
 
 const MonthlyTopList = () => {
   const data = [
