@@ -1,945 +1,924 @@
-ATTR_CODE,ATTR_NAME,REGION_CODE,REG_CODE
-AT1000,��Ŭ���� �ڹ���,Not_Match,AT1000
-AT1001,��Ŭ���� ������,Not_Match,AT1001
-AT1002,��ī�� Ÿ��,Not_Match,AT1002
-AT1003,�̵� ��,Not_Match,AT1003
-AT1004,Mount Victoria Reserve,Not_Match,AT1004
-AT1005,�� Ʈ�� ��,Not_Match,AT1005
-AT1006,�˹�Ʈ ��ũ,Not_Match,AT1006
-AT1007,�������� ������,Not_Match,AT1007
-AT1008,�������� ��,Not_Match,AT1008
-AT1009,��ƴ�Ʈ �Ϲ�,Not_Match,AT1009
-AT1010,����Ÿ�� ��ī�� ���� - �ﵹ�� & ����,Not_Match,AT1010
-AT1011,Queenstown Hill,Not_Match,AT1011
-AT1012,Shotover Jet,Not_Match,AT1012
-AT1013,Glenorchy-Queenstown Road,Not_Match,AT1013
-AT1014,Queenstown Gardens,Not_Match,AT1014
-AT1015,Milford Sound,Not_Match,AT1015
-AT1016,JUCY Cruise Milford Sound,Not_Match,AT1016
-AT1017,Lake Wakatipu,Not_Match,AT1017
-AT1018,Canyon Explorers,Not_Match,AT1018
-AT1019,RealNZ,Not_Match,AT1019
-AT1020,ũ���̽�Ʈóġ �Ĺ���,Not_Match,AT1020
-AT1021,Christ Church Meadow,Not_Match,AT1021
-AT1022,�ر۸� ����,Not_Match,AT1022
-AT1023,Quake City,Not_Match,AT1023
-AT1024,Christ Church,Not_Match,AT1024
-AT1025,International Antarctic Centre,Not_Match,AT1025
-AT1026,Christchurch Tramway,Not_Match,AT1026
-AT1027,Christchurch Cathedral,Not_Match,AT1027
-AT1028,ĵ�ͺ��� �ڹ���,Not_Match,AT1028
-AT1029,Robert Falcon Scott Statue,Not_Match,AT1029
-AT1030,������ ���̺� ī,Not_Match,AT1030
-AT1031,���丮�� ��,Not_Match,AT1031
-AT1032,�������� �ڹ��� (������),Not_Match,AT1032
-AT1033,������ �Ĺ���,Not_Match,AT1033
-AT1034,���� ��Ʈ��Ʈ ����,Not_Match,AT1034
-AT1035,Oriental Bay,Not_Match,AT1035
-AT1036,Wellington Waterfront,Not_Match,AT1036
-AT1037,������ ��Ƽ & �ؾ� �ڹ���,Not_Match,AT1037
-AT1038,��ȸ �ǻ��,Not_Match,AT1038
-AT1039,Mount Wellington,Not_Match,AT1039
-AT1040,Casino at Mandalay Bay,Not_Match,AT1040
-AT1041,Koi Kei Bakery,Not_Match,AT1041
-AT1042,Tenganan Ancient Village,Not_Match,AT1042
-AT1043,Hanalei Beach,Not_Match,AT1043
-AT1044,Like It Formosa,Not_Match,AT1044
-AT1045,Gunung Raya Golf Resort,Not_Match,AT1045
-AT1046,Taiwan Railway Steam locomotive No. LDK58,Not_Match,AT1046
-AT1047,Ÿ�̺��� 101,Not_Match,AT1047
-AT1048,National Museum of Taiwan History,Not_Match,AT1048
-AT1049,Galway Bay,Not_Match,AT1049
-AT1050,The Pier-2 Art Centre,Not_Match,AT1050
-AT1051,������,Not_Match,AT1051
-AT1052,Kaohsiung Main Public Library,Not_Match,AT1052
-AT1053,Kaohsiung Museum of Fine Arts,Not_Match,AT1053
-AT1054,Dragon Tiger Tower,Not_Match,AT1054
-AT1055,Fo Guang Shan Buddha Museum,Not_Match,AT1055
-AT1056,Tuntex 85 Sky Tower,Not_Match,AT1056
-AT1057,Cijin Island,Not_Match,AT1057
-AT1058,Xiziwan,Not_Match,AT1058
-AT1059,Formosa Boulevard Station,Not_Match,AT1059
-AT1060,Chishingtan Scenic Area,Not_Match,AT1060
-AT1061,Taroko National Park,Not_Match,AT1061
-AT1062,Lotung,Not_Match,AT1062
-AT1063,Taroko Gorge,Not_Match,AT1063
-AT1064,Hualien Tourist Fish Harbor,Not_Match,AT1064
-AT1065,Hualien Harbor Scenic Bridge,Not_Match,AT1065
-AT1066,Xiouyeliu,Not_Match,AT1066
-AT1067,Yanzihkou Trail (Swallow Grotto),Not_Match,AT1067
-AT1068,Dongdamen Night Market,Not_Match,AT1068
-AT1069,Farglory Ocean Park,Not_Match,AT1069
-AT1070,Chihkan Tower (Fort Provintia),Not_Match,AT1070
-AT1071,Guanziling Hot Spring,Not_Match,AT1071
-AT1072,Confucius Temple,Not_Match,AT1072
-AT1073,Ji Dian Wu Miao,Not_Match,AT1073
-AT1074,Chimei Museum,Not_Match,AT1074
-AT1075,National Cheng Kung University,Not_Match,AT1075
-AT1076,National Museum of Taiwan History,Not_Match,AT1076
-AT1077,Tainan Art Museum,Not_Match,AT1077
-AT1078,Anping Fort (Anping gubao),Not_Match,AT1078
-AT1079,Tainan Station,Not_Match,AT1079
-AT1080,������θ�ũ �� (������θ�ũ ���),Not_Match,AT1080
-AT1081,�̽�Ʈ ���̵� ������,Not_Match,AT1081
-AT1082,Berliner Dom,Not_Match,AT1082
-AT1083,Berlin Central Station,Not_Match,AT1083
-AT1084,Tiergarten,Not_Match,AT1084
-AT1085,������ �е���Ÿũ,Not_Match,AT1085
-AT1086,�׷��� �����׷��� �ڹ���,Not_Match,AT1086
-AT1087,Ȧ���ڽ�Ʈ ���� (������ �л� �߸� ����),Not_Match,AT1087
-AT1088,Museum Island,Not_Match,AT1088
-AT1089,������ �庮 ����,Not_Match,AT1089
-AT1090,������ ����,Not_Match,AT1090
-AT1091,New Town Hall (Neus Rathaus),Not_Match,AT1091
-AT1092,BMW �ڹ���,Not_Match,AT1092
-AT1093,Allianz Arena,Not_Match,AT1093
-AT1094,Nymphenburg Palace,Not_Match,AT1094
-AT1095,Olympic Tower,Not_Match,AT1095
-AT1096,���Ͽ� ���� �����,Not_Match,AT1096
-AT1097,�ױ۸��� ����,Not_Match,AT1097
-AT1098,Residenz,Not_Match,AT1098
-AT1099,FC Bayern Museum,Not_Match,AT1099
-AT1100,Romer,Not_Match,AT1100
-AT1101,Cathedral of St. Bartholomew (Dom St. Bartholomaus),Not_Match,AT1101
-AT1102,Main Tower,Not_Match,AT1102
-AT1103,Frankfurt am Main Hauptbahnhof,Not_Match,AT1103
-AT1104,Roemerberg,Not_Match,AT1104
-AT1105,Stadel Museum,Not_Match,AT1105
-AT1106,Messe Frankfurt,Not_Match,AT1106
-AT1107,Deutsche Bank Park,Not_Match,AT1107
-AT1108,Iron Bridge,Not_Match,AT1108
-AT1109,The Hauptwache,Not_Match,AT1109
-AT1110,USS ������ ����� �ڹ��� & ����,Not_Match,AT1110
-AT1111,���� ����,Not_Match,AT1111
-AT1112,��ũ�� ũ����,Not_Match,AT1112
-AT1113,Moscow Metro,Not_Match,AT1113
-AT1114,�� �ٽǸ� ����,Not_Match,AT1114
-AT1115,Sparrow Hills (Vorobyovy Gory),Not_Match,AT1115
-AT1116,Lomonosov Moscow State University (MGU),Not_Match,AT1116
-AT1117,Moscow-City,Not_Match,AT1117
-AT1118,Bolshoi Theatre,Not_Match,AT1118
-AT1119,High-Speed Train Sapsan,Not_Match,AT1119
-AT1120,Old Arbat (Stary Arbat),Not_Match,AT1120
-AT1121,���� ���,Not_Match,AT1121
-AT1122,������Ű ���ν���Ʈ,Not_Match,AT1122
-AT1123,High-Speed Train Sapsan,Not_Match,AT1123
-AT1124,Leningradskiy Railway Station,Not_Match,AT1124
-AT1125,Palace Bridge,Not_Match,AT1125
-AT1126,The State Museum St. Isaac��s Cathedral,Not_Match,AT1126
-AT1127,Admiralteyskaya Station,Not_Match,AT1127
-AT1128,Gazprom Arena,Not_Match,AT1128
-AT1129,University Embankment,Not_Match,AT1129
-AT1130,The Building Of The Admiralty,Not_Match,AT1130
-AT1131,Eagle's Nest Mount,Not_Match,AT1131
-AT1132,Memorial to the Fighters for the Soviet Power in the Far East,Not_Match,AT1132
-AT1133,Golden Bridge,Not_Match,AT1133
-AT1134,Russky Bridge,Not_Match,AT1134
-AT1135,Monument to Sailors,Not_Match,AT1135
-AT1136,Railroad Terminal,Not_Match,AT1136
-AT1137,Betancourt Bridge,Not_Match,AT1137
-AT1138,Railway Station,Not_Match,AT1138
-AT1139,Svetlanskaya Street,Not_Match,AT1139
-AT1140,Primorsky Aquarim,Not_Match,AT1140
-AT1141,Taipa Village Macau,Not_Match,AT1141
-AT1142,�� ��ī��,Not_Match,AT1142
-AT1143,���̸�Ʈ �Ӹ���,Not_Match,AT1143
-AT1144,����Ǫ�� ��Ƽ �Ӹ���,Not_Match,AT1144
-AT1145,�����ٷ��� ����Ʈ,Not_Match,AT1145
-AT1146,�δ� �ձ� - �ξ� �Ӹ���,Not_Match,AT1146
-AT1147,���Ϲ��� �÷��� ����Ʈ,Not_Match,AT1147
-AT1148,����Ʈ ���� ����� ī����,Not_Match,AT1148
-AT1149,����Ʈ����� �Ӹ��� (���� �̼���),Not_Match,AT1149
-AT1150,ũ�뺧 ������Ʈ ����Ʈ,Not_Match,AT1150
-AT1151,Londoner Macau,Not_Match,AT1151
-AT1152,���� ��ī����ũ,Not_Match,AT1152
-AT1153,��Ʈ�� ��ũ,Not_Match,AT1153
-AT1154,�׷��� ��Ʈ�� �͹̳�,Not_Match,AT1154
-AT1155,��ź ��Ʈ�� ��ũ,Not_Match,AT1155
-AT1156,�۵� ��Ʈ�� ��ũ,Not_Match,AT1156
-AT1157,��Ʈ�� ���� �ö���,Not_Match,AT1157
-AT1158,��Ʈ�� �ö���,Not_Match,AT1158
-AT1159,��Ʈ�� ���� ���˶��Ǫ��,Not_Match,AT1159
-AT1160,������ ���� ���� ��Ʈ ���̾� �ڹ���,Not_Match,AT1160
-AT1161,���� ���,Not_Match,AT1161
-AT1162,Macau-Taipa Bridge,Not_Match,AT1162
-AT1163,���߿��� ��ȭ��,Not_Match,AT1163
-AT1164,St. Lawrence's Church,Not_Match,AT1164
-AT1165,��ī�� ��������,Not_Match,AT1165
-AT1166,�÷ξ�,Not_Match,AT1166
-AT1167,�Ͽ콺 ���� ���� ����,Not_Match,AT1167
-AT1168,Outer Harbour Ferry Terminal,Not_Match,AT1168
-AT1169,�׷��� ĳ�� ��,Not_Match,AT1169
-AT1170,Na Tcha Temple,Not_Match,AT1170
-AT1171,����Ʈ �� �뼺��,Not_Match,AT1171
-AT1172,����Ʈ ��Ʈ�� �뼺��,Not_Match,AT1172
-AT1173,�� �ٿ� �Ÿ�(�ٻ��),Not_Match,AT1173
-AT1174,���� ���,Not_Match,AT1174
-AT1175,����Ʈ �� ����,Not_Match,AT1175
-AT1176,Abbazia di San Paolo Fuori Le Mura,Not_Match,AT1176
-AT1177,St. Paul's Hill & Church (Bukit St. Paul),Not_Match,AT1177
-AT1178,Macao Government Tourism Office,Not_Match,AT1178
-AT1179,�õ� ����Ʈ �� ����,Not_Match,AT1179
-AT1180,����Ʈ ��Ʈ�� ����,Not_Match,AT1180
-AT1181,��Ʈ�γ��� Ʈ�� Ÿ��,Not_Match,AT1181
-AT1182,��Ʈ�� ���� ���˶��Ǫ��,Not_Match,AT1182
-AT1183,���˶��Ǫ�� ������ ����,Not_Match,AT1183
-AT1184,��Ʋ �ε�� - ���˶��Ǫ��,Not_Match,AT1184
-AT1185,KLCC Park,Not_Match,AT1185
-AT1186,�ĺ����� KL,Not_Match,AT1186
-AT1187,���˶��Ǫ�� ���� ��ũ,Not_Match,AT1187
-AT1188,GO KL City Bus,Not_Match,AT1188
-AT1189,KLIA Ekspres,Not_Match,AT1189
-AT1190,���� ����,Not_Match,AT1190
-AT1191,����ĭ ��,Not_Match,AT1191
-AT1192,Kota Kinabalu City Mosque,Not_Match,AT1192
-AT1193,Tanjung Aru Beach,Not_Match,AT1193
-AT1194,Imago Shopping Mall,Not_Match,AT1194
-AT1195,Mantanani Island,Not_Match,AT1195
-AT1196,�ڽ��� ������,Not_Match,AT1196
-AT1197,Sapi Island,Not_Match,AT1197
-AT1198,I Love KK,Not_Match,AT1198
-AT1199,Tanjung Aru Perdana Park,Not_Match,AT1199
-AT1200,Tunku Abdul Rahman Marine Park,Not_Match,AT1200
-AT1201,Panorama Langkawi SkyCab,Not_Match,AT1201
-AT1202,��ī�� ��ī�� �긮��,Not_Match,AT1202
-AT1203,Eagle Square,Not_Match,AT1203
-AT1204,Kilim Karst Geoforest Park,Not_Match,AT1204
-AT1205,Tanjung Rhu Beach,Not_Match,AT1205
-AT1206,Cenang Beach,Not_Match,AT1206
-AT1207,Oriental Village,Not_Match,AT1207
-AT1208,Ko Lipe,Not_Match,AT1208
-AT1209,Langkawi Night Market,Not_Match,AT1209
-AT1210,Fauna Flora Eco,Not_Match,AT1210
-AT1211,��Ŀ ��Ʈ��Ʈ,Not_Match,AT1211
-AT1212,Malacca River,Not_Match,AT1212
-AT1213,Red Square (Dutch Square),Not_Match,AT1213
-AT1214,St. Paul's Hill & Church (Bukit St. Paul),Not_Match,AT1214
-AT1215,Menara Taming Sari,Not_Match,AT1215
-AT1216,Malacca Heritage Centre,Not_Match,AT1216
-AT1217,Stadthuys,Not_Match,AT1217
-AT1218,River Walk,Not_Match,AT1218
-AT1219,Christ Church,Not_Match,AT1219
-AT1220,St. Francis Xavier Church,Not_Match,AT1220
-AT1221,Zocalo,Not_Match,AT1221
-AT1222,���� �η��� �ڹ���,Not_Match,AT1222
-AT1223,�ڿ��ĭ,Not_Match,AT1223
-AT1224,Paseo de la Reforma,Not_Match,AT1224
-AT1225,���丣 ��� �ڹ���,Not_Match,AT1225
-AT1226,�׿�Ƽ���ĭ,Not_Match,AT1226
-AT1227,San Angel,Not_Match,AT1227
-AT1228,Mercado De Artesanias La Ciudadela,Not_Match,AT1228
-AT1229,Catedral Metropolitana de la Ciudad de Mexico,Not_Match,AT1229
-AT1230,��Ǯ���� ��,Not_Match,AT1230
-AT1231,ġþ ��Ʈ��,Not_Match,AT1231
-AT1232,La Isla,Not_Match,AT1232
-AT1233,Xcaret,Not_Match,AT1233
-AT1234,Avenida Kukulkan,Not_Match,AT1234
-AT1235,Playa Delfines,Not_Match,AT1235
-AT1236,Xplor Park by Xcaret,Not_Match,AT1236
-AT1237,Happy Shuttle Cancun,Not_Match,AT1237
-AT1238,���� ����,Not_Match,AT1238
-AT1239,Coco Bongo Playa del Carmen,Not_Match,AT1239
-AT1240,Coco Bongo Cancun,Not_Match,AT1240
-AT1241,������ ���� ������,Not_Match,AT1241
-AT1242,Tulum Avenue,Not_Match,AT1242
-AT1243,Mayan Beach,Not_Match,AT1243
-AT1244,OZ Adventures,Not_Match,AT1244
-AT1245,Playa Paraiso,Not_Match,AT1245
-AT1246,�ڹ� ������,Not_Match,AT1246
-AT1247,Gran Cenote,Not_Match,AT1247
-AT1248,Nuestra Senora del Carmen Catholic Church,Not_Match,AT1248
-AT1249,Scubascoolmexico,Not_Match,AT1249
-AT1250,Palacio Municipal,Not_Match,AT1250
-AT1251,�溹��,Not_Match,AT1251
-AT1252,���� ����,Not_Match,AT1252
-AT1253,���� ����Ͻ�,Not_Match,AT1253
-AT1254,��� ��Ʈ��,Not_Match,AT1254
-AT1255,�ݰ���,Not_Match,AT1255
-AT1256,���δϸ� ������ (�����̷� ���� ���δϸ�),Not_Match,AT1256
-AT1257,��ŷ�� ����,Not_Match,AT1257
-AT1258,���Ժ��,Not_Match,AT1258
-AT1259,Belvedere Museum,Not_Match,AT1259
-AT1260,������ȸ�ǻ��,Not_Match,AT1260
-AT1261,Zaisan Memorial,Not_Match,AT1261
-AT1262,Gorkhi-Terelj National Park,Not_Match,AT1262
-AT1263,Galleria Souvenir Store,Not_Match,AT1263
-AT1264,Galleria Souvenir,Not_Match,AT1264
-AT1265,Choijin Lama Temple Museum,Not_Match,AT1265
-AT1266,Altai Bighorn Statue,Not_Match,AT1266
-AT1267,Genghis Khan Square,Not_Match,AT1267
-AT1268,The State Department Store,Not_Match,AT1268
-AT1269,Datsan Rinpoche Bagsha,Not_Match,AT1269
-AT1270,National History Museum,Not_Match,AT1270
-AT1271,��Ʈ������ź �̼���,Not_Match,AT1271
-AT1272,���緯 ���� ������,Not_Match,AT1272
-AT1273,��Ʈ�� ��ũ,Not_Match,AT1273
-AT1274,Ÿ�� ������,Not_Match,AT1274
-AT1275,�����̾� ������Ʈ ����,Not_Match,AT1275
-AT1276,���� ���� ������,Not_Match,AT1276
-AT1277,��ε����,Not_Match,AT1277
-AT1278,���� ����,Not_Match,AT1278
-AT1279,����̾�Ʈ ��ũ,Not_Match,AT1279
-AT1280,�׷��� ��Ʈ�� �͹̳�,Not_Match,AT1280
-AT1281,�ݹ���,Not_Match,AT1281
-AT1282,�������ý��� ����,Not_Match,AT1282
-AT1283,Ʈ�� �Ƚ�,Not_Match,AT1283
-AT1284,�������ý��� ���� �̼���,Not_Match,AT1284
-AT1285,���̺� ī,Not_Match,AT1285
-AT1286,�������ý��� ��û,Not_Match,AT1286
-AT1287,�������ý��� ���� �긮��,Not_Match,AT1287
-AT1288,Lombard Street,Not_Match,AT1288
-AT1289,�Ǿ� 39,Not_Match,AT1289
-AT1290,��īƮ����,Not_Match,AT1290
-AT1291,���� ��Ÿ���,Not_Match,AT1291
-AT1292,�׸��ǽ� ��ũ,Not_Match,AT1292
-AT1293,��Ƽ ����,Not_Match,AT1293
-AT1294,Moonstone Beach,Not_Match,AT1294
-AT1295,��Ÿ���� ����,Not_Match,AT1295
-AT1296,Angel Stadium of Anaheim,Not_Match,AT1296
-AT1297,Greystone Mansion and Park,Not_Match,AT1297
-AT1298,Gloria Molina Grand Park,Not_Match,AT1298
-AT1299,Kelso Dunes,Not_Match,AT1299
-AT1300,17-Mile Drive,Not_Match,AT1300
-AT1301,�󽺺��̰Ž� �����̾� �ƿ﷿,Not_Match,AT1301
-AT1302,The Strip,Not_Match,AT1302
-AT1303,Vegas Rockstar VIP,Not_Match,AT1303
-AT1304,Welcome to Fabulous Las Vegas Sign,Not_Match,AT1304
-AT1305,The Spa at Vdara,Not_Match,AT1305
-AT1306,The Grand Canal Shoppes at The Venetian Resort,Not_Match,AT1306
-AT1307,�󽺺����� �ٿ�Ÿ��,Not_Match,AT1307
-AT1308,Paris Las Vegas,Not_Match,AT1308
-AT1309,Seminole Hard Rock Casino Tampa,Not_Match,AT1309
-AT1310,Fremont Street Experience,Not_Match,AT1310
-AT1311,Yangon Central Railway Station,Not_Match,AT1311
-AT1312,���ٰ� �İ���,Not_Match,AT1312
-AT1313,Sule Pagoda,Not_Match,AT1313
-AT1314,Yangon Circular Train,Not_Match,AT1314
-AT1315,Botahtaung Pagoda,Not_Match,AT1315
-AT1316,Bogyoke Aung San Market,Not_Match,AT1316
-AT1317,Myanmar Plaza Shopping Center,Not_Match,AT1317
-AT1318,Immaculate Conception Cathedral,Not_Match,AT1318
-AT1319,The Rangoon War Cemetery,Not_Match,AT1319
-AT1320,JJ Express,Not_Match,AT1320
-AT1321,Mandalay Hill,Not_Match,AT1321
-AT1322,Kuthodaw Pagoda & the World's Largest Book,Not_Match,AT1322
-AT1323,���Ϲ��� �İ���,Not_Match,AT1323
-AT1324,�� ���� �ٸ�,Not_Match,AT1324
-AT1325,Shark Reef Aquarium,Not_Match,AT1325
-AT1326,Ȳ�� ���� ������ (������ ¥��),Not_Match,AT1326
-AT1327,Sanda Muni Paya,Not_Match,AT1327
-AT1328,Health Center Thai Massage,Not_Match,AT1328
-AT1329,Mandalay Palace,Not_Match,AT1329
-AT1330,Mandalay Fort,Not_Match,AT1330
-AT1331,Nyaung U Market,Not_Match,AT1331
-AT1332,������ �ľ�,Not_Match,AT1332
-AT1333,�ٰ��� �����,Not_Match,AT1333
-AT1334,�Ƴ��� ���,Not_Match,AT1334
-AT1335,���굵 �İ���,Not_Match,AT1335
-AT1336,Sulamani Guphaya Temple,Not_Match,AT1336
-AT1337,������ �ľ�,Not_Match,AT1337
-AT1338,Dhammayangyi Temple,Not_Match,AT1338
-AT1339,Htilominlo Pahto,Not_Match,AT1339
-AT1340,JJ Express,Not_Match,AT1340
-AT1341,Thatbyinnyu Temple,Not_Match,AT1341
-AT1342,Oriental Ballooning Bagan,Not_Match,AT1342
-AT1343,People's Committee Building,Not_Match,AT1343
-AT1344,Dong Khoi Street,Not_Match,AT1344
-AT1345,���ؽ��� ���̳��� Ÿ�� ��ī�̵�ũ,Not_Match,AT1345
-AT1346,Asiana Link Travel,Not_Match,AT1346
-AT1347,Saigon River,Not_Match,AT1347
-AT1348,Saigon Hotpot - Travel With Local Youth,Not_Match,AT1348
-AT1349,Notre Dame Square,Not_Match,AT1349
-AT1350,�߾� ��ü��,Not_Match,AT1350
-AT1351,ȣġ�� ����,Not_Match,AT1351
-AT1352,Asia Pacific Travel Vietnam,Not_Match,AT1352
-AT1353,�ϳ��� ���ð�,Not_Match,AT1353
-AT1354,ȣ�� ���� ȣ��,Not_Match,AT1354
-AT1355,LA Spa Trendy,Not_Match,AT1355
-AT1356,Mido Spa,Not_Match,AT1356
-AT1357,Serene Spa,Not_Match,AT1357
-AT1358,La Belle Vie Spa,Not_Match,AT1358
-AT1359,Hanoi Labelle Vie Spa,Not_Match,AT1359
-AT1360,Mido Spa 1,Not_Match,AT1360
-AT1361,Estheva Spa,Not_Match,AT1361
-AT1362,L'essence Spa,Not_Match,AT1362
-AT1363,���;�γ�Ʈ ���,Not_Match,AT1363
-AT1364,���峪Ʈ �縮ž,Not_Match,AT1364
-AT1365,Nha Trang Beach,Not_Match,AT1365
-AT1366,Po Nagar Cham Towers,Not_Match,AT1366
-AT1367,�Ľ���Ƽ��Ʈ ���,Not_Match,AT1367
-AT1368,Monkey Island,Not_Match,AT1368
-AT1369,Nha Trang Sea Star,Not_Match,AT1369
-AT1370,Charm Spa Grand Nha Trang,Not_Match,AT1370
-AT1371,Casa Spa,Not_Match,AT1371
-AT1372,Long Son Pagoda,Not_Match,AT1372
-AT1373,���� ��ġ,Not_Match,AT1373
-AT1374,Dragon Bridge,Not_Match,AT1374
-AT1375,Herbal Spa,Not_Match,AT1375
-AT1376,�� �� ��ġ,Not_Match,AT1376
-AT1377,Ba Na Hills,Not_Match,AT1377
-AT1378,Pandanus Spa Hoi An,Not_Match,AT1378
-AT1379,Lady Buddha,Not_Match,AT1379
-AT1380,Dahan Spa Danang,Not_Match,AT1380
-AT1381,Tabalo Outdoor,Not_Match,AT1381
-AT1382,ī���� �ε�,Not_Match,AT1382
-AT1383,��׶�� �Ĺи��� ����,Not_Match,AT1383
-AT1384,���� ����,Not_Match,AT1384
-AT1385,Spotify Camp Nou,Not_Match,AT1385
-AT1386,������ ����,Not_Match,AT1386
-AT1387,���� ���� (�ٸ� ��ƽ),Not_Match,AT1387
-AT1388,Aerobus,Not_Match,AT1388
-AT1389,Parc d��Atraccions Tibidabo,Not_Match,AT1389
-AT1390,īŻ��� ���� �̼��� - MNAC,Not_Match,AT1390
-AT1391,Plaza de Catalunya,Not_Match,AT1391
-AT1392,Barcelona Cathedral,Not_Match,AT1392
-AT1393,���� �ڹ���,Not_Match,AT1393
-AT1394,Puerta del Sol,Not_Match,AT1394
-AT1395,���帮�� �ձ�,Not_Match,AT1395
-AT1396,Santiago Bernabeu Stadium,Not_Match,AT1396
-AT1397,Gran Via,Not_Match,AT1397
-AT1398,��Ƽ�� ��ũ (�ĸ� �� ��Ƽ��),Not_Match,AT1398
-AT1399,Plaza de Cibeles,Not_Match,AT1399
-AT1400,Palacio de Cibeles,Not_Match,AT1400
-AT1401,Plaza Mayor,Not_Match,AT1401
-AT1402,Templo de Debod,Not_Match,AT1402
-AT1403,������ ����,Not_Match,AT1403
-AT1404,����� �뼺�� (ī�׵�� �� �����),Not_Match,AT1404
-AT1405,Torre Giralda,Not_Match,AT1405
-AT1406,��ī�縣,Not_Match,AT1406
-AT1407,Centro Historico de Sevilla,Not_Match,AT1407
-AT1408,Setas de Sevilla (Metropol Parasol),Not_Match,AT1408
-AT1409,Barrio Santa Cruz,Not_Match,AT1409
-AT1410,������ ���̻� ����,Not_Match,AT1410
-AT1411,Torre del Oro,Not_Match,AT1411
-AT1412,Iglesia Colegial del Salvador,Not_Match,AT1412
-AT1413,Ciudad de las Artes y las Ciencias,Not_Match,AT1413
-AT1414,Oceanografic Valencia,Not_Match,AT1414
-AT1415,Central Market of Valencia,Not_Match,AT1415
-AT1416,Valencia Cathedral,Not_Match,AT1416
-AT1417,Estacio del Nord,Not_Match,AT1417
-AT1418,Miguelete,Not_Match,AT1418
-AT1419,Plaza del Ayuntamiento,Not_Match,AT1419
-AT1420,Plaza del Mercado (Placa del Mercat),Not_Match,AT1420
-AT1421,Museu Faller de Valencia,Not_Match,AT1421
-AT1422,La Lonja de la Seda,Not_Match,AT1422
-AT1423,������ ��,Not_Match,AT1423
-AT1424,��Ʈ���� ����,Not_Match,AT1424
-AT1425,Lake Bled,Not_Match,AT1425
-AT1426,Lake Bohinj,Not_Match,AT1426
-AT1427,Bled Island,Not_Match,AT1427
-AT1428,Vogel Ski Center,Not_Match,AT1428
-AT1429,���� ��õ ��ȸ,Not_Match,AT1429
-AT1430,Mamut Slovenija,Not_Match,AT1430
-AT1431,Vrsic Pass - Julian Alps,Not_Match,AT1431
-AT1432,Straza Bled,Not_Match,AT1432
-AT1433,The Ljubljana Castle,Not_Match,AT1433
-AT1434,�������� ����,Not_Match,AT1434
-AT1435,River Ljubljanica Kanal,Not_Match,AT1435
-AT1436,���߱� (Ʈ�θ���꿹),Not_Match,AT1436
-AT1437,Cankarjevo Nabre?je,Not_Match,AT1437
-AT1438,Ljubljana Free Tour,Not_Match,AT1438
-AT1439,Franciscan Church (Fran?i?kanska cerkev),Not_Match,AT1439
-AT1440,Skyscraper (Neboti?nik),Not_Match,AT1440
-AT1441,�� ���ݶ� �뼺��,Not_Match,AT1441
-AT1442,Ljubljana Old Town,Not_Match,AT1442
-AT1443,Piran Town Walls,Not_Match,AT1443
-AT1444,Church of St. George (Cerkev sv. Jurija) in Piran,Not_Match,AT1444
-AT1445,Ÿ��Ƽ�� ����,Not_Match,AT1445
-AT1446,Port Piran,Not_Match,AT1446
-AT1447,First of May Square,Not_Match,AT1447
-AT1448,�ӽü�������,Not_Match,AT1448
-AT1449,Church of St. Francis of Assisi,Not_Match,AT1449
-AT1450,Old Town,Not_Match,AT1450
-AT1451,Kandovan,Not_Match,AT1451
-AT1452,Roundabout Travel,Not_Match,AT1452
-AT1453,���� �����̸���,Not_Match,AT1453
-AT1454,Douro River,Not_Match,AT1454
-AT1455,Taylor's Port,Not_Match,AT1455
-AT1456,Liberdade Square,Not_Match,AT1456
-AT1457,���� �븮,Not_Match,AT1457
-AT1458,Church of Santa Clara,Not_Match,AT1458
-AT1459,Jardim do Morro,Not_Match,AT1459
-AT1460,Igreja do Carmo,Not_Match,AT1460
-AT1461,Ribeira Square,Not_Match,AT1461
-AT1462,Mercado do Bolhao,Not_Match,AT1462
-AT1463,Adventure Cove Waterpark,Not_Match,AT1463
-AT1464,����� �ͽ�������,Not_Match,AT1464
-AT1465,Deception Pass State Park,Not_Match,AT1465
-AT1466,Finn McCools Tours,Not_Match,AT1466
-AT1467,EPIC The Irish Emigration Museum,Not_Match,AT1467
-AT1468,Guinness Storehouse,Not_Match,AT1468
-AT1469,Titanic Belfast,Not_Match,AT1469
-AT1470,����Ʈ ������ ����,Not_Match,AT1470
-AT1471,���Ϲ��� ��庥ó ���Ϸ���,Not_Match,AT1471
-AT1472,����� ĳ�� & ����,Not_Match,AT1472
-AT1473,������ �ε�,Not_Match,AT1473
-AT1474,ION Orchard,Not_Match,AT1474
-AT1475,Wisma Atria Shopping Centre,Not_Match,AT1475
-AT1476,H&M,Not_Match,AT1476
-AT1477,Tangs Plaza,Not_Match,AT1477
-AT1478,Darin Beauty Salon & Spa,Not_Match,AT1478
-AT1479,��������Ʈ ���ҳ���,Not_Match,AT1479
-AT1480,Hana Highway - Road to Hana,Not_Match,AT1480
-AT1481,Massage Corner,Not_Match,AT1481
-AT1482,������ ����,Not_Match,AT1482
-AT1483,������ ���� �� ����,Not_Match,AT1483
-AT1484,���� ��ī����ũ,Not_Match,AT1484
-AT1485,�̰����� �ö��̾�,Not_Match,AT1485
-AT1486,�︯�� �긮��,Not_Match,AT1486
-AT1487,Supertree Grove,Not_Match,AT1487
-AT1488,OCBC Skyway,Not_Match,AT1488
-AT1489,�����÷����̵� - �غ� ����,Not_Match,AT1489
-AT1490,������ ���� ���� ��Ʈ ���̾� �ڹ���,Not_Match,AT1490
-AT1491,������ ������,Not_Match,AT1491
-AT1492,���̳�Ÿ��,Not_Match,AT1492
-AT1493,�Ҿƻ� ��ȭ��,Not_Match,AT1493
-AT1494,��������,Not_Match,AT1494
-AT1495,�뿵 �ڹ���,Not_Match,AT1495
-AT1496,���� �̼���,Not_Match,AT1496
-AT1497,���� ����ö,Not_Match,AT1497
-AT1498,�� ��,Not_Match,AT1498
-AT1499,��ŷ�� ����,Not_Match,AT1499
-AT1500,Ÿ�� �긮��,Not_Match,AT1500
-AT1501,���� �ڿ��� �ڹ���,Not_Match,AT1501
-AT1502,���� Ÿ��,Not_Match,AT1502
-AT1503,Sky Garden,Not_Match,AT1503
-AT1504,������� ��,Not_Match,AT1504
-AT1505,�ο� ����,Not_Match,AT1505
-AT1506,Calton Hill,Not_Match,AT1506
-AT1507,Scott Monument,Not_Match,AT1507
-AT1508,Edinburgh Old Town,Not_Match,AT1508
-AT1509,�������� ��Ʈ��Ʈ ����,Not_Match,AT1509
-AT1510,Castle Rock,Not_Match,AT1510
-AT1511,The Royal Edinburgh Military Tattoo,Not_Match,AT1511
-AT1512,Grassmarket,Not_Match,AT1512
-AT1513,Ȧ����� ��ũ,Not_Match,AT1513
-AT1514,Old Trafford,Not_Match,AT1514
-AT1515,Etihad Stadium,Not_Match,AT1515
-AT1516,National Football Museum,Not_Match,AT1516
-AT1517,The John Rylands Library,Not_Match,AT1517
-AT1518,J-UK Golf,Not_Match,AT1518
-AT1519,Manchester Metrolink,Not_Match,AT1519
-AT1520,Victoria Station,Not_Match,AT1520
-AT1521,Science and Industry Museum,Not_Match,AT1521
-AT1522,ä������,Not_Match,AT1522
-AT1523,The Nolen,Not_Match,AT1523
-AT1524,University of Cambridge,Not_Match,AT1524
-AT1525,Cambridge University Botanic Garden,Not_Match,AT1525
-AT1526,Lets Go Punting,Not_Match,AT1526
-AT1527,Great St Mary's Church (Church of England),Not_Match,AT1527
-AT1528,Mathematical Bridge,Not_Match,AT1528
-AT1529,���� ����,Not_Match,AT1529
-AT1530,King's College,Not_Match,AT1530
-AT1531,The River Cam,Not_Match,AT1531
-AT1532,Galt,Not_Match,AT1532
-AT1533,King's College Chapel,Not_Match,AT1533
-AT1534,�õ�� ����� �Ͽ콺,Not_Match,AT1534
-AT1535,�õ�� �Ϲ�,Not_Match,AT1535
-AT1536,�õ�� �Ϲ� �긮��,Not_Match,AT1536
-AT1537,�õ�� �����Ƹ���,Not_Match,AT1537
-AT1538,�õ�� �丮,Not_Match,AT1538
-AT1539,�õ�� õ����,Not_Match,AT1539
-AT1540,�õ�� Ÿ�� ���� & ��ī�̿�ũ,Not_Match,AT1540
-AT1541,��ŧ�� Ű,Not_Match,AT1541
-AT1542,������ ��ġ,Not_Match,AT1542
-AT1543,�� ���丮�� ���� (QVB),Not_Match,AT1543
-AT1544,����ī ��ī�̵� 88,Not_Match,AT1544
-AT1545,��Ƽ ��Ŭ Ʈ��,Not_Match,AT1545
-AT1546,�ø����� ��Ʈ��Ʈ ��,Not_Match,AT1546
-AT1547,�߶� ��,Not_Match,AT1547
-AT1548,����� �ڹ���,Not_Match,AT1548
-AT1549,The Great Ocean Road,Not_Match,AT1549
-AT1550,����Ʈ ��Ʈ�� �뼺��,Not_Match,AT1550
-AT1551,Degraves Street,Not_Match,AT1551
-AT1552,����� ���� ����,Not_Match,AT1552
-AT1553,�� ����� ����,Not_Match,AT1553
-AT1554,�긮��� ��,Not_Match,AT1554
-AT1555,����Ʈ ���� ������,Not_Match,AT1555
-AT1556,��콺 ��ũ ��ũ����,Not_Match,AT1556
-AT1557,�� ���� �긮���,Not_Match,AT1557
-AT1558,��ƼĹ �丮,Not_Match,AT1558
-AT1559,�긮��� �Ĺ���,Not_Match,AT1559
-AT1560,City Hopper,Not_Match,AT1560
-AT1561,�� ���� �ھ˶� ��ȣ ����,Not_Match,AT1561
-AT1562,�긮��� �ڹ���,Not_Match,AT1562
-AT1563,City Hall,Not_Match,AT1563
-AT1564,Esplanade Boardwalk,Not_Match,AT1564
-AT1565,Kuranda Scenic Railway,Not_Match,AT1565
-AT1566,Cairns Aquarium,Not_Match,AT1566
-AT1567,Northern Experience Eco Tours,Not_Match,AT1567
-AT1568,��콺 ��ũ ��ũ����,Not_Match,AT1568
-AT1569,Reef Magic Cruises,Not_Match,AT1569
-AT1570,Cairns Esplanade Lagoon,Not_Match,AT1570
-AT1571,Josephine Falls,Not_Match,AT1571
-AT1572,Rusty's Market,Not_Match,AT1572
-AT1573,Cairns Botanic Gardens,Not_Match,AT1573
-AT1574,����Ʈ���� ���� �ε��,Not_Match,AT1574
-AT1575,��Ʈ��ٶ� �ÿ��� ��,Not_Match,AT1575
-AT1576,���� ����̺�,Not_Match,AT1576
-AT1577,Bandra-Worli Sea Link,Not_Match,AT1577
-AT1578,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Not_Match,AT1578
-AT1579,Powai Lake,Not_Match,AT1579
-AT1580,Hanging Gardens,Not_Match,AT1580
-AT1581,High Street Phoenix,Not_Match,AT1581
-AT1582,High Court Principal Bench Bombay,Not_Match,AT1582
-AT1583,Sanjay Gandhi National Park,Not_Match,AT1583
-AT1584,�ٶ� �̳���,Not_Match,AT1584
-AT1585,�ε�� ����Ʈ,Not_Match,AT1585
-AT1586,Delhi Airport Metro Express,Not_Match,AT1586
-AT1587,�ĸ����� ��,Not_Match,AT1587
-AT1588,Connaught Place,Not_Match,AT1588
-AT1589,Driver India Private Tours,Not_Match,AT1589
-AT1590,����� ���� (����Ƽ �ٹ�),Not_Match,AT1590
-AT1591,Classic Golf Resort,Not_Match,AT1591
-AT1592,�Ͽ��� ī�� ������,Not_Match,AT1592
-AT1593,North India Private Driver,Not_Match,AT1593
-AT1594,�Ʊ׶� ���,Not_Match,AT1594
-AT1595,Ÿ������,Not_Match,AT1595
-AT1596,Raj Travels India,Not_Match,AT1596
-AT1597,Discover India By Car,Not_Match,AT1597
-AT1598,��ĭ��� (�ǹٸ� Ȳ���� ����),Not_Match,AT1598
-AT1599,Private India Tour Advisor,Not_Match,AT1599
-AT1600,���� ��� (�� ų��),Not_Match,AT1600
-AT1601,Maria Luxury Tours,Not_Match,AT1601
-AT1602,Sheesh Mahal,Not_Match,AT1602
-AT1603,City of love boat tour,Not_Match,AT1603
-AT1604,�� ����,Not_Match,AT1604
-AT1605,�ٶ��� ���� (�Ͽ� ����),Not_Match,AT1605
-AT1606,����Ǫ�� ��Ƽ �Ӹ���,Not_Match,AT1606
-AT1607,Discover India By Car,Not_Match,AT1607
-AT1608,Sunny Tour Travels,Not_Match,AT1608
-AT1609,Jaigarh Fort,Not_Match,AT1609
-AT1610,Unique Jaipur Tour,Not_Match,AT1610
-AT1611,Easy Peasy Tours,Not_Match,AT1611
-AT1612,Nahargarh Fort,Not_Match,AT1612
-AT1613,Namaste Jaipur Tours,Not_Match,AT1613
-AT1614,���͹� �߸�,Not_Match,AT1614
-AT1615,�߸� �÷���,Not_Match,AT1615
-AT1616,Kuta Beach - Bali,Not_Match,AT1616
-AT1617,�߸� ���� ���� & �ѱ� �Ĵ� ������,Not_Match,AT1617
-AT1618,UP2U ���� ���� �߸�,Not_Match,AT1618
-AT1619,Bali SUN Tours,Not_Match,AT1619
-AT1620,Bali Swing,Not_Match,AT1620
-AT1621,��Ű ������Ʈ,Not_Match,AT1621
-AT1622,�� �߸� ��������,Not_Match,AT1622
-AT1623,The Care Day Spa,Not_Match,AT1623
-AT1624,Braga Street,Not_Match,AT1624
-AT1625,Tangkuban Perahu,Not_Match,AT1625
-AT1626,Jalan Asia Afrika,Not_Match,AT1626
-AT1627,White Crater,Not_Match,AT1627
-AT1628,Bandung Grand Mosque,Not_Match,AT1628
-AT1629,Bandung City Square,Not_Match,AT1629
-AT1630,Maribaya Hot Springs,Not_Match,AT1630
-AT1631,Ciater Hot Spring,Not_Match,AT1631
-AT1632,Trans Studio Bandung,Not_Match,AT1632
-AT1633,Gambir Train Station,Not_Match,AT1633
-AT1634,�𳪽�,Not_Match,AT1634
-AT1635,Ÿ�� �̴� �ε��׽þ� �δ�,Not_Match,AT1635
-AT1636,Kota Kasablanka,Not_Match,AT1636
-AT1637,��Ʈ�� �����̼�,Not_Match,AT1637
-AT1638,�׷��� ��Ʈ�� �͹̳�,Not_Match,AT1638
-AT1639,�̽�Ƽũ�� ��ũ (�̽�Ƽũ�� ���),Not_Match,AT1639
-AT1640,�۵� ��Ʈ�� ��ũ,Not_Match,AT1640
-AT1641,Central Park,Not_Match,AT1641
-AT1642,��Ʈ�� �佺Ƽ�� Ǫ��,Not_Match,AT1642
-AT1643,��Ʈ�� ���� ���˶��Ǫ��,Not_Match,AT1643
-AT1644,���� ����Ͻ�,Not_Match,AT1644
-AT1645,���� Ÿ��,Not_Match,AT1645
-AT1646,�����̹�,Not_Match,AT1646
-AT1647,����-���� �ڹ���,Not_Match,AT1647
-AT1648,���쿪,Not_Match,AT1648
-AT1649,�� Ÿ��,Not_Match,AT1649
-AT1650,���� ��ī�� Ʈ��,Not_Match,AT1650
-AT1651,��Ʋ ����,Not_Match,AT1651
-AT1652,���� ��û,Not_Match,AT1652
-AT1653,���� ���� �ڹ���,Not_Match,AT1653
-AT1654,���溸��,Not_Match,AT1654
-AT1655,���Ϲ��� ��Ʃ��� ����,Not_Match,AT1655
-AT1656,��޴� ��ī�� ���� - ���� ���� ������,Not_Match,AT1656
-AT1657,����ī ��,Not_Match,AT1657
-AT1658,�Ż��̹ٽ�,Not_Match,AT1658
-AT1659,���θ� ����,Not_Match,AT1659
-AT1660,Osaka Kale Park��,Not_Match,AT1660
-AT1661,HEP FIVE ������,Not_Match,AT1661
-AT1662,����ī ��Ȱ �ڹ���,Not_Match,AT1662
-AT1663,������ �������,Not_Match,AT1663
-AT1664,�ݰ���,Not_Match,AT1664
-AT1665,�Ľù� �̳��� �Ż�,Not_Match,AT1665
-AT1666,Kiyomizu-dera,Not_Match,AT1666
-AT1667,������,Not_Match,AT1667
-AT1668,���俪 ����,Not_Match,AT1668
-AT1669,���� Ÿ��,Not_Match,AT1669
-AT1670,���� �Ͻ�Ű ����,Not_Match,AT1670
-AT1671,Gion,Not_Match,AT1671
-AT1672,Arashiyama,Not_Match,AT1672
-AT1673,���� �Ĺ���,Not_Match,AT1673
-AT1674,JR Ÿ�� ������ T38,Not_Match,AT1674
-AT1675,Odori Park,Not_Match,AT1675
-AT1676,Susukino,Not_Match,AT1676
-AT1677,Sapporo Beer Museum,Not_Match,AT1677
-AT1678,������ ������߸� ������,Not_Match,AT1678
-AT1679,Sapporo TV Tower,Not_Match,AT1679
-AT1680,Ȫī�̵� ���� ������ ķ�۽�,Not_Match,AT1680
-AT1681,Clock Tower (Tokei-dai),Not_Match,AT1681
-AT1682,Mt. Moiwa,Not_Match,AT1682
-AT1683,Sapporo Underground Pedestrian Space,Not_Match,AT1683
-AT1684,�������� ����ź (����ź),Not_Match,AT1684
-AT1685,���� ���� Ÿ�� (Dongfang Mingzhu),Not_Match,AT1685
-AT1686,��õ��,Not_Match,AT1686
-AT1687,���� ���ͳ��ų� ��Ű��ó �ͽ������,Not_Match,AT1687
-AT1688,Shanghai Urban Planning Exhibition Hall,Not_Match,AT1688
-AT1689,Shanghai Metro,Not_Match,AT1689
-AT1690,������ ���� ���� ����,Not_Match,AT1690
-AT1691,������ ���� �ڹ���,Not_Match,AT1691
-AT1692,Pudong New Area,Not_Match,AT1692
-AT1693,������ �ڹ���,Not_Match,AT1693
-AT1694,�����强,Not_Match,AT1694
-AT1695,��ȭ��,Not_Match,AT1695
-AT1696,õ�ȹ�,Not_Match,AT1696
-AT1697,The Great Wall at Badaling,Not_Match,AT1697
-AT1698,Wangfujing Street,Not_Match,AT1698
-AT1699,Beijing Subway,Not_Match,AT1699
-AT1700,õ�� (Ƽ��ź ����),Not_Match,AT1700
-AT1701,��� ���� (�׼� ������),Not_Match,AT1701
-AT1702,õ�ȹ� ����,Not_Match,AT1702
-AT1703,���� �ڹ���,Not_Match,AT1703
-AT1704,Canton Tower,Not_Match,AT1704
-AT1705,Shamian Island,Not_Match,AT1705
-AT1706,Guangzhou Metro,Not_Match,AT1706
-AT1707,Huaisheng Mosque,Not_Match,AT1707
-AT1708,Museum of the Western Han Dynasty Mausoleum of the Nanyue King,Not_Match,AT1708
-AT1709,Sacred Heart Cathedral,Not_Match,AT1709
-AT1710,Beijing Road Ancient Avenue,Not_Match,AT1710
-AT1711,Beijing Road Shopping District,Not_Match,AT1711
-AT1712,Pearl River (Zhujiang),Not_Match,AT1712
-AT1713,Guangdong Museum of Art,Not_Match,AT1713
-AT1714,West Lake (Xi Hu),Not_Match,AT1714
-AT1715,Hangzhou Songcheng,Not_Match,AT1715
-AT1716,QingHeFang,Not_Match,AT1716
-AT1717,Fei Lai Feng,Not_Match,AT1717
-AT1718,�߱� ���� ö��,Not_Match,AT1718
-AT1719,Pagoda of Six Harmonies,Not_Match,AT1719
-AT1720,Xixi Wetland Park,Not_Match,AT1720
-AT1721,Ping Hu Qiu Yue,Not_Match,AT1721
-AT1722,National Tea Museum,Not_Match,AT1722
-AT1723,Hangzhou Chenghuang Pagoda,Not_Match,AT1723
-AT1724,���ڸ���Ʈ,Not_Match,AT1724
-AT1725,����� ���� �ÿ���,Not_Match,AT1725
-AT1726,Pub Street,Not_Match,AT1726
-AT1727,Lucky Mall Siem Reap,Not_Match,AT1727
-AT1728,Mudita Spa,Not_Match,AT1728
-AT1729,Siem Reap Shuttle Tours,Not_Match,AT1729
-AT1730,���׾��� ������,Not_Match,AT1730
-AT1731,Giant Ibis Transport,Not_Match,AT1731
-AT1732,���� ��庥ó į�����,Not_Match,AT1732
-AT1733,Cambodia Quad Bike,Not_Match,AT1733
-AT1734,������ ���� ���ž,Not_Match,AT1734
-AT1735,�Ѿ� ���� �뷮�л� �ڹ���,Not_Match,AT1735
-AT1736,Angkor Spa,Not_Match,AT1736
-AT1737,�� ����,Not_Match,AT1737
-AT1738,Aeon Mall,Not_Match,AT1738
-AT1739,Soma Spa,Not_Match,AT1739
-AT1740,�߾� ����,Not_Match,AT1740
-AT1741,�ξ� �Ӹ���,Not_Match,AT1741
-AT1742,ų�� �ʵ� (û����),Not_Match,AT1742
-AT1743,�������� ī����,Not_Match,AT1743
-AT1744,Golden Lion Gym,Not_Match,AT1744
-AT1745,Cambodia Private Taxi,Not_Match,AT1745
-AT1746,Koh Rong,Not_Match,AT1746
-AT1747,Independence Beach,Not_Match,AT1747
-AT1748,Angkor Taxis,Not_Match,AT1748
-AT1749,Scuba Nation Diving Centre,Not_Match,AT1749
-AT1750,Blue Lagoon Divers,Not_Match,AT1750
-AT1751,Phnom Penh Green Tour and Transport,Not_Match,AT1751
-AT1752,The Party Boat,Not_Match,AT1752
-AT1753,Unique Spa,Not_Match,AT1753
-AT1754,Phnom Chhngok Cave Temple,Not_Match,AT1754
-AT1755,Butterfly Tours,Not_Match,AT1755
-AT1756,La Plantation,Not_Match,AT1756
-AT1757,Bokor National Park,Not_Match,AT1757
-AT1758,Climbodia,Not_Match,AT1758
-AT1759,Golden Hands Massage & Spa,Not_Match,AT1759
-AT1760,SUP Asia,Not_Match,AT1760
-AT1761,Old Catholic Church,Not_Match,AT1761
-AT1762,Kampot-Kep Tuk Tuk-Taxi Drivers,Not_Match,AT1762
-AT1763,Rany - The TukTuk Driver in Kampot and Kep,Not_Match,AT1763
-AT1764,����� ���Ϸ��� ��ũ,Not_Match,AT1764
-AT1765,Hockey Hall of Fame,Not_Match,AT1765
-AT1766,Toronto City Hall,Not_Match,AT1766
-AT1767,������ȸ�ǻ��,Not_Match,AT1767
-AT1768,Yale University Art Gallery,Not_Match,AT1768
-AT1769,Jack Darling Memorial Park,Not_Match,AT1769
-AT1770,Castle Church,Not_Match,AT1770
-AT1771,Dostoevskiy Museum,Not_Match,AT1771
-AT1772,Statue of Lajos Kossuth,Not_Match,AT1772
-AT1773,Faniry Madagascar Tours,Not_Match,AT1773
-AT1774,������ �����Ƹ���,Not_Match,AT1774
-AT1775,������ ������,Not_Match,AT1775
-AT1776,������ �ٿ�Ÿ��,Not_Match,AT1776
-AT1777,������ ���� ������,Not_Match,AT1777
-AT1778,���ĸ� ��ũ,Not_Match,AT1778
-AT1779,��ī�� Ʈ����,Not_Match,AT1779
-AT1780,�� �����ں��� ����,Not_Match,AT1780
-AT1781,�ױ۸��� ����,Not_Match,AT1781
-AT1782,�׶�콺 ����ƾ,Not_Match,AT1782
-AT1783,����Ÿ��,Not_Match,AT1783
-AT1784,Old Montreal,Not_Match,AT1784
-AT1785,����Ʈ �ξ�,Not_Match,AT1785
-AT1786,��Ʈ���� �̼��� (Musee des Beaux-Arts),Not_Match,AT1786
-AT1787,��Ʈ���� ���� (������Ű ��Ʈ�� - ��),Not_Match,AT1787
-AT1788,Old Port of Montreal,Not_Match,AT1788
-AT1789,�� ��� �뼺��,Not_Match,AT1789
-AT1790,VIA Rail Canada Montreal Station,Not_Match,AT1790
-AT1791,Place des Arts,Not_Match,AT1791
-AT1792,Jean-Talon Market,Not_Match,AT1792
-AT1793,Montreal Botanical Garden,Not_Match,AT1793
-AT1794,���̾ư��� ����,Not_Match,AT1794
-AT1795,Journey Behind the Falls,Not_Match,AT1795
-AT1796,Niagara City Cruises,Not_Match,AT1796
-AT1797,Horseshoe Falls,Not_Match,AT1797
-AT1798,Skylon Tower,Not_Match,AT1798
-AT1799,Shifen Waterfall Walk Area,Not_Match,AT1799
-AT1800,Table Rock Welcome Centre,Not_Match,AT1800
-AT1801,Clifton Hill,Not_Match,AT1801
-AT1802,�ٶ��� ����,Not_Match,AT1802
-AT1803,Parc de la Chute-Montmorency,Not_Match,AT1803
-AT1804,BTS ��ī��Ʈ����,Not_Match,AT1804
-AT1805,������� ���ݻ��� �ִ� ��� (�� ��),Not_Match,AT1805
-AT1806,ī���� �ε�,Not_Match,AT1806
-AT1807,�ձ�,Not_Match,AT1807
-AT1808,Chatuchak Weekend Market,Not_Match,AT1808
-AT1809,�þ� �Ķ��,Not_Match,AT1809
-AT1810,���޶��� ��� (�� �������),Not_Match,AT1810
-AT1811,Asiatique The Riverfront,Not_Match,AT1811
-AT1812,���Ǵ� ����,Not_Match,AT1812
-AT1813,�� �轼 �Ͽ콺,Not_Match,AT1813
-AT1814,Banana Beach,Not_Match,AT1814
-AT1815,Ǫ�� �� �δ�,Not_Match,AT1815
-AT1816,������Ż �� Ǫ��,Not_Match,AT1816
-AT1817,Ǫ�� ���̸� ��,Not_Match,AT1817
-AT1818,��� �ε�,Not_Match,AT1818
-AT1819,Patong Beach,Not_Match,AT1819
-AT1820,���Ƿ�,Not_Match,AT1820
-AT1821,������,Not_Match,AT1821
-AT1822,īŸ ��ġ,Not_Match,AT1822
-AT1823,Cheaper than Hotel Taxis,Not_Match,AT1823
-AT1824,���̼��� (��ó�� �縮�� ���) ���,Not_Match,AT1824
-AT1825,Night Bazaar,Not_Match,AT1825
-AT1826,�� ü�� ���,Not_Match,AT1826
-AT1827,Wat Phra Singh,Not_Match,AT1827
-AT1828,Wat Phra That Doi Kham (Temple of the Golden Mountain),Not_Match,AT1828
-AT1829,Doi Inthanon,Not_Match,AT1829
-AT1830,���Ʈ��,Not_Match,AT1830
-AT1831,Tha Phae Gate,Not_Match,AT1831
-AT1832,Tha Pae Walking Street,Not_Match,AT1832
-AT1833,Anantara Spa,Not_Match,AT1833
-AT1834,��ŷ ��Ʈ��Ʈ ��Ÿ��,Not_Match,AT1834
-AT1835,��Ÿ�� ��ġ,Not_Match,AT1835
-AT1836,��Ÿ�� ���� ����,Not_Match,AT1836
-AT1837,�ɴ� Ʈ������ ���´��� ����,Not_Match,AT1837
-AT1838,������Ʈ ������ ��Ÿ��,Not_Match,AT1838
-AT1839,CentralFestival Pattaya Beach,Not_Match,AT1839
-AT1840,������ ����,Not_Match,AT1840
-AT1841,Koh Larn,Not_Match,AT1841
-AT1842,Grace Spa,Not_Match,AT1842
-AT1843,��Ƽ�� ��ġ,Not_Match,AT1843
-AT1844,Aya Sofya Muzesi / Kilisesi,Not_Match,AT1844
-AT1845,��ź�����Ʈ ����,Not_Match,AT1845
-AT1846,�̽�ź�� ���� ����,Not_Match,AT1846
-AT1847,���� ��ũ (��ź ����� ��ũ),Not_Match,AT1847
-AT1848,�̽�ź�� ���� �̼���,Not_Match,AT1848
-AT1849,���� ����,Not_Match,AT1849
-AT1850,�����̸��Ͽ� ��ũ,Not_Match,AT1850
-AT1851,����Ÿ Ÿ��,Not_Match,AT1851
-AT1852,�������罺 ����,Not_Match,AT1852
-AT1853,���ϳ� ��ũ,Not_Match,AT1853
-AT1854,������ ����,Not_Match,AT1854
-AT1855,�ϳ��츶 ���� �ڿ� ��ȣ ����,Not_Match,AT1855
-AT1856,������ ���� �� ����,Not_Match,AT1856
-AT1857,Bhaya Cruises,Not_Match,AT1857
-AT1858,�ӽ��� ����,Not_Match,AT1858
-AT1859,�������ý��� ���� �긮��,Not_Match,AT1859
-AT1860,�ױ۸��� ����,Not_Match,AT1860
-AT1861,Ambassador Cruise - Halong Bay,Not_Match,AT1861
-AT1862,Bai Tu Long Bay,Not_Match,AT1862
-AT1863,���α۶� ���� ������,Not_Match,AT1863
-AT1864,������ �߿� �ڹ���,Not_Match,AT1864
-AT1865,������ ���� ����,Not_Match,AT1865
-AT1866,Fairy Chimneys,Not_Match,AT1866
-AT1867,Sunset Point,Not_Match,AT1867
-AT1868,���� �븮,Not_Match,AT1868
-AT1869,MyTrip Travel & Tourism Agency,Not_Match,AT1869
-AT1870,Uchisar Castle,Not_Match,AT1870
-AT1871,Love Valley,Not_Match,AT1871
-AT1872,Goreme Panorama,Not_Match,AT1872
-AT1873,�ƹٳ뽺,Not_Match,AT1873
-AT1874,ȭ��Ʈ ��ġ,Not_Match,AT1874
-AT1875,D'Mall,Not_Match,AT1875
-AT1876,Alona Beach,Not_Match,AT1876
-AT1877,Crystal Cove Island,Not_Match,AT1877
-AT1878,��ȣ��,Not_Match,AT1878
-AT1879,������ ��,Not_Match,AT1879
-AT1880,Red Whale Boracay,Not_Match,AT1880
-AT1881,Fisheye Divers,Not_Match,AT1881
-AT1882,�Ҷ� ��ġ,Not_Match,AT1882
-AT1883,���� ��ġ,Not_Match,AT1883
-AT1884,���Ҷ� ����,Not_Match,AT1884
-AT1885,���Ҷ� ���� ��ũ,Not_Match,AT1885
-AT1886,���Ҷ� �뼺��,Not_Match,AT1886
-AT1887,��Ʈ�󹫷ν�,Not_Match,AT1887
-AT1888,�� �Ʊ���ƾ ��ȸ,Not_Match,AT1888
-AT1889,SM Mall of Asia,Not_Match,AT1889
-AT1890,��Ƽ�ư� ���,Not_Match,AT1890
-AT1891,���� ����,Not_Match,AT1891
-AT1892,Bonifacio Global City,Not_Match,AT1892
-AT1893,Malate District,Not_Match,AT1893
-AT1894,Ayala Center Cebu,Not_Match,AT1894
-AT1895,Santo Nino Bazilikas��,Not_Match,AT1895
-AT1896,Tops Lookout,Not_Match,AT1896
-AT1897,Gold Moon Spa,Not_Match,AT1897
-AT1898,Taoist Temple,Not_Match,AT1898
-AT1899,Fort San Pedro,Not_Match,AT1899
-AT1900,Magellan's Cross,Not_Match,AT1900
-AT1901,SM City Cebu,Not_Match,AT1901
-AT1902,Marcelo Fernan Bridge,Not_Match,AT1902
-AT1903,Oslob Whale Sharks,Not_Match,AT1903
-AT1904,Ayala Triangle Gardens,Not_Match,AT1904
-AT1905,Ayala Center,Not_Match,AT1905
-AT1906,�׸���Ʈ ��ũ,Not_Match,AT1906
-AT1907,Greenbelt Mall,Not_Match,AT1907
-AT1908,Caracol Festival,Not_Match,AT1908
-AT1909,P Burgos Street,Not_Match,AT1909
-AT1910,�ƾ�� �ڹ���,Not_Match,AT1910
-AT1911,Venice Grand Canal Mall,Not_Match,AT1911
-AT1912,Asian Massage,Not_Match,AT1912
-AT1913,Bonifacio Global City,Not_Match,AT1913
-AT1914,ħ������ ��å��,Not_Match,AT1914
-AT1915,ħ������,Not_Match,AT1915
-AT1916,��Ÿ �丮,Not_Match,AT1916
-AT1917,ī��� ����,Not_Match,AT1917
-AT1918,���̼� �Ÿ�,Not_Match,AT1918
-AT1919,ȫ�� ��ī�̶���,Not_Match,AT1919
-AT1920,Ŭ�� Ÿ��,Not_Match,AT1920
-AT1921,���丮�� �Ϲ�,Not_Match,AT1921
-AT1922,Kowloon Mosque & Islamic Centre,Not_Match,AT1922
-AT1923,ȫ�� ����Ϸ���,Not_Match,AT1923
-AT1924,����Ϸ��� ��ũ,Not_Match,AT1924
-AT1925,���丮�� �Ϲ�,Not_Match,AT1925
-AT1926,Inner Harbour,Not_Match,AT1926
-AT1927,������ ���� ������,Not_Match,AT1927
-AT1928,Garden of Stars,Not_Match,AT1928
-AT1929,Legislative Assembly of British Columbia,Not_Match,AT1929
-AT1930,Government Street,Not_Match,AT1930
-AT1931,Empress Hotel National Historic Site of Canada,Not_Match,AT1931
-AT1932,Star House,Not_Match,AT1932
-AT1933,Wharf Street,Not_Match,AT1933
-AT1934,Takao Railway Museum,Not_Match,AT1934
-AT1935,Sheung Wan,Not_Match,AT1935
-AT1936,���� ��,Not_Match,AT1936
-AT1937,��Ÿ �丮,Not_Match,AT1937
-AT1938,Lower Antelope Canyon,Not_Match,AT1938
-AT1939,ȫ�� ����,Not_Match,AT1939
-AT1940,Zahra Spa,Not_Match,AT1940
-AT1941,���丮�� ��ũ,Not_Match,AT1941
-AT1942,�ź��ǵ���,Not_Match,AT1942
-AT1943,���� ���̺� ī,Not_Match,AT1943
+﻿ATTR_CODE,REG_CODE,ATTR_NAME
+AT1000,JP001,오클랜드 박물관
+AT1001,JP002,오클랜드 도메인
+AT1002,JP003,스카이 타워
+AT1003,JP004,이든 산
+AT1004,CN001,Mount Victoria Reserve
+AT1005,CN002,원 트리 힐
+AT1006,CN003,알버트 파크
+AT1007,CN004,뉴질랜드 위투어
+AT1008,VN001,랑기토토 섬
+AT1009,VN002,비아덕트 하버
+AT1010,VN003,퀸즈타운 스카이 라인 - 곤돌라 & 루지
+AT1011,VN004,Queenstown Hill
+AT1012,TH001,Shotover Jet
+AT1013,TH002,Glenorchy-Queenstown Road
+AT1014,TH003,Queenstown Gardens
+AT1015,TH004,Milford Sound
+AT1016,PH001,JUCY Cruise Milford Sound
+AT1017,PH002,Lake Wakatipu
+AT1018,PH003,Canyon Explorers
+AT1019,PH004,RealNZ
+AT1020,HK001,크라이스트처치 식물원
+AT1021,HK002,Christ Church Meadow
+AT1022,HK003,해글리 공원
+AT1023,HK004,Quake City
+AT1024,TW001,Christ Church
+AT1025,TW002,International Antarctic Centre
+AT1026,TW003,Christchurch Tramway
+AT1027,TW004,Christchurch Cathedral
+AT1028,MO001,캔터베리 박물관
+AT1029,MO002,Robert Falcon Scott Statue
+AT1030,MO003,웰링턴 케이블 카
+AT1031,MO004,빅토리아 산
+AT1032,SG001,뉴질랜드 박물관 (테파파)
+AT1033,SG002,웰링턴 식물원
+AT1034,SG003,쿠바 스트리트 지구
+AT1035,SG004,Oriental Bay
+AT1036,MY001,Wellington Waterfront
+AT1037,MY002,웰링턴 시티 & 해양 박물관
+AT1038,MY003,국회 의사당
+AT1039,MY004,Mount Wellington
+AT1040,ID001,Casino at Mandalay Bay
+AT1041,ID002,Koi Kei Bakery
+AT1042,ID003,Tenganan Ancient Village
+AT1043,ID004,Hanalei Beach
+AT1044,KH001,Like It Formosa
+AT1045,KH002,Gunung Raya Golf Resort
+AT1046,KH003,Taiwan Railway Steam locomotive No. LDK58
+AT1047,KH004,타이베이 101
+AT1048,TR001,National Museum of Taiwan History
+AT1049,TR002,Galway Bay
+AT1050,TR003,The Pier-2 Art Centre
+AT1051,TR004,포광산
+AT1052,IN001,Kaohsiung Main Public Library
+AT1053,IN002,Kaohsiung Museum of Fine Arts
+AT1054,IN003,Dragon Tiger Tower
+AT1055,IN004,Fo Guang Shan Buddha Museum
+AT1056,MN001,Tuntex 85 Sky Tower
+AT1057,MN002,Cijin Island
+AT1058,MN003,Xiziwan
+AT1059,MN004,Formosa Boulevard Station
+AT1060,MM001,Chishingtan Scenic Area
+AT1061,MM002,Taroko National Park
+AT1062,MM003,Lotung
+AT1063,MM004,Taroko Gorge
+AT1064,ES001,Hualien Tourist Fish Harbor
+AT1065,ES002,Hualien Harbor Scenic Bridge
+AT1066,ES003,Xiouyeliu
+AT1067,ES004,Yanzihkou Trail (Swallow Grotto)
+AT1068,DE001,Dongdamen Night Market
+AT1069,DE002,Farglory Ocean Park
+AT1070,DE003,Chihkan Tower (Fort Provintia)
+AT1071,DE004,Guanziling Hot Spring
+AT1072,AU001,Confucius Temple
+AT1073,AU002,Ji Dian Wu Miao
+AT1074,AU003,Chimei Museum
+AT1075,AU004,National Cheng Kung University
+AT1048,GB001,National Museum of Taiwan History
+AT1076,GB002,Tainan Art Museum
+AT1077,GB003,Anping Fort (Anping gubao)
+AT1078,GB004,Tainan Station
+AT1079,SI001,브란덴부르크 문 (브란덴부르크 토어)
+AT1080,SI002,이스트 사이드 갤러리
+AT1081,SI003,Berliner Dom
+AT1082,SI004,Berlin Central Station
+AT1083,RU001,Tiergarten
+AT1084,RU002,도이쳐 분데슈타크
+AT1085,RU003,테러의 토포그래피 박물관
+AT1086,RU004,홀로코스트 기념관 (유대인 학살 추모 공원)
+AT1087,US001,Museum Island
+AT1088,US002,베를린 장벽 기념관
+AT1089,US003,마리엔 광장
+AT1090,US004,New Town Hall (Neus Rathaus)
+AT1091,CA001,BMW 박물관
+AT1092,CA002,Allianz Arena
+AT1093,CA003,Nymphenburg Palace
+AT1094,CA004,Olympic Tower
+AT1095,MX001,다하우 강제 수용소
+AT1096,MX002,잉글리쉬 가든
+AT1097,MX003,Residenz
+AT1098,MX004,FC Bayern Museum
+AT1099,AU001,Romer
+AT1100,AU002,Cathedral of St. Bartholomew (Dom St. Bartholomaus)
+AT1101,AU003,Main Tower
+AT1102,AU004,Frankfurt am Main Hauptbahnhof
+AT1103,NZ001,Roemerberg
+AT1104,NZ002,Stadel Museum
+AT1105,NZ003,Messe Frankfurt
+AT1106,NZ004,Deutsche Bank Park
+AT1107,JP001,Iron Bridge
+AT1108,JP002,The Hauptwache
+AT1109,JP003,USS 보우핀 잠수함 박물관 & 공원
+AT1110,JP004,서귀포 잠수함
+AT1111,CN001,INS 쿠루수라 잠수함 박물관
+AT1112,CN002,Hakodate Morning Market
+AT1113,CN003,하코다테산
+AT1114,CN004,Deyang Quchujian Exhibition Hall
+AT1115,VN001,Goryokaku Tower
+AT1116,VN002,Goryokaku Park
+AT1117,VN003,Mt.Hakodate Ropeway
+AT1118,VN004,Memorial Ship MIKASA
+AT1119,TH001,붉은 광장
+AT1120,TH002,모스크바 크렘린
+AT1121,TH003,Moscow Metro
+AT1122,TH004,성 바실리 성당
+AT1123,PH001,Sparrow Hills (Vorobyovy Gory)
+AT1124,PH002,Lomonosov Moscow State University (MGU)
+AT1125,PH003,Moscow-City
+AT1126,PH004,Bolshoi Theatre
+AT1127,HK001,High-Speed Train Sapsan
+AT1128,HK002,Old Arbat (Stary Arbat)
+AT1129,HK003,피의 사원
+AT1130,HK004,네프스키 프로스펙트
+AT1127,TW001,High-Speed Train Sapsan
+AT1131,TW002,Leningradskiy Railway Station
+AT1132,TW003,Palace Bridge
+AT1133,TW004,The State Museum St. Isaac’s Cathedral
+AT1134,MO001,Admiralteyskaya Station
+AT1135,MO002,Gazprom Arena
+AT1136,MO003,University Embankment
+AT1137,MO004,The Building Of The Admiralty
+AT1138,SG001,Eagle's Nest Mount
+AT1139,SG002,Memorial to the Fighters for the Soviet Power in the Far East
+AT1140,SG003,Golden Bridge
+AT1141,SG004,Russky Bridge
+AT1142,MY001,Monument to Sailors
+AT1143,MY002,Railroad Terminal
+AT1144,MY003,Betancourt Bridge
+AT1145,MY004,Railway Station
+AT1146,ID001,Svetlanskaya Street
+AT1147,ID002,Primorsky Aquarim
+AT1148,ID003,Taipa Village Macau
+AT1149,ID004,윈 마카오
+AT1150,KH001,에미리트 팰리스
+AT1151,KH002,자이푸르 시티 팰리스
+AT1152,KH003,가르다랜드 리조트
+AT1153,KH004,부다 왕궁 - 로얄 팰리스
+AT1154,TR001,유니버셜 올랜도 리조트
+AT1155,TR002,리조트 월드 센토사 카지노
+AT1156,TR003,벨레트리즈니 팰리스 (국립 미술관)
+AT1157,TR004,크노벨 어뮤즈먼트 리조트
+AT1158,IN001,Londoner Macau
+AT1159,IN002,몬테 요새
+AT1160,IN003,Macau-Taipa Bridge
+AT1161,IN004,뉴야오한 백화점
+AT1162,MN001,St. Lawrence's Church
+AT1163,MN002,마카오 역사지구
+AT1164,MN003,꼴로안
+AT1165,MN004,하우스 오브 댄싱 워터
+AT1166,MM001,Outer Harbour Ferry Terminal
+AT1167,MM002,그랜드 캐널 숍스
+AT1168,MM003,Na Tcha Temple
+AT1169,MM004,세인트 폴 대성당
+AT1170,ES001,세이트 패트릭 대성당
+AT1171,ES002,성 바울 거리(다산바)
+AT1159,ES003,몬테 요새
+AT1172,ES004,세인트 폴 성당
+AT1173,DE001,Abbazia di San Paolo Fuori Le Mura
+AT1174,DE002,St. Paul's Hill & Church (Bukit St. Paul)
+AT1175,DE003,Macao Government Tourism Office
+AT1176,DE004,올드 세인트 폴 성당
+AT1177,AU001,세인트 패트릭 성당
+AT1178,AU002,페트로나스 트윈 타워
+AT1179,AU003,센트럴 마켓 쿠알라룸푸르
+AT1180,AU004,쿠알라룸푸르 컨벤션 센터
+AT1181,GB001,리틀 인디아 - 쿠알라룸푸르
+AT1182,GB002,KLCC Park
+AT1183,GB003,파빌리온 KL
+AT1184,GB004,쿠알라룸푸르 버드 파크
+AT1185,SI001,GO KL City Bus
+AT1186,SI002,KLIA Ekspres
+AT1187,SI003,바투 동굴
+AT1188,SI004,마누칸 섬
+AT1189,RU001,Kota Kinabalu City Mosque
+AT1190,RU002,Tanjung Aru Beach
+AT1191,RU003,Imago Shopping Mall
+AT1192,RU004,Mantanani Island
+AT1193,US001,자스민 마사지
+AT1194,US002,Sapi Island
+AT1195,US003,I Love KK
+AT1196,US004,Tanjung Aru Perdana Park
+AT1197,CA001,Tunku Abdul Rahman Marine Park
+AT1198,CA002,Panorama Langkawi SkyCab
+AT1199,CA003,랑카위 스카이 브리지
+AT1200,CA004,Eagle Square
+AT1201,MX001,Kilim Karst Geoforest Park
+AT1202,MX002,Tanjung Rhu Beach
+AT1203,MX003,Cenang Beach
+AT1204,MX004,Oriental Village
+AT1205,AU001,Ko Lipe
+AT1206,AU002,Langkawi Night Market
+AT1207,AU003,Fauna Flora Eco
+AT1208,AU004,존커 스트리트
+AT1209,NZ001,Malacca River
+AT1210,NZ002,Red Square (Dutch Square)
+AT1174,NZ003,St. Paul's Hill & Church (Bukit St. Paul)
+AT1211,NZ004,Menara Taming Sari
+AT1212,JP001,Malacca Heritage Centre
+AT1213,JP002,Stadthuys
+AT1214,JP003,River Walk
+AT1024,JP004,Christ Church
+AT1215,CN001,St. Francis Xavier Church
+AT1216,CN002,Zocalo
+AT1217,CN003,국립 인류학 박물관
+AT1218,CN004,코요아칸
+AT1219,VN001,Paseo de la Reforma
+AT1220,VN002,마요르 사원 박물관
+AT1221,VN003,테오티우아칸
+AT1222,VN004,San Angel
+AT1223,TH001,Mercado De Artesanias La Ciudadela
+AT1224,TH002,Catedral Metropolitana de la Ciudad de Mexico
+AT1225,TH003,차풀테펙 성
+AT1226,TH004,치첸 이트사
+AT1227,PH001,La Isla
+AT1228,PH002,Xcaret
+AT1229,PH003,Avenida Kukulkan
+AT1230,PH004,Playa Delfines
+AT1231,HK001,Xplor Park by Xcaret
+AT1232,HK002,Happy Shuttle Cancun
+AT1233,HK003,셀하 공원
+AT1234,HK004,Coco Bongo Playa del Carmen
+AT1235,TW001,Coco Bongo Cancun
+AT1236,TW002,툴룸의 마야 유적지
+AT1237,TW003,Tulum Avenue
+AT1238,TW004,Mayan Beach
+AT1239,MO001,OZ Adventures
+AT1240,MO002,Playa Paraiso
+AT1241,MO003,코바 유적지
+AT1242,MO004,Gran Cenote
+AT1243,SG001,Nuestra Senora del Carmen Catholic Church
+AT1244,SG002,Scubascoolmexico
+AT1245,SG003,Palacio Municipal
+AT1246,SG004,Zaisan Memorial
+AT1247,MY001,Gorkhi-Terelj National Park
+AT1248,MY002,Galleria Souvenir Store
+AT1249,MY003,Galleria Souvenir
+AT1250,MY004,Choijin Lama Temple Museum
+AT1251,ID001,Altai Bighorn Statue
+AT1252,ID002,Genghis Khan Square
+AT1253,ID003,The State Department Store
+AT1254,ID004,Datsan Rinpoche Bagsha
+AT1255,KH001,National History Museum
+AT1256,KH002,메트로폴리탄 미술관
+AT1257,KH003,록펠러 센터 전망대
+AT1258,KH004,센트럴 파크
+AT1259,TR001,타임 스퀘어
+AT1260,TR002,엠파이어 스테이트 빌딩
+AT1261,TR003,뉴욕 공공 도서관
+AT1262,TR004,브로드웨이
+AT1263,IN001,하이 라인
+AT1264,IN002,브라이언트 파크
+AT1265,IN003,그랜드 센트럴 터미널
+AT1266,IN004,금문교
+AT1267,MN001,샌프란시스코 베이
+AT1268,MN002,트윈 픽스
+AT1269,MN003,샌프란시스코 현대 미술관
+AT1270,MN004,케이블 카
+AT1271,MM001,샌프란시스코 시청
+AT1272,MM002,샌프란시스코 베이 브리지
+AT1273,MM003,Lombard Street
+AT1274,MM004,피어 39
+AT1275,ES001,알카트라즈
+AT1276,ES002,다저 스타디움
+AT1277,ES003,그리피스 파크
+AT1278,ES004,게티 센터
+AT1279,DE001,Moonstone Beach
+AT1280,DE002,판타지스 극장
+AT1281,DE003,Angel Stadium of Anaheim
+AT1282,DE004,Greystone Mansion and Park
+AT1283,AU001,Gloria Molina Grand Park
+AT1284,AU002,Kelso Dunes
+AT1285,AU003,17-Mile Drive
+AT1286,AU004,라스베이거스 프리미엄 아울렛
+AT1287,GB001,The Strip
+AT1288,GB002,Vegas Rockstar VIP
+AT1289,GB003,Welcome to Fabulous Las Vegas Sign
+AT1290,GB004,The Spa at Vdara
+AT1291,SI001,The Grand Canal Shoppes at The Venetian Resort
+AT1292,SI002,라스베가스 다운타운
+AT1293,SI003,Paris Las Vegas
+AT1294,SI004,Seminole Hard Rock Casino Tampa
+AT1295,RU001,Fremont Street Experience
+AT1296,RU002,Yangon Central Railway Station
+AT1297,RU003,쉐다곤 파고다
+AT1298,RU004,Sule Pagoda
+AT1299,US001,Yangon Circular Train
+AT1300,US002,Botahtaung Pagoda
+AT1301,US003,Bogyoke Aung San Market
+AT1302,US004,Myanmar Plaza Shopping Center
+AT1303,CA001,Immaculate Conception Cathedral
+AT1304,CA002,The Rangoon War Cemetery
+AT1305,CA003,JJ Express
+AT1306,CA004,Mandalay Hill
+AT1307,MX001,Kuthodaw Pagoda & the World's Largest Book
+AT1308,MX002,미하무니 파고다
+AT1309,MX003,우 베인 다리
+AT1310,MX004,Shark Reef Aquarium
+AT1311,AU001,황금 궁전 수도원 (쉐난도 짜웅)
+AT1312,AU002,Sanda Muni Paya
+AT1313,AU003,Health Center Thai Massage
+AT1314,AU004,Mandalay Palace
+AT1315,NZ001,Mandalay Fort
+AT1316,NZ002,Nyaung U Market
+AT1317,NZ003,바간의 사원들
+AT1318,NZ004,아난다 사원
+AT1319,JP001,쉐산도 파고다
+AT1320,JP002,Sulamani Guphaya Temple
+AT1321,JP003,쉐지곤 파야
+AT1322,JP004,Dhammayangyi Temple
+AT1323,CN001,Htilominlo Pahto
+AT1305,CN002,JJ Express
+AT1324,CN003,Thatbyinnyu Temple
+AT1325,CN004,Oriental Ballooning Bagan
+AT1326,VN001,People's Committee Building
+AT1327,VN002,Dong Khoi Street
+AT1328,VN003,비텍스코 파이낸셜 타워 스카이데크
+AT1329,VN004,Asiana Link Travel
+AT1330,TH001,Saigon River
+AT1331,TH002,Saigon Hotpot - Travel With Local Youth
+AT1332,TH003,Notre Dame Square
+AT1333,TH004,중앙 우체국
+AT1334,PH001,호치민 관저
+AT1335,PH002,Asia Pacific Travel Vietnam
+AT1336,PH003,하노이 구시가
+AT1337,PH004,호안 끼엠 호수
+AT1338,HK001,LA Spa Trendy
+AT1339,HK002,Mido Spa
+AT1340,HK003,Serene Spa
+AT1341,HK004,La Belle Vie Spa
+AT1342,TW001,Hanoi Labelle Vie Spa
+AT1343,TW002,Mido Spa 1
+AT1344,TW003,Estheva Spa
+AT1345,TW004,L'essence Spa
+AT1346,MO001,스와얌부나트 사원
+AT1347,MO002,보드나트 사리탑
+AT1348,MO003,Nha Trang Beach
+AT1349,MO004,Po Nagar Cham Towers
+AT1350,SG001,파슈파티나트 사원
+AT1351,SG002,Monkey Island
+AT1352,SG003,Nha Trang Sea Star
+AT1353,SG004,Charm Spa Grand Nha Trang
+AT1354,MY001,Casa Spa
+AT1355,MY002,Long Son Pagoda
+AT1356,MY003,프라낭 비치
+AT1357,MY004,Dragon Bridge
+AT1358,ID001,Herbal Spa
+AT1359,ID002,다 낭 비치
+AT1360,ID003,Ba Na Hills
+AT1361,ID004,Pandanus Spa Hoi An
+AT1362,KH001,Lady Buddha
+AT1363,KH002,Dahan Spa Danang
+AT1364,KH003,Tabalo Outdoor
+AT1365,KH004,카오산 로드
+AT1366,TR001,사그라다 파밀리아 성당
+AT1367,TR002,구엘 공원
+AT1368,TR003,Spotify Camp Nou
+AT1369,TR004,몬주익 공원
+AT1370,IN001,고딕 지구 (바리 고틱)
+AT1371,IN002,Aerobus
+AT1372,IN003,Parc d’Atraccions Tibidabo
+AT1373,IN004,카탈루냐 국립 미술관 - MNAC
+AT1374,MN001,Plaza de Catalunya
+AT1375,MN002,Barcelona Cathedral
+AT1376,MN003,프라도 박물관
+AT1377,MN004,Puerta del Sol
+AT1378,MM001,마드리드 왕궁
+AT1379,MM002,Santiago Bernabeu Stadium
+AT1380,MM003,Gran Via
+AT1381,MM004,레티로 파크 (파르 델 레티로)
+AT1382,ES001,Plaza de Cibeles
+AT1383,ES002,Palacio de Cibeles
+AT1384,ES003,Plaza Mayor
+AT1385,ES004,Templo de Debod
+AT1386,DE001,스페인 광장
+AT1387,DE002,세비야 대성당 (카테드랄 데 세비야)
+AT1388,DE003,Torre Giralda
+AT1389,DE004,알카사르
+AT1390,AU001,Centro Historico de Sevilla
+AT1391,AU002,Setas de Sevilla (Metropol Parasol)
+AT1392,AU003,Barrio Santa Cruz
+AT1393,AU004,마리아 루이사 공원
+AT1394,GB001,Torre del Oro
+AT1395,GB002,Iglesia Colegial del Salvador
+AT1396,GB003,Ciudad de las Artes y las Ciencias
+AT1397,GB004,Oceanografic Valencia
+AT1398,SI001,Central Market of Valencia
+AT1399,SI002,Valencia Cathedral
+AT1400,SI003,Estacio del Nord
+AT1401,SI004,Miguelete
+AT1402,RU001,Plaza del Ayuntamiento
+AT1403,RU002,Plaza del Mercado (Placa del Mercat)
+AT1404,RU003,Museu Faller de Valencia
+AT1405,RU004,La Lonja de la Seda
+AT1406,US001,블레드 성
+AT1407,US002,빈트가르 협곡
+AT1408,US003,Lake Bled
+AT1409,US004,Lake Bohinj
+AT1410,CA001,Bled Island
+AT1411,CA002,Vogel Ski Center
+AT1412,CA003,성모 승천 교회
+AT1413,CA004,Mamut Slovenija
+AT1414,MX001,Vrsic Pass - Julian Alps
+AT1415,MX002,Straza Bled
+AT1416,MX003,The Ljubljana Castle
+AT1417,MX004,프레세렌 광장
+AT1418,AU001,River Ljubljanica Kanal
+AT1419,AU002,삼중교 (트로모스토브예)
+AT1420,AU003,Cankarjevo Nabre?je
+AT1421,AU004,Ljubljana Free Tour
+AT1422,NZ001,Franciscan Church (Fran?i?kanska cerkev)
+AT1423,NZ002,Skyscraper (Neboti?nik)
+AT1424,NZ003,성 니콜라스 대성당
+AT1425,NZ004,Ljubljana Old Town
+AT1426,JP001,Piran Town Walls
+AT1427,JP002,Church of St. George (Cerkev sv. Jurija) in Piran
+AT1428,JP003,타르티니 광장
+AT1429,JP004,Port Piran
+AT1430,CN001,First of May Square
+AT1431,CN002,임시수도기념관
+AT1432,CN003,Church of St. Francis of Assisi
+AT1433,CN004,Old Town
+AT1434,VN001,Kandovan
+AT1435,VN002,Roundabout Travel
+AT1436,VN003,조나 리빈이린엣
+AT1437,VN004,Douro River
+AT1438,TH001,Taylor's Port
+AT1439,TH002,Liberdade Square
+AT1440,TH003,로즈 밸리
+AT1441,TH004,Church of Santa Clara
+AT1442,PH001,Jardim do Morro
+AT1443,PH002,Igreja do Carmo
+AT1444,PH003,Ribeira Square
+AT1445,PH004,Mercado do Bolhao
+AT1446,HK001,Adventure Cove Waterpark
+AT1447,HK002,센토사 익스프레스
+AT1448,HK003,Deception Pass State Park
+AT1449,HK004,Finn McCools Tours
+AT1450,TW001,EPIC The Irish Emigration Museum
+AT1451,TW002,Guinness Storehouse
+AT1452,TW003,Titanic Belfast
+AT1453,TW004,세인트 스테판 가든
+AT1454,MO001,유니버셜 어드벤처 아일랜드
+AT1455,MO002,블라니 캐슬 & 가든
+AT1456,MO003,오차드 로드
+AT1457,MO004,ION Orchard
+AT1458,SG001,Wisma Atria Shopping Centre
+AT1459,SG002,Tangs Plaza
+AT1460,SG003,Darin Beauty Salon & Spa
+AT1461,SG004,워터프론트 프롬나드
+AT1462,MY001,Hana Highway - Road to Hana
+AT1463,MY002,Massage Corner
+AT1464,MY003,
+AT1465,MY004,마리나 베이
+AT1466,ID001,가든즈 바이 더 베이
+AT1467,ID002,샌즈 스카이파크
+AT1468,ID003,싱가포르 플라이어
+AT1469,ID004,헬릭스 브리지
+AT1470,KH001,Supertree Grove
+AT1471,KH002,OCBC Skyway
+AT1472,KH003,에스플러네이드 - 해변 극장
+AT1473,KH004,마리나 베이 샌즈 아트 사이언스 박물관
+AT1474,TR001,마리나 버라지
+AT1475,TR002,차이나타운
+AT1476,TR003,불아사 용화원
+AT1477,TR004,런던아이
+AT1478,IN001,대영 박물관
+AT1479,IN002,국립 미술관
+AT1480,IN003,런던 지하철
+AT1481,IN004,빅 벤
+AT1482,MN001,버킹엄 궁전
+AT1483,MN002,타워 브리지
+AT1484,MN003,런던 자연사 박물관
+AT1485,MN004,런던 타워
+AT1486,MM001,Sky Garden
+AT1487,MM002,에든버러 성
+AT1488,MM003,로열 마일
+AT1489,MM004,Calton Hill
+AT1490,ES001,Scott Monument
+AT1491,ES002,Edinburgh Old Town
+AT1492,ES003,프린세스 스트리트 가든
+AT1493,ES004,Castle Rock
+AT1494,DE001,The Royal Edinburgh Military Tattoo
+AT1495,DE002,Grassmarket
+AT1496,DE003,홀리루드 파크
+AT1497,DE004,Old Trafford
+AT1498,AU001,Etihad Stadium
+AT1499,AU002,National Football Museum
+AT1500,AU003,The John Rylands Library
+AT1501,AU004,J-UK Golf
+AT1502,GB001,Manchester Metrolink
+AT1503,GB002,Victoria Station
+AT1504,GB003,Science and Industry Museum
+AT1505,GB004,채스워스
+AT1506,SI001,The Nolen
+AT1507,SI002,University of Cambridge
+AT1508,SI003,Cambridge University Botanic Garden
+AT1509,SI004,Lets Go Punting
+AT1510,RU001,Great St Mary's Church (Church of England)
+AT1511,RU002,Mathematical Bridge
+AT1512,RU003,찰스 리버
+AT1513,RU004,King's College
+AT1514,US001,The River Cam
+AT1515,US002,Galt
+AT1516,US003,King's College Chapel
+AT1517,US004,시드니 오페라 하우스
+AT1518,CA001,시드니 하버
+AT1519,CA002,시드니 하버 브리지
+AT1520,CA003,시드니 아쿠아리움
+AT1521,CA004,시드니 페리
+AT1522,MX001,시드니 천문대
+AT1523,MX002,시드니 타워 아이 & 스카이워크
+AT1524,MX003,서큘러 키
+AT1525,MX004,본다이 비치
+AT1526,AU001,퀸 빅토리아 빌딩 (QVB)
+AT1527,AU002,유레카 스카이덱 88
+AT1528,AU003,시티 서클 트램
+AT1529,AU004,플린더스 스트리트 역
+AT1530,NZ001,야라 강
+AT1531,NZ002,멜버른 박물관
+AT1532,NZ003,The Great Ocean Road
+AT1170,NZ004,세이트 패트릭 대성당
+AT1533,JP001,Degraves Street
+AT1534,JP002,멜버른 전쟁 기념관
+AT1535,JP003,구 멜버른 감옥
+AT1536,JP004,브리즈번 강
+AT1537,CN001,마운트 쿠사 전망대
+AT1538,CN002,사우스 뱅크 파크랜드
+AT1539,CN003,휠 오브 브리즈번
+AT1540,CN004,시티캣 페리
+AT1541,VN001,브리즈번 식물원
+AT1542,VN002,City Hopper
+AT1543,VN003,론 파인 코알라 보호 구역
+AT1544,VN004,브리즈번 박물관
+AT1545,TH001,City Hall
+AT1546,TH002,Esplanade Boardwalk
+AT1547,TH003,Kuranda Scenic Railway
+AT1548,TH004,Cairns Aquarium
+AT1549,PH001,Northern Experience Eco Tours
+AT1538,PH002,사우스 뱅크 파크랜드
+AT1550,PH003,Reef Magic Cruises
+AT1551,PH004,Cairns Esplanade Lagoon
+AT1552,HK001,Josephine Falls
+AT1553,HK002,Rusty's Market
+AT1554,HK003,Cairns Botanic Gardens
+AT1555,HK004,게이트웨이 오브 인디아
+AT1556,TW001,차트라바띠 시와지 역
+AT1557,TW002,마린 드라이브
+AT1558,TW003,Bandra-Worli Sea Link
+AT1559,TW004,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
+AT1560,MO001,Powai Lake
+AT1561,MO002,Hanging Gardens
+AT1562,MO003,High Street Phoenix
+AT1563,MO004,High Court Principal Bench Bombay
+AT1564,SG001,Sanjay Gandhi National Park
+AT1565,SG002,꾸뜹 미나르
+AT1566,SG003,인디아 게이트
+AT1567,SG004,Delhi Airport Metro Express
+AT1568,MY001,후마윤의 묘
+AT1569,MY002,Connaught Place
+AT1570,MY003,Driver India Private Tours
+AT1571,MY004,대통령 관저 (라파티 바반)
+AT1572,ID001,Classic Golf Resort
+AT1573,ID002,하우즈 카스 빌리지
+AT1574,ID003,North India Private Driver
+AT1575,ID004,아그라 요새
+AT1576,KH001,타지마할
+AT1577,KH002,Raj Travels India
+AT1578,KH003,Discover India By Car
+AT1579,KH004,시칸드라 (악바르 황제의 무덤)
+AT1580,TR001,Private India Tour Advisor
+AT1581,TR002,붉은 요새 (랄 킬라)
+AT1582,TR003,Maria Luxury Tours
+AT1583,TR004,Sheesh Mahal
+AT1584,IN001,City of love boat tour
+AT1585,IN002,안 벨성
+AT1586,IN003,바람의 궁전 (하와 마할)
+AT1151,IN004,자이푸르 시티 팰리스
+AT1578,MN001,Discover India By Car
+AT1587,MN002,Sunny Tour Travels
+AT1588,MN003,Jaigarh Fort
+AT1589,MN004,Unique Jaipur Tour
+AT1590,MM001,Easy Peasy Tours
+AT1591,MM002,Nahargarh Fort
+AT1592,MM003,Namaste Jaipur Tours
+AT1593,MM004,워터밤 발리
+AT1594,ES001,발리 컬렉션
+AT1595,ES002,Kuta Beach - Bali
+AT1596,ES003,발리 고급 스파 & 한국 식당 로즈힐
+AT1597,ES004,UP2U 서프 스쿨 발리
+AT1598,DE001,Bali SUN Tours
+AT1599,DE002,Bali Swing
+AT1600,DE003,몽키 포레스트
+AT1601,DE004,몰 발리 갤러리아
+AT1602,AU001,The Care Day Spa
+AT1603,AU002,Braga Street
+AT1604,AU003,Tangkuban Perahu
+AT1605,AU004,Jalan Asia Afrika
+AT1606,GB001,White Crater
+AT1607,GB002,Bandung Grand Mosque
+AT1608,GB003,Bandung City Square
+AT1609,GB004,Maribaya Hot Springs
+AT1610,SI001,Ciater Hot Spring
+AT1611,SI002,Trans Studio Bandung
+AT1612,SI003,Gambir Train Station
+AT1613,SI004,모나스
+AT1614,RU001,타만 미니 인도네시아 인다
+AT1615,RU002,Kota Kasablanka
+AT1616,RU003,센트럴 스테이션
+AT1265,RU004,그랜드 센트럴 터미널
+AT1617,US001,이스티크랄 모스크 (이스티크랄 사원)
+AT1618,US002,송도 센트럴 파크
+AT1619,US003,Central Park
+AT1620,US004,센트럴 페스티발 푸껫
+AT1179,CA001,센트럴 마켓 쿠알라룸푸르
+AT1621,CA002,도쿄 디즈니시
+AT1622,CA003,도쿄 타워
+AT1623,CA004,오다이바
+AT1624,MX001,에도-도쿄 박물관
+AT1625,MX002,도쿄역
+AT1626,MX003,모리 타워
+AT1627,MX004,도쿄 스카이 트리
+AT1628,AU001,리틀 도쿄
+AT1629,AU002,도쿄 도청
+AT1630,AU003,도쿄 국립 박물관
+AT1631,AU004,도톤보리
+AT1632,NZ001,유니버셜 스튜디오 재팬
+AT1633,NZ002,우메다 스카이 빌딩 - 공중 정원 전망대
+AT1634,NZ003,오사카 성
+AT1635,NZ004,신사이바시
+AT1636,JP001,쿠로몬 시장
+AT1637,JP002,Osaka Kale Parkı
+AT1638,JP003,HEP FIVE 관람차
+AT1639,JP004,오사카 생활 박물관
+AT1640,CN001,텐포잔 대관람차
+AT1641,CN002,금각사
+AT1642,CN003,후시미 이나리 신사
+AT1643,CN004,Kiyomizu-dera
+AT1644,VN001,은각사
+AT1645,VN002,교토역 빌딩
+AT1646,VN003,교토 타워
+AT1647,VN004,교토 니시키 시장
+AT1648,TH001,Gion
+AT1649,TH002,Arashiyama
+AT1650,TH003,교토 식물원
+AT1651,TH004,JR 타워 전망대 T38
+AT1652,PH001,Odori Park
+AT1653,PH002,Susukino
+AT1654,PH003,Sapporo Beer Museum
+AT1655,PH004,삿포로 오쿠라야마 전망대
+AT1656,HK001,Sapporo TV Tower
+AT1657,HK002,홋카이도 대학 삿포로 캠퍼스
+AT1658,HK003,Clock Tower (Tokei-dai)
+AT1659,HK004,Mt. Moiwa
+AT1660,TW001,Sapporo Underground Pedestrian Space
+AT1661,TW002,상하이의 와이탄 (와이탄)
+AT1662,TW003,동방 명주 타워 (Dongfang Mingzhu)
+AT1663,TW004,신천지
+AT1664,MO001,번드 인터내셔널 아키텍처 익스히비션
+AT1665,MO002,Shanghai Urban Planning Exhibition Hall
+AT1666,MO003,Shanghai Metro
+AT1667,MO004,상하이 세계 금융 센터
+AT1668,SG001,상하이 역사 박물관
+AT1669,SG002,Pudong New Area
+AT1670,SG003,상하이 박물관
+AT1671,SG004,만리장성
+AT1672,MY001,이화원
+AT1673,MY002,천안문
+AT1674,MY003,The Great Wall at Badaling
+AT1675,MY004,Wangfujing Street
+AT1676,ID001,Beijing Subway
+AT1677,ID002,천단 (티엔탄 공원)
+AT1678,ID003,경산 공원 (잉샨 꽁위엔)
+AT1679,ID004,천안문 광장
+AT1680,KH001,고궁 박물관
+AT1681,KH002,Canton Tower
+AT1682,KH003,Shamian Island
+AT1683,KH004,Guangzhou Metro
+AT1684,TR001,Huaisheng Mosque
+AT1685,TR002,Museum of the Western Han Dynasty Mausoleum of the Nanyue King
+AT1686,TR003,Sacred Heart Cathedral
+AT1687,TR004,Beijing Road Ancient Avenue
+AT1688,IN001,Beijing Road Shopping District
+AT1689,IN002,Pearl River (Zhujiang)
+AT1690,IN003,Guangdong Museum of Art
+AT1691,IN004,West Lake (Xi Hu)
+AT1692,MN001,Hangzhou Songcheng
+AT1693,MN002,QingHeFang
+AT1694,MN003,Fei Lai Feng
+AT1695,MN004,중국 고속 철도
+AT1696,MM001,Pagoda of Six Harmonies
+AT1697,MM002,Xixi Wetland Park
+AT1698,MM003,Ping Hu Qiu Yue
+AT1699,MM004,National Tea Museum
+AT1700,ES001,Hangzhou Chenghuang Pagoda
+AT1701,ES002,앙코르와트
+AT1702,ES003,보디아 스파 시엠립
+AT1703,ES004,Pub Street
+AT1704,DE001,Lucky Mall Siem Reap
+AT1705,DE002,Mudita Spa
+AT1706,DE003,Siem Reap Shuttle Tours
+AT1707,DE004,반테아이 스레이
+AT1708,AU001,Giant Ibis Transport
+AT1709,AU002,쿼드 어드벤처 캄보디아
+AT1710,AU003,Cambodia Quad Bike
+AT1711,AU004,프놈펜 독립 기념탑
+AT1712,GB001,뚜얼 슬렝 대량학살 박물관
+AT1713,GB002,Angkor Spa
+AT1714,GB003,왓 프놈
+AT1715,GB004,Aeon Mall
+AT1716,SI001,Soma Spa
+AT1717,SI002,중앙 시장
+AT1718,SI003,로얄 팰리스
+AT1719,SI004,킬링 필드 (청아익)
+AT1720,RU001,나가월드 카지노
+AT1721,RU002,Golden Lion Gym
+AT1722,RU003,Cambodia Private Taxi
+AT1723,RU004,Koh Rong
+AT1724,US001,Independence Beach
+AT1725,US002,Angkor Taxis
+AT1726,US003,Scuba Nation Diving Centre
+AT1727,US004,Blue Lagoon Divers
+AT1728,CA001,Phnom Penh Green Tour and Transport
+AT1729,CA002,The Party Boat
+AT1730,CA003,Unique Spa
+AT1731,CA004,Phnom Chhngok Cave Temple
+AT1732,MX001,Butterfly Tours
+AT1733,MX002,La Plantation
+AT1734,MX003,Bokor National Park
+AT1735,MX004,Climbodia
+AT1736,AU001,Golden Hands Massage & Spa
+AT1737,AU002,SUP Asia
+AT1738,AU003,Old Catholic Church
+AT1739,AU004,Kampot-Kep Tuk Tuk-Taxi Drivers
+AT1740,NZ001,Rany - The TukTuk Driver in Kampot and Kep
+AT1741,NZ002,토론토 아일랜드 파크
+AT1742,NZ003,Hockey Hall of Fame
+AT1743,NZ004,Toronto City Hall
+AT1744,JP001,영국국회의사당
+AT1745,JP002,Yale University Art Gallery
+AT1746,JP003,Jack Darling Memorial Park
+AT1747,JP004,Castle Church
+AT1748,CN001,Dostoevskiy Museum
+AT1749,CN002,Statue of Lajos Kossuth
+AT1750,CN003,Faniry Madagascar Tours
+AT1751,CN004,밴쿠버 아쿠아리움
+AT1752,VN001,밴쿠버 전망대
+AT1753,VN002,밴쿠버 다운타운
+AT1754,VN003,밴쿠버 공공 도서관
+AT1755,VN004,스탠리 파크
+AT1756,TH001,스카이 트레인
+AT1757,TH002,퀸 엘리자베스 공원
+AT1758,TH003,잉글리시 베이
+AT1759,TH004,그라우스 마운틴
+AT1760,PH001,개스타운
+AT1761,PH002,Old Montreal
+AT1762,PH003,마운트 로얄
+AT1763,PH004,몬트리올 미술관 (Musee des Beaux-Arts)
+AT1764,HK001,노트르담 성당 (바질리키 노트르 - 담)
+AT1765,HK002,Old Port of Montreal
+AT1766,HK003,성 요셉 대성당
+AT1767,HK004,VIA Rail Canada Montreal Station
+AT1768,TW001,Place des Arts
+AT1769,TW002,Jean-Talon Market
+AT1770,TW003,Montreal Botanical Garden
+AT1771,TW004,나이아가라 폭포
+AT1772,MO001,Journey Behind the Falls
+AT1773,MO002,Niagara City Cruises
+AT1774,MO003,Horseshoe Falls
+AT1775,MO004,Skylon Tower
+AT1776,SG001,Shifen Waterfall Walk Area
+AT1777,SG002,Table Rock Welcome Centre
+AT1778,SG003,Clifton Hill
+AT1779,SG004,바람의 동굴
+AT1780,MY001,Parc de la Chute-Montmorency
+AT1781,MY002,BTS 스카이트레인
+AT1782,MY003,석가모니 열반상이 있는 사원 (왓 포)
+AT1365,MY004,카오산 로드
+AT1783,ID001,왕궁
+AT1784,ID002,Chatuchak Weekend Market
+AT1785,ID003,시암 파라곤
+AT1786,ID004,에메랄드 사원 (왓 프라깨우)
+AT1787,KH001,Asiatique The Riverfront
+AT1788,KH002,룸피니 공원
+AT1789,KH003,짐 톰슨 하우스
+AT1790,KH004,Banana Beach
+AT1791,TR001,푸켓 빅 부다
+AT1792,TR002,오리엔탈 드 푸켓
+AT1793,TR003,푸켓 사이먼 쇼
+AT1794,TR004,방라 로드
+AT1795,IN001,Patong Beach
+AT1796,IN002,정실론
+AT1797,IN003,왓찰롱
+AT1798,IN004,카타 비치
+AT1799,MN001,Cheaper than Hotel Taxis
+AT1800,MN002,도이수텝 (부처의 사리를 모신) 사원
+AT1801,MN003,Night Bazaar
+AT1802,MN004,왓 체디 루앙
+AT1803,MM001,Wat Phra Singh
+AT1804,MM002,Wat Phra That Doi Kham (Temple of the Golden Mountain)
+AT1805,MM003,Doi Inthanon
+AT1806,MM004,기빙트리
+AT1807,ES001,Tha Phae Gate
+AT1808,ES002,Tha Pae Walking Street
+AT1809,ES003,Anantara Spa
+AT1810,ES004,워킹 스트리트 파타야
+AT1811,DE001,파타야 비치
+AT1812,DE002,파타야 수상 시장
+AT1813,DE003,능눅 트로피컬 보태니컬 가든
+AT1814,DE004,엘리펀트 빌리지 파타야
+AT1815,AU001,CentralFestival Pattaya Beach
+AT1816,AU002,진리의 성전
+AT1817,AU003,Koh Larn
+AT1818,AU004,Grace Spa
+AT1819,GB001,좀티엔 비치
+AT1820,GB002,Aya Sofya Muzesi / Kilisesi
+AT1821,GB003,술탄아흐메트 지구
+AT1822,GB004,이스탄불 역사 지구
+AT1823,SI001,블루 모스크 (술탄 아흐멧 모스크)
+AT1824,SI002,이스탄불 현대 미술관
+AT1825,SI003,지하 궁전
+AT1826,SI004,쉴레이마니예 모스크
+AT1827,RU001,갈라타 타워
+AT1828,RU002,보스포루스 해협
+AT1829,RU003,굴하네 파크
+AT1830,RU004,괴레메 야외 박물관
+AT1831,US001,괴레메 국립 공원
+AT1832,US002,Fairy Chimneys
+AT1833,US003,Sunset Point
+AT1834,US004,피존 밸리
+AT1835,CA001,MyTrip Travel & Tourism Agency
+AT1836,CA002,Uchisar Castle
+AT1837,CA003,Love Valley
+AT1838,CA004,Goreme Panorama
+AT1839,MX001,아바노스
+AT1840,MX002,화이트 비치
+AT1841,MX003,D'Mall
+AT1842,MX004,Alona Beach
+AT1843,AU001,Crystal Cove Island
+AT1844,AU002,루호산
+AT1845,AU003,윌리스 록
+AT1846,AU004,Red Whale Boracay
+AT1847,NZ001,Fisheye Divers
+AT1848,NZ002,불라복 비치
+AT1849,NZ003,야팍 비치
+AT1850,NZ004,마닐라 베이
+AT1851,JP001,마닐라 오션 파크
+AT1852,JP002,마닐라 대성당
+AT1853,JP003,인트라무로스
+AT1854,JP004,산 아구스틴 교회
+AT1855,CN001,SM Mall of Asia
+AT1856,CN002,산티아고 요새
+AT1857,CN003,리살 공원
+AT1858,CN004,Bonifacio Global City
+AT1859,VN001,Malate District
+AT1860,VN002,Ayala Center Cebu
+AT1861,VN003,Santo Nino Bazilikası
+AT1862,VN004,Tops Lookout
+AT1863,TH001,Gold Moon Spa
+AT1864,TH002,Taoist Temple
+AT1865,TH003,Fort San Pedro
+AT1866,TH004,Magellan's Cross
+AT1867,PH001,SM City Cebu
+AT1868,PH002,Marcelo Fernan Bridge
+AT1869,PH003,Oslob Whale Sharks
+AT1870,PH004,Ayala Triangle Gardens
+AT1871,HK001,Ayala Center
+AT1872,HK002,그린벨트 파크
+AT1873,HK003,Greenbelt Mall
+AT1874,HK004,Caracol Festival
+AT1875,TW001,P Burgos Street
+AT1876,TW002,아얄라 박물관
+AT1877,TW003,Venice Grand Canal Mall
+AT1878,TW004,Asian Massage
+AT1858,MO001,Bonifacio Global City
+AT1879,MO002,침사추이 산책로
+AT1880,MO003,침사추이
+AT1881,MO004,스타 페리
+AT1882,SG001,카우룽 공원
+AT1883,SG002,네이선 거리
+AT1884,SG003,홍콩 스카이라인
+AT1885,SG004,클락 타워
+AT1886,MY001,빅토리아 하버
+AT1887,MY002,Kowloon Mosque & Islamic Centre
+AT1888,MY003,홍콩 디즈니랜드
+AT1886,MY004,빅토리아 하버
+AT1889,ID001,Inner Harbour
+AT1880,ID002,침사추이
+AT1890,ID003,심포니 오브 라이츠
+AT1891,ID004,Garden of Stars
+AT1892,KH001,Legislative Assembly of British Columbia
+AT1893,KH002,Government Street
+AT1894,KH003,Empress Hotel National Historic Site of Canada
+AT1895,KH004,Star House
+AT1896,TR001,Wharf Street
+AT1897,TR002,Takao Railway Museum
+AT1898,TR003,Sheung Wan
+AT1899,TR004,람마 섬
+AT1881,IN001,스타 페리
+AT1900,IN002,Lower Antelope Canyon
+AT1901,IN003,홍콩 공원
+AT1902,IN004,Zahra Spa
+AT1903,MN001,빅토리아 피크
+AT1904,MN002,신비의도로
+AT1905,MN003,이층 케이블 카
