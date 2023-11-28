@@ -6,7 +6,7 @@ import Sidebar from './Sidebar';
 
 export default function Tourboard() {
     return (
-        <div className="App">
+        <div className="dashboard-wrap">
             <div className="col-2">
                 <Sidebar></Sidebar>
             </div>

@@ -12,7 +12,7 @@ test.py
 
 # C extensions
 *.so
-
+Data/Search_Data
 # Distribution / packaging
 .Python
 build/

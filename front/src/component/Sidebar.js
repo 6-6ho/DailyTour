@@ -1,7 +1,5 @@
 import './Bar.css'
-import MonthlyChartjs from './MonthlyChartjs'
-import MonthlyTopList from './MonthlyTopList'
-import YearlyTopList from './YearlyTopList'
+import SideChart from './SideChart'
 
 export default function Sidebar() {
     return(
@@ -10,17 +8,13 @@ export default function Sidebar() {
                 <div className='logo-wrap'>
                     <div className='logo-box-wrap'>
                         <img src='img/airplane_icon.png'></img>
+                        <span className='logo-font'>Daily Tour</span>
                     </div>
                     <span className='logo-font'>
                         Daily Tour
                     </span>
-                    <div>
-                    <MonthlyTopList/>
-                    </div>
-                    <div>
-                    <YearlyTopList/>
-                    </div>
                 </div>
+                <SideChart></SideChart>
             </div>
         </div>
     
