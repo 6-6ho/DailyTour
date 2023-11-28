@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.sql.Array;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -46,6 +47,4 @@ public class CountryStatController {
     ResponseEntity<List<String>> getYearList() {    // 연도 리스트
         return  ResponseEntity.ok().body(countryService.getYearList());
     }
-
-
 }

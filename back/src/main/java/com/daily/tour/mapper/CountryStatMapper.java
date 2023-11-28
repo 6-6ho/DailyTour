@@ -24,14 +24,14 @@ public interface CountryStatMapper {
 
     @Select("SELECT distinct cet.cnt_code as cntCode, ct.cnt_name as cntName, cet.year as year, cet.emi as emi " +
             "FROM Country_Emi_tb cet JOIN Country_tb ct ON cet.cnt_code = ct.cnt_code " +
-            "WHERE cet.year = #{year} " +
-            "ORDER BY emi DESC LIMIT 5")
+            "WHERE cet.year = #{year} ORDER BY emi DESC LIMIT 5")
     List<CountryEmi> findEmiByYear(@Param("year") int year); //  연도별 출국자 수
 
     @Select("SELECT distinct ct.cnt_code as cntCode, cet.emi as emi, cet.month as month, ct.cnt_name as cntName  " +
             "FROM Country_Month_Emi_tb cet join Country_tb ct on cet.cnt_code = ct.cnt_code " +
             "WHERE cet.month = #{month} " +
-            "ORDER BY emi desc LIMIT 5")
+            "ORDER BY emi desc " +
+            "LIMIT 5")
     List<CountryEmi> findEmiByMonth(@Param("month") int month); // 월별 출국자 많은 국가 5개
 
     @Select("SELECT DISTINCT month FROM Country_Month_Emi_tb")
