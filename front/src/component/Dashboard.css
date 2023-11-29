@@ -144,6 +144,7 @@ option {
     height: calc(100vh - 375px);
     display: flex;
     flex-direction: row;
+    font-size: 20px;
 }
 
 .rank-box-wrap {
@@ -160,4 +161,15 @@ option {
     border-radius: 10px;
     box-sizing: border-box;
     background-color: white;
+}
+.rank-list {
+    width: 100%;
+}
+
+.table-style {
+    width: 100%;
+    border-collapse: collapse
+}
+table.table-style > tr > th, td {
+    border-bottom: 1px solid rgba(207, 207, 218, 0.1);
 }

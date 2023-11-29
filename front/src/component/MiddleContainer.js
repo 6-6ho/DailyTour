@@ -27,7 +27,7 @@ Chart.register(
   );
 
 
-export default function MiddleContainer() {
+export default function MiddleContainer() {     
     const [yearList, setYearList] = useState([]);
     const [selected, setSelected] = useState("");
     const [countryStatData, setCountryStatData] = useState({

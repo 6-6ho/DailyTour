@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Attraction {   // 관광지
+    private String cntName; // 도시 이름
     private String regCode; // 지역코드
     private String regName; // 지역 이름
     private String attrCode;    // 관광지 코드
