@@ -1,6 +1,7 @@
 package com.daily.tour.controller;
 
 
+import com.daily.tour.dto.Country;
 import com.daily.tour.dto.CountryEmi;
 import com.daily.tour.service.CountryService;
 import org.apache.coyote.Response;
@@ -46,5 +47,10 @@ public class CountryStatController {
     @GetMapping("/country/year/list")
     ResponseEntity<List<String>> getYearList() {    // 연도 리스트
         return  ResponseEntity.ok().body(countryService.getYearList());
+    }
+
+    @GetMapping("/country/{cntCode}")
+    ResponseEntity<List<Country>> getRegList(String cntCode) {    // 국가 지역 리스트
+        return ResponseEntity.ok().body(countryService.getRegList(cntCode));
     }
 }

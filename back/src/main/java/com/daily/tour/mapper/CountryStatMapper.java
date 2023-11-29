@@ -1,5 +1,6 @@
 package com.daily.tour.mapper;
 
+import com.daily.tour.dto.Country;
 import com.daily.tour.dto.CountryEmi;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
@@ -39,4 +40,8 @@ public interface CountryStatMapper {
     @Select("SELECT DISTINCT year FROM Country_Emi_tb")
     List<String> findYear();
 
+    @Select("SELECT reg_code as regCode, reg_name as regName " +
+            "FROM Country_tb" +
+            "WHERE cnt_code = #{cntCode}")
+    List<Country> findRegByCntCode(@Param("cntCode") String cntCode); // 국가 지역 리스트
 }

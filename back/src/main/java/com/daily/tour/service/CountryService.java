@@ -1,5 +1,6 @@
 package com.daily.tour.service;
 
+import com.daily.tour.dto.Country;
 import com.daily.tour.dto.CountryEmi;
 import com.daily.tour.mapper.CountryStatMapper;
 import org.springframework.stereotype.Service;
@@ -30,4 +31,8 @@ public class CountryService {
     public List<String> getMonthList() { return countryStatMapper.findMonth(); }
 
     public List<String> getYearList() {return countryStatMapper.findYear(); }
+
+    public List<Country> getRegList(String cntCode) {
+        return countryStatMapper.findRegByCntCode(cntCode);
+    }
 }

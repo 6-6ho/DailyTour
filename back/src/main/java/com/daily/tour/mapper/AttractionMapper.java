@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Select;
 import java.util.List;
 
 @Mapper
-public interface AttractionMapper {
+public interface AttractionMapper { // 관광지
 
 //    @Select("SELECT " +
 //            "FROM Reg_Attr_tb rat JOIN Country_tb ct ON rat.reg_code = ct.reg_code " +
@@ -28,6 +28,7 @@ public interface AttractionMapper {
             "FROM REG_ATTR_TB rat JOIN ATTR_INFO_TB ait ON rat.attr_code = ait.attr_code " +
             "WHERE rat.attr_code = #{attrCode}")
     Attraction findAttrDetailByAttrCode(@Param("attrCode") String attrCode); // 관광지 디테일 정보*/
+
 
 
 

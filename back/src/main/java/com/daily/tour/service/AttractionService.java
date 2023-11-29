@@ -1,6 +1,7 @@
 package com.daily.tour.service;
 
 import com.daily.tour.dto.Attraction;
+import com.daily.tour.dto.Country;
 import com.daily.tour.mapper.AttractionMapper;
 import org.springframework.stereotype.Service;
 
@@ -24,4 +25,6 @@ public class AttractionService {
     public Attraction getAttrDetail(String attrCode) {  // 관광지 디테일 정보
         return attractionMapper.findAttrDetailByAttrCode(attrCode);
     }
+
+
 }

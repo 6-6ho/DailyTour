@@ -67,3 +67,10 @@
     background-color: white;
     box-shadow: 5px 5px 5px 5px #8080803b;
 }
+.li-style-none {
+    list-style-type: none;   /* 어떠한 스타일도 지정하지 않음 (아무런 문자도 없음) */
+
+}
+.ul-style-none{
+    padding-inline-start: 10px;
+}
