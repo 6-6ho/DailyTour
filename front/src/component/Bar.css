@@ -73,3 +73,10 @@
     font-weight: 400;
 
 }
+.git-notion-box{
+    margin-left: 20px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+}

@@ -72,12 +72,16 @@ def generate_wordcloud(text, item_name, item_type):
     item_code = get_item_code(item_name, item_type)
     
     if item_code:
-        try:
-            wordcloud = WordCloud(width=400, height=200, max_words=100,
-                                  background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
-            save_wordcloud(wordcloud, item_code)
-        except ValueError:
-            print(f'Not enough words to create a word cloud for: {item_name}')
+        word_count = len(normed_text.split())
+        if word_count >= 10:
+            try:
+                wordcloud = WordCloud(width=400, height=200, max_words=100,
+                                      background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
+                save_wordcloud(wordcloud, item_code)
+            except ValueError:
+                print(f'Not enough words to create a word cloud for: {item_name}')
+        else:
+            print(f'Not generating word cloud for {item_name}: Word count is less than 5')
     else:
         print(f'Item code not found for: {item_name}')
 

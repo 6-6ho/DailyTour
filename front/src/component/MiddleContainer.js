@@ -142,7 +142,7 @@ export default function MiddleContainer() {
 
             <div className="col-6 h-10 pl-1">
                 <div className="word-cloud-box">
-
+                    <img src='img/news_wordcloud.jpg'></img>
                 </div>
             </div>
         </div>

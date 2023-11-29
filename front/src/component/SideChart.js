@@ -24,7 +24,7 @@ Chart.register(
     Title,
     Tooltip,
     Legend
-  );
+);
 
 
 export default function SideChart() {
@@ -32,7 +32,7 @@ export default function SideChart() {
     const [yearList, setYearList] = useState([]);   // 연도별 rank
     
     useEffect( ()=>  {  
-        fetch(`${localDomain}/country/month/8`)  // JSON-Server 에게 students data 요청
+        fetch(`${localDomain}/country/month/8`)
 	        .then( res => { return res.json() } ) 
 	        .then( data => {
                console.log(data);
@@ -42,7 +42,7 @@ export default function SideChart() {
     }, []);
 
     useEffect( ()=>  {  
-        fetch(`${localDomain}/country/year/2023`)  // JSON-Server 에게 students data 요청
+        fetch(`${localDomain}/country/year/2023`)
 	        .then( res => { return res.json() } ) 
 	        .then( data => {
                console.log(data);
