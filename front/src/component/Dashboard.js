@@ -18,6 +18,7 @@ export default function Dashboard() {
         <div className="dashboard-div">
             <MonthlyChartjs></MonthlyChartjs>
             <MiddleContainer></MiddleContainer>
+
         </div>
       </div>
     </div>

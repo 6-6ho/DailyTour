@@ -119,7 +119,9 @@ export default function MonthlyChartjs() {
 
     return(
         <div className="monthly-chart-box-wrap">
+            
             <div className="monthly-chart-box">
+                
                 {/* 지도 차트 */}
                 <div className='monthly-chart-left'>    
                     <GeoCharts></GeoCharts>
