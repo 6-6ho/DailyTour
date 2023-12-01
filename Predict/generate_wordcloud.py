@@ -3,9 +3,12 @@ import glob
 import json
 from konlpy.tag import Okt
 import pandas as pd
-from train import remove_locations
+from train import remove_locationsx
 from wordcloud import WordCloud
+from PIL import Image
+import pandas as np
 
+img_mask = np.xarray(Image.open('heart_shape.png'))
 
 def text_normalization(text: str)-> str:
     okt = Okt()
@@ -75,7 +78,7 @@ def generate_wordcloud(text, item_name, item_type):
         word_count = len(normed_text.split())
         if word_count >= 10:
             try:
-                wordcloud = WordCloud(width=400, height=200, max_words=100,
+                wordcloud = WordCloud(width=400, height=200, max_words=100, mask=img_mask,
                                       background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
                 save_wordcloud(wordcloud, item_code)
             except ValueError:
