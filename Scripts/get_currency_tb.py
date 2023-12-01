@@ -18,40 +18,42 @@ base_url = 'https://www.koreaexim.go.kr/site/program/financial/exchangeJSON'
 authkey = 'QFenQjzBrzZixROTFHyY5QN2IMkUmZ0e'
 data = 'AP01'
 
-# 결과 데이터프레임 초기화
-result_df = pd.DataFrame()
+# 환율 평균값을 저장할 데이터프레임 초기화
+rates_df = pd.DataFrame()
 
-# 날짜 설정
-end_date = datetime.now() - timedelta(days=1)  # 어제 날짜
-valid_days_count = 0
+# 날짜 설정: 최근 6개월
+end_date = datetime.now() - timedelta(days=1)
+start_date = end_date - timedelta(days=180)
 
-# 10개의 유효한 데이터를 수집할 때까지 반복
-while valid_days_count < 10:
-    if end_date.weekday() < 5:  # 주말 제외
-        searchdate = format_date(end_date)
+# 각 국가별 환율 데이터 수집
+while start_date <= end_date:
+    if start_date.weekday() < 5:  # 주말 제외
+        searchdate = format_date(start_date)
         url = f'{base_url}?authkey={authkey}&searchdate={searchdate}&data={data}'
 
         try:
             response = requests.get(url).json()
             if response:
                 ex_pd = pd.DataFrame(response)
-                ex_pd['ttb'] = ex_pd['ttb'].str.replace(',', '', regex=True).str.extract('(\d+\.\d+)').astype(float)
-                ex_pd['DATE'] = searchdate
+                ex_pd['ttb'] = ex_pd['ttb'].str.replace(',', '').str.extract('(\d+(?:\.\d+)?)').astype(float)
 
-                merged_df = cc_df.merge(ex_pd[['cur_unit', 'ttb', 'DATE']], left_on='CURRENCY', right_on='cur_unit', how='inner')
-                result_df = pd.concat([result_df, merged_df[['DATE', 'CNT_CODE', 'CURRENCY', 'ttb']]], ignore_index=True)
-
-                valid_days_count += 1
+                # 각 국가별 환율 데이터를 cc_df와 병합
+                merged_df = cc_df.merge(ex_pd[['cur_unit', 'ttb']], left_on='CURRENCY', right_on='cur_unit', how='inner')
+                rates_df = pd.concat([rates_df, merged_df[['CNT_CODE', 'CURRENCY', 'ttb']]])
         except requests.RequestException as e:
             print(f"Request Error: {e}")
         except pd.errors.EmptyDataError as e:
             print(f"Pandas Error: {e}")
 
-    end_date -= timedelta(days=1)
+    start_date += timedelta(days=1)
 
-# 'ttb' 열을 'EXCHANGE_RATE'로 이름 변경
-result_df = result_df.rename(columns={'ttb': 'EXCHANGE_RATE'})
+# 각 국가별 환율 평균 계산 및 int 형으로 변환
+avg_rates_df = rates_df.groupby(['CNT_CODE', 'CURRENCY'])['ttb'].mean().reset_index()
+avg_rates_df['EXCHANGE_AVG'] = avg_rates_df['ttb'].apply(lambda x: int(round(x)))
+
+# 불필요한 'ttb' 열 제거
+avg_rates_df.drop('ttb', axis=1, inplace=True)
 
 # 결과 저장
-csv_output_path = 'country_currency.csv'
-result_df.to_csv(csv_output_path, index=False, encoding='utf-8')
+csv_output_path = 'country_currency_avg.csv'
+avg_rates_df.to_csv(csv_output_path, index=False, encoding='utf-8')
