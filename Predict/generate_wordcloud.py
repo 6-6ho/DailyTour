@@ -3,12 +3,12 @@ import glob
 import json
 from konlpy.tag import Okt
 import pandas as pd
-from train import remove_locationsx
+from train import remove_locations
 from wordcloud import WordCloud
 from PIL import Image
 import pandas as np
 
-img_mask = np.xarray(Image.open('heart_shape.png'))
+img_mask = np.array(Image.open('heart_shape.png'))
 
 def text_normalization(text: str)-> str:
     okt = Okt()
