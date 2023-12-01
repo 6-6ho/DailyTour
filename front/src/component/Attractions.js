@@ -19,19 +19,19 @@ export default function Attractions(props) {         // 관광지 리스트
     }, [attrList]);
 
     return (
-        <div class="col-5 p-10">
-            <div class="rank-box-wrap">
-                <div class="rank-box">
-                    <div class="rank-title">
-                        <h1>관광지</h1>
+        <div className="col-5 p-10">
+            <div className="rank-box-wrap">
+                <div className="rank-box">
+                    <div className="rank-title">
+                        <h1 className="text-center">관광지</h1>
                     </div>
                     <div className="rank-list">
                         <table className="table-style">
                             <tr>
-                                <th>
+                                <th className="title-column">
                                     이름
                                 </th>
-                                <th>
+                                <th className="score-column">
                                     평점
                                 </th>
                             </tr>
@@ -40,7 +40,15 @@ export default function Attractions(props) {         // 관광지 리스트
                                     attrList.map((attr) => (
                                         <tr>
                                             <td key={attr.attrCode}> {attr.attrName} </td>
-                                            <td> {attr.attrScore} </td>
+                                            
+                                            <td> 
+                                                <div className="score-bar-wrap">
+                                                    <div className="score-bar-box">
+                                                        <div className="score-bar" style={ {"width": "60%"}} > </div>
+                                                    </div>
+                                                    {attr.attrScore} 
+                                                </div>
+                                            </td>
                                         </tr>
                                     ))
                                 )

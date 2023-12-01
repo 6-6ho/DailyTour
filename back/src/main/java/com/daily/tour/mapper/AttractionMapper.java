@@ -21,7 +21,7 @@ public interface AttractionMapper {
             "WHERE ct.cnt_code=#{cntCode}")
     List<Attraction> findRegListByCntCode(@Param("cntCode") String cntCode);    // 지역 리스트
 
-    @Select("SELECT ct.cnt_code as cntCode, rat.reg_code as regCode, rat.attr_code as attrCode, " +
+    @Select("SELECT distinct ct.cnt_code as cntCode, rat.reg_code as regCode, rat.attr_code as attrCode, " +
             "rat.attr_name as attrName, ait.attr_score as attrScore " +
             "FROM REG_ATTR_TB rat JOIN COUNTRY_TB ct ON rat.reg_code = ct.reg_code " +
             "JOIN ATTR_INFO_TB ait ON rat.attr_code = ait.attr_code " +

@@ -24,15 +24,16 @@ export default function Accomodations(props) {  // 숙박
             <div className="rank-box-wrap">
                 <div className="rank-box">
                     <div className="rank-title">
-                        <h1>숙박</h1>
+                        <h1 className="text-center">숙박</h1>
                     </div>
                     <div className="rank-list">
                         <table className="table-style">
                             <tr>
-                                <th>
+                                <th className="title-column">
                                     이름
                                 </th>
-                                <th>
+                                
+                                <th className="score-column">
                                     평점
                                 </th>
                             </tr>
@@ -40,8 +41,15 @@ export default function Accomodations(props) {  // 숙박
                                 { accomList && (
                                     accomList.map((accom) => (
                                         <tr>
-                                            <td key={accom.accomCode}> {accom.accomName} </td>
-                                            <td> {accom.accomScore} </td>
+                                            <td key={accom.accomCode}> {accom.accomName} </td>                                       
+                                            <td>  
+                                                <div className="score-bar-wrap">
+                                                    <div className="score-bar-box">
+                                                        <div className="score-bar" style={ {"width": "60%"}} > </div>
+                                                    </div>
+                                                    {accom.accomScore} 
+                                                </div>
+                                            </td>
                                         </tr>
                                     ))
                                 )
