@@ -9,7 +9,6 @@ export default function Exchange() {
     return (
         <div class='exchange-rate-box-wrap'>
             <div class='exchange-rate-box'>
-            
             </div>
         </div>
     );  

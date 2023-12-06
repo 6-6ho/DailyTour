@@ -7,6 +7,7 @@ import { localDomain } from './common';
 import Exchange from './Exchange';
 import Accomodations from './Accomodations';
 import Attractions from './Attractions';
+import ModalComponent from './ModalComponent';
 
 export default function Tourboard() {
     const params = useParams();
@@ -14,8 +15,25 @@ export default function Tourboard() {
     const [regList, setRegList] = useState([]); // 지역리스트 
     const [cntName, setCntName] = useState('');
     const [selected, setSelected] = useState("");
+    const [isModalVisible, setIsModalVisible] = useState(false); // 모달 켜짐 꺼짐 관련
     console.log(cntCode);
 
+    // 모달 사용시 onClick handler로 onClick={showModal},
+    /*
+    const showModal = () => {
+        setIsModalVisible(true);
+    };
+    const hideModal = () => {
+        setIsModalVisible(false);
+    }
+
+    <ModalCompnent
+        show={isModalVisible}
+        handleClose={hideModal}
+        positiveReviews={positiveReviews}
+        negativeReviews={negativeReviews}
+    />
+    */
 
 
     useEffect( ()=>  {  
