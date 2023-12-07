@@ -32,7 +32,7 @@ def agoda_crawling() :
     for country_data in country_list:
         train_data = []
         recent_data = []
-        country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH"]) 
+        country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH"])
         
         country = country_data["country"]
         regions = country_data["regions"]
@@ -105,6 +105,8 @@ def agoda_crawling() :
 
         save_to_json(country, train_data, 'train')
         save_to_json(country, recent_data, 'recent')
+        csv_output_path = f'../Data/picture-data/accom/{country}_img_path.csv'
+        country_img_path.to_csv(csv_output_path, index=False, encoding='utf-8')
 
     # return (country, region, hotel_url_list)
 

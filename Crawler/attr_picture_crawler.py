@@ -122,7 +122,7 @@ def country_crawler(country, regions):
                 
             sleep(3)
     
-    csv_output_path = f'../Data/picture-data/{country}_img_path.csv'
+    csv_output_path = f'../Data/picture-data/attr/{country}_img_path.csv'
     country_img_path.to_csv(csv_output_path, index=False, encoding='utf-8')
     
 if __name__=='__main__':
