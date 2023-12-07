@@ -127,7 +127,7 @@ def hotel_review_crawling(country, region, hotel_url_list):
         html = driver.page_source 
         soup = BeautifulSoup(html, 'html.parser')
         hotel_name = soup.find('p', class_='HeaderCerebrum__Name').text
-        
+        # ?
         # 사진 링크
         xpath = '/html/body/div[11]/div/div[5]/div[1]/div[1]/div[1]/div[1]/img'
         
