@@ -1,3 +1,4 @@
+import re
 from time import sleep
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
@@ -31,7 +32,7 @@ def controller():
 
 def country_crawler(country, regions):
     # 메인 페이지 들어가기
-    country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH"]) 
+    country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH", "TOTAL_REVIEWS"]) 
     
     for region in regions:
         driver.get(main_url)
@@ -100,12 +101,12 @@ def country_crawler(country, regions):
         for i in range(min(ATTR_MAX, len(attr_hrefs))):
             driver.get(f"{main_url}{attr_hrefs[i]}")
             driver.implicitly_wait(5)
-            sleep(5)
+            sleep(4)
             
             # 관광지 이름        
             attr_name = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]').text.lstrip()
             driver.implicitly_wait(5)
-            sleep(5)
+            sleep(4)
             
             # 관광지 사진 링크
             xpath = '/html/body/div[1]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/section[2]/div/div/div/div[2]/div/div/div/div/div[1]/div/div/div/div[1]/div/div[1]/ul/li[1]/div/picture/img'
@@ -114,16 +115,24 @@ def country_crawler(country, regions):
             except NoSuchElementException:
                 not_img.append(attr_name)
                 attr_picture_path = None
+
+            # 총 리뷰 수
+            review_xpath ='/html/body/div[1]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/section[7]/div/div/div/section/section/div[1]/div/div[3]/div[1]/div/div[1]/div[2]/span'
+            reviews = driver.find_element(By.XPATH, review_xpath).text
+            reviews = re.findall(r'\d+', reviews)
+            reviews = int(''.join(reviews))
                 
-            print(f'attr name : {attr_name}, picture_path = {attr_picture_path}')
-            new_row = pd.DataFrame([[attr_name, attr_picture_path]], columns = ["ATTR_NAME", "IMG_PATH"])
+            print(f'attr name : {attr_name}, picture_path = {attr_picture_path}, reviews = {reviews}')
+            new_row = pd.DataFrame([[attr_name, attr_picture_path, reviews]], columns = ["ATTR_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
             
             country_img_path = pd.concat([country_img_path, new_row], ignore_index=True)
                 
             sleep(3)
     
-    csv_output_path = f'../Data/picture-data/attr/{country}_img_path.csv'
+    csv_output_path = f'../Data/picture-data/attr/{country}_img_path_reviews.csv'
     country_img_path.to_csv(csv_output_path, index=False, encoding='utf-8')
+
+    sleep(5)
     
 if __name__=='__main__':
     controller()

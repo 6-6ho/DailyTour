@@ -1,3 +1,4 @@
+import re
 import urllib.request
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -32,7 +33,7 @@ def agoda_crawling() :
     for country_data in country_list:
         train_data = []
         recent_data = []
-        country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH"])
+        country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
         
         country = country_data["country"]
         regions = country_data["regions"]
@@ -132,13 +133,17 @@ def hotel_review_crawling(country, region, hotel_url_list):
         
         # 사진 링크
         xpath = '/html/body/div[11]/div/div[5]/div[1]/div[1]/div[1]/div[1]/img'
-        
         try:
             accom_picture_path = driver.find_element(By.XPATH, xpath).get_attribute("src")
         except NoSuchElementException:
             accom_picture_path = None
-        print(f'accom name : {hotel_name}, picture_path = {accom_picture_path}')
-        new_row = pd.DataFrame([[hotel_name, accom_picture_path]], columns = ["ACCOM_NAME", "IMG_PATH"])
+
+        review_xpath = '//*[@id="property-critical-root"]/div/div[5]/div[2]/div[1]/div[1]/div/div[1]/div/div/div/div/p/div/span[1]/p'
+        reviews = driver.find_element(By.XPATH, review_xpath).text
+        reviews = re.findall(r'\d+', reviews)
+        reviews = int(''.join(reviews))
+        print(f'accom name : {hotel_name}, picture_path = {accom_picture_path}, reviews = {reviews}')
+        new_row = pd.DataFrame([[hotel_name, accom_picture_path]], columns = ["ACCOM_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
 
         driver.implicitly_wait(3)
 
