@@ -11,6 +11,7 @@ driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
 input_path = '../Data/Region_Data/region_data_copy.json'
 ATTR_MAX = 15
+not_img = []
 
 def load_json_data(json_path):
     with open(json_path, 'r', encoding='utf-8') as file:
@@ -99,22 +100,27 @@ def country_crawler(country, regions):
         for i in range(min(ATTR_MAX, len(attr_hrefs))):
             driver.get(f"{main_url}{attr_hrefs[i]}")
             driver.implicitly_wait(5)
-            sleep(2)
+            sleep(5)
             
             # 관광지 이름        
             attr_name = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]').text.lstrip()
             driver.implicitly_wait(5)
-            sleep(2)
+            sleep(5)
             
             # 관광지 사진 링크
-            element = driver.find_element(By.CLASS_NAME, "NhWcC")
-            attr_picture_path = element.find_element(By.TAG_NAME, "img").get_attribute("src")
+            xpath = '/html/body/div[1]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/section[2]/div/div/div/div[2]/div/div/div/div/div[1]/div/div/div/div[1]/div/div[1]/ul/li[1]/div/picture/img'
+            try:
+                attr_picture_path = driver.find_element(By.XPATH, xpath).get_attribute("src")
+            except NoSuchElementException:
+                not_img.append(attr_name)
+                attr_picture_path = None
+                
             print(f'attr name : {attr_name}, picture_path = {attr_picture_path}')
             new_row = pd.DataFrame([[attr_name, attr_picture_path]], columns = ["ATTR_NAME", "IMG_PATH"])
             
             country_img_path = pd.concat([country_img_path, new_row], ignore_index=True)
                 
-            sleep(2)
+            sleep(3)
     
     csv_output_path = f'../Data/picture-data/{country}_img_path.csv'
     country_img_path.to_csv(csv_output_path, index=False, encoding='utf-8')
