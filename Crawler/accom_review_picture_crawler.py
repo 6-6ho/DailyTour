@@ -9,6 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
 import json
+import pandas as pd
 
 # 브라우저 꺼짐 방지 옵션 설정 및 driver 생성
 chrome_options = Options()
@@ -16,7 +17,7 @@ chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
 
 def get_region_list():
-    with open('../Data/Region_Data/region_data_accom.json', 'r', encoding='utf8') as f:
+    with open('../Data/Region_Data/region_data_copy.json', 'r', encoding='utf8') as f:
         country_list = json.load(f)
 
     return country_list
@@ -31,6 +32,8 @@ def agoda_crawling() :
     for country_data in country_list:
         train_data = []
         recent_data = []
+        country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH"]) 
+        
         country = country_data["country"]
         regions = country_data["regions"]
 
@@ -43,7 +46,7 @@ def agoda_crawling() :
 
             time.sleep(10)
 
-            try : 
+            try: 
                 close_btn = driver.find_element(By.CLASS_NAME, 'ab-close-button')   
                 close_btn.click() # 페이지 연결 시 광고 창 삭제
             except: 
@@ -94,9 +97,11 @@ def agoda_crawling() :
                     hotel_url_list.append(hotel_url)
             print(f'url list len : {len(hotel_url_list)}')
 
-            train, recent = hotel_review_crawling(country, region, hotel_url_list)
+            train, recent, new_row = hotel_review_crawling(country, region, hotel_url_list)
             train_data.append(train)
             recent_data.append(recent)
+            
+            country_img_path = pd.concat([country_img_path, new_row], ignore_index=True)
 
         save_to_json(country, train_data, 'train')
         save_to_json(country, recent_data, 'recent')
@@ -118,10 +123,20 @@ def hotel_review_crawling(country, region, hotel_url_list):
        
         time.sleep(5)
 
+        # 호텔 이름
         html = driver.page_source 
         soup = BeautifulSoup(html, 'html.parser')
         hotel_name = soup.find('p', class_='HeaderCerebrum__Name').text
-        print(hotel_name)
+        
+        # 사진 링크
+        xpath = '/html/body/div[11]/div/div[5]/div[1]/div[1]/div[1]/div[1]/img'
+        
+        try:
+            accom_picture_path = driver.find_element(By.XPATH, xpath).get_attribute("src")
+        except NoSuchElementException:
+            accom_picture_path = None
+        print(f'accom name : {hotel_name}, picture_path = {accom_picture_path}')
+        new_row = pd.DataFrame([[hotel_name, accom_picture_path]], columns = ["ACCOM_NAME", "IMG_PATH"])
 
         driver.implicitly_wait(3)
 
@@ -146,7 +161,7 @@ def hotel_review_crawling(country, region, hotel_url_list):
             korean_xpath = """//*[@id="reviews-language-filter_list"]/ul/li/span//span[text()='한국어']"""
             korean_language = driver.find_element(By.XPATH, korean_xpath)
             korean_language.click()
-        except NoSuchElementException as e:
+        except NoSuchElementException:
             try:
                 language_select = Select(driver.find_element(By.CSS_SELECTOR, '#reviewFilterSection > div.sc-bdfBwQ.sc-gsTCUz.gdcQLK > div.sc-bdfBwQ.sc-gsTCUz.djZOQg > div > div > label > div.sc-bdfBwQ.sc-gsTCUz.bqqCNI > span > select') )
                 time.sleep(3)
@@ -203,7 +218,7 @@ def hotel_review_crawling(country, region, hotel_url_list):
 
                 time.sleep(3)
 
-    return train_data, recent_data
+    return train_data, recent_data, new_row
 
 
 # 크롤링 데이터 json 파일로 저장
