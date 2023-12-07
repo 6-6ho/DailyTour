@@ -50,6 +50,7 @@ def country_crawler(country, regions):
             driver.implicitly_wait(5)
             sleep(5)
         except:
+            print('not exist search-filter')
             continue
 
         
