@@ -15,6 +15,7 @@ const GitNotionBox = () => {
         <a href={githubUrl} target="_blank" rel="noopener noreferrer" className="icon mt-2">
           <img src='img/github_icon.png' className="githubIcon" alt="GitHub Icon" />
         </a>
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/28/78/56/turbojet.jpg?w=500&h=-1&s=1" width="300" height="200"></img>
       </div>
     </div>
   );

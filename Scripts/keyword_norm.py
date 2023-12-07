@@ -27,5 +27,20 @@ def func():
 
     travel_df.to_csv('../Data/google-trend/overseas_1.csv')
     
+        
+def remove():
+    domestic_path = '../Data/google-trend/domestic_1.csv'
+    overseas_path = '../Data/google-trend/overseas_1.csv'
+    
+    domestic_df = pd.read_csv(domestic_path)['KEYWORD']
+    overseas_df = pd.read_csv(overseas_path)
+    
+    for keyword in domestic_df:
+        overseas_df = overseas_df[~overseas_df['KEYWORD'].str.contains(keyword, case=False, na=False)]
+
+    overseas_df.to_csv("../Data/google-trend/result.csv")
+    
+    
 if __name__=="__main__":
     func()
+    remove()

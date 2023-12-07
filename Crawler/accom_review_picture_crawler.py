@@ -69,7 +69,7 @@ def agoda_crawling() :
             # 검색하기 버튼 클릭. 
             search_btn = driver.find_element(By.XPATH,'//*[@id="SearchBoxContainer"]/div[2]/div/button')
             driver.execute_script("arguments[0].click();", search_btn)
-            # search_btn.click() 
+            # search_btn.click()
 
             driver.implicitly_wait(5)
 
