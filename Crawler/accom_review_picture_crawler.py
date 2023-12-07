@@ -33,7 +33,7 @@ def agoda_crawling() :
     for country_data in country_list:
         train_data = []
         recent_data = []
-        country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
+        country_img_path = pd.DataFrame(columns=["ACCOM_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
         
         country = country_data["country"]
         regions = country_data["regions"]
@@ -103,9 +103,11 @@ def agoda_crawling() :
             recent_data.append(recent)
             
             country_img_path = pd.concat([country_img_path, new_row], ignore_index=True)
+            print(country_img_path)
 
         save_to_json(country, train_data, 'train')
         save_to_json(country, recent_data, 'recent')
+
         csv_output_path = f'../Data/picture-data/accom/{country}_img_path.csv'
         country_img_path.to_csv(csv_output_path, index=False, encoding='utf-8')
 
@@ -114,7 +116,7 @@ def agoda_crawling() :
 
 # 호텔 상세 페이지에서 리뷰 및 평점 크롤링
 def hotel_review_crawling(country, region, hotel_url_list):
-    hotel_list = []
+    picture_pd = pd.DataFrame(columns=["ACCOM_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
     train_data = []
     recent_data = []
 
@@ -143,7 +145,8 @@ def hotel_review_crawling(country, region, hotel_url_list):
         reviews = re.findall(r'\d+', reviews)
         reviews = int(''.join(reviews))
         print(f'accom name : {hotel_name}, picture_path = {accom_picture_path}, reviews = {reviews}')
-        new_row = pd.DataFrame([[hotel_name, accom_picture_path]], columns = ["ACCOM_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
+        new_row = pd.DataFrame([[hotel_name, accom_picture_path, reviews]], columns = ["ACCOM_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
+        picture_pd = pd.concat([picture_pd, new_row], ignore_index=True)
 
         driver.implicitly_wait(3)
 
@@ -211,10 +214,8 @@ def hotel_review_crawling(country, region, hotel_url_list):
 
                     if i == 1:
                         train_data.append({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
-                        print({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
                     else:
                         recent_data.append({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
-                        print({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
 
 
                 try : 
@@ -225,7 +226,7 @@ def hotel_review_crawling(country, region, hotel_url_list):
 
                 time.sleep(3)
 
-    return train_data, recent_data, new_row
+    return train_data, recent_data, picture_pd
 
 
 # 크롤링 데이터 json 파일로 저장

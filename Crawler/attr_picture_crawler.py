@@ -13,6 +13,7 @@ main_url = 'https://www.tripadvisor.co.kr/'
 input_path = '../Data/Region_Data/region_data_copy.json'
 ATTR_MAX = 15
 not_img = []
+not_reviews = []
 
 def load_json_data(json_path):
     with open(json_path, 'r', encoding='utf-8') as file:
@@ -118,9 +119,13 @@ def country_crawler(country, regions):
 
             # 총 리뷰 수
             review_xpath ='/html/body/div[1]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/section[7]/div/div/div/section/section/div[1]/div/div[3]/div[1]/div/div[1]/div[2]/span'
-            reviews = driver.find_element(By.XPATH, review_xpath).text
-            reviews = re.findall(r'\d+', reviews)
-            reviews = int(''.join(reviews))
+            try:
+                reviews = driver.find_element(By.XPATH, review_xpath).text
+                reviews = re.findall(r'\d+', reviews)
+                reviews = int(''.join(reviews))
+            except NoSuchElementException:
+                not_reviews.append(attr_name)
+                reviews = 0
                 
             print(f'attr name : {attr_name}, picture_path = {attr_picture_path}, reviews = {reviews}')
             new_row = pd.DataFrame([[attr_name, attr_picture_path, reviews]], columns = ["ATTR_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
@@ -136,4 +141,8 @@ def country_crawler(country, regions):
     
 if __name__=='__main__':
     controller()
+    print("not reviews")
+    print(not_reviews)
+    print("not imgs")
+    print(not_img)
         
