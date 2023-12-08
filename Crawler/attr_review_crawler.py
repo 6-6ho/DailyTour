@@ -8,7 +8,7 @@ import json
 
 driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
-input_path = '../Data/Region_Data/region_data.json'
+input_path = '../Data/Region_Data/region_data_copy_attr.json'
 ATTR_MAX = 15
 
 def load_json_data(json_path):
