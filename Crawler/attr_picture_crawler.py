@@ -10,7 +10,7 @@ import pandas as pd
 
 driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
-input_path = '../Data/Region_Data/region_data_copy.json'
+input_path = '../Data/Region_Data/region_data_for_attr_picture.json'
 ATTR_MAX = 15
 not_img = []
 not_reviews = []
