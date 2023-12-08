@@ -16,7 +16,7 @@ import java.util.List;
 @RestController
 public class CountryStatController {
 
-    @Autowired
+//    @Autowired
     private final CountryService countryService;
 
     public CountryStatController(CountryService countryService) {

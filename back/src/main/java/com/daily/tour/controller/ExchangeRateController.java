@@ -1,2 +1,4 @@
-package com.daily.tour.controller;public class ExchangeRateController {
+package com.daily.tour.controller;
+
+public class ExchangeRateController {
 }

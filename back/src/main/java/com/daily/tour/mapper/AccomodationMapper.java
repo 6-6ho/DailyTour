@@ -25,8 +25,8 @@ public interface AccomodationMapper {   // 숙소
 
 
     @Select("SELECT rat.accom_code as accomCode, rat.accom_name as accomName, ait.accom_score as accomScore, " +
-            "ait.accom_score_pos as accomScorePos, ait.accom_score_neg as accomScoreNeg " +
-            "FROM REG_ACCOM_TB rat JOIN ACCOM_INFO_TB ait ON rat.attr_code = ait.attr_code " +
+            "ait.accom_rev_pos as accomRevPos, ait.accom_rev_neg as accomRevNeg " +
+            "FROM REG_ACCOM_TB rat JOIN ACCOM_INFO_TB ait ON rat.accom_code = ait.accom_code " +
             "WHERE rat.accom_code = #{accomCode}")
     Accommodation findAccomDetailByAccomCode(@Param("accomCode") String accomCode);   // 숙소 디테일 정보
 }

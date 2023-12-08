@@ -14,13 +14,6 @@ public interface AttractionMapper {
 //            "FROM Reg_Attr_tb rat JOIN Country_tb ct ON rat.reg_code = ct.reg_code " +
 //            "JOIN Attr_Info_tb ait ON rat.attr_code = ait.attr_code" +
 //            "WHERE rat.reg_code = {regCode}")
-
-    @Select("SELECT distinct rat.reg_code as regCode, ct.reg_name as regName, ct.cnt_name as cntName " +
-            "FROM REG_ATTR_TB rat JOIN COUNTRY_TB ct ON rat.reg_code = ct.reg_code " +
-            "JOIN ATTR_INFO_TB ait ON rat.attr_code = ait.attr_code " +
-            "WHERE ct.cnt_code=#{cntCode}")
-    List<Attraction> findRegListByCntCode(@Param("cntCode") String cntCode);    // 지역 리스트
-
     @Select("SELECT distinct ct.cnt_code as cntCode, rat.reg_code as regCode, rat.attr_code as attrCode, " +
             "rat.attr_name as attrName, ait.attr_score as attrScore " +
             "FROM REG_ATTR_TB rat JOIN COUNTRY_TB ct ON rat.reg_code = ct.reg_code " +
@@ -30,11 +23,10 @@ public interface AttractionMapper {
     List<Attraction> findAttrListByRegCode(@Param("regCode") String regCode); // 관광지 상위 5개 리스트
 
     @Select("SELECT rat.attr_code as attrCode, rat.attr_name as attrName, ait.attr_score as attrScore, " +
-            "ait.attr_score_pos as attrScorePos, ait.attr_score_neg as attrScoreNeg " +
+            "ait.attr_rev_pos as attrRevPos, ait.attr_rev_neg as attrRevNeg " +
             "FROM REG_ATTR_TB rat JOIN ATTR_INFO_TB ait ON rat.attr_code = ait.attr_code " +
             "WHERE rat.attr_code = #{attrCode}")
     Attraction findAttrDetailByAttrCode(@Param("attrCode") String attrCode); // 관광지 디테일 정보*/
-
 
 
 }

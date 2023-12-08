@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+front2
+
 # C extensions
 *.so
 Data/Search_Data

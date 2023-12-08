@@ -1,28 +1,26 @@
-// import './App.css';
-
-// import Navbar from './component/Navbar'
-// import Sidebar from './component/Sidebar'
-import Dashboard from './component/Dashboard';
-import Tourboard from './component/Tourboard'
-import {BrowserRouter,Route,Routes} from 'react-router-dom';
+import { CssBaseline, ThemeProvider } from '@mui/material';
+import { useRoutes } from 'react-router-dom';
+import Router from './routes/Router';
+import { useState } from 'react';
+import { baselightTheme } from "./theme/DefaultColors";
+import Attractions from './views/dashboard/components/Attractions';
+import Accomodations from './views/dashboard/components/Accomodations';
+import { RegCodeProvider } from './context/RegCodeContext';
 
 function App() {
+  const routing = useRoutes(Router);
+  const theme = baselightTheme;
+  const [regCode, setRegCode] = useState(null);
+
   return (
-<BrowserRouter>
-    <div className="App">
-      <Routes>
-          <Route path="/" element={<Dashboard/>}></Route>
-          <Route path="/country/:cntCode" element={<Tourboard/>}></Route>
-        </Routes>
-        {/* <div className="col-2">
-        <Sidebar></Sidebar>
-      </div>
-      <div className="col-8 right-wrap">
-        <Navbar></Navbar>
-        <Dashboard></Dashboard>
-</div> */}
-      </div>
-    </BrowserRouter>
+    <ThemeProvider theme={theme}>
+
+      <CssBaseline />
+      <RegCodeProvider>
+          {routing}
+      </RegCodeProvider>
+
+    </ThemeProvider>
   );
 }
 
