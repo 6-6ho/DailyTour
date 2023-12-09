@@ -10,7 +10,7 @@ import pandas as pd
 
 driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
-input_path = '../Data/Region_Data/region_data_copy.json'
+input_path = '../Data/Region_Data/region_data_for_attr_picture.json'
 ATTR_MAX = 15
 not_img = []
 not_reviews = []
@@ -44,8 +44,7 @@ def country_crawler(country, regions):
         input_text = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[4]/div/div/div[2]/div/form/div/div/input')
         input_text.send_keys(region)
         input_text.send_keys(Keys.ENTER)
-        driver.implicitly_wait(5)
-        sleep(5)
+        sleep(8)
         
         # 즐길거리 클릭
         try:
