@@ -18,7 +18,7 @@ chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
 
 def get_region_list():
-    with open('../Data/Region_Data/region_data_copy.json', 'r', encoding='utf8') as f:
+    with open('../Data/Region_Data/region_data_copy_accom.json', 'r', encoding='utf8') as f:
         country_list = json.load(f)
 
     return country_list
