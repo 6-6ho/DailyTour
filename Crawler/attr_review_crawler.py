@@ -116,8 +116,6 @@ def country_crawler(country, regions):
             print(attr_name)
             sleep(5)
             
-            # 관광지 사진 저장
-            
             
             ################### 긍정적 리뷰 (4~5점)
             # 4,5점만 선택
