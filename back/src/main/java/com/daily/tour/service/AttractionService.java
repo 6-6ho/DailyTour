@@ -9,7 +9,7 @@ import java.util.List;
 
 @Service
 public class AttractionService {
-    private static AttractionMapper attractionMapper;
+    private final AttractionMapper attractionMapper;
 
     public AttractionService(AttractionMapper attractionMapper) {
         this.attractionMapper = attractionMapper;
