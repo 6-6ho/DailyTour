@@ -18,7 +18,7 @@ chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
 
 def get_region_list():
-    with open('../Data/Region_Data/region_data_copy.json', 'r', encoding='utf8') as f:
+    with open('../Data/Region_Data/region_data_copy_accom.json', 'r', encoding='utf8') as f:
         country_list = json.load(f)
 
     return country_list
@@ -141,9 +141,12 @@ def hotel_review_crawling(country, region, hotel_url_list):
             accom_picture_path = None
 
         review_xpath = '//*[@id="property-critical-root"]/div/div[5]/div[2]/div[1]/div[1]/div/div[1]/div/div/div/div/p/div/span[1]/p'
-        reviews = driver.find_element(By.XPATH, review_xpath).text
-        reviews = re.findall(r'\d+', reviews)
-        reviews = int(''.join(reviews))
+        try:
+            reviews = driver.find_element(By.XPATH, review_xpath).text
+            reviews = re.findall(r'\d+', reviews)
+            reviews = int(''.join(reviews))
+        except NoSuchElementException:
+            reviews = 0
         print(f'accom name : {hotel_name}, picture_path = {accom_picture_path}, reviews = {reviews}')
         new_row = pd.DataFrame([[hotel_name, accom_picture_path, reviews]], columns = ["ACCOM_NAME", "IMG_PATH", "TOTAL_REVIEWS"])
         picture_pd = pd.concat([picture_pd, new_row], ignore_index=True)

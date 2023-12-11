@@ -1,5 +1,41 @@
-ATTR_NAME,IMG_PATH,TOTAL_REVIEWS,ACCOM_NAME
-,https://pix8.agoda.net/hotelImages/43303/-1/6587e5eb4a7be88e3f9a4b626b33dc06.jpg?ca=0&ce=1&s=1024x768,10961,선샤인 시티 프린스 호텔 이케부쿠로 도쿄 (Sunshine City Prince Hotel Ikebukuro Tokyo)
-,https://pix8.agoda.net/hotelImages/189/1899389/1899389_17082907530055788297.jpg?ca=6&ce=1&s=1024x768,11651,칸데오 호텔 오사카 난바 (Candeo Hotels Osaka Namba)
-,https://pix8.agoda.net/hotelImages/6692502/-1/82ad82a7f4184f5152415c21a77e3bb5.jpg?ca=8&ce=1&s=1024x768,5866,리치몬드 호텔 프리미어 교토 에키마에 (Richmond Hotel Premier Kyoto Ekimae)
-,https://pix8.agoda.net/hotelImages/5944027/-1/15ba0d066c355e7e43f711166f3e0c20.jpg?ca=8&ce=1&s=1024x768,3926,JR-이스트 호텔 메츠 삿포로 (JR-EAST HOTEL METS SAPPORO)
+ACCOM_NAME,IMG_PATH,TOTAL_REVIEWS
+APA 호텔 롯폰기 식스 (APA Hotel Roppongi SIX),https://pix8.agoda.net/hotelImages/14626828/-1/58cea0daca174795037b04f9fde03f48.jpg?ce=0&s=1024x768,3853
+AC Hotel Tokyo Ginza,https://pix8.agoda.net/hotelImages/21979955/0/a0ee69a5adc0c09279f72144a0b429b3.jpg?ca=26&ce=0&s=1024x768,711
+신주쿠 워싱턴 호텔 - 본관 (Shinjuku Washington Hotel - Main Building),https://pix8.agoda.net/hotelImages/456/45606/45606_16041721140041569348.jpg?ca=6&ce=1&s=1024x768,20282
+랜드어바웃 도쿄 (LANDABOUT TOKYO),https://pix8.agoda.net/hotelImages/10609116/-1/3a4df29a2014a298868b297de791b0c2.jpg?ca=9&ce=1&s=1024x768,4951
+"더 도쿄 에디션, 도라노몬 (The Tokyo EDITION, Toranomon)",https://pix8.agoda.net/hotelImages/13609165/-1/8acc2bfee95e2200e72f6318878dab7e.jpg?ca=27&ce=0&s=1024x768,348
+APA 호텔 신주쿠-가부키초 타워 (APA Hotel Shinjuku-Kabukicho Tower),https://pix8.agoda.net/hotelImages/936/936623/936623_17072117210054605577.jpg?ca=6&ce=1&s=1024x768,11741
+APA Hotel & Resort Roppongi Ekihigashi,https://pix8.agoda.net/hotelImages/33576877/-1/479952a97ac5b44d0fdbea8a08c2d5f6.jpg?ce=0&s=1024x768,5718
+APA 호텔 앤 리조트 니시신주쿠-고초메-에키 타워 (APA Hotel & Resort Nishishinjuku-Gochome-Eki Tower),https://pix8.agoda.net/hotelImages/2911691/-1/c01bbe450ad7186741b948e4820414c3.jpg?ca=0&ce=1&s=1024x768,3281
+도쿄 프린스 호텔 (Tokyo Prince Hotel),https://pix8.agoda.net/hotelImages/43322/0/0a1ae728c76ec0150a8ccbcd8b5a7ee4.jpg?ca=7&ce=1&s=1024x768,2957
+APA 호텔 야마노테 오츠가에키 타워 (APA Hotel Yamanote Otsukaeki Tower),https://pix8.agoda.net/hotelImages/7470369/-1/edf23dd1dad445043e77acd0d588f789.jpg?ca=9&ce=1&s=1024x768,1845
+칸데오 호텔 오사카 난바 (Candeo Hotels Osaka Namba),https://pix8.agoda.net/hotelImages/189/1899389/1899389_17082907530055788297.jpg?ca=6&ce=1&s=1024x768,11651
+호텔 포르자 오사카 난바 도톤보리 (Hotel Forza Osaka Namba Dotonbori),https://pix8.agoda.net/hotelImages/20990836/-1/922171c7530cd91eed72d581c0d712bc.jpg?ca=19&ce=1&s=1024x768,6369
+Hotel Forza Osaka Kitahama,https://pix8.agoda.net/hotelImages/9084349/-1/d4b1c9e080b9a4db0f590d43425e658d.jpg?ca=9&ce=1&s=1024x768,3129
+오사카 테이코쿠 호텔 (Osaka Teikoku Hotel),https://pix8.agoda.net/hotelImages/185979/-1/2523f8abdcce18e8a19f798e9f0c0da4.jpg?ce=0&s=1024x768,8343
+W 오사카 (W Osaka),https://pix8.agoda.net/hotelImages/21981812/0/ccf7025caf63be8845fc5e8c7a8b4260.jpeg?ce=0&s=1024x768,155
+APA Hotel and Resort Midosuji Hommachi Eki Tower,https://pix8.agoda.net/hotelImages/7616470/-1/a394a6337db26055bbcf8235b254a9e5.jpg?ca=9&ce=1&s=1024x768,4921
+APA Hotel & Resort Osaka Umeda Eki Tower,https://pix8.agoda.net/hotelImages/33494376/-1/62c9fe6b0c60bb410d6e4ac35d49d37d.jpg?ce=0&s=1024x768,18141
+소테츠 그랜드 프레사 오사카 난바 (Sotetsu Grand Fresa Osaka Namba),https://pix8.agoda.net/hotelImages/1095363/-1/e5e632d3b5167d4d50cbe1a2d2e14376.jpg?ca=9&ce=1&s=1024x768,15625
+APA 호텔 신-오사카 에키마에 (APA Hotel Shin-Osaka ekimae),https://pix8.agoda.net/hotelImages/12185244/-1/c8fc19e5103e3e8df2c0c90cf582c99a.jpg?ca=11&ce=1&s=1024x768,2802
+칸데오 호텔 오사카 난바 (Candeo Hotels Osaka Namba),https://pix8.agoda.net/hotelImages/189/1899389/1899389_17082907530055788297.jpg?ca=6&ce=1&s=1024x768,11651
+Hyatt Place Kyoto,https://pix8.agoda.net/hotelImages/45888667/-1/7d57213091468f7283412148b4ea094b.jpg?ce=0&s=1024x768,696
+"HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa",https://pix8.agoda.net/hotelImages/17526170/-1/63b561f703390b6c7c73ba5d82391a01.jpg?ce=0&s=1024x768,234
+시즈테츠 호텔 프레지오 교토 가라스마오이케 (Shizutetsu Hotel Prezio Kyoto Karasumaoike),https://pix8.agoda.net/hotelImages/6430381/-1/f5acec9acc32698c5ebca48ed51133d4.jpg?ca=9&ce=1&s=1024x768,2692
+사쿠라 테라스 더 아틀리에 - 성인 전용 (Sakura Terrace The Atelier -Adult Only),https://pix8.agoda.net/hotelImages/226/2260256/2260256_17051609500053007507.jpg?ca=6&ce=1&s=1024x768,1966
+Hyatt Regency Kyoto,https://pix8.agoda.net/hotelImages/70111/-1/b753d9f05944f4838ac1acc4d68d6ed8.jpg?ca=18&ce=1&s=1024x768,1019
+APA 호텔 교토 에키히가시 (APA Hotel Kyoto Ekihigashi),https://pix8.agoda.net/hotelImages/8831847/-1/6e614d8417f58372af7ec55a27e4fdef.jpg?ca=10&ce=1&s=1024x768,1199
+호텔 더 엠스 교토 (Hotel The M's Kyoto),https://pix8.agoda.net/hotelImages/21951014/-1/0d97c195def0b5cd9f6a1d25db69e2db.jpg?ca=22&ce=0&s=1024x768,5545
+솔라리아 니시테츠 호텔 교토 프리미어 (Solaria Nishitetsu Hotel Kyoto Premier),https://pix8.agoda.net/hotelImages/1621582/-1/9a8f2bcbbb731171cb51892ed34c2ce8.jpg?ce=0&s=1024x768,4879
+소테츠 프레사 인 교토-기요미즈 고조 (Sotetsu Fresa Inn Kyoto-Kiyomizu Gojo),https://pix8.agoda.net/hotelImages/29220092/-1/84abfcf46220a2f685811be955570515.jpg?ca=29&ce=0&s=1024x768,2414
+리치몬드 호텔 프리미어 교토 에키마에 (Richmond Hotel Premier Kyoto Ekimae),https://pix8.agoda.net/hotelImages/6692502/-1/82ad82a7f4184f5152415c21a77e3bb5.jpg?ca=8&ce=1&s=1024x768,5866
+그랑벨 호텔 스스키노 (GRANBELL HOTEL SUSUKINO),https://pix8.agoda.net/hotelImages/23540058/-1/4ac2570241603d147003ebbb491fa275.jpg?ca=21&ce=0&s=1024x768,5456
+호텔 몬토레 에델호프 삿포로 (Hotel Monterey Edelhof Sapporo),https://pix8.agoda.net/hotelImages/108308/-1/d15444bbff2dbacf0a8e98a637a6327f.jpg?ce=0&s=1024x768,4096
+베셀 호텔 캄파나 스스키노 (Vessel Hotel Campana Susukino),https://pix8.agoda.net/hotelImages/6577574/-1/aafb53d09742bff6e5fbd3fd8b065762.jpg?ca=8&ce=1&s=1024x768,3790
+게이큐 엑스 호텔 삿포로 (KEIKYU EX HOTEL Sapporo),https://pix8.agoda.net/hotelImages/31423128/503623223/7b3a13557db2bc060e7a702534c9fa8d.jpg?ce=0&s=1024x768,1129
+Fairfield by Marriott Hokkaido Eniwa,https://pix8.agoda.net/hotelImages/31562792/-1/90eecffc7fab36d9e9532d383a3aeed6.jpg?ce=0&s=1024x768,161
+라젠트 스테이 삿포로 오도리 홋카이도 (La'Gent Stay Sapporo Odori Hokkaido),https://pix8.agoda.net/hotelImages/1179583/-1/a380d9629979ee9395395448393af8a7.jpg?ce=0&s=1024x768,10010
+JR-이스트 호텔 메츠 삿포로 (JR-EAST HOTEL METS SAPPORO),https://pix8.agoda.net/hotelImages/5944027/-1/15ba0d066c355e7e43f711166f3e0c20.jpg?ca=8&ce=1&s=1024x768,3927
+그랑벨 호텔 삿포로 (GRANBELL HOTEL SAPPORO),https://pix8.agoda.net/hotelImages/22001968/-1/dddf09656dcd8d1f2bbf672ca66a1847.jpg?ca=22&ce=0&s=1024x768,3502
+JR-이스트 호텔 메츠 삿포로 (JR-EAST HOTEL METS SAPPORO),https://pix8.agoda.net/hotelImages/5944027/-1/15ba0d066c355e7e43f711166f3e0c20.jpg?ca=8&ce=1&s=1024x768,3927
+프리미어 호텔 나카지마 파크 삿포로 (Premier Hotel Nakajima Park Sapporo),https://pix8.agoda.net/hotelImages/76378/-1/0d4ed3b2298bf1f8095c157be91d900c.jpg?ce=0&s=1024x768,2039

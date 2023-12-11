@@ -8,7 +8,7 @@ import json
 
 driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
-input_path = '../Data/Region_Data/region_data.json'
+input_path = '../Data/Region_Data/region_data_copy_attr.json'
 ATTR_MAX = 15
 
 def load_json_data(json_path):
@@ -115,8 +115,6 @@ def country_crawler(country, regions):
             attr_name = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]').text.lstrip()
             print(attr_name)
             sleep(5)
-            
-            # 관광지 사진 저장
             
             
             ################### 긍정적 리뷰 (4~5점)
