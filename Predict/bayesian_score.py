@@ -2,7 +2,7 @@ import pandas as pd
 
 # 미리 저장된 CSV 파일로부터 데이터를 불러옵니다.
 attr_df = pd.read_csv('../Data/Predicted_Data/attr_review_analysis.csv')
-accom_df = pd.read_csv('../Data/Predicted_Data/accom_review_analysis.csv')
+accom_df = pd.read_csv('../Data/Predicted_Data/accom_review_analysis.csv')  
 
 # 전체 리뷰 개수에서 긍정 리뷰의 평균 비율을 계산합니다.
 total_pos_reviews = attr_df['ATTR_REV_POS'].sum() + accom_df['ACCOM_REV_POS'].sum()
@@ -30,6 +30,3 @@ accom_df['score'] = accom_df.apply(calculate_bayesian_score, axis=1, review_type
 # 계산된 점수를 새로운 CSV 파일로 저장합니다.
 attr_df.to_csv('../Data/Predicted_Data/attr_review_analysis_scores2.csv', index=False)
 accom_df.to_csv('../Data/Predicted_Data/accom_review_analysis_scores2.csv', index=False)
-
-# 결과의 처음 몇 줄을 출력하여 확인합니다.
-attr_df.head(), accom_df.head()
