@@ -11,7 +11,9 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: 'root'
     password: '0000'
-
+server:
+  port : 8081
+  address: 172.31.15.7
 
 
 # JPA 사용

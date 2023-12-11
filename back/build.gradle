@@ -60,14 +60,11 @@ repositories {
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
-
     implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:3.0.2'
     testImplementation 'org.projectlombok:lombok:1.18.28'//mybatis
     compileOnly 'org.projectlombok:lombok'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
-
     runtimeOnly 'com.mysql:mysql-connector-j'  // MySQL 8.0.31 이후 버전
-
     annotationProcessor 'org.projectlombok:lombok'
     testAnnotationProcessor 'org.projectlombok:lombok'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'

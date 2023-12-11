@@ -33,15 +33,15 @@ const SearchRankCountry = () => {
                     <Table aria-label="simple table">
                         <TableHead>
                             <TableRow>
-                                <TableCell>국가</TableCell>
-                                <TableCell align="right">검색량</TableCell>
+                                <TableCell sx={{fontSize: 17}}>국가</TableCell>
+                                <TableCell align="right" sx={{fontSize: 17}}>검색량</TableCell>
                             </TableRow>
                         </TableHead>
                         <TableBody>
                             { searchRank && ( searchRank.map((item) => (
                                 <TableRow key={item.cntName}>
-                                    <TableCell>{item.cntName}</TableCell>
-                                    <TableCell align="right">
+                                    <TableCell sx={{fontSize: 17}}>{item.cntName}</TableCell>
+                                    <TableCell sx={{fontSize: 17}} align="right" >
                                         {item.searchVol}
                                     </TableCell>
                                 </TableRow>

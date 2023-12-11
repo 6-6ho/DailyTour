@@ -124,7 +124,7 @@ const SelectYearChart = () => {
               )))
             }
         </Select>
-        <Bar type='bar' data={countryStatData} options={options} height="130px" className='monthly-line-charts'/>
+        <Bar type='bar' data={countryStatData} options={options} height="168px" className='monthly-line-charts'/>
       </DashboardCard>
 
     )
