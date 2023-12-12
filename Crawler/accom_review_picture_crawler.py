@@ -216,9 +216,10 @@ def hotel_review_crawling(country, region, hotel_url_list):
                         continue
 
                     if i == 1:
-                        train_data.append({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
+                        recent_data.append({ 'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
                     else:
-                        recent_data.append({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
+                        if not (float(review_score)//2 == 3.0):
+                            train_data.append({'country':country, 'region': region, 'hotel_name':hotel_name, 'score':float(review_score)//2, 'title':review_title, 'content':review_content})
 
 
                 try : 
