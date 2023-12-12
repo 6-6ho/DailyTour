@@ -34,7 +34,7 @@ public interface CountryInfoMapper {
     List<Attraction> findRegListByCntCode(String cntCode);    // 지역 리스트
 
     @Select("SELECT distinct CNT_CODE as cntCode, CNT_NAME as cntName " +
-            "FROM country_tb ")
+            "FROM country_tb")
     List<Country> findCountryList();        // 국가 리스트
 
 

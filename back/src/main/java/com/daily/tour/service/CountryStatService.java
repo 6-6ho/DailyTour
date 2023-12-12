@@ -7,11 +7,11 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 
 @Service
-public class CountryService {
+public class CountryStatService {
 
     private final CountryStatMapper countryStatMapper;
 
-    public CountryService(CountryStatMapper countryStatMapper) {
+    public CountryStatService(CountryStatMapper countryStatMapper) {
         this.countryStatMapper = countryStatMapper;
     }
 

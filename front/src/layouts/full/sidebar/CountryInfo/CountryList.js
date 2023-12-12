@@ -17,7 +17,7 @@ const CountryList = () => {
 	        .then( res => { return res.json() } ) 
 	        .then( data => {
                 setCntList(data);
-                console.log(`country list fetch : ${data[0]}`);
+                console.log(`country list fetch : ${data}`);
                 // if(data.length > 0) {
                 //     setCntName(data[0].cntName);
                 //     setRegCode(data[0].regCode);
