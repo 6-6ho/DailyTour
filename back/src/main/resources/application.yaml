@@ -7,7 +7,7 @@ spring:
 #      allowed-methods: GET,POST,PUT,DELETE
 #      allowed-headers: "*"
   datasource:
-    url: jdbc:mysql://dailytour-db.com6viqncmzq.ap-northeast-2.rds.amazonaws.com:3306/tourdb
+    url: jdbc:mysql://database-1.com6viqncmzq.ap-northeast-2.rds.amazonaws.com:3306/tourdb
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: 'admin'
     password: 'admin123'
