@@ -5,12 +5,13 @@ import RecentlyMonthRank from './CountryRank/RecentlyMonthRank';
 import RecentlyYearRank from './CountryRank/RecentlyYearRank';
 import CountryRegInfo from './CountryInfo/CountryRegInfo';
 import { useLocation } from 'react-router';
+import CountryList from './CountryInfo/CountryList';
 
 const Sidebar = (props) => {
 
   const lgUp = useMediaQuery((theme) => theme.breakpoints.up("lg"));
 
-  const sidebarWidth = '300px';
+  const sidebarWidth = '250px';
   const location = useLocation();
 
   console.log(location);
@@ -57,7 +58,10 @@ const Sidebar = (props) => {
               {/* ------------------------------------------- */}
               {/* <SidebarItems /> */}
 
-              {
+              <Box>
+                <CountryList />
+              </Box>
+              {/* {
                 location.pathname === '/dashboard' ? (
                   <Box>
                     <RecentlyMonthRank />
@@ -71,7 +75,7 @@ const Sidebar = (props) => {
                 null
                   
                
-              }
+              } */}
                           
             
             

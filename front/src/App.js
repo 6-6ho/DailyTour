@@ -3,8 +3,6 @@ import { useRoutes } from 'react-router-dom';
 import Router from './routes/Router';
 import { useState } from 'react';
 import { baselightTheme } from "./theme/DefaultColors";
-import Attractions from './views/dashboard/components/Attractions';
-import Accomodations from './views/dashboard/components/Accomodations';
 import { RegCodeProvider } from './context/RegCodeContext';
 
 function App() {

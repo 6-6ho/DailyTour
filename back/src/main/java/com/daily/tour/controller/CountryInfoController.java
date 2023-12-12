@@ -1,9 +1,11 @@
 package com.daily.tour.controller;
 
 import com.daily.tour.dto.Attraction;
+import com.daily.tour.dto.Country;
 import com.daily.tour.dto.CountryInfo;
 import com.daily.tour.service.CountryInfoService;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.coyote.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -42,6 +44,11 @@ public class CountryInfoController {
     @GetMapping("/avg-rate/{cntCode}")
     public ResponseEntity<CountryInfo> getAverageExRate(@PathVariable String cntCode) {  // 국가 평균 환율
         return ResponseEntity.ok().body(countryInfoService.getAverageExRate(cntCode));
+    }
+
+    @GetMapping("/country-list")
+    public ResponseEntity<List<Country>> getCountryList() {
+        return ResponseEntity.ok().body(countryInfoService.getCountryList());
     }
 
 

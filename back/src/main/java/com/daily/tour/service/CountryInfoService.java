@@ -34,4 +34,8 @@ public class CountryInfoService {
     public CountryInfo getAverageExRate(String cntCode) {  // 평균 환율
         return countryInfoMapper.findAverageExRate(cntCode);
     }
+
+    public List<Country> getCountryList() {
+        return countryInfoMapper.findCountryList();
+    }
 }
