@@ -1,4 +1,4 @@
-CNT_NAME,REG_NAME,ATTR_NAME,ATTR_REV_POS,ATTR_REV_NEG,score
+CNT_NAME,REG_NAME,ATTR_NAME,ATTR_REV_POS,ATTR_REV_NEG,SCORE
 뉴질랜드,오클랜드 중심가,오클랜드 도메인,28,2,4.51
 뉴질랜드,오클랜드 중심가,이든 산,30,0,4.7
 뉴질랜드,오클랜드 중심가,비아덕트 하버,29,1,4.6
