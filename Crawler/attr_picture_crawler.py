@@ -7,8 +7,9 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import json
 import pandas as pd
+import random
 
-driver = webdriver.Chrome()
+random_sleep_time = random.uniform(4, 6)
 main_url = 'https://www.tripadvisor.co.kr/'
 input_path = '../Data/Region_Data/region_data_for_attr_picture.json'
 ATTR_MAX = 15
@@ -27,32 +28,48 @@ def controller():
         country = country_info['country']
         regions = country_info['regions']
         country_crawler(country, regions)
-        
-    driver.quit()
     
 
 def country_crawler(country, regions):
     # 메인 페이지 들어가기
+    
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.3",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.3",
+        "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+        "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.3",
+        "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.3"
+    ]
+    
     country_img_path = pd.DataFrame(columns=["ATTR_NAME", "IMG_PATH", "TOTAL_REVIEWS"]) 
+    user_agent = random.choice(user_agents)
+    
+    options = webdriver.ChromeOptions()
+    options.add_argument(f'user-agent={user_agent}')
+    driver = webdriver.Chrome(options=options)
     
     for region in regions:
         driver.get(main_url)
         driver.implicitly_wait(5)
-        sleep(2)
+        sleep(random_sleep_time)
         
         # 지역 검색창에 입력 후 엔터
-        driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[4]/div/div/div[2]/div/form/div/div/input').click
         input_text = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[4]/div/div/div[2]/div/form/div/div/input')
         input_text.send_keys(region)
-        sleep(2)
+        sleep(random_sleep_time)
         input_text.send_keys(Keys.ENTER)
-        sleep(8)
+        sleep(random_sleep_time)
         
         # 즐길거리 클릭
         try:
             driver.find_element(By.XPATH, '//*[@id="search-filters"]/ul/li[4]/a').click()
             driver.implicitly_wait(5)
-            sleep(5)
+            sleep(random_sleep_time)
         except:
             print('not exist search-filter')
             continue
@@ -86,11 +103,14 @@ def country_crawler(country, regions):
         to_remove = []
 
         for i in range(1, len(attr_hrefs) + 1):
-            adjusted_index = i + (i - 1) // 5
-            xpath = f'/html/body/div[2]/div/div[2]/div/div/div/div/div[1]/div/div[1]/div/div[3]/div/div[1]/div/div[2]/div/div/div[{adjusted_index}]/div/div/div/div[2]/div[1]/div[3]/div[1]'
-            region_data = driver.find_element(By.XPATH, xpath).text
-            if region not in region_data:
-                to_remove.append(i)
+            if i not in (7, 13):
+                xpath = f'/html/body/div[2]/div/div[2]/div/div/div/div/div[1]/div/div[1]/div/div[3]/div/div[1]/div/div[2]/div/div/div[{i}]/div/div/div/div[2]/div[1]/div[3]/div[1]'
+                region_data = driver.find_element(By.XPATH, xpath).text
+                if region not in region_data:
+                    if i > 7:
+                        to_remove.append(i-1)
+                    elif i > 13:
+                        to_remove.append(i-2)
 
         # 제거할 인덱스 리스트를 역순으로 정렬
         to_remove.sort(reverse=True)
@@ -103,12 +123,12 @@ def country_crawler(country, regions):
         for i in range(min(ATTR_MAX, len(attr_hrefs))):
             driver.get(f"{main_url}{attr_hrefs[i]}")
             driver.implicitly_wait(5)
-            sleep(4)
+            sleep(random_sleep_time)
             
             # 관광지 이름        
             attr_name = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]').text.lstrip()
             driver.implicitly_wait(5)
-            sleep(4)
+            sleep(random_sleep_time)
             
             # 관광지 사진 링크
             xpath = '/html/body/div[1]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/section[2]/div/div/div/div[2]/div/div/div/div/div[1]/div/div/div/div[1]/div/div[1]/ul/li[1]/div/picture/img'
@@ -133,7 +153,7 @@ def country_crawler(country, regions):
             
             country_img_path = pd.concat([country_img_path, new_row], ignore_index=True)
                 
-            sleep(3)
+            sleep(random_sleep_time)
     
     csv_output_path = f'../Data/picture-data/attr/{country}_img_path_reviews.csv'
     country_img_path.to_csv(csv_output_path, index=False, encoding='utf-8')
