@@ -65,8 +65,8 @@ def analyze_reviews(review_type, data_directory, output_directory):
                     'CNT_NAME': cnt_name,
                     'REG_NAME': region,
                     f'{review_type.upper()}_NAME': name,
-                    'REV_POS': counts['pos'],
-                    'REV_NEG': counts['neg']
+                    f'{review_type.upper()}_REV_POS': counts['pos'],  # 수정된 부분
+                    f'{review_type.upper()}_REV_NEG': counts['neg']   # 수정된 부분
                 })
 
     # 결과를 저장합니다.

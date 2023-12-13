@@ -28,5 +28,5 @@ attr_df['score'] = attr_df.apply(calculate_bayesian_score, axis=1, review_type='
 accom_df['score'] = accom_df.apply(calculate_bayesian_score, axis=1, review_type='ACCOM')
 
 # 계산된 점수를 새로운 CSV 파일로 저장합니다.
-attr_df.to_csv('../Data/Predicted_Data/attr_review_analysis_scores2.csv', index=False)
-accom_df.to_csv('../Data/Predicted_Data/accom_review_analysis_scores2.csv', index=False)
+attr_df.to_csv('../Data/Predicted_Data/attr_review_analysis_scores.csv', index=False)
+accom_df.to_csv('../Data/Predicted_Data/accom_review_analysis_scores.csv', index=False)
