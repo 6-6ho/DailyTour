@@ -5,22 +5,32 @@ attr_df = pd.read_csv('../Data/Predicted_Data/attr_review_analysis.csv')
 accom_df = pd.read_csv('../Data/Predicted_Data/accom_review_analysis.csv')  
 
 # 전체 리뷰 개수에서 긍정 리뷰의 평균 비율을 계산합니다.
-total_pos_reviews = attr_df['ATTR_REV_POS'].sum() + accom_df['ACCOM_REV_POS'].sum()
-total_reviews = total_pos_reviews + attr_df['ATTR_REV_NEG'].sum() + accom_df['ACCOM_REV_NEG'].sum()
-P_avg = total_pos_reviews / total_reviews  # 전체 리뷰 중 긍정 리뷰의 평균 비율
+attr_pos_reviews = attr_df['ATTR_REV_POS'].sum()
+accom_pos_reviews = accom_df['ACCOM_REV_POS'].sum()
+
+attr_total_reviews = attr_pos_reviews + attr_df['ATTR_REV_NEG'].sum()
+accom_total_reviews = accom_pos_reviews + accom_df['ACCOM_REV_POS'].sum()
+attr_P_avg = attr_pos_reviews / attr_total_reviews  # 전체 리뷰 중 긍정 리뷰의 평균 비율
+accom_P_avg = accom_pos_reviews / accom_total_reviews
+
 
 # 평균 리뷰 개수를 이용해 가중치 C를 계산합니다.
-C = total_reviews / (len(attr_df) + len(accom_df))
+attr_C = attr_total_reviews / len(attr_df)
+accom_C = accom_total_reviews / len(accom_df)
+
 
 # 베이지안 점수 계산 함수
 def calculate_bayesian_score(row, review_type):
-    # 긍정 리뷰와 부정 리뷰의 총 개수
+    if review_type == 'ATTR':
+        C = attr_C
+        P_avg = attr_P_avg
+    elif review_type == 'ACCOM':
+        C = accom_C
+        P_avg = accom_P_avg
+
     n = row[f'{review_type}_REV_POS'] + row[f'{review_type}_REV_NEG']
-    # 해당 항목의 긍정 리뷰 비율
     P_item = row[f'{review_type}_REV_POS'] / n if n else 0
-    # 베이지안 평균 점수 계산
     P_bayes = (C * P_avg + n * P_item) / (C + n)
-    # 5점 척도로 변환하여 반올림
     return round(P_bayes * 5, 2)
 
 # 베이지안 점수 계산을 각 행에 적용

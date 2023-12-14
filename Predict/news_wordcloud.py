@@ -6,7 +6,7 @@ from wordcloud import WordCloud
 import numpy as np
 from PIL import Image
 
-img_mask = np.array(Image.open('heart_shape.png'))
+img_mask = np.array(Image.open('airplane.png'))
 
 def text_normalization(text: str)-> str:
     okt = Okt()
@@ -39,7 +39,7 @@ def load_news_file() -> None:
 def generate_wordcloud(text):
     normed_text = text_normalization(text)
     
-    wordcloud = WordCloud(width=300, height=200, max_words=200, max_font_size=30, min_font_size=5, mask=img_mask,
+    wordcloud = WordCloud(width=300, height=200, max_words=200, max_font_size=40, min_font_size=10, mask=img_mask,
                           background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
     save_wordcloud(wordcloud)
 
