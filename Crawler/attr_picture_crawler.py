@@ -38,7 +38,7 @@ def country_crawler(country, regions):
     for region in regions:
         driver.get(main_url)
         driver.implicitly_wait(5)
-        sleep(2)
+        sleep(5)
         
         # 지역 검색창에 입력 후 엔터
         input_text = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[4]/div/div/div[2]/div/form/div/div/input')
