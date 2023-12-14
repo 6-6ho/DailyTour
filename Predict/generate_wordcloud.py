@@ -7,8 +7,8 @@ from train import remove_locations
 from wordcloud import WordCloud
 from PIL import Image
 import pandas as np
-
-img_mask = np.array(Image.open('heart_shape.png'))
+    
+img_mask = np.array(Image.open('airplane.png'))
 
 def text_normalization(text: str)-> str:
     okt = Okt()
@@ -78,7 +78,7 @@ def generate_wordcloud(text, item_name, item_type):
         word_count = len(normed_text.split())
         if word_count >= 10:
             try:
-                wordcloud = WordCloud(width=400, height=200, max_words=100, mask=img_mask,
+                wordcloud = WordCloud(width=250, height=200, max_words=100, mask=img_mask, max_font_size=30, min_font_size=10,
                                       background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
                 save_wordcloud(wordcloud, item_code)
             except ValueError:

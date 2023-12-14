@@ -1,0 +1,728 @@
+CNT_NAME,REG_NAME,ACCOM_NAME,ACCOM_REV_POS,ACCOM_REV_NEG,SCORE
+뉴질랜드,오클랜드 중심가,아바니 오클랜드 메트로폴리스 레지던스 (Avani Auckland Metropolis Residences),13,2,3.56
+뉴질랜드,오클랜드 중심가,힐튼 오클랜드 (Hilton Auckland),1,2,2.54
+뉴질랜드,오클랜드 중심가,Imagine Beach Road,3,0,3.13
+뉴질랜드,오클랜드 중심가,이비스 버짓 오클랜드공항 (ibis Budget Auckland Airport),13,2,3.33
+뉴질랜드,오클랜드 중심가,JetPark Hotel Auckland Airport,12,3,3.33
+뉴질랜드,오클랜드 중심가,크라운 플라자 오클랜드 (Crowne Plaza Auckland),12,0,3.62
+뉴질랜드,오클랜드 중심가,Swiss-Belsuites Victoria Park Auckland,14,1,3.64
+뉴질랜드,오클랜드 중심가,나우미 호텔 오클랜드 에어포트 (Naumi Hotel Auckland Airport),12,3,3.36
+뉴질랜드,오클랜드 중심가,SkyCity Hotel,13,2,3.52
+뉴질랜드,오클랜드 중심가,그랜드 밀레니엄 오클랜드 (Grand Millennium Auckland),12,2,3.56
+뉴질랜드,퀸즈타운,Garden Court Guest House,3,0,2.64
+뉴질랜드,퀸즈타운,Komani Resorts,0,3,2.25
+뉴질랜드,크라이스트처치,수디마 크라이스트처치 공항 (Sudima Christchurch Airport),15,0,3.9
+뉴질랜드,크라이스트처치,크라이스트처치 시티 호텔 (Christchurch City Hotel),12,0,3.84
+뉴질랜드,크라이스트처치,"샤토 온 더 파크 - 크라이스트처치, 어 더블 트리 바이 힐튼 (Chateau on the Park - Christchurch, a DoubleTree by Hilton)",6,3,3.11
+뉴질랜드,크라이스트처치,브레이크프리 온 캐셀 크라이스트처치 (BreakFree on Cashel Christchurch),10,5,2.79
+뉴질랜드,크라이스트처치,호텔 기브 (Hotel Give),10,5,3.23
+뉴질랜드,크라이스트처치,이비스 크라이스트처치 (ibis Christchurch),11,2,3.46
+뉴질랜드,크라이스트처치,센터 포인트 온 콜롬보 모텔 (CentrePoint on Colombo Motel),11,0,3.82
+뉴질랜드,크라이스트처치,노보텔 크라이스트처치 에어포트 (Novotel Christchurch Airport),4,2,3.23
+뉴질랜드,웰링턴,오크스 웰링턴 호텔 (Oaks Wellington Hotel),3,0,3.46
+뉴질랜드,웰링턴,리지스 웰링턴 (Rydges Wellington),13,2,3.3
+뉴질랜드,웰링턴,Rydges Wellington Airport,6,0,3.54
+뉴질랜드,웰링턴,더 매리언 호스텔 (The Marion Hostel),15,0,3.9
+뉴질랜드,웰링턴,이비스 웰링턴 (ibis Wellington),9,6,2.69
+뉴질랜드,웰링턴,트래블로지 호텔  웰링톤 (Travelodge Hotel Wellington),3,3,2.69
+뉴질랜드,웰링턴,Microtel by Wyndham Wellington,13,2,3.26
+뉴질랜드,웰링턴,Naumi Hotel Wellington,15,0,3.87
+뉴질랜드,웰링턴,호텔 워털루 앤 백패커 (Hotel Waterloo & Backpackers),8,7,2.49
+뉴질랜드,웰링턴,윌리스 웰링턴 호텔 (Willis Wellington Hotel),13,2,3.39
+대만,타이페이,타이페이 가든 호텔 (Taipei Garden Hotel),42,18,3.59
+대만,타이페이,시저 메트로 타이베이 (Caesar Metro Taipei),74,46,3.15
+대만,타이페이,코스모스 호텔 타이베이 메인 스테이션 (Cosmos Hotel Taipei Main Station),44,16,3.75
+대만,타이페이,로더스 플러스 호텔 타이베이 스테이션 (Roaders Plus Hotel Taipei Station),53,7,4.39
+대만,타이페이,호텔 참 참 - 타이베이 (HOTEL CHAM CHAM - Taipei),47,9,4.05
+대만,타이페이,시저 파크 호텔 (Caesar Park Hotel),42,18,3.49
+대만,타이페이,미라마 가든 호텔 (Miramar Garden Hotel),48,9,4.1
+대만,타이페이,저스트 슬립 호텔 시먼딩 (Just Sleep Hotel Ximending),43,17,3.74
+대만,타이페이,마예르 인 (Mayer Inn),43,16,3.64
+대만,가오슝,더 클라우드 호텔 (The Cloud Hotel),44,13,3.87
+대만,가오슝,Hotel YAM LAGOM,9,0,3.56
+대만,가오슝,HOTEL YOSHI KAOHSIUNG,24,0,4.25
+대만,가오슝,카인드네스 호텔 치서안 (Kindness Hotel Qixian),3,2,2.69
+대만,가오슝,그리트 인 (GREET INN),57,3,4.69
+대만,가오슝,에어라인 인 - 가오슝 스테이션 (Airline Inn - Kaohsiung Station ),55,3,4.72
+대만,가오슝,inns hotel,52,8,4.3
+대만,가오슝,스카이원 호텔 (Skyone Hotel),47,13,4.05
+대만,가오슝,CU 호텔 가오슝 (CU Hotel Kaohsiung),15,0,3.61
+대만,가오슝,레전드 호텔 피어 2 (Legend Hotel Pier 2),58,2,4.75
+대만,화롄,메시 호텔 (Meci Hotel),19,5,3.66
+대만,화롄,파크 시티 호텔 - 화롄 베케이션 (Park City Hotel - Hualien Vacation),14,5,3.38
+대만,화롄,TC HOTEL HUALIEN ZHONG XIAO,15,3,3.44
+대만,화롄,찬타이 호텔 (Chantai Hotel),0,12,1.18
+대만,화롄,저스트 슬립 화롄 종정 (Just Sleep Hotel Hualien Zhongzheng),30,0,4.34
+대만,화롄,레이크쇼 Hotel 화롄 (Lakeshore Hotel Hualien),33,3,4.15
+대만,화롄,코지 하우스 호스텔 (Cozy House Hostel),42,3,4.25
+대만,화롄,Lakeshore Hotel Hualien Taroko,12,0,3.59
+대만,화롄,스태리 인 (Starry Inn),3,0,2.64
+대만,화롄,글렌우드 비앤비 (Glenwood Bed and Breakfast),12,0,3.95
+대만,타이난,LakeShore Hotel Tainan,16,7,3.31
+대만,타이난,U.I.J Hotel&Hostel (UIJ),58,0,4.92
+대만,타이난,더 레트로 타이판 (The Retro Tai-Pan),16,1,3.92
+대만,타이난,웨이 얏 그랜드호텔 (Wei-Yat Grand Hotel),18,18,2.61
+대만,타이난,Oinn Hotel & Hostel,6,0,3.3
+대만,타이난,그랜드 반얀 호텔 (Grand Banyan Hotel),2,0,3.07
+대만,타이난,Provintia Hotel,56,3,4.61
+대만,타이난,창위 호텔 (CHANGYU HOTEL),15,6,3.21
+독일,베를린,오칵 호텔 (Ocak Hotel),55,3,4.46
+독일,베를린,인터콘티넨탈 베를린 (InterContinental Berlin),9,0,3.95
+독일,베를린,더 서커스 호스텔 (The Circus Hostel),52,8,4.39
+독일,베를린,에스트렐 호텔 (Estrel Hotel),6,3,2.77
+독일,베를린,Locke at East Side Gallery,15,0,4.0
+독일,베를린,셀렉트 호텔 베를린 더 월 (Select Hotel Berlin The Wall),48,12,3.98
+독일,베를린,파크 인 바이 래디슨 베를린 알렉산더플라츠 (Park Inn by Radisson Berlin Alexanderplatz),21,8,3.57
+독일,베를린,모비주 호텔 (Monbijou Hotel),46,3,4.52
+독일,베를린,호텔 아마노 그랜드 센트럴 (Hotel AMANO Grand Central),38,4,4.26
+독일,베를린,오칵 아파트먼트 앤 호텔 (Ocak Apartment & Hotel),7,3,2.77
+독일,뮌헨,호텔 유로파이세르 호프 (Hotel Europäischer Hof),18,6,3.26
+독일,뮌헨,Bayer 89 Vi Vadi Hotel,51,7,4.44
+독일,뮌헨,유료 유스 호텔 (Euro Youth Hotel),21,9,3.49
+독일,뮌헨,호텔 토르브라우 (Hotel Torbraeu),6,3,2.95
+독일,뮌헨,WunderLocke,27,3,3.85
+독일,뮌헨,슈어 호텔 바이 베스트웨스턴 뮌헨 하우프트반호프 (Sure Hotel by Best Western München Hauptbahnhof),24,20,2.89
+독일,뮌헨,"Flightgate Munich Airport Hotel, a member of Radisson Individuals",3,3,2.44
+독일,뮌헨,부티크 호텔 게르마니아 (Boutique Hotel Germania),26,17,2.95
+독일,뮌헨,mk 호텔 뮌헨 시티 (mk hotel muenchen city),18,9,3.26
+독일,뮌헨,플레밍 호텔 뮌헨 슈바빙 (Fleming's Hotel Munich Schwabing),15,3,3.52
+독일,함부르크,부티크 053 함부르크 메인 스테이션 (Boutique 053 Hamburg Main Station),6,3,2.95
+독일,함부르크,유로패에이스처 호프 (Europaeischer Hof),21,0,4.11
+독일,함부르크,NYCE Hotel Hamburg City,9,0,3.95
+독일,함부르크,루비 로티 호텔 함부르크 (Ruby Lotti Hotel Hamburg),51,0,4.44
+독일,함부르크,prizeotel Hamburg-St Pauli,24,0,3.92
+독일,함부르크,제너레이터 함부르크 (Generator Hamburg),37,21,3.34
+독일,함부르크,a&o 함부르크 시티 (a&o Hamburg City),24,18,2.82
+독일,함부르크,마이닝어 호텔 함부르크 시티 센터 (MEININGER Hotel Hamburg City Center),0,3,2.25
+독일,함부르크,a&o 함부르크 하우프트반호프 (a&o Hamburg Hauptbahnhof),3,42,1.0
+마카오,마카오,더 베네치안 마카오 (The Venetian Macao),42,16,3.57
+마카오,마카오,더 파리지안 마카오 (The Parisian Macao),46,14,3.89
+마카오,마카오,더 런더너 호텔 (The Londoner Hotel),9,0,3.79
+마카오,마카오,JW 메리어트 호텔 마카오 (JW Marriott Hotel Macau),56,4,4.69
+마카오,마카오,Sheraton Grand Macao,43,17,3.52
+마카오,마카오,Grand Lisboa Palace Macau,54,5,4.38
+마카오,마카오,Belive&More,47,12,4.05
+마카오,마카오,스튜디오 시티 호텔 (Studio City Hotel),43,17,3.57
+마카오,마카오,호텔 로얄 마카오 (Hotel Royal Macau),31,24,2.85
+마카오,마카오,리오 호텔 마카오 (Rio Hotel Macau),40,19,3.36
+말레이시아,쿠알라룸푸르,힐튼 가든 인 쿠알라 룸푸르 - 노스 (Hilton Garden Inn Kuala Lumpur - North),9,0,3.56
+말레이시아,쿠알라룸푸르,Deface Platinum 2 Kuala Lumpur,10,5,2.98
+말레이시아,쿠알라룸푸르,디페이스 플래티넘 쿠알라룸푸르 (DeFace Platinum Kuala Lumpur),4,10,2.16
+말레이시아,쿠알라룸푸르,데 루나 호텔 스리 페탈링 (De Luna Hotel Sri Petaling),15,0,3.38
+말레이시아,쿠알라룸푸르,홀리데이 인 익스프레스 쿠알라 룸푸르 시티 센터 (Holiday Inn Express Kuala Lumpur City Centre),10,4,3.25
+말레이시아,쿠알라룸푸르,산타 그랜드 시그니처 쿠알라룸푸르 (Santa Grand Signature Kuala Lumpur),16,8,3.16
+말레이시아,쿠알라룸푸르,Park Inn by Radisson Putrajaya,15,0,3.25
+말레이시아,쿠알라룸푸르,힐튼 가든 인 쿠알라 룸푸르 - 사우스 (Hilton Garden Inn Kuala Lumpur - South),8,4,3.28
+말레이시아,쿠알라룸푸르,Platinum Suites 2 by DM Kuala Lumpur,10,5,3.44
+말레이시아,코타키나발루,힐튼 코타키나발루 (Hilton Kota Kinabalu),9,6,2.72
+말레이시아,코타키나발루,코타 키나발루 메리어트 호텔 (Kota Kinabalu Marriott Hotel),11,4,3.2
+말레이시아,코타키나발루,호라이즌 호텔 코타키나발루 (Horizon Hotel Kota Kinabalu),12,2,3.28
+말레이시아,코타키나발루,사바 오리엔탈 호텔 (Sabah Oriental Hotel),6,7,2.54
+말레이시아,코타키나발루,더 마젤란 수테라 리조트 (The Magellan Sutera Resort),9,6,2.79
+말레이시아,코타키나발루,하얏트 리젠시 키나발루 (Hyatt Regency Kinabalu),10,5,3.13
+말레이시아,코타키나발루,Signel Poshtel,15,0,4.07
+말레이시아,코타키나발루,머큐어 코타키나발루 시티센터 (Mercure Kota Kinabalu City Centre),10,5,2.95
+말레이시아,코타키나발루,모나코 부티크 호텔 사동 자야 (Monaco Boutique Hotel Sadong Jaya),2,2,2.69
+말레이시아,코타키나발루,Jesselton Quay by Pinstay,5,5,2.74
+말레이시아,랑카위,Wings by Croske Resort Langkawi ,6,0,3.79
+말레이시아,랑카위,"벨라 비스타 워터프런트 리조트, 랑카위 (Bella Vista Waterfront Resort, Langkawi)",4,11,1.66
+말레이시아,랑카위,샌디 비치 리조트 바이 카사 로마 (Sandy Beach Resort by Casa Loma),3,9,1.62
+말레이시아,랑카위,베스트 스타 리조트 (Best Star Resort),5,7,2.3
+말레이시아,랑카위,칠 스위트 랑카위 (Chill Suites Langkawi),10,1,3.75
+말레이시아,랑카위,베이뷰 호텔 랑카위 (Bayview Hotel Langkawi),6,9,2.3
+말레이시아,랑카위,The RIYAZ Lavanya,3,0,3.62
+말레이시아,랑카위,옴박 빌라 랑카위 (Ombak Villa Langkawi),8,4,2.9
+말레이시아,랑카위,선셋 베이 코티지 (Sunset Bay Cottage),5,0,3.44
+말레이시아,랑카위,세히자우@체낭 (Collection O 90622 Sehijau @ Cenang),6,6,2.82
+말레이시아,멜라카,Attic Home Melaka Imperio Residence & Jonker ,15,0,3.77
+말레이시아,멜라카,더블트리 바이 힐튼 호텔 말라카 (DoubleTree by Hilton Hotel Melaka),11,4,3.03
+말레이시아,멜라카,임페리오 레지던스 씨프런트 바이 퍼펙트 호스트 (Imperio Residence Seafront by Perfect Host),6,6,2.33
+말레이시아,멜라카,에코 트리 호텔 (Eco Tree Hotel),6,5,2.77
+말레이시아,멜라카,더 스트레이츠 호텔 앤 스위트츠 (The Straits Hotel and Suites),6,7,2.66
+말레이시아,멜라카,Imperio Residence with Private Bathtub by Lets Stay,5,3,2.62
+말레이시아,멜라카,Imperio Residence Private Bathtub @ Melaka Town,14,1,3.41
+말레이시아,멜라카,리비에라 스위트 멜라카 (Riviera Suites Melaka),0,4,1.46
+말레이시아,멜라카,미드시티 호텔 멜라카 (Midcity Hotel Melaka),0,6,2.08
+멕시코,멕시코시티,갈레리아 플라자 레포르마 (Galeria Plaza Reforma),14,1,3.51
+멕시코,멕시코시티,쉐라톤 멕시코 시티 마리아 이사벨 호텔 (Sheraton Mexico City Maria Isabel Hotel),6,6,2.82
+멕시코,멕시코시티,카미노 레알 아에로푸에르토 (Camino Real Aeropuerto),3,0,3.62
+멕시코,멕시코시티,코트야드 멕시코 시티 에어포트 (Courtyard Mexico City Airport),3,0,3.62
+멕시코,멕시코시티,NH 콜렉션 멕시코 시티 공항 T2 (NH Collection México City Airport T2),2,1,2.67
+멕시코,멕시코시티,NH 콜렉션 멕시코 시티 레포르마 (NH Collection Mexico City Reforma),9,0,3.3
+멕시코,멕시코시티,힐튼 가든 인 멕시코 시티 산타 페 (Hilton Garden Inn Mexico City Santa Fe),9,0,3.79
+멕시코,멕시코시티,Mondrian Mexico City Condesa,12,0,3.59
+멕시코,칸쿤,엠포리오 칸쿤 (Emporio Cancun),11,4,3.26
+멕시코,칸쿤,크리스탈 캉쿤 (Krystal Cancun),12,2,3.25
+멕시코,칸쿤,알로프트 칸쿤 (Aloft Cancun),1,2,2.05
+멕시코,칸쿤,TRS 코럴 호텔 - 성인 전용 - 올 인클루시브 (TRS Coral Hotel - Adults Only - All Inclusive),15,0,3.57
+멕시코,칸쿤,"Hyatt Ziva Cancun, an All Inclusive Resort",6,9,2.49
+멕시코,칸쿤,시크릿 더 바인 칸쿤 리조트 앤 스파 - 올인클루시브 - 성인 전용 (Secrets The Vine Cancun Resort & Spa - All inclusive - Adults only),14,0,3.95
+멕시코,칸쿤,InterContinental President Cancun Resort,3,0,3.13
+멕시코,칸쿤,호텔 NYX 칸쿤 (Hotel NYX Cancun),7,2,3.07
+멕시코,칸쿤,캐노피 바이 힐튼 칸쿤 라 이슬라 (Canopy by Hilton Cancun La Isla),13,2,3.49
+멕시코,칸쿤,Kempinski Hotel Cancun,3,0,3.62
+멕시코,툴룸,Eterna Tulum,3,0,3.13
+멕시코,툴룸,알로프트 툴룸 (Aloft Tulum),3,0,2.64
+멕시코,툴룸,그랜드 팔라디움 칸테나 리조트 앤 스파 (올 인클루시브) (Grand Palladium Kantenah Resort and Spa - All Inclusive),3,3,2.93
+멕시코,툴룸,Unico Hotel Riviera Maya - All Inclusive - Adults Only,15,0,3.87
+멕시코,툴룸,The Waves Tulum,15,0,3.7
+멕시코,툴룸,Kore Tulum Retreat Wellness Resort - Adults Only,14,1,3.28
+멕시코,툴룸,Conrad Tulum,6,0,3.05
+멕시코,툴룸,Mayan Monkey Tulum - Adults Only,15,0,3.48
+멕시코,프라야 델 카르멘,프라야 팜스 비치 호텔 (Playa Palms Beach Hotel),15,0,3.67
+멕시코,프라야 델 카르멘,더 파이브스 다운타운 호텔 앤 레지던스 큐리오 컬렉션 바이 힐튼 (The Fives Downtown Hotel and Residences Curio Collection by Hilton),5,1,3.43
+멕시코,프라야 델 카르멘,라 파시온 호텔 부티크 바이 부니크 (La Pasion Hotel Boutique by Bunik),6,0,3.05
+멕시코,프라야 델 카르멘,그랜드 리비에라 프린세스 - 올 인클루시브 (Grand Riviera Princess - All Inclusive),3,0,3.13
+멕시코,프라야 델 카르멘,세레니티 호텔 부티크 (Serenity Hotel Boutique),15,0,3.21
+멕시코,프라야 델 카르멘,호텔 HM 플라야 델 카르멘 (Hotel HM Playa del Carmen),12,0,3.46
+멕시코,프라야 델 카르멘,"더 리프 28 - 성인 전용, 올 스위트, 미식 옵션 올인클루시브 (The Reef 28, Adults Only, All Suites, Optional Gourmet All Inclusive)",14,1,3.48
+멕시코,프라야 델 카르멘,Aloft Playa del Carmen,9,0,3.79
+멕시코,프라야 델 카르멘,Secrets® Moxché Playa del Carmen - All Inclusive - Adults Only,12,0,4.08
+몽골,울란바토르,더 그랜드 힐 호텔 울란바토르 (The Grand Hill Hotel Ulaanbaatar),13,2,3.52
+몽골,울란바토르,졸로 호텔 (Zolo Hotel),5,10,1.56
+몽골,울란바토르,H9 호텔 나인 울란바토르 (H9 Hotel Nine Ulaanbaatar),13,1,3.43
+몽골,울란바토르,칭기스 칸 호텔 (Chinggis Khaan Hotel),10,5,3.23
+몽골,울란바토르,Ramada by Wyndham Ulaanbaatar Citycenter,11,4,3.36
+미국,뉴욕,Pod 39,21,9,3.26
+미국,뉴욕,InterContinental New York Times Square,37,21,3.21
+미국,뉴욕,포드 타임스 스퀘어 (Pod Times Square),53,6,4.33
+미국,뉴욕,호스텔링 인터내셔널 뉴 욕 (Hostelling International New York),41,19,3.57
+미국,뉴욕,Indigo NYC Downtown Wall Street,3,6,1.77
+미국,뉴욕,CLUB QUARTERS HOTEL TIMES SQUARE - MIDTOWN,27,3,4.0
+미국,뉴욕,더 맨하탄 호텔 앳 타임스 스퀘어 (The Manhattan Hotel at Times Square),20,39,1.82
+미국,뉴욕,U 호텔 피프스 애비뉴 (U Hotel Fifth Avenue),9,6,3.05
+미국,뉴욕,웨스트 사이드 YMCA 호스텔 (West Side YMCA Hostel),9,12,2.18
+미국,샌프란시스코,HI San Francisco Downtown Hostel,48,12,3.97
+미국,샌프란시스코,킴프턴 알톤 호텔 (Kimpton Alton Hotel),12,0,4.08
+미국,샌프란시스코,Samesun San Francisco,45,6,4.36
+미국,샌프란시스코,로드웨이 인 앤 스위트 샌프란시스코-그레이트 하이웨이 (Rodeway Inn & Suites San Francisco-Great Highway),23,4,3.18
+미국,샌프란시스코,샌프란시스코 메리어트 마르키스 (San Francisco Marriott Marquis),27,3,3.8
+미국,샌프란시스코,챈슬러 호텔 온 유니온 스퀘어 (Chancellor Hotel on Union Square),27,3,4.11
+미국,샌프란시스코,액시엄 호텔 샌프란시스코 (Axiom Hotel San Francisco),33,9,3.77
+미국,샌프란시스코,베이 랜딩 호텔 (Bay Landing Hotel),51,6,4.28
+미국,샌프란시스코,파크 55 샌프란시스코-힐튼 호텔 (Parc 55 San Francisco-A Hilton Hotel),41,18,3.46
+미국,샌프란시스코,킹 조지 호텔 (King George Hotel),37,17,3.39
+미국,로스엔젤레스,프리핸드 로스앤젤레스 (Freehand Los Angeles),13,10,2.79
+미국,로스엔젤레스,Moxy Downtown Los Angeles,0,3,1.75
+미국,로스엔젤레스,Stuart Hotel - Adults Only,3,3,1.7
+미국,로스엔젤레스,Conrad Los Angeles,9,0,3.95
+미국,로스엔젤레스,The Biltmore Los Angeles,41,17,3.51
+미국,로스엔젤레스,The Delphi,3,6,2.11
+미국,로스엔젤레스,E 센트럴 호텔 다운타운 로스앤젤레스 (E Central Hotel Downtown Los Angeles),15,6,3.0
+미국,로스엔젤레스,InterContinental - Los Angeles Downtown,50,10,4.1
+미국,로스엔젤레스,USC 호텔 (USC Hotel),6,6,2.77
+미국,라스베이거스,"Treasure Island Las Vegas - TI Hotel & Casino, a Radisson Hotel",39,21,3.36
+미국,라스베이거스,코트야드 라스베이거스 컨벤션 센터 (Courtyard Las Vegas Convention Center),3,0,2.64
+미국,라스베이거스,플라밍고 라스베이거스 (Flamingo Las Vegas),32,28,2.74
+미국,라스베이거스,골든 게이트 호텔 앤 카지노 (Golden Gate Hotel and Casino),3,6,2.43
+미국,라스베이거스,호스슈 라스베이거스 - 구. 발리스 (Horseshoe Las Vegas “Formerly Bally’s”),41,19,3.41
+미국,라스베이거스,The Cosmopolitan of Las Vegas,45,14,3.92
+미국,라스베이거스,엑스칼리버 호텔 (Excalibur Hotel),33,24,2.9
+미국,라스베이거스,Bellagio Hotel,41,19,3.62
+미국,라스베이거스,플래닛 할리우드 리조트 앤 카지노 (Planet Hollywood Resort & Casino),34,26,2.85
+미국,라스베이거스,Trump International Hotel Las Vegas,53,7,4.25
+미얀마,양곤,호텔 발미 (Hotel Balmi),11,1,3.34
+미얀마,양곤,체리 힐스 호텔 (Cherry Hills Hotel),3,0,3.13
+미얀마,양곤,제말락스 호텔 앤 레지던스 (Zealax Hotel & Residence),1,1,2.69
+미얀마,양곤,아웨이 메타 양곤 (Awei Metta Yangon),0,3,2.25
+미얀마,양곤,K.C 레지던스 (K.C Residence),13,2,3.66
+미얀마,양곤,후드 호스텔 (HOOD Hostel),14,0,3.95
+미얀마,양곤,에스페라도 레이크뷰 호텔 (Esperado Lake View Hotel),4,8,2.1
+미얀마,양곤,호텔 프라임 (Hotel Prime),7,7,2.72
+미얀마,양곤,121 호텔 (121 Hotel),12,0,3.84
+미얀마,양곤,자스민 팰리스 호텔 (Jasmine Palace Hotel),11,4,3.33
+미얀마,만달레이,오스텔로 벨로 만달레이 (Ostello Bello Mandalay),10,4,3.34
+미얀마,만달레이,E-아웃피팅 골든 컨트리 호텔 (E-outfitting Golden Country Hotel),9,5,2.9
+미얀마,만달레이,로얄 펄 호텔 (Royal Pearl Hotel),12,2,3.56
+미얀마,만달레이,더 홈 호텔 (The Home Hotel),12,3,3.3
+미얀마,만달레이,더 링크 78 만달레이 부티크 호텔 (The Link 78 Mandalay Boutique Hotel),9,3,3.02
+미얀마,만달레이,카웅 민트 호텔 (Kaung Myint Hotel),3,4,2.31
+미얀마,만달레이,호텔 호미 만달레이 (Hotel Homey Mandalay),9,0,3.79
+미얀마,만달레이,79 리빙 호텔 (79 Living Hotel),9,4,3.05
+미얀마,만달레이,드래곤 피닉스 호텔 (Dragon Phoenix Hotel),2,0,2.82
+미얀마,만달레이,호텔 뉴 웨이브 (Hotel New Wave),13,2,2.9
+미얀마,바간,로얄 바간 호텔 (Royal Bagan Hotel),7,7,2.69
+미얀마,바간,"바간 탄데 호텔, 올드 바간 (Bagan Thande Hotel, Old Bagan)",2,5,2.11
+미얀마,바간,오스텔로 벨로 바간 풀 (Ostello Bello Bagan Pool),2,2,2.69
+미얀마,바간,마이 바간 레지던스 바이 아마타 (아마타 부티크 하우스) (My Bagan Residence by Amata (Amata Boutique House)),9,3,3.26
+미얀마,바간,스카이 뷰 호텔 (Sky View Hotel),10,1,3.34
+미얀마,바간,골든 미얀마 게스트하우스 (Golden Myanmar Guest House),24,0,4.25
+미얀마,바간,더 호텔 @ 타라바 게이트 (The Hotel @ Tharabar Gate),11,0,3.85
+미얀마,바간,시위 나 디 게스트하우스 (Shwe Na Di Guest House ),8,7,2.72
+베트남,호치민시티,서머셋 호치민시티 서비스 레지던스 (Somerset Ho Chi Minh City Serviced Residence),45,15,3.77
+베트남,호치민시티,서머셋 챈슬러 코트 서비스 레지던스 (Somerset Chancellor Court Serviced Residence),47,12,3.95
+베트남,호치민시티,낫 하 로페라 호텔 (Nhat Ha L'Opera Hotel),49,9,4.11
+베트남,호치민시티,Sherwood Residence,52,3,4.51
+베트남,호치민시티,센트럴 팰리스 호텔 (Central Palace Hotel),40,20,3.34
+베트남,호치민시티,LA VELA SAIGON HOTEL,41,19,3.44
+베트남,호치민시티,롯데 호텔 사이공 (Lotte Hotel Saigon),47,12,3.97
+베트남,호치민시티,셔우드 스위트 (Sherwood Suites ),57,0,4.75
+베트남,호치민시티,랭커스터 사이공 서비스 아파트먼트 르 탄 톤 (Lancaster Saigon Serviced Apartments Le Thanh Ton),46,8,3.95
+베트남,호치민시티,Sens House Saigon - Vinhomes Central Park,1,2,1.89
+베트남,하노이,그랜드 플라자 하노이 호텔 (Grand Plaza Hanoi Hotel),38,21,3.23
+베트남,하노이,포츄나 호텔 하노이 (Fortuna Hotel Hanoi),37,18,3.38
+베트남,하노이,하노이 대우 호텔 (Hanoi Daewoo Hotel),43,17,3.49
+베트남,하노이,리틀 참 하노이 호스텔 (Little Charm Hanoi Hostel),55,3,4.62
+베트남,하노이,파라곤 노이 바이 호텔 앤 풀 (Paragon Noi Bai Hotel and Pool),48,10,3.98
+베트남,하노이,Madelise Palace Hotel & Spa,9,0,3.79
+베트남,하노이,하노이 대하 서비스 아파트먼트 (Hanoi Daeha Serviced Apartment),52,7,4.23
+베트남,하노이,서머셋 그랜드 하노이 서비스 레지던스 (Somerset Grand Hanoi Serviced Residences),46,14,3.9
+베트남,하노이,La Siesta Classic Hang Thung,59,1,5.0
+베트남,하노이,그랜드 비스타 하노이 (Grand Vista Hanoi),50,4,4.48
+베트남,다낭,G8 Luxury Hotel and Spa Da Nang,44,16,3.75
+베트남,다낭,Cicilia Hotels & Spa Danang Powered by ASTON,41,13,3.85
+베트남,다낭,뉴 오리엔트 호텔 다낭 (New Orient Hotel Da Nang),55,5,4.49
+베트남,다낭,오션 빌라 다낭 (Ocean Villas Da Nang),52,7,4.38
+베트남,다낭,살라 다낭 비치 호텔 (SALA DANANG BEACH HOTEL),44,16,3.77
+베트남,다낭,하이안 비치 호텔 앤 스파 (HAIAN Beach Hotel & Spa),40,20,3.39
+베트남,다낭,힐튼 다낭 (Hilton Da Nang),52,8,4.3
+베트남,다낭,래디슨 호텔 다낭 (Radisson Hotel Danang),54,6,4.54
+베트남,다낭,울랄라니 리조트 앤 콘도텔 (Olalani Resort and Condotel),36,24,3.08
+베트남,다낭,스텔라 마리스 비치 다낭 (Stella Maris Beach Danang),48,12,4.03
+스페인,바르셀로나,TOC 호스텔 바르셀로나 (TOC Hostel Barcelona),40,19,3.57
+스페인,바르셀로나,호텔 바르셀로나 아에로푸에르토 바이 멜리아 (Hotel Barcelona Aeropuerto By Melia),36,18,3.33
+스페인,바르셀로나,호스텔 세인트 크리스토퍼스 바르셀로나 (Hostel St Christophers Barcelona),34,25,3.02
+스페인,바르셀로나,엑스포 바르셀로나 호텔 (Expo Barcelona Hotel),42,18,3.48
+스페인,바르셀로나,InterContinental Barcelona,15,0,4.1
+스페인,바르셀로나,호텔 암빗 바르셀로나 (Hotel Ambit Barcelona),19,11,3.28
+스페인,바르셀로나,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia",27,0,4.36
+스페인,바르셀로나,The Central House Barcelona Gracia,50,8,4.31
+스페인,바르셀로나,호텔 바르셀로나 하우스 (Hotel Barcelona House),4,9,2.18
+스페인,바르셀로나,카사 캄페르 바르셀로나 (Casa Camper Barcelona),27,0,4.52
+스페인,마드리드,톡 호스텔 마드리드 (TOC Hostel Madrid),52,7,4.31
+스페인,마드리드,The Madrid Edition,3,0,3.62
+스페인,마드리드,파 홈 아토차 (Far Home Atocha),17,8,3.33
+스페인,마드리드,더 햇 호스텔 마드리드 (The Hat Hostel Madrid),54,6,4.51
+스페인,마드리드,멜리아 마드리드 세라노 (Melia Madrid Serrano),30,0,4.16
+스페인,마드리드,호텔 콰트로 푸에르타 델 솔 (Hotel Quatro Puerta del Sol),46,13,3.75
+스페인,마드리드,Radisson RED Madrid,53,7,4.2
+스페인,마드리드,B&B 호텔 마드리드 센트로 푸에르타 델 솔 (B&B Hotel Madrid Centro Puerta del Sol),57,2,4.66
+스페인,마드리드,호텔 리아베니 (Hotel Liabeny),9,3,3.13
+스페인,마드리드,easyHotel Madrid Centro Atocha,51,3,4.48
+스페인,세비야,톡 호스텔 세비야 (Toc Hostel Sevilla),55,5,4.56
+스페인,세비야,Ibis Styles Sevilla Santa Justa,46,2,4.54
+스페인,세비야,블랙 스완 호스텔 세비야 (Black Swan Hostel Sevilla),56,4,4.54
+스페인,세비야,"Radisson Collection Hotel, Magdalena Plaza Sevilla",12,0,3.46
+스페인,세비야,Petit Palace Vargas,15,3,3.52
+스페인,세비야,호텔 레이 알폰소 엑스 (Hotel Rey Alfonso X),58,2,4.75
+스페인,세비야,포 유 호스텔 세비야 (For You Hostel Sevilla),42,9,3.95
+스페인,발렌시아,세나토르 파르케 센트럴 호텔 (Senator Parque Central Hotel),6,0,3.54
+스페인,발렌시아,호텔 유로스타 레이 돈 하이메 (Hotel Eurostars Rey Don Jaime),12,6,3.23
+스페인,발렌시아,더 리버 호스텔 (The River Hostel),3,3,2.69
+스페인,발렌시아,캐주얼 발렌시아 데 라스 아르테스 (Casual Valencia De Las Artes),0,3,1.26
+스페인,발렌시아,Casual Vintage Valencia,57,3,4.25
+스페인,발렌시아,몬 스위트 카테드랄 (Mon Suites Catedral),27,3,4.0
+스페인,발렌시아,유로스타 악테온 (Eurostars Acteon),3,0,3.13
+스페인,발렌시아,AC 호텔 발렌시아 (AC Hotel Valencia),18,0,4.07
+슬로베니아,블레드,호텔 로벡 (Hotel Lovec),0,3,2.25
+슬로베니아,블레드,호텔 파크 - 사바 호텔 앤 리조트 (Hotel Park - Sava Hotels & Resorts),3,0,3.13
+슬로베니아,블레드,블레드 로즈 호텔 (Bled Rose hotel),3,0,3.13
+슬로베니아,블레드,올드 패리시 하우스 (Old Parish House),3,0,3.62
+슬로베니아,류블랴나,비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park),7,2,3.21
+슬로베니아,류블랴나,시티 호텔 리주발자나 (City Hotel Ljubljana),42,18,3.52
+슬로베니아,류블랴나,Sax Pub Hostel,12,3,3.2
+슬로베니아,류블랴나,"래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",30,0,4.1
+슬로베니아,류블랴나,오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana),9,3,3.26
+슬로베니아,류블랴나,Intercontinental Ljubljana,21,0,3.98
+슬로베니아,류블랴나,홀리데이 인 익스프레스 류블랴나 (Holiday Inn Express Ljubljana),0,3,1.75
+슬로베니아,류블랴나,ibis Styles Ljubljana The Fuzzy Log,27,3,4.16
+슬로베니아,류블랴나,ibis Styles Ljubljana Centre,9,0,3.61
+슬로베니아,피란,호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz),33,0,4.13
+슬로베니아,포르토로즈,호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz),33,0,4.13
+슬로베니아,피란,Hotel Neptun - LifeClass Hotels & Spa,54,9,4.16
+슬로베니아,포르토로즈,Hotel Neptun - LifeClass Hotels & Spa,54,9,4.16
+슬로베니아,피란,호텔 피란 (Hotel Piran),12,0,3.95
+슬로베니아,포르토로즈,호텔 피란 (Hotel Piran),12,0,3.95
+싱가포르,싱가포르,M 호텔 싱가포르 (M Hotel Singapore),45,11,3.87
+싱가포르,싱가포르,두짓 타니 라구나 싱가포르 (Dusit Thani Laguna Singapore),49,6,4.18
+싱가포르,싱가포르,콥튼 킹 호텔 싱가포르 온 해블록 (Copthorne King's Hotel Singapore on Havelock),28,24,2.7
+싱가포르,싱가포르,빌리지 호텔 알버트 코트 바이 파 이스트 호스피탈리티 (Village Hotel Albert Court by Far East Hospitality),35,22,3.11
+싱가포르,싱가포르,Hotel Boss,31,27,2.66
+싱가포르,싱가포르,Hotel Bencoolen @ Hong Kong Street,84,30,3.84
+싱가포르,싱가포르,V Hotel Lavender,31,27,2.67
+싱가포르,싱가포르,푸라마 리버프런트 (Furama RiverFront),32,26,2.77
+영국,런던,모우브레이 코트 호텔 (Mowbray Court Hotel),36,23,3.11
+영국,런던,St. Pancras Renaissance Hotel London,6,0,3.3
+영국,런던,메리트 켄싱턴 호텔 (Merit Kensington Hotel),45,13,3.85
+영국,런던,유스턴 스퀘어 호텔 런던 (Euston Square Hotel),42,6,4.1
+영국,런던,Delta Hotels Heathrow Windsor,48,3,4.23
+영국,런던,Kabannas London St Pancras,46,13,3.97
+영국,런던,파크 플라자 런던 파크 로얄 (Park Plaza London Park Royal),3,0,3.62
+영국,런던,아치 호텔 (Arch Hotel),42,0,4.11
+영국,런던,나일랜드 호텔 (Nayland Hotel),33,18,3.23
+영국,에든버러,프레데릭 하우스 호텔 (Frederick House Hotel),39,9,3.97
+영국,에든버러,힐튼 에든버러 칼튼 (Hilton Edinburgh Carlton),15,6,3.21
+영국,에든버러,스테이 센트럴 호텔 (Stay Central Hotel),12,3,3.49
+영국,에든버러,데스티니 스튜던트 - 무라노 (Destiny Student- Murano),3,3,2.2
+영국,에든버러,Edinburgh Holyrood Hotel,0,3,1.26
+영국,에든버러,래디슨 블루 호텔 에든버러 시티 센터 (Radisson Blu Hotel Edinburgh City Centre),3,3,2.93
+영국,에든버러,Leonardo Royal Hotel Edinburgh,24,12,3.34
+영국,에든버러,브리타니아 호텔 에든버러 (Britannia Hotel Edinburgh),0,3,2.25
+영국,에든버러,Ten Hill Place,33,6,4.1
+영국,에든버러,A&O 에든버러 시티 (A&O Edinburgh City),37,20,3.3
+영국,맨체스터,더 미트르 호텔 (The Mitre Hotel),6,0,3.79
+영국,맨체스터,Manchester Piccadilly Hotel,12,3,3.39
+영국,맨체스터,이비스 스타일 맨체스터 포트랜드 (ibis Styles Manchester Portland),6,12,2.48
+영국,맨체스터,홀리데이 인 익스프레스 맨체스터 시티 센터 아레나 (Holiday Inn Express Manchester City Centre Arena),58,0,4.52
+영국,맨체스터,하얏트 하우스 맨체스터 (Hyatt Regency Manchester),3,0,3.62
+영국,맨체스터,네이티브 맨체스터 (Native Manchester),6,0,3.54
+영국,맨체스터,래디슨 블루 맨체스터 에어포트 (Radisson Blu Manchester Airport),6,0,3.54
+영국,맨체스터,브리타니아 맨체스터 호텔 (Britannia Manchester Hotel),18,30,2.11
+영국,맨체스터,더 타운하우스 맨체스터 (The Townhouse Manchester),6,0,3.3
+영국,맨체스터,Ibis Budget Manchester Airport,12,3,3.39
+영국,케임브리지,이비스 캠브리지 호텔 (Ibis Cambridge Hotel),12,3,3.49
+영국,케임브리지,Hilton Cambridge City Centre,6,0,3.3
+영국,케임브리지,아룬델 게스트하우스 (Arundel House Hotel),12,3,2.61
+영국,케임브리지,웨스트 코트 - 지저스 컬리지 (West Court- Jesus College),3,0,3.62
+영국,케임브리지,Hyatt Centric Cambridge,6,0,3.54
+영국,케임브리지,Turing Locke,55,2,4.62
+영국,케임브리지,Graduate Cambridge Hotel,18,0,3.66
+영국,케임브리지,홀리데이 인 익스프레스 캠브리지 (Holiday Inn Express Cambridge),37,0,3.97
+영국,케임브리지,트래블로지 캠브리지 뉴마켓 로드 (Travelodge Cambridge Newmarket Road),6,0,3.3
+영국,케임브리지,Novotel Cambridge North,57,0,4.59
+오스트레일리아,시드니,뷰 시드니 (View Sydney),12,3,3.33
+오스트레일리아,시드니,"포 포인츠 바이 쉐라톤 시드니, 센트럴 파크 (Four Points by Sheraton Sydney, Central Park)",13,0,3.75
+오스트레일리아,시드니,리틀 내셔널 호텔 시드니 (Little National Hotel Sydney),14,0,4.02
+오스트레일리아,시드니,Kith Hotel Darling Harbour,13,0,3.7
+오스트레일리아,시드니,Ace Hotel Sydney,3,0,3.62
+오스트레일리아,시드니,YHA Sydney Harbour,10,5,3.15
+오스트레일리아,시드니,Radisson Blu Plaza Hotel Sydney,5,1,3.26
+오스트레일리아,시드니,더 시드니 블러바드 호텔 (The Sydney Boulevard Hotel),11,3,3.11
+오스트레일리아,시드니,아모라 제이미슨 호텔  (Amora Jamison Hotel),10,4,3.28
+오스트레일리아,시드니,YEHS 호텔 시드니 QVB (YEHS Hotel Sydney QVB),9,6,3.02
+오스트레일리아,멜버른,Dorsett Melbourne,15,0,4.16
+오스트레일리아,멜버른,Voco Melbourne Central,3,0,3.62
+오스트레일리아,멜버른,브래디 호텔 존스 레인 (Brady Hotels Jones Lane),6,3,3.11
+오스트레일리아,멜버른,랑데부 호텔 멜번 (Rendezvous Hotel Melbourne),13,0,3.7
+오스트레일리아,멜버른,인터컨티넨탈 멜버른 더 리알토 (InterContinental Melbourne The Rialto),1,1,2.44
+오스트레일리아,멜버른,브래디 호텔 센트럴 멜번 (Brady Hotels Central Melbourne),12,3,3.52
+오스트레일리아,멜버른,Radisson On Flagstaff Gardens,8,1,3.28
+오스트레일리아,멜버른,이비스 멜버른 센트럴 (ibis Melbourne Central),14,0,3.74
+오스트레일리아,멜버른,시티 엣지 온 엘리자베스 아파트먼트 호텔 (City Edge on Elizabeth Apartment Hotel),6,9,2.26
+오스트레일리아,멜버른,Sakura Serviced Apartment,3,0,1.66
+오스트레일리아,브리즈번,하얏트 리젠시 브리즈번 (Hyatt Regency Brisbane),12,3,3.49
+오스트레일리아,브리즈번,Indigo Brisbane City Centre,13,2,3.23
+오스트레일리아,브리즈번,오크스 브리즈번 온 샬럿 스위트 (Oaks Brisbane on Charlotte Suites),13,2,3.62
+오스트레일리아,브리즈번,소호 브리즈번 호텔 (Soho Brisbane Hotel),6,5,2.72
+오스트레일리아,브리즈번,힐튼 브리즈번 (Hilton Brisbane),14,1,3.7
+오스트레일리아,브리즈번,메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street),15,0,4.03
+오스트레일리아,브리즈번,홀리데이 인 익스프레스 브리즈번 센트럴 (Holiday Inn Express Brisbane Central),12,1,3.44
+오스트레일리아,브리즈번,이비스 스타일 브리즈번 엘리자베스 스트리트 (Ibis Styles Brisbane Elizabeth Street),12,3,3.46
+오스트레일리아,브리즈번,Selina Brisbane,14,0,3.77
+오스트레일리아,브리즈번,Voco Brisbane City Centre,10,0,3.39
+오스트레일리아,케언스,크리스탈브룩 라일리 (Crystalbrook Riley),11,0,3.85
+오스트레일리아,케언스,오크스 케언즈 호텔 (Oaks Cairns Hotel),6,0,3.3
+오스트레일리아,케언스,플린 어 크리스탈브룩 컬렉션 호텔 (Crystalbrook Flynn),15,0,4.1
+오스트레일리아,케언스,레이크 센트럴 케언즈 (Lake Central Cairns),3,0,3.62
+오스트레일리아,케언스,더블트리 바이 힐튼 케언즈 (DoubleTree by Hilton Cairns),9,5,2.9
+오스트레일리아,케언스,힐튼 케언즈 (Hilton Cairns),9,2,3.46
+오스트레일리아,케언스,선샤인 타워 호텔 (Sunshine Tower Hotel),3,6,2.11
+오스트레일리아,케언스,베일리 어 크리스탈브룩 컬렉션 호텔 앤 레지던스 (Crystalbrook Bailey),12,0,3.84
+오스트레일리아,케언스,코럴 트리 인 호텔 (Coral Tree Inn Hotel),13,0,3.59
+오스트레일리아,케언스,The Abbott - Boutique Hotel,15,0,3.9
+인도,뭄바이,조스텔 뭄바이 (Zostel Mumbai),6,0,3.3
+인도,뭄바이,레시던시 호텔 (Residency Hotel Fort),9,0,3.3
+인도,뭄바이,Country Inn & Suites by Turtle ,15,0,4.2
+인도,뭄바이,씨 프린세스 호텔 (Sea Princess Hotel),4,1,2.82
+인도,뭄바이,백패커 판다 콜라바 (Backpacker Panda Colaba),4,5,2.39
+인도,뭄바이,래디슨 블루 뭄바이 인터내셔널 에어포트 (Radisson Blu Mumbai International Airport),6,0,3.54
+인도,뭄바이,호텔 공항 국제 (Hotel Airport International),1,8,1.7
+인도,뭄바이,시티 호텔 (City Hotel),0,1,2.38
+인도,뭄바이,시티 호텔 (City Hotel),0,1,2.75
+중국,상하이,시티 호텔 (City Hotel),36,22,2.85
+중국,상하이,시티 호텔 (City Hotel),36,22,3.21
+인도,뭄바이,패브호텔 아모르 안데리 이스트 (FabHotel Amour Andheri East),13,2,3.0
+인도,뭄바이,Hotel Apex International - Near Mumbai Airport,11,4,2.64
+인도,뉴델리,블룸룸 @ 뉴 델리 레일웨이 스테이션 (bloomrooms @ New Delhi Railway Station),10,5,3.23
+인도,뉴델리,더 프라임 발라지 디럭스 @ 뉴델리역 호텔 (The Prime Balaji Deluxe @ New Delhi Railway Station Hotel),12,3,3.23
+인도,뉴델리,호텔 디캐피톨 - 델리 에어포트 (HOTEL D'CAPITOL - DELHI AIRPORT),3,6,1.77
+인도,뉴델리,래디슨 블루 타워스 카우샴비 델리 NCR (Radisson Blu Towers Kaushambi Delhi NCR),3,0,3.13
+인도,뉴델리,래디슨 블루 플라자 델리 에어포트 (Radisson Blu Plaza Delhi Airport),4,2,2.98
+인도,뉴델리,Hari Piorko Grand,3,12,1.89
+인도,뉴델리,Zostel Delhi,6,9,2.52
+인도,뉴델리,예스 보스 바이 백패커스 헤븐 (Yes Boss By Backpackers Heaven),9,6,2.92
+인도,뉴델리,파크 호텔 (The Park New Delhi Hotel),3,11,1.87
+인도,뉴델리,Jyoti Mahal A Royal Heritage Hotel,11,4,2.74
+인도,아그라,조이스 호스텔 (joey's Hostel),14,1,3.9
+인도,아그라,Sunrise Homestay,15,0,4.1
+인도,아그라,호텔 사니야 팰리스 (Hotel Saniya Palace),6,6,2.69
+인도,아그라,수라세나 레갈비스타 (SURASENA REGALVISTA),11,4,2.97
+인도,아그라,Radisson Hotel Agra,3,6,2.43
+인도,아그라,호텔 싯다르타 (600 미터 프롬 타지마할) (HOTEL SIDHARTHA (600 meters from Taj Mahal)),9,6,3.02
+인도,아그라,호텔 타지 리조트스 (Hotel Taj Resorts),7,6,2.61
+인도,아그라,DoubleTree by Hilton Hotel Agra,7,3,2.82
+인도,아그라,"타즈간즈의 빌라 (144m², 침실 5개, 프라이빗 욕실 5개) (The Orchid Villa)",12,0,3.67
+인도,아그라,FabHotel Bhawana,3,0,1.66
+인도,자이푸르,Horn Ok Please Hostel Jaipur,9,0,3.79
+인도,자이푸르,자이푸르 하벨리 (Jaipur Haveli),15,0,3.93
+인도,자이푸르,호텔 간다르바 - 어 그린 호텔 (Hotel Gandharva - A Green Hotel),3,0,3.13
+인도,자이푸르,레져 인 그랜드 차나키아 (Leisure Inn Grand Chanakya),5,0,3.74
+인도,자이푸르,래디슨 자이푸르 시티 센터 (Radisson Jaipur City Center),6,3,2.77
+인도,자이푸르,머스타시 호스텔 자이푸르 (Moustache Hostel Jaipur),6,3,2.95
+인도,자이푸르,호텔 아르야 니와스 (Hotel Arya Niwas),10,1,3.39
+인도,자이푸르,락스미 팰리스 헤리티지 부티크 호텔 (Laxmi Palace Heritage Boutique Hotel),12,0,3.87
+인도,자이푸르,"Hotel Jaipur Central, Jaipur",13,2,3.13
+인도,자이푸르,팬드야 니와스 (Pandya Niwas),1,2,2.05
+인도네시아,발리,힐튼 가든 인 발리 응우라 라이 공항 (Hilton Garden Inn Bali Ngurah Rai Airport),11,4,3.03
+인도네시아,발리,호텔 테라스 앳 쿠타 (Hotel Terrace at Kuta),10,5,3.05
+인도네시아,발리,쿠타 파라디소 호텔 (Kuta Paradiso Hotel),10,5,3.03
+인도네시아,발리,노보텔 발리 응우라 라이 공항 (Novotel Bali Ngurah Rai Airport),9,6,2.89
+인도네시아,발리,래디슨 블루 발리 울루와투 (Radisson Blu Bali Uluwatu),3,0,3.3
+인도네시아,발리,아디 다르마 호텔 쿠타 (Adi Dharma Hotel Kuta),26,4,3.8
+인도네시아,발리,레기안 파라디소 호텔 (Legian Paradiso Hotel),9,4,3.08
+인도네시아,발리,오하나 호텔 쿠타 (Ohana Hotel Kuta),6,5,2.36
+인도네시아,발리,아비안 하모니 리조트 호텔 앤 스파 (Abian Harmony Resort Hotel and Spa),6,8,2.52
+인도네시아,반둥,해리스 호텔 앤 컨벤션 치움불레우이트 반둥 (HARRIS Hotel & Conventions Ciumbuleuit Bandung),10,2,3.38
+인도네시아,반둥,그랜드 호텔 프레안게르 (Grand Hotel Preanger),7,3,3.16
+인도네시아,반둥,키마야 브라가 반둥 바이 해리스 (Kimaya Braga Bandung by Harris),1,2,2.05
+인도네시아,반둥,스위스-벨리조트 다고 헤리티지 (Swiss-Belresort Dago Heritage),11,1,3.39
+인도네시아,반둥,Pasar Baru Square Hotel Bandung Powered by Archipelago,7,4,3.07
+인도네시아,반둥,아리온 스위트 호텔 반둥 (Arion Suites Hotel Bandung),3,0,3.62
+인도네시아,반둥,사보이 호만 (Savoy Homann),10,1,3.7
+인도네시아,반둥,Collection O 22 Hotel Pasar Baru Heritage,0,4,1.95
+인도네시아,반둥,디저니 호텔 (D'Journey Hotel),13,2,3.3
+인도네시아,자카르타,드프리마호텔 에어포트 자카르타 터미널 1A (d'primahotel Airport Jakarta Terminal 1A),10,14,2.11
+인도네시아,자카르타,인터컨티넨탈 자카르타 폰독 인다 (InterContinental Jakarta Pondok Indah),10,1,3.57
+인도네시아,자카르타,CONJIOO HOTEL at JAKARTA AIRPORT,9,0,3.67
+인도네시아,자카르타,1O1 URBAN Jakarta Pemuda,14,1,3.57
+인도네시아,자카르타,더 자야카르타 SP 자카르타 호텔 앤 스파 (The Jayakarta SP Jakarta Hotel & Spa),4,7,2.18
+인도네시아,자카르타,FM7 리조트 호텔 반다라 자카르타 에어포트 (FM7 Resort Hotel Bandara Jakarta Airport),10,5,2.92
+인도네시아,자카르타,아샤나 케마요란 자카르타 (Asyana Kemayoran Jakarta),6,2,2.93
+인도네시아,자카르타,클래식 호텔 (Classic Hotel),4,8,2.51
+인도네시아,자카르타,CHOSKA RESIDENCE,6,0,3.46
+일본,도쿄,APA 호텔 롯폰기 식스 (APA Hotel Roppongi SIX),10,5,3.05
+일본,도쿄,AC Hotel Tokyo Ginza,6,0,3.54
+일본,도쿄,신주쿠 워싱턴 호텔 - 본관 (Shinjuku Washington Hotel - Main Building),11,4,3.03
+일본,도쿄,랜드어바웃 도쿄 (LANDABOUT TOKYO),12,3,3.36
+일본,도쿄,"더 도쿄 에디션, 도라노몬 (The Tokyo EDITION, Toranomon)",12,3,3.3
+일본,도쿄,APA 호텔 신주쿠-가부키초 타워 (APA Hotel Shinjuku-Kabukicho Tower),10,5,2.85
+일본,도쿄,APA Hotel & Resort Roppongi Ekihigashi,13,2,3.56
+일본,도쿄,APA 호텔 앤 리조트 니시신주쿠-고초메-에키 타워 (APA Hotel & Resort Nishishinjuku-Gochome-Eki Tower),9,6,2.92
+일본,도쿄,도쿄 프린스 호텔 (Tokyo Prince Hotel),10,5,3.03
+일본,도쿄,APA 호텔 야마노테 오츠가에키 타워 (APA Hotel Yamanote Otsukaeki Tower),13,2,3.66
+일본,오사카,칸데오 호텔 오사카 난바 (Candeo Hotels Osaka Namba),26,4,3.59
+일본,오사카,호텔 포르자 오사카 난바 도톤보리 (Hotel Forza Osaka Namba Dotonbori),13,2,3.43
+일본,오사카,Hotel Forza Osaka Kitahama,12,3,3.43
+일본,오사카,오사카 테이코쿠 호텔 (Osaka Teikoku Hotel),10,5,2.95
+일본,오사카,W 오사카 (W Osaka),4,2,2.74
+일본,오사카,APA Hotel and Resort Midosuji Hommachi Eki Tower,9,6,3.02
+일본,오사카,APA Hotel & Resort Osaka Umeda Eki Tower,9,6,3.08
+일본,오사카,소테츠 그랜드 프레사 오사카 난바 (Sotetsu Grand Fresa Osaka Namba),12,3,3.16
+일본,오사카,APA 호텔 신-오사카 에키마에 (APA Hotel Shin-Osaka ekimae),11,2,3.41
+일본,교토,"HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa",6,3,3.26
+일본,교토,시즈테츠 호텔 프레지오 교토 가라스마오이케 (Shizutetsu Hotel Prezio Kyoto Karasumaoike),15,0,4.0
+일본,교토,사쿠라 테라스 더 아틀리에 - 성인 전용 (Sakura Terrace The Atelier -Adult Only),10,5,3.31
+일본,교토,Hyatt Regency Kyoto,9,0,3.3
+일본,교토,APA 호텔 교토 에키히가시 (APA Hotel Kyoto Ekihigashi),15,0,3.97
+일본,교토,호텔 더 엠스 교토 (Hotel The M's Kyoto),13,2,3.52
+일본,교토,솔라리아 니시테츠 호텔 교토 프리미어 (Solaria Nishitetsu Hotel Kyoto Premier),13,2,3.49
+일본,교토,소테츠 프레사 인 교토-기요미즈 고조 (Sotetsu Fresa Inn Kyoto-Kiyomizu Gojo),13,2,3.56
+일본,교토,리치몬드 호텔 프리미어 교토 에키마에 (Richmond Hotel Premier Kyoto Ekimae),11,4,3.33
+일본,삿포로,그랑벨 호텔 스스키노 (GRANBELL HOTEL SUSUKINO),11,4,3.23
+일본,삿포로,호텔 몬토레 에델호프 삿포로 (Hotel Monterey Edelhof Sapporo),10,5,2.92
+일본,삿포로,베셀 호텔 캄파나 스스키노 (Vessel Hotel Campana Susukino),12,3,3.43
+일본,삿포로,게이큐 엑스 호텔 삿포로 (KEIKYU EX HOTEL Sapporo),15,0,3.87
+일본,삿포로,Fairfield by Marriott Hokkaido Eniwa,12,0,3.67
+일본,삿포로,라젠트 스테이 삿포로 오도리 홋카이도 (La'Gent Stay Sapporo Odori Hokkaido),9,6,2.89
+일본,삿포로,JR-이스트 호텔 메츠 삿포로 (JR-EAST HOTEL METS SAPPORO),28,2,4.15
+일본,삿포로,그랑벨 호텔 삿포로 (GRANBELL HOTEL SAPPORO),12,3,3.52
+일본,삿포로,프리미어 호텔 나카지마 파크 삿포로 (Premier Hotel Nakajima Park Sapporo),10,5,3.08
+중국,상하이,그랜드 센트럴 호텔 상하이 (Grand Central Hotel Shanghai),36,20,3.43
+중국,상하이,센트럴 호텔 (Central Hotel),46,13,3.93
+중국,상하이,Hi Inn Shanghai Xujiahui,0,3,2.25
+중국,상하이,야티 바이 아티젠 홍차오 상하이 (YaTi by Artyzen Hongqiao Shanghai),48,7,4.18
+중국,상하이,Radisson Collection Hyland Shanghai,46,9,4.05
+중국,상하이,상하이 데코 호텔 푸동 (Shanghai Deco Hotel Pudong),49,8,4.16
+중국,상하이,진장 메트로폴로 상하이 신톈디 호텔 (Jinjiang Metropolo Shanghai Xintiandi Hotel),5,4,2.93
+중국,상하이,샹하이 피쉬 인 번드 (Shanghai Fish Inn Bund),41,19,3.49
+중국,베이징,베이징 신차오 호텔 (Beijing XinQiao Hotel),46,14,3.62
+중국,베이징,선월드 호텔 왕푸징 (Sunworld Hotel Wangfujing),41,19,3.48
+중국,베이징,홀리데이 인 익스프레스 베이징 후아카이 (Holiday Inn Express Beijing Huacai),36,24,3.15
+중국,베이징,더 그레이트 월 호텔 베이징 (The Great Wall Hotel Beijing),27,21,2.85
+중국,베이징,파크 플라자 베이징 왕푸징 (Park Plaza Beijing Wangfujing),49,3,4.36
+중국,베이징,구오 지 이 위안 호텔 (GUO JI YI YUAN HOTEL),6,5,2.41
+중국,베이징,노보텔 피스 베이징 호텔 (Novotel Peace Beijing Hotel),44,15,3.61
+중국,베이징,베이징 푸디 호텔 (Beijing Pudi Hotel),12,12,2.75
+중국,베이징,시틱 호텔 베이징 공항 (CITIC Hotel Beijing Airport),15,15,2.34
+중국,베이징,라데가스트 호텔 CBD (Radegast Hotel CBD),21,9,3.16
+중국,광저우,젠궈 호텔 광저우 (Jianguo Hotel Guangzhou),44,15,3.82
+중국,광저우,노모 베이징 로드 어-지덩 믹스 인터내셔널 아파트먼트 (Nomo Beijing Road A-Jiedeng MIX International Apartment),3,0,3.13
+중국,광저우,Country Inn & Suites by Radisson Guangzhou Yonghe,3,0,2.15
+중국,광저우,하이 인 리앙핀 광저우 샤허딩 메트로 스테이션 (Hi Inn Liangpin Guangzhou Shaheding Metro Station),3,0,3.62
+중국,광저우,오소토 레크리에이션 호텔 바이윈 (Osotto Recreation Hotel Baiyun),39,16,3.61
+중국,광저우,차이나 호텔 (China Hotel),4,2,3.23
+중국,광저우,호텔 랜드마크 캔톤 (Hotel Landmark Canton),32,23,2.92
+중국,광저우,Guangzhou Carat Hotel,42,17,3.51
+중국,광저우,라 펄 인터내셔널 호텔 (La Perle International Hotel),26,25,2.75
+중국,광저우,광저우 로열 리버 와이피던 아파트먼트  (Guangzhou Royal River Waifiden Apartment),52,6,3.92
+중국,항저우,진장 메트로폴로 호텔 - 항저우 트레인 이스트 스테이션 (Jinjiang Metropolo Hotel - Hangzhou Train East Station),3,3,2.69
+중국,항저우,씨티고 호텔 항저우 시 후 후빈 인타이 (CitiGO Hotel Hangzhou Xi Hu Hubin Yintai),3,0,3.13
+중국,항저우,Ji Hotel Hangzhou West Lake Hubin Erqing Building,3,0,3.13
+중국,항저우,래디슨 블루 항저우 신톈디 (Radisson Blu Hangzhou Xintiandi),9,0,2.62
+중국,항저우,UrCove by HYATT Hangzhou Westlake,3,0,3.62
+중국,항저우,그랜드 페트로파크 호텔 항주 (Grand Metropark Hotel Hangzhou),15,6,3.07
+중국,항저우,홀리데이 인 익스프레스 항저우 이스트 스테이션 (Holiday Inn Express Hangzhou East Station),36,3,4.16
+중국,항저우,Shama Serviced Apartments Zijingang Hangzhou,36,0,4.48
+캄보디아,시엠립,로얄 크라운 호텔 앤 스파 (Royal Crown Hotel & Spa),4,4,2.75
+캄보디아,시엠립,골든 템플 레지던스 (Golden Temple Residence),13,1,3.77
+캄보디아,시엠립,쿨렌 호텔 (Koulen Hotel),12,1,3.74
+캄보디아,시엠립,The Flex Hostel,0,1,1.89
+캄보디아,시엠립,ANGKOR LAND URBAN BOUTIQUE,9,1,3.38
+캄보디아,시엠립,호텔 소마데비 앙코르 리조트 앤 스파 (Hotel Somadevi Angkor Resort & Spa),12,2,3.11
+캄보디아,시엠립,앙코르 홀리데이 호텔 (Angkor Holiday Hotel),5,6,2.43
+캄보디아,시엠립,치타타 CTS 호텔 씨엠림 (Cheathata CTS Hotel Siem Reap),7,6,2.95
+캄보디아,시엠립,쉐도우 앙코르 레지던스 (Shadow Angkor Residence),10,3,3.08
+캄보디아,프놈펜,메타바리 호텔 (Mettavary Hotel ),11,2,3.57
+캄보디아,프놈펜,센서리 파크 어반 호텔 (Sensory Park Urban Hotel),8,3,3.25
+캄보디아,프놈펜,맨션 51 호텔 앤 아파트먼트 (Mansion 51 Hotel & Apartment),13,1,3.7
+캄보디아,프놈펜,풀사이드 빌라 (Poolside Villa),8,4,2.33
+캄보디아,프놈펜,라플레 호텔 르 로얄 (Raffles Hotel Le Royal),15,0,3.74
+캄보디아,프놈펜,오케이 부티크 호텔 (Okay Boutique Hotel),9,5,2.82
+캄보디아,프놈펜,오하나 프놈펜 팰리스 호텔 (Ohana Phnom Penh Palace Hotel),9,4,3.08
+캄보디아,프놈펜,HM 그랜드 센트럴 호텔 (HM Grand Central Hotel),12,2,3.25
+캄보디아,프놈펜,사라보안 로얄 팰리스 (Saravoan Royal Palace),11,3,3.3
+캄보디아,프놈펜,두옹 찬 호텔 (Duong Chan Hotel),13,2,3.52
+캄보디아,시하누크빌,원더즈 시하누크빌 (Onederz Sihanoukville),10,3,3.51
+캄보디아,시하누크빌,인비토 게스트하우스 (Invito Guesthouse),3,0,3.13
+캄보디아,시하누크빌,RIVA Hotel SHV,6,0,3.46
+캄보디아,시하누크빌,아리스토크랫 레지던스 앤 호텔 (Aristocrat Residence & Hotel),7,8,2.56
+캄보디아,시하누크빌,Ocean Delight Boutique Hotel,0,3,1.26
+캄보디아,시하누크빌,Legend Hotel and Resort,15,0,4.0
+캄보디아,시하누크빌,인디펜던스 호텔 리조트 앤 스파 (Independence Hotel Resort & Spa),8,4,2.82
+캄보디아,시하누크빌,Naiya Sea Resort,15,0,3.21
+캄보디아,시하누크빌,미탈리 호텔 (Mittali Hotel),0,3,2.25
+캄보디아,캄폿,더 B 리조트 (The B Resort),3,3,2.69
+캄보디아,캄폿,RiverTree Villa & Resort,7,1,2.8
+캄보디아,캄폿,핌 시나 리조트 (Peam Snea Resort),1,0,3.49
+캄보디아,캄폿,캄폿 스위트 부티크 (Kampot Sweet Boutique),3,0,3.13
+캄보디아,캄폿,비볼라 게스트하우스 (VIBOLA Guesthouse),4,1,2.62
+캄보디아,캄폿,호텔 파이브.S (Hotel Five.S),5,9,2.41
+캄보디아,캄폿,몽키 리퍼블릭 캄폿 (Monkey Republic Kampot),3,3,2.69
+캄보디아,캄폿,굿모닝 캄폿 게스트하우스 (Good Morning Kampot Guesthouse),14,1,3.21
+캄보디아,캄폿,원더즈 캄폿 (Onederz Kampot),3,3,2.2
+캐나다,토론토,원 킹 웨스트 호텔 앤 레지던스 (One King West Hotel and Residence),16,2,3.79
+캐나다,토론토,팬티지스 호텔 토론토 센터 (Pantages Hotel Toronto Centre),6,3,2.95
+캐나다,토론토,홀리데이 인 토론토 다운타운 센터 (Holiday Inn Toronto Downtown Centre),30,12,3.38
+캐나다,토론토,Samesun Toronto,9,6,3.18
+캐나다,토론토,호텔 빅토리아 (Hotel Victoria),9,3,3.13
+캐나다,토론토,Hilton Toronto,12,6,3.07
+캐나다,토론토,DoubleTree by Hilton Toronto Downtown,3,9,2.0
+캐나다,토론토,더 노보텔 토론토 센터 호텔 (The Novotel Toronto Center Hotel),15,0,4.0
+캐나다,밴쿠버,센추리 플라자 호텔 (Century Plaza Hotel),48,9,4.07
+캐나다,밴쿠버,하얏트 리젠시 밴쿠버 (Hyatt Regency Vancouver),17,2,3.84
+캐나다,밴쿠버,킹스턴 호텔 (Kingston Hotel),15,12,2.62
+캐나다,밴쿠버,쉐라톤 밴쿠버 월 센터 (Sheraton Vancouver Wall Centre),12,3,3.3
+캐나다,밴쿠버,베스트웨스턴 플러스 샤토 그랑빌 호텔 앤 스위트 앤 컨퍼런스 센터 (Best Western Premier Chateau Granville Hotel & Suites & Conference Centre),33,3,4.07
+캐나다,밴쿠버,YWCA 호텔 밴쿠버 (YWCA Hotel Vancouver),15,6,3.34
+캐나다,밴쿠버,블루 호라이즌 호텔 (Blue Horizon Hotel),9,2,3.41
+캐나다,밴쿠버,Best Western Plus Vancouver Airport Hotel,6,6,2.33
+캐나다,몬트리올,프리미에르 클라스 카르카손느 (Premiere Classe Carcassonne),44,13,3.33
+캐나다,몬트리올,Kyriad Carcassonne - Aeroport,45,3,4.38
+캐나다,몬트리올,르 릴레 드 라 메종 바쿠 (Le Relais de la Maison Bacou),3,0,2.64
+태국,방콕,차트리움 호텔 리버사이드 방콕 (SHA Extra Plus) (Chatrium Hotel Riverside Bangkok (SHA Extra Plus)),36,24,3.15
+태국,방콕,차트리움 레지던스 사톤 방콕 (SHA Plus+) (Chatrium Residence Sathon Bangkok (SHA Plus+)),42,18,3.46
+태국,방콕,마이트리아 호텔 라마 9 방콕 - 어 차트리움 컬렉션 (SHA Extra Plus) (Maitria Hotel Rama 9 Bangkok - A Chatrium Collection (SHA Extra Plus)),20,8,3.3
+태국,방콕,나라 호텔 (Narra hotel),30,9,3.8
+태국,방콕,Radisson Blu Plaza Bangkok (SHA Plus+),48,9,4.16
+태국,방콕,그랜드 BS 에어포트 호텔 수완나품 (Grand BS Airport Hotel Suvarnabhumi),41,16,3.43
+태국,방콕,마이트리아 호텔 수쿰빗 18 방콕 - 어 차트리움 컬렉션 (Maitria Hotel Sukhumvit 18 Bangkok – A Chatrium Collection),49,11,3.97
+태국,방콕,"The Standard, Bangkok Mahanakhon",59,1,4.85
+태국,방콕,더 블레스 호텔 앤 레지던스 (The Bless Hotel & Residence),37,19,3.48
+태국,방콕,Galleria 12 Sukhumvit Bangkok by Compass Hospitality,38,22,3.15
+태국,푸켓,더 식스틴스 나이양 비치 호텔 (SHA Extra Plus) (The Sixteenth Naiyang Beach Hotel (SHA Extra Plus)),55,2,4.52
+태국,푸켓,Anantara Koh Yao Yai Resort & Villas,15,0,3.61
+태국,푸켓,Woovo Phuket Patong,3,0,3.13
+태국,푸켓,빌라 알라나 푸켓 (Villa Alanna Phuket),21,0,4.2
+태국,푸켓,로얄 푸켓 시티 호텔 (SHA Extra Plus) (Royal Phuket City Hotel (SHA Extra Plus)),51,7,4.38
+태국,푸켓,판푸리 레지던스 (SHA Extra Plus) (Panphuree Residence (SHA Extra Plus)),57,3,4.67
+태국,푸켓,카말라 푸켓 스위트 앤 리조트 (SHA Extra Plus) (Radisson Resort & Suites Phuket),13,8,2.77
+태국,푸켓,"스플래쉬 비치 리조트, 마이 카오 푸켓 (SHA Plus+) (Splash Beach Resort, Mai Khao Phuket (SHA Plus+))",44,13,3.82
+태국,푸켓,코코텔 푸켓 나이양 비치 (SHA Extra Plus) (Kokotel Phuket Nai Yang Beach (SHA Extra Plus)),12,5,3.2
+태국,푸켓,안다만트라 리조트 앤 빌라 푸켓 (SHA Extra Plus) (Andamantra Resort and Villa Phuket (SHA Extra plus)),20,39,1.69
+태국,치앙마이,SYN 부티크 호텔 (SHA Extra Plus) (SYN Boutique Hotel (SHA Extra Plus)),54,3,4.48
+태국,치앙마이,하이 치앙마이 호텔 (Hi Chiangmai Hotel),33,11,3.67
+태국,치앙마이,Travelodge Nimman,49,6,4.33
+태국,치앙마이,프라 싱 빌리지 (SHA Extra Plus) (Phra Singh Village (SHA Extra Plus)),55,4,4.59
+태국,치앙마이,Hotel MAYU Chiang Mai,49,11,4.1
+태국,치앙마이,핑비만 호텔 (SHA Extra Plus) (Pingviman Hotel (SHA Extra Plus)),48,7,4.21
+태국,치앙마이,찰라 넘버 6 (SHA Extra Plus) (Chala Number 6 (SHA Extra Plus)),55,3,4.7
+태국,치앙마이,U Nimman Chiang Mai,39,21,3.49
+태국,치앙마이,컨텐트 빌라 치앙마이 (Content Villa Chiang Mai),12,15,2.59
+태국,치앙마이,치앙마이 오키드 호텔 (SHA Extra Plus) (Chiang Mai Orchid Hotel (SHA Extra Plus)),26,33,2.26
+태국,파타야,Grande Centre Point Pattaya,54,6,4.43
+태국,파타야,파야 호텔 (Payaa Hotel),57,3,4.64
+태국,파타야,Siam @ Siam Design Hotel Pattaya,45,15,3.69
+태국,파타야,테반 좀 티엔 호텔 파타야 (Tevan Jomtien Hotel Pattaya),12,15,2.15
+태국,파타야,"Lewit Hotel Pattaya, a member of Radisson Individuals",6,0,3.54
+태국,파타야,아버 호텔 앤 레지던스 파타야 (SHA Plus+) (Arbour Hotel and Residence Pattaya (SHA Plus+)),45,15,3.8
+태국,파타야,호텔 비스타 (Hotel Vista),35,24,3.11
+태국,파타야,LK 에메랄드 비치 (SHA Extra Plus) (LK Emerald Beach (SHA Extra Plus)),50,6,4.25
+태국,파타야,나바나 네이처 이스케이프 (SHA Plus+) (Navana Nature Escape (SHA Plus+)),56,2,4.56
+태국,파타야,아나 아난 리조트 앤 빌라 파타야 (SHA Extra Plus) (Ana Anan Resort & Villas Pattaya (SHA Extra Plus)),51,3,4.49
+터키,이스탄불,한치 (HANCHI),9,6,2.79
+터키,이스탄불,인터컨티넨탈 이스탄불 (InterContinental Istanbul),14,1,3.77
+터키,이스탄불,Zeyn Otel Istanbul,15,0,4.0
+터키,이스탄불,모다 드레이 - 컨셉 호스텔 (Moda Drei - Concept Hostel),9,0,3.79
+터키,이스탄불,콘래드 이스탄불 보스포러스 (Conrad Istanbul Bosphorus),6,3,3.11
+터키,이스탄불,Shining Star Hotel,14,1,3.8
+터키,이스탄불,래디슨 블루 호텔 이스탄불 오토마레 (Radisson Blu Hotel Istanbul Ottomare),11,4,3.07
+터키,이스탄불,VPLUS HOTEL,15,0,3.64
+터키,이스탄불,랄라한 호텔 (Lalahan Hotel),13,1,3.74
+터키,이스탄불,Manu Startup House,9,3,3.51
+터키,괴레메,카멜리야 케이브 호스텔 (Kamelya Cave Hostel),11,3,3.33
+터키,괴레메,사파이어 스톤 호텔 (Sapphire Stone Hotel),9,0,3.61
+터키,괴레메,로얄 스톤 하우스 - 괴레메 (Royal Stone Houses - Goreme),15,0,3.97
+터키,괴레메,히스토리컬 괴레메 하우스  (Historical Goreme House),14,1,3.67
+터키,괴레메,Serene Premium Stone House,13,0,3.85
+터키,괴레메,올드 타운 스톤 하우스 (Old Town Stone House),15,0,4.0
+터키,괴레메,유수프 베이 하우스 괴레메 (Yusuf Bey House Goreme),11,4,3.36
+터키,괴레메,더 돔 케이브 바이 트래블러스 (The Dorm Cave By Travellers),10,0,3.74
+터키,괴레메,Balloon View Hotel,15,0,3.87
+필리핀,보라카이,헤난 파크 리조트 (Henann Park Resort),42,18,3.59
+필리핀,보라카이,헤난 가든 리조트 (Henann Garden Resort),43,17,3.39
+필리핀,보라카이,헤난 팜 비치 리조트 (Henann Palm Beach Resort),37,23,3.18
+필리핀,보라카이,Marzon Beach Resort - Boracay,9,9,2.44
+필리핀,보라카이,헤난 리젠시 리조트 앤 스파 (Henann Regency Resort And Spa),38,21,3.15
+필리핀,보라카이,헤난 크리스털 샌즈 리조트 (Henann Crystal Sands Resort),38,22,3.26
+필리핀,보라카이,헤난 라군 리조트 (Henann Lagoon Resort),38,22,3.08
+필리핀,보라카이,페어웨이즈 앤 블루워터 보라카이 (Fairways and Bluewater Boracay),37,22,3.02
+필리핀,보라카이,Signature Boracay Blue (Formerly La Banca House),9,9,2.77
+필리핀,보라카이,세린 라 플라야 보라카이 (Serene La Playa Boracay),0,9,1.59
+필리핀,마닐라,Savoy Hotel Manila,40,19,3.46
+필리핀,마닐라,Hotel101 - Fort,12,0,3.59
+필리핀,마닐라,Condo in AZURE Beach Resort Beach View #716,9,0,2.13
+필리핀,마닐라,마이크로텔 바이 윈덤 몰 오브 아시아 - 다목적 호텔 (Microtel by Wyndham Mall of Asia),27,33,2.38
+필리핀,마닐라,Belmont Hotel Manila ,38,18,3.46
+필리핀,마닐라,파크 인 바이 래디슨 노스 에드사 (Park Inn by Radisson North Edsa),18,3,3.77
+필리핀,마닐라,킹스포드 호텔 마닐라 (Kingsford Hotel Manila),38,18,3.31
+필리핀,마닐라,Bayprime Hotel,15,3,3.44
+필리핀,마닐라,Diamond Hotel,41,17,3.64
+필리핀,마닐라,Tropicana Suites,51,7,4.25
+필리핀,세부,사보이 호텔 막탄 뉴타운 (Savoy Hotel Mactan Newtown),41,19,3.26
+필리핀,세부,Belmont Hotel Mactan,54,6,4.49
+필리핀,세부,퀘스트 호텔 앤 컨퍼런스 센터 세부 (Quest Hotel and Conference Center Cebu),43,15,3.57
+필리핀,세부,래디슨 블루 세부 (Radisson Blu Cebu),38,16,3.64
+필리핀,세부,Sheraton Cebu Mactan Resort,54,6,4.46
+필리핀,세부,bai Hotel,40,20,3.48
+필리핀,세부,세부 화이트샌즈 리조트 앤 스파 (Cebu White Sands Resort and Spa),35,25,2.87
+필리핀,세부,세부 R 호텔 -마볼로 (Cebu R Hotel - Mabolo),34,24,2.93
+필리핀,세부,얼루어 호텔 앤 스위트 (Allure Hotel & Suites),39,15,3.49
+필리핀,마카티,시티 가든 호텔 마카티 (City Garden Hotel Makati),41,13,3.8
+필리핀,마카티,"세인트 자일스 마카티 - 어 세인트 자일스 호텔, 마닐라 - 다목적 호텔 (St Giles Makati – A St Giles Hotel, Manila)",47,13,3.79
+필리핀,마카티,아임 호텔 (I'M Hotel),45,12,3.84
+필리핀,마카티,Z 호스텔 (Z Hostel),21,15,2.7
+필리핀,마카티,1898 호텔 콜로니아 엔 라스 필리피나스 (1898 Hotel Colonia En Las Filipinas),45,5,4.23
+필리핀,마카티,시티 가든 그랜드 호텔 (City Garden GRAND Hotel),45,12,3.95
+필리핀,마카티,Valero Grand Suites by Swiss-Belhotel,42,11,3.79
+필리핀,마카티,코로 호텔 (Coro Hotel),29,13,3.41
+필리핀,마카티,Super OYO Capital O 907 Ceo Flats,60,0,4.77
+필리핀,마카티,Sunnette Tower Makati,3,0,3.62
+홍콩,홍콩,라마다 홍콩 하버뷰 (Ramada Hong Kong Harbour View),27,33,2.25
+홍콩,홍콩,아이클럽 셩완 호텔 (iclub Sheung Wan Hotel),37,21,3.16
+홍콩,홍콩,Regala Skycity Hotel,47,11,3.97
+홍콩,홍콩,베스트웨스턴 플러스 호텔 홍콩 (Best Western Plus Hotel Hong Kong),33,25,2.95
+홍콩,홍콩,Ramada Hong Kong Grand,25,33,2.0
+홍콩,홍콩,이비스 홍콩 센트럴 앤 셩완 호텔 (Ibis Hong Kong Central & Sheung Wan Hotel),38,21,3.21
+홍콩,홍콩,B P 인터내셔널 (B P International),35,24,3.07
+홍콩,홍콩,비숍 레이 인터내셔널 하우스 (Bishop Lei International House),37,23,3.05
+홍콩,홍콩,Dash Living on Hollywood,30,28,2.67
