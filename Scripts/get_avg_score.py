@@ -3,7 +3,9 @@ import pandas as pd
 import glob
 import os
 
+
 def func(review_type, data_directory, output_directory):
+    count = 0
     file_pattern = os.path.join(data_directory, f'*_{review_type}_review_recent.json')
     review_files = glob.glob(file_pattern)
 
@@ -28,12 +30,14 @@ def func(review_type, data_directory, output_directory):
                 average_score = round(sum(scores)/len(scores), 2)
                 name_key = 'attr_name' if review_type == 'attr' else 'accom_name'
                 all_data.append({f'{name_key.upper()}': content, 'SCORE': average_score})
+                count += 1
 
     # 모든 데이터를 포함하는 DataFrame 생성
     df = pd.DataFrame(all_data)
     output_file_name = f'{review_type}_review_avg_scores.csv'
     output_path = os.path.join(output_directory, output_file_name)
     df.to_csv(output_path, index=False, encoding='utf-8')
+    print(f'{review_type} : {count}')
 
 if __name__=='__main__':
     data_directories = {
