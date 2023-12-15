@@ -7,7 +7,7 @@ __pycache__/
 
 # chromedriver
 chromedriver.exe
-
+picture
 test.py
 
 # C extensions
