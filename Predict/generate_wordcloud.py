@@ -78,7 +78,7 @@ def generate_wordcloud(text, item_name, item_type):
         word_count = len(normed_text.split())
         if word_count >= 10:
             try:
-                wordcloud = WordCloud(width=250, height=200, max_words=100, mask=img_mask, max_font_size=30, min_font_size=10,
+                wordcloud = WordCloud(width=250, height=200, max_words=100, mask=img_mask, max_font_size=50, min_font_size=13,
                                       background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
                 save_wordcloud(wordcloud, item_code)
             except ValueError:
