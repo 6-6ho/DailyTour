@@ -3,12 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/Data/word-cloud
 /Data/Search_Data
+picture
+test.py
+
 
 # chromedriver
 chromedriver.exe
-picture
-test.py
 
 # C extensions
 *.so

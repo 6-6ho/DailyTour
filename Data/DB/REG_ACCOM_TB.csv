@@ -1,616 +1,728 @@
 ACCOM_CODE,REG_CODE,ACCOM_NAME
-AC1000,NZ003,수디마 크라이스트처치 공항 (Sudima Christchurch Airport)
-AC1001,NZ003,크라이스트처치 시티 호텔 (Christchurch City Hotel)
-AC1002,NZ003,"샤토 온 더 파크 - 크라이스트처치, 어 더블 트리 바이 힐튼 (Chateau on the Park - Christchurch, a DoubleTree by Hilton)"
-AC1003,NZ003,브레이크프리 온 캐셀 크라이스트처치 (BreakFree on Cashel Christchurch)
-AC1004,NZ003,호텔 기브 (Hotel Give)
-AC1005,NZ003,이비스 크라이스트처치 (ibis Christchurch)
-AC1006,NZ003,센터 포인트 온 콜롬보 모텔 (CentrePoint on Colombo Motel)
-AC1007,NZ003,노보텔 크라이스트처치 에어포트 (Novotel Christchurch Airport)
-AC1008,NZ004,오크스 웰링턴 호텔 (Oaks Wellington Hotel)
-AC1009,NZ004,리지스 웰링턴 (Rydges Wellington)
-AC1010,NZ004,Rydges Wellington Airport
-AC1011,NZ004,더 매리언 호스텔 (The Marion Hostel)
-AC1012,NZ004,이비스 웰링턴 (ibis Wellington)
-AC1013,NZ004,트래블로지 호텔  웰링톤 (Travelodge Hotel Wellington)
-AC1014,NZ004,Microtel by Wyndham Wellington
-AC1015,NZ004,Naumi Hotel Wellington
-AC1016,NZ004,호텔 워털루 앤 백패커 (Hotel Waterloo & Backpackers)
-AC1017,NZ004,윌리스 웰링턴 호텔 (Willis Wellington Hotel)
-AC1018,TW002,더 클라우드 호텔 (The Cloud Hotel)
-AC1019,TW002,Hotel YAM LAGOM
-AC1020,TW002,HOTEL YOSHI KAOHSIUNG
-AC1021,TW002,카인드네스 호텔 치서안 (Kindness Hotel Qixian)
-AC1022,TW002,그리트 인 (GREET INN)
-AC1023,TW002,에어라인 인 - 가오슝 스테이션 (Airline Inn - Kaohsiung Station )
-AC1024,TW002,inns hotel
-AC1025,TW002,스카이원 호텔 (Skyone Hotel)
-AC1026,TW002,CU 호텔 가오슝 (CU Hotel Kaohsiung)
-AC1027,TW002,레전드 호텔 피어 2 (Legend Hotel Pier 2)
-AC1028,TW003,메시 호텔 (Meci Hotel)
-AC1029,TW003,파크 시티 호텔 - 화롄 베케이션 (Park City Hotel - Hualien Vacation)
-AC1030,TW003,TC HOTEL HUALIEN ZHONG XIAO
-AC1031,TW003,찬타이 호텔 (Chantai Hotel)
-AC1032,TW003,저스트 슬립 화롄 종정 (Just Sleep Hotel Hualien Zhongzheng)
-AC1033,TW003,레이크쇼 Hotel 화롄 (Lakeshore Hotel Hualien)
-AC1034,TW003,코지 하우스 호스텔 (Cozy House Hostel)
-AC1035,TW003,Lakeshore Hotel Hualien Taroko
-AC1036,TW003,스태리 인 (Starry Inn)
-AC1037,TW003,글렌우드 비앤비 (Glenwood Bed and Breakfast)
-AC1038,TW004,LakeShore Hotel Tainan
-AC1039,TW004,U.I.J Hotel&Hostel (UIJ)
-AC1040,TW004,더 레트로 타이판 (The Retro Tai-Pan)
-AC1041,TW004,웨이 얏 그랜드호텔 (Wei-Yat Grand Hotel)
-AC1042,TW004,Oinn Hotel & Hostel
-AC1043,TW004,그랜드 반얀 호텔 (Grand Banyan Hotel)
-AC1044,TW004,Provintia Hotel
-AC1045,TW004,창위 호텔 (CHANGYU HOTEL)
-AC1046,DE001,오칵 호텔 (Ocak Hotel)
-AC1047,DE001,인터콘티넨탈 베를린 (InterContinental Berlin)
-AC1048,DE001,더 서커스 호스텔 (The Circus Hostel)
-AC1049,DE001,에스트렐 호텔 (Estrel Hotel)
-AC1050,DE001,Locke at East Side Gallery
-AC1051,DE001,셀렉트 호텔 베를린 더 월 (Select Hotel Berlin The Wall)
-AC1052,DE001,파크 인 바이 래디슨 베를린 알렉산더플라츠 (Park Inn by Radisson Berlin Alexanderplatz)
-AC1053,DE001,모비주 호텔 (Monbijou Hotel)
-AC1054,DE001,호텔 아마노 그랜드 센트럴 (Hotel AMANO Grand Central)
-AC1055,DE001,오칵 아파트먼트 앤 호텔 (Ocak Apartment & Hotel)
-AC1056,DE002,호텔 유로파이세르 호프 (Hotel Europäischer Hof)
-AC1057,DE002,Bayer 89 Vi Vadi Hotel
-AC1058,DE002,유료 유스 호텔 (Euro Youth Hotel)
-AC1059,DE002,호텔 토르브라우 (Hotel Torbraeu)
-AC1060,DE002,WunderLocke
-AC1061,DE002,슈어 호텔 바이 베스트웨스턴 뮌헨 하우프트반호프 (Sure Hotel by Best Western München Hauptbahnhof)
-AC1062,DE002,"Flightgate Munich Airport Hotel, a member of Radisson Individuals"
-AC1063,DE002,부티크 호텔 게르마니아 (Boutique Hotel Germania)
-AC1064,DE002,mk 호텔 뮌헨 시티 (mk hotel muenchen city)
-AC1065,DE002,플레밍 호텔 뮌헨 슈바빙 (Fleming's Hotel Munich Schwabing)
-AC1066,MY001,힐튼 가든 인 쿠알라 룸푸르 - 노스 (Hilton Garden Inn Kuala Lumpur - North)
-AC1067,MY001,Deface Platinum 2 Kuala Lumpur
-AC1068,MY001,디페이스 플래티넘 쿠알라룸푸르 (DeFace Platinum Kuala Lumpur)
-AC1069,MY001,데 루나 호텔 스리 페탈링 (De Luna Hotel Sri Petaling)
-AC1070,MY001,홀리데이 인 익스프레스 쿠알라 룸푸르 시티 센터 (Holiday Inn Express Kuala Lumpur City Centre)
-AC1071,MY001,산타 그랜드 시그니처 쿠알라룸푸르 (Santa Grand Signature Kuala Lumpur)
-AC1072,MY001,Park Inn by Radisson Putrajaya
-AC1073,MY001,힐튼 가든 인 쿠알라 룸푸르 - 사우스 (Hilton Garden Inn Kuala Lumpur - South)
-AC1074,MY001,Platinum Suites 2 by DM Kuala Lumpur
-AC1075,MY002,힐튼 코타키나발루 (Hilton Kota Kinabalu)
-AC1076,MY002,코타 키나발루 메리어트 호텔 (Kota Kinabalu Marriott Hotel)
-AC1077,MY002,호라이즌 호텔 코타키나발루 (Horizon Hotel Kota Kinabalu)
-AC1078,MY002,사바 오리엔탈 호텔 (Sabah Oriental Hotel)
-AC1079,MY002,더 마젤란 수테라 리조트 (The Magellan Sutera Resort)
-AC1080,MY002,하얏트 리젠시 키나발루 (Hyatt Regency Kinabalu)
-AC1081,MY002,Signel Poshtel
-AC1082,MY002,머큐어 코타키나발루 시티센터 (Mercure Kota Kinabalu City Centre)
-AC1083,MY002,모나코 부티크 호텔 사동 자야 (Monaco Boutique Hotel Sadong Jaya)
-AC1084,MY002,Jesselton Quay by Pinstay
-AC1085,MY003,Wings by Croske Resort Langkawi 
-AC1086,MY003,"벨라 비스타 워터프런트 리조트, 랑카위 (Bella Vista Waterfront Resort, Langkawi)"
-AC1087,MY003,샌디 비치 리조트 바이 카사 로마 (Sandy Beach Resort by Casa Loma)
-AC1088,MY003,베스트 스타 리조트 (Best Star Resort)
-AC1089,MY003,칠 스위트 랑카위 (Chill Suites Langkawi)
-AC1090,MY003,베이뷰 호텔 랑카위 (Bayview Hotel Langkawi)
-AC1091,MY003,The RIYAZ Lavanya
-AC1092,MY003,옴박 빌라 랑카위 (Ombak Villa Langkawi)
-AC1093,MY003,선셋 베이 코티지 (Sunset Bay Cottage)
-AC1094,MY003,세히자우@체낭 (Collection O 90622 Sehijau @ Cenang)
-AC1095,MX001,갈레리아 플라자 레포르마 (Galeria Plaza Reforma)
-AC1096,MX001,쉐라톤 멕시코 시티 마리아 이사벨 호텔 (Sheraton Mexico City Maria Isabel Hotel)
-AC1097,MX001,카미노 레알 아에로푸에르토 (Camino Real Aeropuerto)
-AC1098,MX001,코트야드 멕시코 시티 에어포트 (Courtyard Mexico City Airport)
-AC1099,MX001,NH 콜렉션 멕시코 시티 공항 T2 (NH Collection México City Airport T2)
-AC1100,MX001,NH 콜렉션 멕시코 시티 레포르마 (NH Collection Mexico City Reforma)
-AC1101,MX001,힐튼 가든 인 멕시코 시티 산타 페 (Hilton Garden Inn Mexico City Santa Fe)
-AC1102,MX001,Mondrian Mexico City Condesa
-AC1103,MX002,엠포리오 칸쿤 (Emporio Cancun)
-AC1104,MX002,크리스탈 캉쿤 (Krystal Cancun)
-AC1105,MX002,알로프트 칸쿤 (Aloft Cancun)
-AC1106,MX002,TRS 코럴 호텔 - 성인 전용 - 올 인클루시브 (TRS Coral Hotel - Adults Only - All Inclusive)
-AC1107,MX002,"Hyatt Ziva Cancun, an All Inclusive Resort"
-AC1108,MX002,시크릿 더 바인 칸쿤 리조트 앤 스파 - 올인클루시브 - 성인 전용 (Secrets The Vine Cancun Resort & Spa - All inclusive - Adults only)
-AC1109,MX002,InterContinental President Cancun Resort
-AC1110,MX002,호텔 NYX 칸쿤 (Hotel NYX Cancun)
-AC1111,MX002,캐노피 바이 힐튼 칸쿤 라 이슬라 (Canopy by Hilton Cancun La Isla)
-AC1112,MX002,Kempinski Hotel Cancun
-AC1113,MX003,Eterna Tulum
-AC1114,MX003,알로프트 툴룸 (Aloft Tulum)
-AC1115,MX003,그랜드 팔라디움 칸테나 리조트 앤 스파 (올 인클루시브) (Grand Palladium Kantenah Resort and Spa - All Inclusive)
-AC1116,MX003,Unico Hotel Riviera Maya - All Inclusive - Adults Only
-AC1117,MX003,The Waves Tulum
-AC1118,MX003,Kore Tulum Retreat Wellness Resort - Adults Only
-AC1119,MX003,Conrad Tulum
-AC1120,MX003,Mayan Monkey Tulum - Adults Only
-AC1121,MN001,더 그랜드 힐 호텔 울란바토르 (The Grand Hill Hotel Ulaanbaatar)
-AC1122,MN001,졸로 호텔 (Zolo Hotel)
-AC1123,MN001,H9 호텔 나인 울란바토르 (H9 Hotel Nine Ulaanbaatar)
-AC1124,MN001,칭기스 칸 호텔 (Chinggis Khaan Hotel)
-AC1125,MN001,Ramada by Wyndham Ulaanbaatar Citycenter
-AC1126,US001,Pod 39
-AC1127,US001,InterContinental New York Times Square
-AC1128,US001,포드 타임스 스퀘어 (Pod Times Square)
-AC1129,US001,호스텔링 인터내셔널 뉴 욕 (Hostelling International New York)
-AC1130,US001,Indigo NYC Downtown Wall Street
-AC1131,US001,CLUB QUARTERS HOTEL TIMES SQUARE - MIDTOWN
-AC1132,US001,더 맨하탄 호텔 앳 타임스 스퀘어 (The Manhattan Hotel at Times Square)
-AC1133,US001,U 호텔 피프스 애비뉴 (U Hotel Fifth Avenue)
-AC1134,US001,웨스트 사이드 YMCA 호스텔 (West Side YMCA Hostel)
-AC1135,US002,HI San Francisco Downtown Hostel
-AC1136,US002,킴프턴 알톤 호텔 (Kimpton Alton Hotel)
-AC1137,US002,Samesun San Francisco
-AC1138,US002,로드웨이 인 앤 스위트 샌프란시스코-그레이트 하이웨이 (Rodeway Inn & Suites San Francisco-Great Highway)
-AC1139,US002,샌프란시스코 메리어트 마르키스 (San Francisco Marriott Marquis)
-AC1140,US002,챈슬러 호텔 온 유니온 스퀘어 (Chancellor Hotel on Union Square)
-AC1141,US002,액시엄 호텔 샌프란시스코 (Axiom Hotel San Francisco)
-AC1142,US002,베이 랜딩 호텔 (Bay Landing Hotel)
-AC1143,US002,파크 55 샌프란시스코-힐튼 호텔 (Parc 55 San Francisco-A Hilton Hotel)
-AC1144,US002,킹 조지 호텔 (King George Hotel)
-AC1145,US003,프리핸드 로스앤젤레스 (Freehand Los Angeles)
-AC1146,US003,Moxy Downtown Los Angeles
-AC1147,US003,Stuart Hotel - Adults Only
-AC1148,US003,Conrad Los Angeles
-AC1149,US003,The Biltmore Los Angeles
-AC1150,US003,The Delphi
-AC1151,US003,E 센트럴 호텔 다운타운 로스앤젤레스 (E Central Hotel Downtown Los Angeles)
-AC1152,US003,InterContinental - Los Angeles Downtown
-AC1153,US003,USC 호텔 (USC Hotel)
-AC1154,US004,"Treasure Island Las Vegas - TI Hotel & Casino, a Radisson Hotel"
-AC1155,US004,코트야드 라스베이거스 컨벤션 센터 (Courtyard Las Vegas Convention Center)
-AC1156,US004,플라밍고 라스베이거스 (Flamingo Las Vegas)
-AC1157,US004,골든 게이트 호텔 앤 카지노 (Golden Gate Hotel and Casino)
-AC1158,US004,호스슈 라스베이거스 - 구. 발리스 (Horseshoe Las Vegas “Formerly Bally’s”)
-AC1159,US004,The Cosmopolitan of Las Vegas
-AC1160,US004,엑스칼리버 호텔 (Excalibur Hotel)
-AC1161,US004,Bellagio Hotel
-AC1162,US004,플래닛 할리우드 리조트 앤 카지노 (Planet Hollywood Resort & Casino)
-AC1163,US004,Trump International Hotel Las Vegas
-AC1164,MM001,호텔 발미 (Hotel Balmi)
-AC1165,MM001,체리 힐스 호텔 (Cherry Hills Hotel)
-AC1166,MM001,제말락스 호텔 앤 레지던스 (Zealax Hotel & Residence)
-AC1167,MM001,아웨이 메타 양곤 (Awei Metta Yangon)
-AC1168,MM001,K.C 레지던스 (K.C Residence)
-AC1169,MM001,후드 호스텔 (HOOD Hostel)
-AC1170,MM001,에스페라도 레이크뷰 호텔 (Esperado Lake View Hotel)
-AC1171,MM001,호텔 프라임 (Hotel Prime)
-AC1172,MM001,121 호텔 (121 Hotel)
-AC1173,MM001,자스민 팰리스 호텔 (Jasmine Palace Hotel)
-AC1174,MM002,오스텔로 벨로 만달레이 (Ostello Bello Mandalay)
-AC1175,MM002,E-아웃피팅 골든 컨트리 호텔 (E-outfitting Golden Country Hotel)
-AC1176,MM002,로얄 펄 호텔 (Royal Pearl Hotel)
-AC1177,MM002,더 홈 호텔 (The Home Hotel)
-AC1178,MM002,더 링크 78 만달레이 부티크 호텔 (The Link 78 Mandalay Boutique Hotel)
-AC1179,MM002,카웅 민트 호텔 (Kaung Myint Hotel)
-AC1180,MM002,호텔 호미 만달레이 (Hotel Homey Mandalay)
-AC1181,MM002,79 리빙 호텔 (79 Living Hotel)
-AC1182,MM002,드래곤 피닉스 호텔 (Dragon Phoenix Hotel)
-AC1183,MM002,호텔 뉴 웨이브 (Hotel New Wave)
-AC1184,MM004,로얄 바간 호텔 (Royal Bagan Hotel)
-AC1185,MM004,"바간 탄데 호텔, 올드 바간 (Bagan Thande Hotel, Old Bagan)"
-AC1186,MM004,오스텔로 벨로 바간 풀 (Ostello Bello Bagan Pool)
-AC1187,MM004,마이 바간 레지던스 바이 아마타 (아마타 부티크 하우스) (My Bagan Residence by Amata (Amata Boutique House))
-AC1188,MM004,스카이 뷰 호텔 (Sky View Hotel)
-AC1189,MM004,골든 미얀마 게스트하우스 (Golden Myanmar Guest House)
-AC1190,MM004,더 호텔 @ 타라바 게이트 (The Hotel @ Tharabar Gate)
-AC1191,MM004,시위 나 디 게스트하우스 (Shwe Na Di Guest House )
-AC1192,VN001,서머셋 호치민시티 서비스 레지던스 (Somerset Ho Chi Minh City Serviced Residence)
-AC1193,VN001,서머셋 챈슬러 코트 서비스 레지던스 (Somerset Chancellor Court Serviced Residence)
-AC1194,VN001,낫 하 로페라 호텔 (Nhat Ha L'Opera Hotel)
-AC1195,VN001,Sherwood Residence
-AC1196,VN001,센트럴 팰리스 호텔 (Central Palace Hotel)
-AC1197,VN001,LA VELA SAIGON HOTEL
-AC1198,VN001,롯데 호텔 사이공 (Lotte Hotel Saigon)
-AC1199,VN001,셔우드 스위트 (Sherwood Suites )
-AC1200,VN001,랭커스터 사이공 서비스 아파트먼트 르 탄 톤 (Lancaster Saigon Serviced Apartments Le Thanh Ton)
-AC1201,VN001,Sens House Saigon - Vinhomes Central Park
-AC1202,VN002,그랜드 플라자 하노이 호텔 (Grand Plaza Hanoi Hotel)
-AC1203,VN002,포츄나 호텔 하노이 (Fortuna Hotel Hanoi)
-AC1204,VN002,하노이 대우 호텔 (Hanoi Daewoo Hotel)
-AC1205,VN002,리틀 참 하노이 호스텔 (Little Charm Hanoi Hostel)
-AC1206,VN002,파라곤 노이 바이 호텔 앤 풀 (Paragon Noi Bai Hotel and Pool)
-AC1207,VN002,Madelise Palace Hotel & Spa
-AC1208,VN002,하노이 대하 서비스 아파트먼트 (Hanoi Daeha Serviced Apartment)
-AC1209,VN002,서머셋 그랜드 하노이 서비스 레지던스 (Somerset Grand Hanoi Serviced Residences)
-AC1210,VN002,La Siesta Classic Hang Thung
-AC1211,VN002,그랜드 비스타 하노이 (Grand Vista Hanoi)
-AC1212,VN004,G8 Luxury Hotel and Spa Da Nang
-AC1213,VN004,Cicilia Hotels & Spa Danang Powered by ASTON
-AC1214,VN004,뉴 오리엔트 호텔 다낭 (New Orient Hotel Da Nang)
-AC1215,VN004,오션 빌라 다낭 (Ocean Villas Da Nang)
-AC1216,VN004,살라 다낭 비치 호텔 (SALA DANANG BEACH HOTEL)
-AC1217,VN004,하이안 비치 호텔 앤 스파 (HAIAN Beach Hotel & Spa)
-AC1218,VN004,힐튼 다낭 (Hilton Da Nang)
-AC1219,VN004,래디슨 호텔 다낭 (Radisson Hotel Danang)
-AC1220,VN004,울랄라니 리조트 앤 콘도텔 (Olalani Resort and Condotel)
-AC1221,VN004,스텔라 마리스 비치 다낭 (Stella Maris Beach Danang)
-AC1222,ES001,TOC 호스텔 바르셀로나 (TOC Hostel Barcelona)
-AC1223,ES001,호텔 바르셀로나 아에로푸에르토 바이 멜리아 (Hotel Barcelona Aeropuerto By Melia)
-AC1224,ES001,호스텔 세인트 크리스토퍼스 바르셀로나 (Hostel St Christophers Barcelona)
-AC1225,ES001,엑스포 바르셀로나 호텔 (Expo Barcelona Hotel)
-AC1226,ES001,InterContinental Barcelona
-AC1227,ES001,호텔 암빗 바르셀로나 (Hotel Ambit Barcelona)
-AC1228,ES001,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia"
-AC1229,ES001,The Central House Barcelona Gracia
-AC1230,ES001,호텔 바르셀로나 하우스 (Hotel Barcelona House)
-AC1231,ES001,카사 캄페르 바르셀로나 (Casa Camper Barcelona)
-AC1232,ES002,톡 호스텔 마드리드 (TOC Hostel Madrid)
-AC1233,ES002,The Madrid Edition
-AC1234,ES002,파 홈 아토차 (Far Home Atocha)
-AC1235,ES002,더 햇 호스텔 마드리드 (The Hat Hostel Madrid)
-AC1236,ES002,멜리아 마드리드 세라노 (Melia Madrid Serrano)
-AC1237,ES002,호텔 콰트로 푸에르타 델 솔 (Hotel Quatro Puerta del Sol)
-AC1238,ES002,Radisson RED Madrid
-AC1239,ES002,B&B 호텔 마드리드 센트로 푸에르타 델 솔 (B&B Hotel Madrid Centro Puerta del Sol)
-AC1240,ES002,호텔 리아베니 (Hotel Liabeny)
-AC1241,ES002,easyHotel Madrid Centro Atocha
-AC1242,ES003,톡 호스텔 세비야 (Toc Hostel Sevilla)
-AC1243,ES003,Ibis Styles Sevilla Santa Justa
-AC1244,ES003,블랙 스완 호스텔 세비야 (Black Swan Hostel Sevilla)
-AC1245,ES003,"Radisson Collection Hotel, Magdalena Plaza Sevilla"
-AC1246,ES003,Petit Palace Vargas
-AC1247,ES003,호텔 레이 알폰소 엑스 (Hotel Rey Alfonso X)
-AC1248,ES003,포 유 호스텔 세비야 (For You Hostel Sevilla)
-AC1249,ES004,세나토르 파르케 센트럴 호텔 (Senator Parque Central Hotel)
-AC1250,ES004,호텔 유로스타 레이 돈 하이메 (Hotel Eurostars Rey Don Jaime)
-AC1251,ES004,더 리버 호스텔 (The River Hostel)
-AC1252,ES004,캐주얼 발렌시아 데 라스 아르테스 (Casual Valencia De Las Artes)
-AC1253,ES004,Casual Vintage Valencia
-AC1254,ES004,몬 스위트 카테드랄 (Mon Suites Catedral)
-AC1255,ES004,유로스타 악테온 (Eurostars Acteon)
-AC1256,ES004,AC 호텔 발렌시아 (AC Hotel Valencia)
-AC1257,SI001,호텔 로벡 (Hotel Lovec)
-AC1258,SI001,호텔 파크 - 사바 호텔 앤 리조트 (Hotel Park - Sava Hotels & Resorts)
-AC1259,SI001,블레드 로즈 호텔 (Bled Rose hotel)
-AC1260,SI001,올드 패리시 하우스 (Old Parish House)
-AC1261,SI002,비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)
-AC1262,SI002,시티 호텔 리주발자나 (City Hotel Ljubljana)
-AC1263,SI002,Sax Pub Hostel
-AC1264,SI002,"래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)"
-AC1265,SI002,오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)
-AC1266,SI002,Intercontinental Ljubljana
-AC1267,SI002,홀리데이 인 익스프레스 류블랴나 (Holiday Inn Express Ljubljana)
-AC1268,SI002,ibis Styles Ljubljana The Fuzzy Log
-AC1269,SI002,ibis Styles Ljubljana Centre
-AC1270,SI003,호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)
-AC1271,SI003,Hotel Neptun - LifeClass Hotels & Spa
-AC1272,SI003,호텔 피란 (Hotel Piran)
-AC1273,SI004,호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)
-AC1274,SI004,Hotel Neptun - LifeClass Hotels & Spa
-AC1275,SI004,호텔 피란 (Hotel Piran)
-AC1276,GB001,모우브레이 코트 호텔 (Mowbray Court Hotel)
-AC1277,GB001,St. Pancras Renaissance Hotel London
-AC1278,GB001,메리트 켄싱턴 호텔 (Merit Kensington Hotel)
-AC1279,GB001,유스턴 스퀘어 호텔 런던 (Euston Square Hotel)
-AC1280,GB001,Delta Hotels Heathrow Windsor
-AC1281,GB001,Kabannas London St Pancras
-AC1282,GB001,파크 플라자 런던 파크 로얄 (Park Plaza London Park Royal)
-AC1283,GB001,아치 호텔 (Arch Hotel)
-AC1284,GB001,나일랜드 호텔 (Nayland Hotel)
-AC1285,GB002,프레데릭 하우스 호텔 (Frederick House Hotel)
-AC1286,GB002,힐튼 에든버러 칼튼 (Hilton Edinburgh Carlton)
-AC1287,GB002,스테이 센트럴 호텔 (Stay Central Hotel)
-AC1288,GB002,데스티니 스튜던트 - 무라노 (Destiny Student- Murano)
-AC1289,GB002,Edinburgh Holyrood Hotel
-AC1290,GB002,래디슨 블루 호텔 에든버러 시티 센터 (Radisson Blu Hotel Edinburgh City Centre)
-AC1291,GB002,Leonardo Royal Hotel Edinburgh
-AC1292,GB002,브리타니아 호텔 에든버러 (Britannia Hotel Edinburgh)
-AC1293,GB002,Ten Hill Place
-AC1294,GB002,A&O 에든버러 시티 (A&O Edinburgh City)
-AC1295,GB003,더 미트르 호텔 (The Mitre Hotel)
-AC1296,GB003,Manchester Piccadilly Hotel
-AC1297,GB003,이비스 스타일 맨체스터 포트랜드 (ibis Styles Manchester Portland)
-AC1298,GB003,홀리데이 인 익스프레스 맨체스터 시티 센터 아레나 (Holiday Inn Express Manchester City Centre Arena)
-AC1299,GB003,하얏트 하우스 맨체스터 (Hyatt Regency Manchester)
-AC1300,GB003,네이티브 맨체스터 (Native Manchester)
-AC1301,GB003,래디슨 블루 맨체스터 에어포트 (Radisson Blu Manchester Airport)
-AC1302,GB003,브리타니아 맨체스터 호텔 (Britannia Manchester Hotel)
-AC1303,GB003,더 타운하우스 맨체스터 (The Townhouse Manchester)
-AC1304,GB003,Ibis Budget Manchester Airport
-AC1305,AU001,뷰 시드니 (View Sydney)
-AC1306,AU001,"포 포인츠 바이 쉐라톤 시드니, 센트럴 파크 (Four Points by Sheraton Sydney, Central Park)"
-AC1307,AU001,리틀 내셔널 호텔 시드니 (Little National Hotel Sydney)
-AC1308,AU001,Kith Hotel Darling Harbour
-AC1309,AU001,Ace Hotel Sydney
-AC1310,AU001,YHA Sydney Harbour
-AC1311,AU001,Radisson Blu Plaza Hotel Sydney
-AC1312,AU001,더 시드니 블러바드 호텔 (The Sydney Boulevard Hotel)
-AC1313,AU001,아모라 제이미슨 호텔  (Amora Jamison Hotel)
-AC1314,AU001,YEHS 호텔 시드니 QVB (YEHS Hotel Sydney QVB)
-AC1315,AU002,Dorsett Melbourne
-AC1316,AU002,Voco Melbourne Central
-AC1317,AU002,브래디 호텔 존스 레인 (Brady Hotels Jones Lane)
-AC1318,AU002,랑데부 호텔 멜번 (Rendezvous Hotel Melbourne)
-AC1319,AU002,인터컨티넨탈 멜버른 더 리알토 (InterContinental Melbourne The Rialto)
-AC1320,AU002,브래디 호텔 센트럴 멜번 (Brady Hotels Central Melbourne)
-AC1321,AU002,Radisson On Flagstaff Gardens
-AC1322,AU002,이비스 멜버른 센트럴 (ibis Melbourne Central)
-AC1323,AU002,시티 엣지 온 엘리자베스 아파트먼트 호텔 (City Edge on Elizabeth Apartment Hotel)
-AC1324,AU002,Sakura Serviced Apartment
-AC1325,AU003,하얏트 리젠시 브리즈번 (Hyatt Regency Brisbane)
-AC1326,AU003,Indigo Brisbane City Centre
-AC1327,AU003,오크스 브리즈번 온 샬럿 스위트 (Oaks Brisbane on Charlotte Suites)
-AC1328,AU003,소호 브리즈번 호텔 (Soho Brisbane Hotel)
-AC1329,AU003,힐튼 브리즈번 (Hilton Brisbane)
-AC1330,AU003,메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)
-AC1331,AU003,홀리데이 인 익스프레스 브리즈번 센트럴 (Holiday Inn Express Brisbane Central)
-AC1332,AU003,이비스 스타일 브리즈번 엘리자베스 스트리트 (Ibis Styles Brisbane Elizabeth Street)
-AC1333,AU003,Selina Brisbane
-AC1334,AU003,Voco Brisbane City Centre
-AC1335,AU004,크리스탈브룩 라일리 (Crystalbrook Riley)
-AC1336,AU004,오크스 케언즈 호텔 (Oaks Cairns Hotel)
-AC1337,AU004,플린 어 크리스탈브룩 컬렉션 호텔 (Crystalbrook Flynn)
-AC1338,AU004,레이크 센트럴 케언즈 (Lake Central Cairns)
-AC1339,AU004,더블트리 바이 힐튼 케언즈 (DoubleTree by Hilton Cairns)
-AC1340,AU004,힐튼 케언즈 (Hilton Cairns)
-AC1341,AU004,선샤인 타워 호텔 (Sunshine Tower Hotel)
-AC1342,AU004,베일리 어 크리스탈브룩 컬렉션 호텔 앤 레지던스 (Crystalbrook Bailey)
-AC1343,AU004,코럴 트리 인 호텔 (Coral Tree Inn Hotel)
-AC1344,AU004,The Abbott - Boutique Hotel
-AC1345,IN001,조스텔 뭄바이 (Zostel Mumbai)
-AC1346,IN001,레시던시 호텔 (Residency Hotel Fort)
-AC1347,IN001,Country Inn & Suites by Turtle 
-AC1348,IN001,씨 프린세스 호텔 (Sea Princess Hotel)
-AC1349,IN001,백패커 판다 콜라바 (Backpacker Panda Colaba)
-AC1350,IN001,래디슨 블루 뭄바이 인터내셔널 에어포트 (Radisson Blu Mumbai International Airport)
-AC1351,IN001,호텔 공항 국제 (Hotel Airport International)
-AC1352,IN001,시티 호텔 (City Hotel)
-AC1353,IN001,시티 호텔 (City Hotel)
-AC1354,IN001,패브호텔 아모르 안데리 이스트 (FabHotel Amour Andheri East)
-AC1355,IN001,Hotel Apex International - Near Mumbai Airport
-AC1356,CN001,시티 호텔 (City Hotel)
-AC1357,CN001,시티 호텔 (City Hotel)
-AC1358,CN001,그랜드 센트럴 호텔 상하이 (Grand Central Hotel Shanghai)
-AC1359,CN001,센트럴 호텔 (Central Hotel)
-AC1360,CN001,Hi Inn Shanghai Xujiahui
-AC1361,CN001,야티 바이 아티젠 홍차오 상하이 (YaTi by Artyzen Hongqiao Shanghai)
-AC1362,CN001,Radisson Collection Hyland Shanghai
-AC1363,CN001,상하이 데코 호텔 푸동 (Shanghai Deco Hotel Pudong)
-AC1364,CN001,진장 메트로폴로 상하이 신톈디 호텔 (Jinjiang Metropolo Shanghai Xintiandi Hotel)
-AC1365,CN001,샹하이 피쉬 인 번드 (Shanghai Fish Inn Bund)
-AC1366,IN002,블룸룸 @ 뉴 델리 레일웨이 스테이션 (bloomrooms @ New Delhi Railway Station)
-AC1367,IN002,더 프라임 발라지 디럭스 @ 뉴델리역 호텔 (The Prime Balaji Deluxe @ New Delhi Railway Station Hotel)
-AC1368,IN002,호텔 디캐피톨 - 델리 에어포트 (HOTEL D'CAPITOL - DELHI AIRPORT)
-AC1369,IN002,래디슨 블루 타워스 카우샴비 델리 NCR (Radisson Blu Towers Kaushambi Delhi NCR)
-AC1370,IN002,래디슨 블루 플라자 델리 에어포트 (Radisson Blu Plaza Delhi Airport)
-AC1371,IN002,Hari Piorko Grand
-AC1372,IN002,Zostel Delhi
-AC1373,IN002,예스 보스 바이 백패커스 헤븐 (Yes Boss By Backpackers Heaven)
-AC1374,IN002,파크 호텔 (The Park New Delhi Hotel)
-AC1375,IN002,Jyoti Mahal A Royal Heritage Hotel
-AC1376,IN003,조이스 호스텔 (joey's Hostel)
-AC1377,IN003,Sunrise Homestay
-AC1378,IN003,호텔 사니야 팰리스 (Hotel Saniya Palace)
-AC1379,IN003,수라세나 레갈비스타 (SURASENA REGALVISTA)
-AC1380,IN003,Radisson Hotel Agra
-AC1381,IN003,호텔 싯다르타 (600 미터 프롬 타지마할) (HOTEL SIDHARTHA (600 meters from Taj Mahal))
-AC1382,IN003,호텔 타지 리조트스 (Hotel Taj Resorts)
-AC1383,IN003,DoubleTree by Hilton Hotel Agra
-AC1384,IN003,"타즈간즈의 빌라 (144m², 침실 5개, 프라이빗 욕실 5개) (The Orchid Villa)"
-AC1385,IN003,FabHotel Bhawana
-AC1386,IN004,Horn Ok Please Hostel Jaipur
-AC1387,IN004,자이푸르 하벨리 (Jaipur Haveli)
-AC1388,IN004,호텔 간다르바 - 어 그린 호텔 (Hotel Gandharva - A Green Hotel)
-AC1389,IN004,레져 인 그랜드 차나키아 (Leisure Inn Grand Chanakya)
-AC1390,IN004,래디슨 자이푸르 시티 센터 (Radisson Jaipur City Center)
-AC1391,IN004,머스타시 호스텔 자이푸르 (Moustache Hostel Jaipur)
-AC1392,IN004,호텔 아르야 니와스 (Hotel Arya Niwas)
-AC1393,IN004,락스미 팰리스 헤리티지 부티크 호텔 (Laxmi Palace Heritage Boutique Hotel)
-AC1394,IN004,"Hotel Jaipur Central, Jaipur"
-AC1395,IN004,팬드야 니와스 (Pandya Niwas)
-AC1396,ID001,힐튼 가든 인 발리 응우라 라이 공항 (Hilton Garden Inn Bali Ngurah Rai Airport)
-AC1397,ID001,호텔 테라스 앳 쿠타 (Hotel Terrace at Kuta)
-AC1398,ID001,쿠타 파라디소 호텔 (Kuta Paradiso Hotel)
-AC1399,ID001,노보텔 발리 응우라 라이 공항 (Novotel Bali Ngurah Rai Airport)
-AC1400,ID001,래디슨 블루 발리 울루와투 (Radisson Blu Bali Uluwatu)
-AC1401,ID001,아디 다르마 호텔 쿠타 (Adi Dharma Hotel Kuta)
-AC1402,ID001,레기안 파라디소 호텔 (Legian Paradiso Hotel)
-AC1403,ID001,오하나 호텔 쿠타 (Ohana Hotel Kuta)
-AC1404,ID001,아비안 하모니 리조트 호텔 앤 스파 (Abian Harmony Resort Hotel and Spa)
-AC1405,ID003,해리스 호텔 앤 컨벤션 치움불레우이트 반둥 (HARRIS Hotel & Conventions Ciumbuleuit Bandung)
-AC1406,ID003,그랜드 호텔 프레안게르 (Grand Hotel Preanger)
-AC1407,ID003,키마야 브라가 반둥 바이 해리스 (Kimaya Braga Bandung by Harris)
-AC1408,ID003,스위스-벨리조트 다고 헤리티지 (Swiss-Belresort Dago Heritage)
-AC1409,ID003,Pasar Baru Square Hotel Bandung Powered by Archipelago
-AC1410,ID003,아리온 스위트 호텔 반둥 (Arion Suites Hotel Bandung)
-AC1411,ID003,사보이 호만 (Savoy Homann)
-AC1412,ID003,Collection O 22 Hotel Pasar Baru Heritage
-AC1413,ID003,디저니 호텔 (D'Journey Hotel)
-AC1414,JP001,APA 호텔 롯폰기 식스 (APA Hotel Roppongi SIX)
-AC1415,JP001,AC Hotel Tokyo Ginza
-AC1416,JP001,신주쿠 워싱턴 호텔 - 본관 (Shinjuku Washington Hotel - Main Building)
-AC1417,JP001,랜드어바웃 도쿄 (LANDABOUT TOKYO)
-AC1418,JP001,"더 도쿄 에디션, 도라노몬 (The Tokyo EDITION, Toranomon)"
-AC1419,JP001,APA 호텔 신주쿠-가부키초 타워 (APA Hotel Shinjuku-Kabukicho Tower)
-AC1420,JP001,APA Hotel & Resort Roppongi Ekihigashi
-AC1421,JP001,APA 호텔 앤 리조트 니시신주쿠-고초메-에키 타워 (APA Hotel & Resort Nishishinjuku-Gochome-Eki Tower)
-AC1422,JP001,도쿄 프린스 호텔 (Tokyo Prince Hotel)
-AC1423,JP001,APA 호텔 야마노테 오츠가에키 타워 (APA Hotel Yamanote Otsukaeki Tower)
-AC1424,JP002,칸데오 호텔 오사카 난바 (Candeo Hotels Osaka Namba)
-AC1425,JP002,호텔 포르자 오사카 난바 도톤보리 (Hotel Forza Osaka Namba Dotonbori)
-AC1426,JP002,Hotel Forza Osaka Kitahama
-AC1427,JP002,오사카 테이코쿠 호텔 (Osaka Teikoku Hotel)
-AC1428,JP002,W 오사카 (W Osaka)
-AC1429,JP002,APA Hotel and Resort Midosuji Hommachi Eki Tower
-AC1430,JP002,APA Hotel & Resort Osaka Umeda Eki Tower
-AC1431,JP002,소테츠 그랜드 프레사 오사카 난바 (Sotetsu Grand Fresa Osaka Namba)
-AC1432,JP002,APA 호텔 신-오사카 에키마에 (APA Hotel Shin-Osaka ekimae)
-AC1433,JP003,"HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa"
-AC1434,JP003,시즈테츠 호텔 프레지오 교토 가라스마오이케 (Shizutetsu Hotel Prezio Kyoto Karasumaoike)
-AC1435,JP003,사쿠라 테라스 더 아틀리에 - 성인 전용 (Sakura Terrace The Atelier -Adult Only)
-AC1436,JP003,Hyatt Regency Kyoto
-AC1437,JP003,APA 호텔 교토 에키히가시 (APA Hotel Kyoto Ekihigashi)
-AC1438,JP003,호텔 더 엠스 교토 (Hotel The M's Kyoto)
-AC1439,JP003,솔라리아 니시테츠 호텔 교토 프리미어 (Solaria Nishitetsu Hotel Kyoto Premier)
-AC1440,JP003,소테츠 프레사 인 교토-기요미즈 고조 (Sotetsu Fresa Inn Kyoto-Kiyomizu Gojo)
-AC1441,JP003,리치몬드 호텔 프리미어 교토 에키마에 (Richmond Hotel Premier Kyoto Ekimae)
-AC1442,JP004,그랑벨 호텔 스스키노 (GRANBELL HOTEL SUSUKINO)
-AC1443,JP004,호텔 몬토레 에델호프 삿포로 (Hotel Monterey Edelhof Sapporo)
-AC1444,JP004,베셀 호텔 캄파나 스스키노 (Vessel Hotel Campana Susukino)
-AC1445,JP004,게이큐 엑스 호텔 삿포로 (KEIKYU EX HOTEL Sapporo)
-AC1446,JP004,Fairfield by Marriott Hokkaido Eniwa
-AC1447,JP004,라젠트 스테이 삿포로 오도리 홋카이도 (La'Gent Stay Sapporo Odori Hokkaido)
-AC1448,JP004,JR-이스트 호텔 메츠 삿포로 (JR-EAST HOTEL METS SAPPORO)
-AC1449,JP004,그랑벨 호텔 삿포로 (GRANBELL HOTEL SAPPORO)
-AC1450,JP004,프리미어 호텔 나카지마 파크 삿포로 (Premier Hotel Nakajima Park Sapporo)
-AC1451,CN002,베이징 신차오 호텔 (Beijing XinQiao Hotel)
-AC1452,CN002,선월드 호텔 왕푸징 (Sunworld Hotel Wangfujing)
-AC1453,CN002,홀리데이 인 익스프레스 베이징 후아카이 (Holiday Inn Express Beijing Huacai)
-AC1454,CN002,더 그레이트 월 호텔 베이징 (The Great Wall Hotel Beijing)
-AC1455,CN002,파크 플라자 베이징 왕푸징 (Park Plaza Beijing Wangfujing)
-AC1456,CN002,구오 지 이 위안 호텔 (GUO JI YI YUAN HOTEL)
-AC1457,CN002,노보텔 피스 베이징 호텔 (Novotel Peace Beijing Hotel)
-AC1458,CN002,베이징 푸디 호텔 (Beijing Pudi Hotel)
-AC1459,CN002,시틱 호텔 베이징 공항 (CITIC Hotel Beijing Airport)
-AC1460,CN002,라데가스트 호텔 CBD (Radegast Hotel CBD)
-AC1461,CN003,젠궈 호텔 광저우 (Jianguo Hotel Guangzhou)
-AC1462,CN003,노모 베이징 로드 어-지덩 믹스 인터내셔널 아파트먼트 (Nomo Beijing Road A-Jiedeng MIX International Apartment)
-AC1463,CN003,Country Inn & Suites by Radisson Guangzhou Yonghe
-AC1464,CN003,하이 인 리앙핀 광저우 샤허딩 메트로 스테이션 (Hi Inn Liangpin Guangzhou Shaheding Metro Station)
-AC1465,CN003,오소토 레크리에이션 호텔 바이윈 (Osotto Recreation Hotel Baiyun)
-AC1466,CN003,차이나 호텔 (China Hotel)
-AC1467,CN003,호텔 랜드마크 캔톤 (Hotel Landmark Canton)
-AC1468,CN003,Guangzhou Carat Hotel
-AC1469,CN003,라 펄 인터내셔널 호텔 (La Perle International Hotel)
-AC1470,CN003,광저우 로열 리버 와이피던 아파트먼트  (Guangzhou Royal River Waifiden Apartment)
-AC1471,CN004,진장 메트로폴로 호텔 - 항저우 트레인 이스트 스테이션 (Jinjiang Metropolo Hotel - Hangzhou Train East Station)
-AC1472,CN004,씨티고 호텔 항저우 시 후 후빈 인타이 (CitiGO Hotel Hangzhou Xi Hu Hubin Yintai)
-AC1473,CN004,Ji Hotel Hangzhou West Lake Hubin Erqing Building
-AC1474,CN004,래디슨 블루 항저우 신톈디 (Radisson Blu Hangzhou Xintiandi)
-AC1475,CN004,UrCove by HYATT Hangzhou Westlake
-AC1476,CN004,그랜드 페트로파크 호텔 항주 (Grand Metropark Hotel Hangzhou)
-AC1477,CN004,홀리데이 인 익스프레스 항저우 이스트 스테이션 (Holiday Inn Express Hangzhou East Station)
-AC1478,CN004,Shama Serviced Apartments Zijingang Hangzhou
-AC1479,KH002,메타바리 호텔 (Mettavary Hotel )
-AC1480,KH002,센서리 파크 어반 호텔 (Sensory Park Urban Hotel)
-AC1481,KH002,맨션 51 호텔 앤 아파트먼트 (Mansion 51 Hotel & Apartment)
-AC1482,KH002,풀사이드 빌라 (Poolside Villa)
-AC1483,KH002,라플레 호텔 르 로얄 (Raffles Hotel Le Royal)
-AC1484,KH002,오케이 부티크 호텔 (Okay Boutique Hotel)
-AC1485,KH002,오하나 프놈펜 팰리스 호텔 (Ohana Phnom Penh Palace Hotel)
-AC1486,KH002,HM 그랜드 센트럴 호텔 (HM Grand Central Hotel)
-AC1487,KH002,사라보안 로얄 팰리스 (Saravoan Royal Palace)
-AC1488,KH002,두옹 찬 호텔 (Duong Chan Hotel)
-AC1489,KH004,더 B 리조트 (The B Resort)
-AC1490,KH004,RiverTree Villa & Resort
-AC1491,KH004,핌 시나 리조트 (Peam Snea Resort)
-AC1492,KH004,캄폿 스위트 부티크 (Kampot Sweet Boutique)
-AC1493,KH004,비볼라 게스트하우스 (VIBOLA Guesthouse)
-AC1494,KH004,호텔 파이브.S (Hotel Five.S)
-AC1495,KH004,몽키 리퍼블릭 캄폿 (Monkey Republic Kampot)
-AC1496,KH004,굿모닝 캄폿 게스트하우스 (Good Morning Kampot Guesthouse)
-AC1497,KH004,원더즈 캄폿 (Onederz Kampot)
-AC1498,CA001,원 킹 웨스트 호텔 앤 레지던스 (One King West Hotel and Residence)
-AC1499,CA001,팬티지스 호텔 토론토 센터 (Pantages Hotel Toronto Centre)
-AC1500,CA001,홀리데이 인 토론토 다운타운 센터 (Holiday Inn Toronto Downtown Centre)
-AC1501,CA001,Samesun Toronto
-AC1502,CA001,호텔 빅토리아 (Hotel Victoria)
-AC1503,CA001,Hilton Toronto
-AC1504,CA001,DoubleTree by Hilton Toronto Downtown
-AC1505,CA001,더 노보텔 토론토 센터 호텔 (The Novotel Toronto Center Hotel)
-AC1506,CA002,센추리 플라자 호텔 (Century Plaza Hotel)
-AC1507,CA002,하얏트 리젠시 밴쿠버 (Hyatt Regency Vancouver)
-AC1508,CA002,킹스턴 호텔 (Kingston Hotel)
-AC1509,CA002,쉐라톤 밴쿠버 월 센터 (Sheraton Vancouver Wall Centre)
-AC1510,CA002,베스트웨스턴 플러스 샤토 그랑빌 호텔 앤 스위트 앤 컨퍼런스 센터 (Best Western Premier Chateau Granville Hotel & Suites & Conference Centre)
-AC1511,CA002,YWCA 호텔 밴쿠버 (YWCA Hotel Vancouver)
-AC1512,CA002,블루 호라이즌 호텔 (Blue Horizon Hotel)
-AC1513,CA002,Best Western Plus Vancouver Airport Hotel
-AC1514,CA003,프리미에르 클라스 카르카손느 (Premiere Classe Carcassonne)
-AC1515,CA003,Kyriad Carcassonne - Aeroport
-AC1516,CA003,르 릴레 드 라 메종 바쿠 (Le Relais de la Maison Bacou)
-AC1517,TH001,차트리움 호텔 리버사이드 방콕 (SHA Extra Plus) (Chatrium Hotel Riverside Bangkok (SHA Extra Plus))
-AC1518,TH001,차트리움 레지던스 사톤 방콕 (SHA Plus+) (Chatrium Residence Sathon Bangkok (SHA Plus+))
-AC1519,TH001,마이트리아 호텔 라마 9 방콕 - 어 차트리움 컬렉션 (SHA Extra Plus) (Maitria Hotel Rama 9 Bangkok - A Chatrium Collection (SHA Extra Plus))
-AC1520,TH001,나라 호텔 (Narra hotel)
-AC1521,TH001,Radisson Blu Plaza Bangkok (SHA Plus+)
-AC1522,TH001,그랜드 BS 에어포트 호텔 수완나품 (Grand BS Airport Hotel Suvarnabhumi)
-AC1523,TH001,마이트리아 호텔 수쿰빗 18 방콕 - 어 차트리움 컬렉션 (Maitria Hotel Sukhumvit 18 Bangkok – A Chatrium Collection)
-AC1524,TH001,"The Standard, Bangkok Mahanakhon"
-AC1525,TH001,더 블레스 호텔 앤 레지던스 (The Bless Hotel & Residence)
-AC1526,TH001,Galleria 12 Sukhumvit Bangkok by Compass Hospitality
-AC1527,TH002,더 식스틴스 나이양 비치 호텔 (SHA Extra Plus) (The Sixteenth Naiyang Beach Hotel (SHA Extra Plus))
-AC1528,TH002,Anantara Koh Yao Yai Resort & Villas
-AC1529,TH002,Woovo Phuket Patong
-AC1530,TH002,빌라 알라나 푸켓 (Villa Alanna Phuket)
-AC1531,TH002,로얄 푸켓 시티 호텔 (SHA Extra Plus) (Royal Phuket City Hotel (SHA Extra Plus))
-AC1532,TH002,판푸리 레지던스 (SHA Extra Plus) (Panphuree Residence (SHA Extra Plus))
-AC1533,TH002,카말라 푸켓 스위트 앤 리조트 (SHA Extra Plus) (Radisson Resort & Suites Phuket)
-AC1534,TH002,"스플래쉬 비치 리조트, 마이 카오 푸켓 (SHA Plus+) (Splash Beach Resort, Mai Khao Phuket (SHA Plus+))"
-AC1535,TH002,코코텔 푸켓 나이양 비치 (SHA Extra Plus) (Kokotel Phuket Nai Yang Beach (SHA Extra Plus))
-AC1536,TH002,안다만트라 리조트 앤 빌라 푸켓 (SHA Extra Plus) (Andamantra Resort and Villa Phuket (SHA Extra plus))
-AC1537,TH003,SYN 부티크 호텔 (SHA Extra Plus) (SYN Boutique Hotel (SHA Extra Plus))
-AC1538,TH003,하이 치앙마이 호텔 (Hi Chiangmai Hotel)
-AC1539,TH003,Travelodge Nimman
-AC1540,TH003,프라 싱 빌리지 (SHA Extra Plus) (Phra Singh Village (SHA Extra Plus))
-AC1541,TH003,Hotel MAYU Chiang Mai
-AC1542,TH003,핑비만 호텔 (SHA Extra Plus) (Pingviman Hotel (SHA Extra Plus))
-AC1543,TH003,찰라 넘버 6 (SHA Extra Plus) (Chala Number 6 (SHA Extra Plus))
-AC1544,TH003,U Nimman Chiang Mai
-AC1545,TH003,컨텐트 빌라 치앙마이 (Content Villa Chiang Mai)
-AC1546,TH003,치앙마이 오키드 호텔 (SHA Extra Plus) (Chiang Mai Orchid Hotel (SHA Extra Plus))
-AC1547,TH004,Grande Centre Point Pattaya
-AC1548,TH004,파야 호텔 (Payaa Hotel)
-AC1549,TH004,Siam @ Siam Design Hotel Pattaya
-AC1550,TH004,테반 좀 티엔 호텔 파타야 (Tevan Jomtien Hotel Pattaya)
-AC1551,TH004,"Lewit Hotel Pattaya, a member of Radisson Individuals"
-AC1552,TH004,아버 호텔 앤 레지던스 파타야 (SHA Plus+) (Arbour Hotel and Residence Pattaya (SHA Plus+))
-AC1553,TH004,호텔 비스타 (Hotel Vista)
-AC1554,TH004,LK 에메랄드 비치 (SHA Extra Plus) (LK Emerald Beach (SHA Extra Plus))
-AC1555,TH004,나바나 네이처 이스케이프 (SHA Plus+) (Navana Nature Escape (SHA Plus+))
-AC1556,TH004,아나 아난 리조트 앤 빌라 파타야 (SHA Extra Plus) (Ana Anan Resort & Villas Pattaya (SHA Extra Plus))
-AC1557,TR001,한치 (HANCHI)
-AC1558,TR001,인터컨티넨탈 이스탄불 (InterContinental Istanbul)
-AC1559,TR001,Zeyn Otel Istanbul
-AC1560,TR001,모다 드레이 - 컨셉 호스텔 (Moda Drei - Concept Hostel)
-AC1561,TR001,콘래드 이스탄불 보스포러스 (Conrad Istanbul Bosphorus)
-AC1562,TR001,Shining Star Hotel
-AC1563,TR001,래디슨 블루 호텔 이스탄불 오토마레 (Radisson Blu Hotel Istanbul Ottomare)
-AC1564,TR001,VPLUS HOTEL
-AC1565,TR001,랄라한 호텔 (Lalahan Hotel)
-AC1566,TR001,Manu Startup House
-AC1567,TR004,카멜리야 케이브 호스텔 (Kamelya Cave Hostel)
-AC1568,TR004,사파이어 스톤 호텔 (Sapphire Stone Hotel)
-AC1569,TR004,로얄 스톤 하우스 - 괴레메 (Royal Stone Houses - Goreme)
-AC1570,TR004,히스토리컬 괴레메 하우스  (Historical Goreme House)
-AC1571,TR004,Serene Premium Stone House
-AC1572,TR004,올드 타운 스톤 하우스 (Old Town Stone House)
-AC1573,TR004,유수프 베이 하우스 괴레메 (Yusuf Bey House Goreme)
-AC1574,TR004,더 돔 케이브 바이 트래블러스 (The Dorm Cave By Travellers)
-AC1575,TR004,Balloon View Hotel
-AC1576,PH001,헤난 파크 리조트 (Henann Park Resort)
-AC1577,PH001,헤난 가든 리조트 (Henann Garden Resort)
-AC1578,PH001,헤난 팜 비치 리조트 (Henann Palm Beach Resort)
-AC1579,PH001,Marzon Beach Resort - Boracay
-AC1580,PH001,헤난 리젠시 리조트 앤 스파 (Henann Regency Resort And Spa)
-AC1581,PH001,헤난 크리스털 샌즈 리조트 (Henann Crystal Sands Resort)
-AC1582,PH001,헤난 라군 리조트 (Henann Lagoon Resort)
-AC1583,PH001,페어웨이즈 앤 블루워터 보라카이 (Fairways and Bluewater Boracay)
-AC1584,PH001,Signature Boracay Blue (Formerly La Banca House)
-AC1585,PH001,세린 라 플라야 보라카이 (Serene La Playa Boracay)
-AC1586,PH002,Savoy Hotel Manila
-AC1587,PH002,Hotel101 - Fort
-AC1588,PH002,Condo in AZURE Beach Resort Beach View #716
-AC1589,PH002,마이크로텔 바이 윈덤 몰 오브 아시아 - 다목적 호텔 (Microtel by Wyndham Mall of Asia)
-AC1590,PH002,Belmont Hotel Manila 
-AC1591,PH002,파크 인 바이 래디슨 노스 에드사 (Park Inn by Radisson North Edsa)
-AC1592,PH002,킹스포드 호텔 마닐라 (Kingsford Hotel Manila)
-AC1593,PH002,Bayprime Hotel
-AC1594,PH002,Diamond Hotel
-AC1595,PH002,Tropicana Suites
-AC1596,PH003,사보이 호텔 막탄 뉴타운 (Savoy Hotel Mactan Newtown)
-AC1597,PH003,Belmont Hotel Mactan
-AC1598,PH003,퀘스트 호텔 앤 컨퍼런스 센터 세부 (Quest Hotel and Conference Center Cebu)
-AC1599,PH003,래디슨 블루 세부 (Radisson Blu Cebu)
-AC1600,PH003,Sheraton Cebu Mactan Resort
-AC1601,PH003,bai Hotel
-AC1602,PH003,세부 화이트샌즈 리조트 앤 스파 (Cebu White Sands Resort and Spa)
-AC1603,PH003,세부 R 호텔 -마볼로 (Cebu R Hotel - Mabolo)
-AC1604,PH003,얼루어 호텔 앤 스위트 (Allure Hotel & Suites)
-AC1605,PH004,시티 가든 호텔 마카티 (City Garden Hotel Makati)
-AC1606,PH004,"세인트 자일스 마카티 - 어 세인트 자일스 호텔, 마닐라 - 다목적 호텔 (St Giles Makati – A St Giles Hotel, Manila)"
-AC1607,PH004,아임 호텔 (I'M Hotel)
-AC1608,PH004,Z 호스텔 (Z Hostel)
-AC1609,PH004,1898 호텔 콜로니아 엔 라스 필리피나스 (1898 Hotel Colonia En Las Filipinas)
-AC1610,PH004,시티 가든 그랜드 호텔 (City Garden GRAND Hotel)
-AC1611,PH004,Valero Grand Suites by Swiss-Belhotel
-AC1612,PH004,코로 호텔 (Coro Hotel)
-AC1613,PH004,Super OYO Capital O 907 Ceo Flats
-AC1614,PH004,Sunnette Tower Makati
+AC1000,NZ001,아바니 오클랜드 메트로폴리스 레지던스 (Avani Auckland Metropolis Residences)
+AC1001,NZ001,힐튼 오클랜드 (Hilton Auckland)
+AC1002,NZ001,Imagine Beach Road
+AC1003,NZ001,이비스 버짓 오클랜드공항 (ibis Budget Auckland Airport)
+AC1004,NZ001,JetPark Hotel Auckland Airport
+AC1005,NZ001,크라운 플라자 오클랜드 (Crowne Plaza Auckland)
+AC1006,NZ001,Swiss-Belsuites Victoria Park Auckland
+AC1007,NZ001,나우미 호텔 오클랜드 에어포트 (Naumi Hotel Auckland Airport)
+AC1008,NZ001,SkyCity Hotel
+AC1009,NZ001,그랜드 밀레니엄 오클랜드 (Grand Millennium Auckland)
+AC1010,NZ002,Garden Court Guest House
+AC1011,NZ002,Komani Resorts
+AC1012,NZ003,수디마 크라이스트처치 공항 (Sudima Christchurch Airport)
+AC1013,NZ003,크라이스트처치 시티 호텔 (Christchurch City Hotel)
+AC1014,NZ003,"샤토 온 더 파크 - 크라이스트처치, 어 더블 트리 바이 힐튼 (Chateau on the Park - Christchurch, a DoubleTree by Hilton)"
+AC1015,NZ003,브레이크프리 온 캐셀 크라이스트처치 (BreakFree on Cashel Christchurch)
+AC1016,NZ003,호텔 기브 (Hotel Give)
+AC1017,NZ003,이비스 크라이스트처치 (ibis Christchurch)
+AC1018,NZ003,센터 포인트 온 콜롬보 모텔 (CentrePoint on Colombo Motel)
+AC1019,NZ003,노보텔 크라이스트처치 에어포트 (Novotel Christchurch Airport)
+AC1020,NZ004,오크스 웰링턴 호텔 (Oaks Wellington Hotel)
+AC1021,NZ004,리지스 웰링턴 (Rydges Wellington)
+AC1022,NZ004,Rydges Wellington Airport
+AC1023,NZ004,더 매리언 호스텔 (The Marion Hostel)
+AC1024,NZ004,이비스 웰링턴 (ibis Wellington)
+AC1025,NZ004,트래블로지 호텔  웰링톤 (Travelodge Hotel Wellington)
+AC1026,NZ004,Microtel by Wyndham Wellington
+AC1027,NZ004,Naumi Hotel Wellington
+AC1028,NZ004,호텔 워털루 앤 백패커 (Hotel Waterloo & Backpackers)
+AC1029,NZ004,윌리스 웰링턴 호텔 (Willis Wellington Hotel)
+AC1030,TW001,타이페이 가든 호텔 (Taipei Garden Hotel)
+AC1031,TW001,시저 메트로 타이베이 (Caesar Metro Taipei)
+AC1032,TW001,코스모스 호텔 타이베이 메인 스테이션 (Cosmos Hotel Taipei Main Station)
+AC1033,TW001,로더스 플러스 호텔 타이베이 스테이션 (Roaders Plus Hotel Taipei Station)
+AC1034,TW001,호텔 참 참 - 타이베이 (HOTEL CHAM CHAM - Taipei)
+AC1035,TW001,시저 파크 호텔 (Caesar Park Hotel)
+AC1036,TW001,미라마 가든 호텔 (Miramar Garden Hotel)
+AC1037,TW001,저스트 슬립 호텔 시먼딩 (Just Sleep Hotel Ximending)
+AC1038,TW001,마예르 인 (Mayer Inn)
+AC1039,TW002,더 클라우드 호텔 (The Cloud Hotel)
+AC1040,TW002,Hotel YAM LAGOM
+AC1041,TW002,HOTEL YOSHI KAOHSIUNG
+AC1042,TW002,카인드네스 호텔 치서안 (Kindness Hotel Qixian)
+AC1043,TW002,그리트 인 (GREET INN)
+AC1044,TW002,에어라인 인 - 가오슝 스테이션 (Airline Inn - Kaohsiung Station )
+AC1045,TW002,inns hotel
+AC1046,TW002,스카이원 호텔 (Skyone Hotel)
+AC1047,TW002,CU 호텔 가오슝 (CU Hotel Kaohsiung)
+AC1048,TW002,레전드 호텔 피어 2 (Legend Hotel Pier 2)
+AC1049,TW003,메시 호텔 (Meci Hotel)
+AC1050,TW003,파크 시티 호텔 - 화롄 베케이션 (Park City Hotel - Hualien Vacation)
+AC1051,TW003,TC HOTEL HUALIEN ZHONG XIAO
+AC1052,TW003,찬타이 호텔 (Chantai Hotel)
+AC1053,TW003,저스트 슬립 화롄 종정 (Just Sleep Hotel Hualien Zhongzheng)
+AC1054,TW003,레이크쇼 Hotel 화롄 (Lakeshore Hotel Hualien)
+AC1055,TW003,코지 하우스 호스텔 (Cozy House Hostel)
+AC1056,TW003,Lakeshore Hotel Hualien Taroko
+AC1057,TW003,스태리 인 (Starry Inn)
+AC1058,TW003,글렌우드 비앤비 (Glenwood Bed and Breakfast)
+AC1059,TW004,LakeShore Hotel Tainan
+AC1060,TW004,U.I.J Hotel&Hostel (UIJ)
+AC1061,TW004,더 레트로 타이판 (The Retro Tai-Pan)
+AC1062,TW004,웨이 얏 그랜드호텔 (Wei-Yat Grand Hotel)
+AC1063,TW004,Oinn Hotel & Hostel
+AC1064,TW004,그랜드 반얀 호텔 (Grand Banyan Hotel)
+AC1065,TW004,Provintia Hotel
+AC1066,TW004,창위 호텔 (CHANGYU HOTEL)
+AC1067,DE001,오칵 호텔 (Ocak Hotel)
+AC1068,DE001,인터콘티넨탈 베를린 (InterContinental Berlin)
+AC1069,DE001,더 서커스 호스텔 (The Circus Hostel)
+AC1070,DE001,에스트렐 호텔 (Estrel Hotel)
+AC1071,DE001,Locke at East Side Gallery
+AC1072,DE001,셀렉트 호텔 베를린 더 월 (Select Hotel Berlin The Wall)
+AC1073,DE001,파크 인 바이 래디슨 베를린 알렉산더플라츠 (Park Inn by Radisson Berlin Alexanderplatz)
+AC1074,DE001,모비주 호텔 (Monbijou Hotel)
+AC1075,DE001,호텔 아마노 그랜드 센트럴 (Hotel AMANO Grand Central)
+AC1076,DE001,오칵 아파트먼트 앤 호텔 (Ocak Apartment & Hotel)
+AC1077,DE002,호텔 유로파이세르 호프 (Hotel Europäischer Hof)
+AC1078,DE002,Bayer 89 Vi Vadi Hotel
+AC1079,DE002,유료 유스 호텔 (Euro Youth Hotel)
+AC1080,DE002,호텔 토르브라우 (Hotel Torbraeu)
+AC1081,DE002,WunderLocke
+AC1082,DE002,슈어 호텔 바이 베스트웨스턴 뮌헨 하우프트반호프 (Sure Hotel by Best Western München Hauptbahnhof)
+AC1083,DE002,"Flightgate Munich Airport Hotel, a member of Radisson Individuals"
+AC1084,DE002,부티크 호텔 게르마니아 (Boutique Hotel Germania)
+AC1085,DE002,mk 호텔 뮌헨 시티 (mk hotel muenchen city)
+AC1086,DE002,플레밍 호텔 뮌헨 슈바빙 (Fleming's Hotel Munich Schwabing)
+AC1087,DE004,부티크 053 함부르크 메인 스테이션 (Boutique 053 Hamburg Main Station)
+AC1088,DE004,유로패에이스처 호프 (Europaeischer Hof)
+AC1089,DE004,NYCE Hotel Hamburg City
+AC1090,DE004,루비 로티 호텔 함부르크 (Ruby Lotti Hotel Hamburg)
+AC1091,DE004,prizeotel Hamburg-St Pauli
+AC1092,DE004,제너레이터 함부르크 (Generator Hamburg)
+AC1093,DE004,a&o 함부르크 시티 (a&o Hamburg City)
+AC1094,DE004,마이닝어 호텔 함부르크 시티 센터 (MEININGER Hotel Hamburg City Center)
+AC1095,DE004,a&o 함부르크 하우프트반호프 (a&o Hamburg Hauptbahnhof)
+AC1096,MO001,더 베네치안 마카오 (The Venetian Macao)
+AC1097,MO001,더 파리지안 마카오 (The Parisian Macao)
+AC1098,MO001,더 런더너 호텔 (The Londoner Hotel)
+AC1099,MO001,JW 메리어트 호텔 마카오 (JW Marriott Hotel Macau)
+AC1100,MO001,Sheraton Grand Macao
+AC1101,MO001,Grand Lisboa Palace Macau
+AC1102,MO001,Belive&More
+AC1103,MO001,스튜디오 시티 호텔 (Studio City Hotel)
+AC1104,MO001,호텔 로얄 마카오 (Hotel Royal Macau)
+AC1105,MO001,리오 호텔 마카오 (Rio Hotel Macau)
+AC1106,MY001,힐튼 가든 인 쿠알라 룸푸르 - 노스 (Hilton Garden Inn Kuala Lumpur - North)
+AC1107,MY001,Deface Platinum 2 Kuala Lumpur
+AC1108,MY001,디페이스 플래티넘 쿠알라룸푸르 (DeFace Platinum Kuala Lumpur)
+AC1109,MY001,데 루나 호텔 스리 페탈링 (De Luna Hotel Sri Petaling)
+AC1110,MY001,홀리데이 인 익스프레스 쿠알라 룸푸르 시티 센터 (Holiday Inn Express Kuala Lumpur City Centre)
+AC1111,MY001,산타 그랜드 시그니처 쿠알라룸푸르 (Santa Grand Signature Kuala Lumpur)
+AC1112,MY001,Park Inn by Radisson Putrajaya
+AC1113,MY001,힐튼 가든 인 쿠알라 룸푸르 - 사우스 (Hilton Garden Inn Kuala Lumpur - South)
+AC1114,MY001,Platinum Suites 2 by DM Kuala Lumpur
+AC1115,MY002,힐튼 코타키나발루 (Hilton Kota Kinabalu)
+AC1116,MY002,코타 키나발루 메리어트 호텔 (Kota Kinabalu Marriott Hotel)
+AC1117,MY002,호라이즌 호텔 코타키나발루 (Horizon Hotel Kota Kinabalu)
+AC1118,MY002,사바 오리엔탈 호텔 (Sabah Oriental Hotel)
+AC1119,MY002,더 마젤란 수테라 리조트 (The Magellan Sutera Resort)
+AC1120,MY002,하얏트 리젠시 키나발루 (Hyatt Regency Kinabalu)
+AC1121,MY002,Signel Poshtel
+AC1122,MY002,머큐어 코타키나발루 시티센터 (Mercure Kota Kinabalu City Centre)
+AC1123,MY002,모나코 부티크 호텔 사동 자야 (Monaco Boutique Hotel Sadong Jaya)
+AC1124,MY002,Jesselton Quay by Pinstay
+AC1125,MY003,Wings by Croske Resort Langkawi 
+AC1126,MY003,"벨라 비스타 워터프런트 리조트, 랑카위 (Bella Vista Waterfront Resort, Langkawi)"
+AC1127,MY003,샌디 비치 리조트 바이 카사 로마 (Sandy Beach Resort by Casa Loma)
+AC1128,MY003,베스트 스타 리조트 (Best Star Resort)
+AC1129,MY003,칠 스위트 랑카위 (Chill Suites Langkawi)
+AC1130,MY003,베이뷰 호텔 랑카위 (Bayview Hotel Langkawi)
+AC1131,MY003,The RIYAZ Lavanya
+AC1132,MY003,옴박 빌라 랑카위 (Ombak Villa Langkawi)
+AC1133,MY003,선셋 베이 코티지 (Sunset Bay Cottage)
+AC1134,MY003,세히자우@체낭 (Collection O 90622 Sehijau @ Cenang)
+AC1135,MY004,Attic Home Melaka Imperio Residence & Jonker 
+AC1136,MY004,더블트리 바이 힐튼 호텔 말라카 (DoubleTree by Hilton Hotel Melaka)
+AC1137,MY004,임페리오 레지던스 씨프런트 바이 퍼펙트 호스트 (Imperio Residence Seafront by Perfect Host)
+AC1138,MY004,에코 트리 호텔 (Eco Tree Hotel)
+AC1139,MY004,더 스트레이츠 호텔 앤 스위트츠 (The Straits Hotel and Suites)
+AC1140,MY004,Imperio Residence with Private Bathtub by Lets Stay
+AC1141,MY004,Imperio Residence Private Bathtub @ Melaka Town
+AC1142,MY004,리비에라 스위트 멜라카 (Riviera Suites Melaka)
+AC1143,MY004,미드시티 호텔 멜라카 (Midcity Hotel Melaka)
+AC1144,MX001,갈레리아 플라자 레포르마 (Galeria Plaza Reforma)
+AC1145,MX001,쉐라톤 멕시코 시티 마리아 이사벨 호텔 (Sheraton Mexico City Maria Isabel Hotel)
+AC1146,MX001,카미노 레알 아에로푸에르토 (Camino Real Aeropuerto)
+AC1147,MX001,코트야드 멕시코 시티 에어포트 (Courtyard Mexico City Airport)
+AC1148,MX001,NH 콜렉션 멕시코 시티 공항 T2 (NH Collection México City Airport T2)
+AC1149,MX001,NH 콜렉션 멕시코 시티 레포르마 (NH Collection Mexico City Reforma)
+AC1150,MX001,힐튼 가든 인 멕시코 시티 산타 페 (Hilton Garden Inn Mexico City Santa Fe)
+AC1151,MX001,Mondrian Mexico City Condesa
+AC1152,MX002,엠포리오 칸쿤 (Emporio Cancun)
+AC1153,MX002,크리스탈 캉쿤 (Krystal Cancun)
+AC1154,MX002,알로프트 칸쿤 (Aloft Cancun)
+AC1155,MX002,TRS 코럴 호텔 - 성인 전용 - 올 인클루시브 (TRS Coral Hotel - Adults Only - All Inclusive)
+AC1156,MX002,"Hyatt Ziva Cancun, an All Inclusive Resort"
+AC1157,MX002,시크릿 더 바인 칸쿤 리조트 앤 스파 - 올인클루시브 - 성인 전용 (Secrets The Vine Cancun Resort & Spa - All inclusive - Adults only)
+AC1158,MX002,InterContinental President Cancun Resort
+AC1159,MX002,호텔 NYX 칸쿤 (Hotel NYX Cancun)
+AC1160,MX002,캐노피 바이 힐튼 칸쿤 라 이슬라 (Canopy by Hilton Cancun La Isla)
+AC1161,MX002,Kempinski Hotel Cancun
+AC1162,MX003,Eterna Tulum
+AC1163,MX003,알로프트 툴룸 (Aloft Tulum)
+AC1164,MX003,그랜드 팔라디움 칸테나 리조트 앤 스파 (올 인클루시브) (Grand Palladium Kantenah Resort and Spa - All Inclusive)
+AC1165,MX003,Unico Hotel Riviera Maya - All Inclusive - Adults Only
+AC1166,MX003,The Waves Tulum
+AC1167,MX003,Kore Tulum Retreat Wellness Resort - Adults Only
+AC1168,MX003,Conrad Tulum
+AC1169,MX003,Mayan Monkey Tulum - Adults Only
+AC1170,MX004,프라야 팜스 비치 호텔 (Playa Palms Beach Hotel)
+AC1171,MX004,더 파이브스 다운타운 호텔 앤 레지던스 큐리오 컬렉션 바이 힐튼 (The Fives Downtown Hotel and Residences Curio Collection by Hilton)
+AC1172,MX004,라 파시온 호텔 부티크 바이 부니크 (La Pasion Hotel Boutique by Bunik)
+AC1173,MX004,그랜드 리비에라 프린세스 - 올 인클루시브 (Grand Riviera Princess - All Inclusive)
+AC1174,MX004,세레니티 호텔 부티크 (Serenity Hotel Boutique)
+AC1175,MX004,호텔 HM 플라야 델 카르멘 (Hotel HM Playa del Carmen)
+AC1176,MX004,"더 리프 28 - 성인 전용, 올 스위트, 미식 옵션 올인클루시브 (The Reef 28, Adults Only, All Suites, Optional Gourmet All Inclusive)"
+AC1177,MX004,Aloft Playa del Carmen
+AC1178,MX004,Secrets® Moxché Playa del Carmen - All Inclusive - Adults Only
+AC1179,MN001,더 그랜드 힐 호텔 울란바토르 (The Grand Hill Hotel Ulaanbaatar)
+AC1180,MN001,졸로 호텔 (Zolo Hotel)
+AC1181,MN001,H9 호텔 나인 울란바토르 (H9 Hotel Nine Ulaanbaatar)
+AC1182,MN001,칭기스 칸 호텔 (Chinggis Khaan Hotel)
+AC1183,MN001,Ramada by Wyndham Ulaanbaatar Citycenter
+AC1184,US001,Pod 39
+AC1185,US001,InterContinental New York Times Square
+AC1186,US001,포드 타임스 스퀘어 (Pod Times Square)
+AC1187,US001,호스텔링 인터내셔널 뉴 욕 (Hostelling International New York)
+AC1188,US001,Indigo NYC Downtown Wall Street
+AC1189,US001,CLUB QUARTERS HOTEL TIMES SQUARE - MIDTOWN
+AC1190,US001,더 맨하탄 호텔 앳 타임스 스퀘어 (The Manhattan Hotel at Times Square)
+AC1191,US001,U 호텔 피프스 애비뉴 (U Hotel Fifth Avenue)
+AC1192,US001,웨스트 사이드 YMCA 호스텔 (West Side YMCA Hostel)
+AC1193,US002,HI San Francisco Downtown Hostel
+AC1194,US002,킴프턴 알톤 호텔 (Kimpton Alton Hotel)
+AC1195,US002,Samesun San Francisco
+AC1196,US002,로드웨이 인 앤 스위트 샌프란시스코-그레이트 하이웨이 (Rodeway Inn & Suites San Francisco-Great Highway)
+AC1197,US002,샌프란시스코 메리어트 마르키스 (San Francisco Marriott Marquis)
+AC1198,US002,챈슬러 호텔 온 유니온 스퀘어 (Chancellor Hotel on Union Square)
+AC1199,US002,액시엄 호텔 샌프란시스코 (Axiom Hotel San Francisco)
+AC1200,US002,베이 랜딩 호텔 (Bay Landing Hotel)
+AC1201,US002,파크 55 샌프란시스코-힐튼 호텔 (Parc 55 San Francisco-A Hilton Hotel)
+AC1202,US002,킹 조지 호텔 (King George Hotel)
+AC1203,US003,프리핸드 로스앤젤레스 (Freehand Los Angeles)
+AC1204,US003,Moxy Downtown Los Angeles
+AC1205,US003,Stuart Hotel - Adults Only
+AC1206,US003,Conrad Los Angeles
+AC1207,US003,The Biltmore Los Angeles
+AC1208,US003,The Delphi
+AC1209,US003,E 센트럴 호텔 다운타운 로스앤젤레스 (E Central Hotel Downtown Los Angeles)
+AC1210,US003,InterContinental - Los Angeles Downtown
+AC1211,US003,USC 호텔 (USC Hotel)
+AC1212,US004,"Treasure Island Las Vegas - TI Hotel & Casino, a Radisson Hotel"
+AC1213,US004,코트야드 라스베이거스 컨벤션 센터 (Courtyard Las Vegas Convention Center)
+AC1214,US004,플라밍고 라스베이거스 (Flamingo Las Vegas)
+AC1215,US004,골든 게이트 호텔 앤 카지노 (Golden Gate Hotel and Casino)
+AC1216,US004,호스슈 라스베이거스 - 구. 발리스 (Horseshoe Las Vegas “Formerly Bally’s”)
+AC1217,US004,The Cosmopolitan of Las Vegas
+AC1218,US004,엑스칼리버 호텔 (Excalibur Hotel)
+AC1219,US004,Bellagio Hotel
+AC1220,US004,플래닛 할리우드 리조트 앤 카지노 (Planet Hollywood Resort & Casino)
+AC1221,US004,Trump International Hotel Las Vegas
+AC1222,MM001,호텔 발미 (Hotel Balmi)
+AC1223,MM001,체리 힐스 호텔 (Cherry Hills Hotel)
+AC1224,MM001,제말락스 호텔 앤 레지던스 (Zealax Hotel & Residence)
+AC1225,MM001,아웨이 메타 양곤 (Awei Metta Yangon)
+AC1226,MM001,K.C 레지던스 (K.C Residence)
+AC1227,MM001,후드 호스텔 (HOOD Hostel)
+AC1228,MM001,에스페라도 레이크뷰 호텔 (Esperado Lake View Hotel)
+AC1229,MM001,호텔 프라임 (Hotel Prime)
+AC1230,MM001,121 호텔 (121 Hotel)
+AC1231,MM001,자스민 팰리스 호텔 (Jasmine Palace Hotel)
+AC1232,MM002,오스텔로 벨로 만달레이 (Ostello Bello Mandalay)
+AC1233,MM002,E-아웃피팅 골든 컨트리 호텔 (E-outfitting Golden Country Hotel)
+AC1234,MM002,로얄 펄 호텔 (Royal Pearl Hotel)
+AC1235,MM002,더 홈 호텔 (The Home Hotel)
+AC1236,MM002,더 링크 78 만달레이 부티크 호텔 (The Link 78 Mandalay Boutique Hotel)
+AC1237,MM002,카웅 민트 호텔 (Kaung Myint Hotel)
+AC1238,MM002,호텔 호미 만달레이 (Hotel Homey Mandalay)
+AC1239,MM002,79 리빙 호텔 (79 Living Hotel)
+AC1240,MM002,드래곤 피닉스 호텔 (Dragon Phoenix Hotel)
+AC1241,MM002,호텔 뉴 웨이브 (Hotel New Wave)
+AC1242,MM003,로얄 바간 호텔 (Royal Bagan Hotel)
+AC1243,MM003,"바간 탄데 호텔, 올드 바간 (Bagan Thande Hotel, Old Bagan)"
+AC1244,MM003,오스텔로 벨로 바간 풀 (Ostello Bello Bagan Pool)
+AC1245,MM003,마이 바간 레지던스 바이 아마타 (아마타 부티크 하우스) (My Bagan Residence by Amata (Amata Boutique House))
+AC1246,MM003,스카이 뷰 호텔 (Sky View Hotel)
+AC1247,MM003,골든 미얀마 게스트하우스 (Golden Myanmar Guest House)
+AC1248,MM003,더 호텔 @ 타라바 게이트 (The Hotel @ Tharabar Gate)
+AC1249,MM003,시위 나 디 게스트하우스 (Shwe Na Di Guest House )
+AC1250,VN001,서머셋 호치민시티 서비스 레지던스 (Somerset Ho Chi Minh City Serviced Residence)
+AC1251,VN001,서머셋 챈슬러 코트 서비스 레지던스 (Somerset Chancellor Court Serviced Residence)
+AC1252,VN001,낫 하 로페라 호텔 (Nhat Ha L'Opera Hotel)
+AC1253,VN001,Sherwood Residence
+AC1254,VN001,센트럴 팰리스 호텔 (Central Palace Hotel)
+AC1255,VN001,LA VELA SAIGON HOTEL
+AC1256,VN001,롯데 호텔 사이공 (Lotte Hotel Saigon)
+AC1257,VN001,셔우드 스위트 (Sherwood Suites )
+AC1258,VN001,랭커스터 사이공 서비스 아파트먼트 르 탄 톤 (Lancaster Saigon Serviced Apartments Le Thanh Ton)
+AC1259,VN001,Sens House Saigon - Vinhomes Central Park
+AC1260,VN002,그랜드 플라자 하노이 호텔 (Grand Plaza Hanoi Hotel)
+AC1261,VN002,포츄나 호텔 하노이 (Fortuna Hotel Hanoi)
+AC1262,VN002,하노이 대우 호텔 (Hanoi Daewoo Hotel)
+AC1263,VN002,리틀 참 하노이 호스텔 (Little Charm Hanoi Hostel)
+AC1264,VN002,파라곤 노이 바이 호텔 앤 풀 (Paragon Noi Bai Hotel and Pool)
+AC1265,VN002,Madelise Palace Hotel & Spa
+AC1266,VN002,하노이 대하 서비스 아파트먼트 (Hanoi Daeha Serviced Apartment)
+AC1267,VN002,서머셋 그랜드 하노이 서비스 레지던스 (Somerset Grand Hanoi Serviced Residences)
+AC1268,VN002,La Siesta Classic Hang Thung
+AC1269,VN002,그랜드 비스타 하노이 (Grand Vista Hanoi)
+AC1270,VN003,G8 Luxury Hotel and Spa Da Nang
+AC1271,VN003,Cicilia Hotels & Spa Danang Powered by ASTON
+AC1272,VN003,뉴 오리엔트 호텔 다낭 (New Orient Hotel Da Nang)
+AC1273,VN003,오션 빌라 다낭 (Ocean Villas Da Nang)
+AC1274,VN003,살라 다낭 비치 호텔 (SALA DANANG BEACH HOTEL)
+AC1275,VN003,하이안 비치 호텔 앤 스파 (HAIAN Beach Hotel & Spa)
+AC1276,VN003,힐튼 다낭 (Hilton Da Nang)
+AC1277,VN003,래디슨 호텔 다낭 (Radisson Hotel Danang)
+AC1278,VN003,울랄라니 리조트 앤 콘도텔 (Olalani Resort and Condotel)
+AC1279,VN003,스텔라 마리스 비치 다낭 (Stella Maris Beach Danang)
+AC1280,ES001,TOC 호스텔 바르셀로나 (TOC Hostel Barcelona)
+AC1281,ES001,호텔 바르셀로나 아에로푸에르토 바이 멜리아 (Hotel Barcelona Aeropuerto By Melia)
+AC1282,ES001,호스텔 세인트 크리스토퍼스 바르셀로나 (Hostel St Christophers Barcelona)
+AC1283,ES001,엑스포 바르셀로나 호텔 (Expo Barcelona Hotel)
+AC1284,ES001,InterContinental Barcelona
+AC1285,ES001,호텔 암빗 바르셀로나 (Hotel Ambit Barcelona)
+AC1286,ES001,"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia"
+AC1287,ES001,The Central House Barcelona Gracia
+AC1288,ES001,호텔 바르셀로나 하우스 (Hotel Barcelona House)
+AC1289,ES001,카사 캄페르 바르셀로나 (Casa Camper Barcelona)
+AC1290,ES002,톡 호스텔 마드리드 (TOC Hostel Madrid)
+AC1291,ES002,The Madrid Edition
+AC1292,ES002,파 홈 아토차 (Far Home Atocha)
+AC1293,ES002,더 햇 호스텔 마드리드 (The Hat Hostel Madrid)
+AC1294,ES002,멜리아 마드리드 세라노 (Melia Madrid Serrano)
+AC1295,ES002,호텔 콰트로 푸에르타 델 솔 (Hotel Quatro Puerta del Sol)
+AC1296,ES002,Radisson RED Madrid
+AC1297,ES002,B&B 호텔 마드리드 센트로 푸에르타 델 솔 (B&B Hotel Madrid Centro Puerta del Sol)
+AC1298,ES002,호텔 리아베니 (Hotel Liabeny)
+AC1299,ES002,easyHotel Madrid Centro Atocha
+AC1300,ES003,톡 호스텔 세비야 (Toc Hostel Sevilla)
+AC1301,ES003,Ibis Styles Sevilla Santa Justa
+AC1302,ES003,블랙 스완 호스텔 세비야 (Black Swan Hostel Sevilla)
+AC1303,ES003,"Radisson Collection Hotel, Magdalena Plaza Sevilla"
+AC1304,ES003,Petit Palace Vargas
+AC1305,ES003,호텔 레이 알폰소 엑스 (Hotel Rey Alfonso X)
+AC1306,ES003,포 유 호스텔 세비야 (For You Hostel Sevilla)
+AC1307,ES004,세나토르 파르케 센트럴 호텔 (Senator Parque Central Hotel)
+AC1308,ES004,호텔 유로스타 레이 돈 하이메 (Hotel Eurostars Rey Don Jaime)
+AC1309,ES004,더 리버 호스텔 (The River Hostel)
+AC1310,ES004,캐주얼 발렌시아 데 라스 아르테스 (Casual Valencia De Las Artes)
+AC1311,ES004,Casual Vintage Valencia
+AC1312,ES004,몬 스위트 카테드랄 (Mon Suites Catedral)
+AC1313,ES004,유로스타 악테온 (Eurostars Acteon)
+AC1314,ES004,AC 호텔 발렌시아 (AC Hotel Valencia)
+AC1315,SI001,호텔 로벡 (Hotel Lovec)
+AC1316,SI001,호텔 파크 - 사바 호텔 앤 리조트 (Hotel Park - Sava Hotels & Resorts)
+AC1317,SI001,블레드 로즈 호텔 (Bled Rose hotel)
+AC1318,SI001,올드 패리시 하우스 (Old Parish House)
+AC1319,SI002,비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)
+AC1320,SI002,시티 호텔 리주발자나 (City Hotel Ljubljana)
+AC1321,SI002,Sax Pub Hostel
+AC1322,SI002,"래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)"
+AC1323,SI002,오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)
+AC1324,SI002,Intercontinental Ljubljana
+AC1325,SI002,홀리데이 인 익스프레스 류블랴나 (Holiday Inn Express Ljubljana)
+AC1326,SI002,ibis Styles Ljubljana The Fuzzy Log
+AC1327,SI002,ibis Styles Ljubljana Centre
+AC1328,SI003,호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)
+AC1329,SI003,Hotel Neptun - LifeClass Hotels & Spa
+AC1330,SI003,호텔 피란 (Hotel Piran)
+AC1331,SI004,호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)
+AC1332,SI004,Hotel Neptun - LifeClass Hotels & Spa
+AC1333,SI004,호텔 피란 (Hotel Piran)
+AC1334,SG001,M 호텔 싱가포르 (M Hotel Singapore)
+AC1335,SG001,두짓 타니 라구나 싱가포르 (Dusit Thani Laguna Singapore)
+AC1336,SG001,콥튼 킹 호텔 싱가포르 온 해블록 (Copthorne King's Hotel Singapore on Havelock)
+AC1337,SG001,빌리지 호텔 알버트 코트 바이 파 이스트 호스피탈리티 (Village Hotel Albert Court by Far East Hospitality)
+AC1338,SG001,Hotel Boss
+AC1339,SG001,Hotel Bencoolen @ Hong Kong Street
+AC1340,SG001,V Hotel Lavender
+AC1341,SG001,푸라마 리버프런트 (Furama RiverFront)
+AC1342,GB001,모우브레이 코트 호텔 (Mowbray Court Hotel)
+AC1343,GB001,St. Pancras Renaissance Hotel London
+AC1344,GB001,메리트 켄싱턴 호텔 (Merit Kensington Hotel)
+AC1345,GB001,유스턴 스퀘어 호텔 런던 (Euston Square Hotel)
+AC1346,GB001,Delta Hotels Heathrow Windsor
+AC1347,GB001,Kabannas London St Pancras
+AC1348,GB001,파크 플라자 런던 파크 로얄 (Park Plaza London Park Royal)
+AC1349,GB001,아치 호텔 (Arch Hotel)
+AC1350,GB001,나일랜드 호텔 (Nayland Hotel)
+AC1351,GB002,프레데릭 하우스 호텔 (Frederick House Hotel)
+AC1352,GB002,힐튼 에든버러 칼튼 (Hilton Edinburgh Carlton)
+AC1353,GB002,스테이 센트럴 호텔 (Stay Central Hotel)
+AC1354,GB002,데스티니 스튜던트 - 무라노 (Destiny Student- Murano)
+AC1355,GB002,Edinburgh Holyrood Hotel
+AC1356,GB002,래디슨 블루 호텔 에든버러 시티 센터 (Radisson Blu Hotel Edinburgh City Centre)
+AC1357,GB002,Leonardo Royal Hotel Edinburgh
+AC1358,GB002,브리타니아 호텔 에든버러 (Britannia Hotel Edinburgh)
+AC1359,GB002,Ten Hill Place
+AC1360,GB002,A&O 에든버러 시티 (A&O Edinburgh City)
+AC1361,GB003,더 미트르 호텔 (The Mitre Hotel)
+AC1362,GB003,Manchester Piccadilly Hotel
+AC1363,GB003,이비스 스타일 맨체스터 포트랜드 (ibis Styles Manchester Portland)
+AC1364,GB003,홀리데이 인 익스프레스 맨체스터 시티 센터 아레나 (Holiday Inn Express Manchester City Centre Arena)
+AC1365,GB003,하얏트 하우스 맨체스터 (Hyatt Regency Manchester)
+AC1366,GB003,네이티브 맨체스터 (Native Manchester)
+AC1367,GB003,래디슨 블루 맨체스터 에어포트 (Radisson Blu Manchester Airport)
+AC1368,GB003,브리타니아 맨체스터 호텔 (Britannia Manchester Hotel)
+AC1369,GB003,더 타운하우스 맨체스터 (The Townhouse Manchester)
+AC1370,GB003,Ibis Budget Manchester Airport
+AC1371,GB004,이비스 캠브리지 호텔 (Ibis Cambridge Hotel)
+AC1372,GB004,Hilton Cambridge City Centre
+AC1373,GB004,아룬델 게스트하우스 (Arundel House Hotel)
+AC1374,GB004,웨스트 코트 - 지저스 컬리지 (West Court- Jesus College)
+AC1375,GB004,Hyatt Centric Cambridge
+AC1376,GB004,Turing Locke
+AC1377,GB004,Graduate Cambridge Hotel
+AC1378,GB004,홀리데이 인 익스프레스 캠브리지 (Holiday Inn Express Cambridge)
+AC1379,GB004,트래블로지 캠브리지 뉴마켓 로드 (Travelodge Cambridge Newmarket Road)
+AC1380,GB004,Novotel Cambridge North
+AC1381,AU001,뷰 시드니 (View Sydney)
+AC1382,AU001,"포 포인츠 바이 쉐라톤 시드니, 센트럴 파크 (Four Points by Sheraton Sydney, Central Park)"
+AC1383,AU001,리틀 내셔널 호텔 시드니 (Little National Hotel Sydney)
+AC1384,AU001,Kith Hotel Darling Harbour
+AC1385,AU001,Ace Hotel Sydney
+AC1386,AU001,YHA Sydney Harbour
+AC1387,AU001,Radisson Blu Plaza Hotel Sydney
+AC1388,AU001,더 시드니 블러바드 호텔 (The Sydney Boulevard Hotel)
+AC1389,AU001,아모라 제이미슨 호텔  (Amora Jamison Hotel)
+AC1390,AU001,YEHS 호텔 시드니 QVB (YEHS Hotel Sydney QVB)
+AC1391,AU002,Dorsett Melbourne
+AC1392,AU002,Voco Melbourne Central
+AC1393,AU002,브래디 호텔 존스 레인 (Brady Hotels Jones Lane)
+AC1394,AU002,랑데부 호텔 멜번 (Rendezvous Hotel Melbourne)
+AC1395,AU002,인터컨티넨탈 멜버른 더 리알토 (InterContinental Melbourne The Rialto)
+AC1396,AU002,브래디 호텔 센트럴 멜번 (Brady Hotels Central Melbourne)
+AC1397,AU002,Radisson On Flagstaff Gardens
+AC1398,AU002,이비스 멜버른 센트럴 (ibis Melbourne Central)
+AC1399,AU002,시티 엣지 온 엘리자베스 아파트먼트 호텔 (City Edge on Elizabeth Apartment Hotel)
+AC1400,AU002,Sakura Serviced Apartment
+AC1401,AU003,하얏트 리젠시 브리즈번 (Hyatt Regency Brisbane)
+AC1402,AU003,Indigo Brisbane City Centre
+AC1403,AU003,오크스 브리즈번 온 샬럿 스위트 (Oaks Brisbane on Charlotte Suites)
+AC1404,AU003,소호 브리즈번 호텔 (Soho Brisbane Hotel)
+AC1405,AU003,힐튼 브리즈번 (Hilton Brisbane)
+AC1406,AU003,메리톤 스위트 허쉘 스트리트 (Meriton Suites Herschel Street)
+AC1407,AU003,홀리데이 인 익스프레스 브리즈번 센트럴 (Holiday Inn Express Brisbane Central)
+AC1408,AU003,이비스 스타일 브리즈번 엘리자베스 스트리트 (Ibis Styles Brisbane Elizabeth Street)
+AC1409,AU003,Selina Brisbane
+AC1410,AU003,Voco Brisbane City Centre
+AC1411,AU004,크리스탈브룩 라일리 (Crystalbrook Riley)
+AC1412,AU004,오크스 케언즈 호텔 (Oaks Cairns Hotel)
+AC1413,AU004,플린 어 크리스탈브룩 컬렉션 호텔 (Crystalbrook Flynn)
+AC1414,AU004,레이크 센트럴 케언즈 (Lake Central Cairns)
+AC1415,AU004,더블트리 바이 힐튼 케언즈 (DoubleTree by Hilton Cairns)
+AC1416,AU004,힐튼 케언즈 (Hilton Cairns)
+AC1417,AU004,선샤인 타워 호텔 (Sunshine Tower Hotel)
+AC1418,AU004,베일리 어 크리스탈브룩 컬렉션 호텔 앤 레지던스 (Crystalbrook Bailey)
+AC1419,AU004,코럴 트리 인 호텔 (Coral Tree Inn Hotel)
+AC1420,AU004,The Abbott - Boutique Hotel
+AC1421,IN001,조스텔 뭄바이 (Zostel Mumbai)
+AC1422,IN001,레시던시 호텔 (Residency Hotel Fort)
+AC1423,IN001,Country Inn & Suites by Turtle 
+AC1424,IN001,씨 프린세스 호텔 (Sea Princess Hotel)
+AC1425,IN001,백패커 판다 콜라바 (Backpacker Panda Colaba)
+AC1426,IN001,래디슨 블루 뭄바이 인터내셔널 에어포트 (Radisson Blu Mumbai International Airport)
+AC1427,IN001,호텔 공항 국제 (Hotel Airport International)
+AC1428,IN001,시티 호텔 (City Hotel)
+AC1429,IN001,시티 호텔 (City Hotel)
+AC1430,IN001,패브호텔 아모르 안데리 이스트 (FabHotel Amour Andheri East)
+AC1431,IN001,Hotel Apex International - Near Mumbai Airport
+AC1432,CN001,시티 호텔 (City Hotel)
+AC1433,CN001,시티 호텔 (City Hotel)
+AC1434,CN001,그랜드 센트럴 호텔 상하이 (Grand Central Hotel Shanghai)
+AC1435,CN001,센트럴 호텔 (Central Hotel)
+AC1436,CN001,Hi Inn Shanghai Xujiahui
+AC1437,CN001,야티 바이 아티젠 홍차오 상하이 (YaTi by Artyzen Hongqiao Shanghai)
+AC1438,CN001,Radisson Collection Hyland Shanghai
+AC1439,CN001,상하이 데코 호텔 푸동 (Shanghai Deco Hotel Pudong)
+AC1440,CN001,진장 메트로폴로 상하이 신톈디 호텔 (Jinjiang Metropolo Shanghai Xintiandi Hotel)
+AC1441,CN001,샹하이 피쉬 인 번드 (Shanghai Fish Inn Bund)
+AC1442,IN002,블룸룸 @ 뉴 델리 레일웨이 스테이션 (bloomrooms @ New Delhi Railway Station)
+AC1443,IN002,더 프라임 발라지 디럭스 @ 뉴델리역 호텔 (The Prime Balaji Deluxe @ New Delhi Railway Station Hotel)
+AC1444,IN002,호텔 디캐피톨 - 델리 에어포트 (HOTEL D'CAPITOL - DELHI AIRPORT)
+AC1445,IN002,래디슨 블루 타워스 카우샴비 델리 NCR (Radisson Blu Towers Kaushambi Delhi NCR)
+AC1446,IN002,래디슨 블루 플라자 델리 에어포트 (Radisson Blu Plaza Delhi Airport)
+AC1447,IN002,Hari Piorko Grand
+AC1448,IN002,Zostel Delhi
+AC1449,IN002,예스 보스 바이 백패커스 헤븐 (Yes Boss By Backpackers Heaven)
+AC1450,IN002,파크 호텔 (The Park New Delhi Hotel)
+AC1451,IN002,Jyoti Mahal A Royal Heritage Hotel
+AC1452,IN003,조이스 호스텔 (joey's Hostel)
+AC1453,IN003,Sunrise Homestay
+AC1454,IN003,호텔 사니야 팰리스 (Hotel Saniya Palace)
+AC1455,IN003,수라세나 레갈비스타 (SURASENA REGALVISTA)
+AC1456,IN003,Radisson Hotel Agra
+AC1457,IN003,호텔 싯다르타 (600 미터 프롬 타지마할) (HOTEL SIDHARTHA (600 meters from Taj Mahal))
+AC1458,IN003,호텔 타지 리조트스 (Hotel Taj Resorts)
+AC1459,IN003,DoubleTree by Hilton Hotel Agra
+AC1460,IN003,"타즈간즈의 빌라 (144m², 침실 5개, 프라이빗 욕실 5개) (The Orchid Villa)"
+AC1461,IN003,FabHotel Bhawana
+AC1462,IN004,Horn Ok Please Hostel Jaipur
+AC1463,IN004,자이푸르 하벨리 (Jaipur Haveli)
+AC1464,IN004,호텔 간다르바 - 어 그린 호텔 (Hotel Gandharva - A Green Hotel)
+AC1465,IN004,레져 인 그랜드 차나키아 (Leisure Inn Grand Chanakya)
+AC1466,IN004,래디슨 자이푸르 시티 센터 (Radisson Jaipur City Center)
+AC1467,IN004,머스타시 호스텔 자이푸르 (Moustache Hostel Jaipur)
+AC1468,IN004,호텔 아르야 니와스 (Hotel Arya Niwas)
+AC1469,IN004,락스미 팰리스 헤리티지 부티크 호텔 (Laxmi Palace Heritage Boutique Hotel)
+AC1470,IN004,"Hotel Jaipur Central, Jaipur"
+AC1471,IN004,팬드야 니와스 (Pandya Niwas)
+AC1472,ID001,힐튼 가든 인 발리 응우라 라이 공항 (Hilton Garden Inn Bali Ngurah Rai Airport)
+AC1473,ID001,호텔 테라스 앳 쿠타 (Hotel Terrace at Kuta)
+AC1474,ID001,쿠타 파라디소 호텔 (Kuta Paradiso Hotel)
+AC1475,ID001,노보텔 발리 응우라 라이 공항 (Novotel Bali Ngurah Rai Airport)
+AC1476,ID001,래디슨 블루 발리 울루와투 (Radisson Blu Bali Uluwatu)
+AC1477,ID001,아디 다르마 호텔 쿠타 (Adi Dharma Hotel Kuta)
+AC1478,ID001,레기안 파라디소 호텔 (Legian Paradiso Hotel)
+AC1479,ID001,오하나 호텔 쿠타 (Ohana Hotel Kuta)
+AC1480,ID001,아비안 하모니 리조트 호텔 앤 스파 (Abian Harmony Resort Hotel and Spa)
+AC1481,ID002,해리스 호텔 앤 컨벤션 치움불레우이트 반둥 (HARRIS Hotel & Conventions Ciumbuleuit Bandung)
+AC1482,ID002,그랜드 호텔 프레안게르 (Grand Hotel Preanger)
+AC1483,ID002,키마야 브라가 반둥 바이 해리스 (Kimaya Braga Bandung by Harris)
+AC1484,ID002,스위스-벨리조트 다고 헤리티지 (Swiss-Belresort Dago Heritage)
+AC1485,ID002,Pasar Baru Square Hotel Bandung Powered by Archipelago
+AC1486,ID002,아리온 스위트 호텔 반둥 (Arion Suites Hotel Bandung)
+AC1487,ID002,사보이 호만 (Savoy Homann)
+AC1488,ID002,Collection O 22 Hotel Pasar Baru Heritage
+AC1489,ID002,디저니 호텔 (D'Journey Hotel)
+AC1490,ID003,드프리마호텔 에어포트 자카르타 터미널 1A (d'primahotel Airport Jakarta Terminal 1A)
+AC1491,ID003,인터컨티넨탈 자카르타 폰독 인다 (InterContinental Jakarta Pondok Indah)
+AC1492,ID003,CONJIOO HOTEL at JAKARTA AIRPORT
+AC1493,ID003,1O1 URBAN Jakarta Pemuda
+AC1494,ID003,더 자야카르타 SP 자카르타 호텔 앤 스파 (The Jayakarta SP Jakarta Hotel & Spa)
+AC1495,ID003,FM7 리조트 호텔 반다라 자카르타 에어포트 (FM7 Resort Hotel Bandara Jakarta Airport)
+AC1496,ID003,아샤나 케마요란 자카르타 (Asyana Kemayoran Jakarta)
+AC1497,ID003,클래식 호텔 (Classic Hotel)
+AC1498,ID003,CHOSKA RESIDENCE
+AC1499,JP001,APA 호텔 롯폰기 식스 (APA Hotel Roppongi SIX)
+AC1500,JP001,AC Hotel Tokyo Ginza
+AC1501,JP001,신주쿠 워싱턴 호텔 - 본관 (Shinjuku Washington Hotel - Main Building)
+AC1502,JP001,랜드어바웃 도쿄 (LANDABOUT TOKYO)
+AC1503,JP001,"더 도쿄 에디션, 도라노몬 (The Tokyo EDITION, Toranomon)"
+AC1504,JP001,APA 호텔 신주쿠-가부키초 타워 (APA Hotel Shinjuku-Kabukicho Tower)
+AC1505,JP001,APA Hotel & Resort Roppongi Ekihigashi
+AC1506,JP001,APA 호텔 앤 리조트 니시신주쿠-고초메-에키 타워 (APA Hotel & Resort Nishishinjuku-Gochome-Eki Tower)
+AC1507,JP001,도쿄 프린스 호텔 (Tokyo Prince Hotel)
+AC1508,JP001,APA 호텔 야마노테 오츠가에키 타워 (APA Hotel Yamanote Otsukaeki Tower)
+AC1509,JP002,칸데오 호텔 오사카 난바 (Candeo Hotels Osaka Namba)
+AC1510,JP002,호텔 포르자 오사카 난바 도톤보리 (Hotel Forza Osaka Namba Dotonbori)
+AC1511,JP002,Hotel Forza Osaka Kitahama
+AC1512,JP002,오사카 테이코쿠 호텔 (Osaka Teikoku Hotel)
+AC1513,JP002,W 오사카 (W Osaka)
+AC1514,JP002,APA Hotel and Resort Midosuji Hommachi Eki Tower
+AC1515,JP002,APA Hotel & Resort Osaka Umeda Eki Tower
+AC1516,JP002,소테츠 그랜드 프레사 오사카 난바 (Sotetsu Grand Fresa Osaka Namba)
+AC1517,JP002,APA 호텔 신-오사카 에키마에 (APA Hotel Shin-Osaka ekimae)
+AC1518,JP003,"HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa"
+AC1519,JP003,시즈테츠 호텔 프레지오 교토 가라스마오이케 (Shizutetsu Hotel Prezio Kyoto Karasumaoike)
+AC1520,JP003,사쿠라 테라스 더 아틀리에 - 성인 전용 (Sakura Terrace The Atelier -Adult Only)
+AC1521,JP003,Hyatt Regency Kyoto
+AC1522,JP003,APA 호텔 교토 에키히가시 (APA Hotel Kyoto Ekihigashi)
+AC1523,JP003,호텔 더 엠스 교토 (Hotel The M's Kyoto)
+AC1524,JP003,솔라리아 니시테츠 호텔 교토 프리미어 (Solaria Nishitetsu Hotel Kyoto Premier)
+AC1525,JP003,소테츠 프레사 인 교토-기요미즈 고조 (Sotetsu Fresa Inn Kyoto-Kiyomizu Gojo)
+AC1526,JP003,리치몬드 호텔 프리미어 교토 에키마에 (Richmond Hotel Premier Kyoto Ekimae)
+AC1527,JP004,그랑벨 호텔 스스키노 (GRANBELL HOTEL SUSUKINO)
+AC1528,JP004,호텔 몬토레 에델호프 삿포로 (Hotel Monterey Edelhof Sapporo)
+AC1529,JP004,베셀 호텔 캄파나 스스키노 (Vessel Hotel Campana Susukino)
+AC1530,JP004,게이큐 엑스 호텔 삿포로 (KEIKYU EX HOTEL Sapporo)
+AC1531,JP004,Fairfield by Marriott Hokkaido Eniwa
+AC1532,JP004,라젠트 스테이 삿포로 오도리 홋카이도 (La'Gent Stay Sapporo Odori Hokkaido)
+AC1533,JP004,JR-이스트 호텔 메츠 삿포로 (JR-EAST HOTEL METS SAPPORO)
+AC1534,JP004,그랑벨 호텔 삿포로 (GRANBELL HOTEL SAPPORO)
+AC1535,JP004,프리미어 호텔 나카지마 파크 삿포로 (Premier Hotel Nakajima Park Sapporo)
+AC1536,CN002,베이징 신차오 호텔 (Beijing XinQiao Hotel)
+AC1537,CN002,선월드 호텔 왕푸징 (Sunworld Hotel Wangfujing)
+AC1538,CN002,홀리데이 인 익스프레스 베이징 후아카이 (Holiday Inn Express Beijing Huacai)
+AC1539,CN002,더 그레이트 월 호텔 베이징 (The Great Wall Hotel Beijing)
+AC1540,CN002,파크 플라자 베이징 왕푸징 (Park Plaza Beijing Wangfujing)
+AC1541,CN002,구오 지 이 위안 호텔 (GUO JI YI YUAN HOTEL)
+AC1542,CN002,노보텔 피스 베이징 호텔 (Novotel Peace Beijing Hotel)
+AC1543,CN002,베이징 푸디 호텔 (Beijing Pudi Hotel)
+AC1544,CN002,시틱 호텔 베이징 공항 (CITIC Hotel Beijing Airport)
+AC1545,CN002,라데가스트 호텔 CBD (Radegast Hotel CBD)
+AC1546,CN003,젠궈 호텔 광저우 (Jianguo Hotel Guangzhou)
+AC1547,CN003,노모 베이징 로드 어-지덩 믹스 인터내셔널 아파트먼트 (Nomo Beijing Road A-Jiedeng MIX International Apartment)
+AC1548,CN003,Country Inn & Suites by Radisson Guangzhou Yonghe
+AC1549,CN003,하이 인 리앙핀 광저우 샤허딩 메트로 스테이션 (Hi Inn Liangpin Guangzhou Shaheding Metro Station)
+AC1550,CN003,오소토 레크리에이션 호텔 바이윈 (Osotto Recreation Hotel Baiyun)
+AC1551,CN003,차이나 호텔 (China Hotel)
+AC1552,CN003,호텔 랜드마크 캔톤 (Hotel Landmark Canton)
+AC1553,CN003,Guangzhou Carat Hotel
+AC1554,CN003,라 펄 인터내셔널 호텔 (La Perle International Hotel)
+AC1555,CN003,광저우 로열 리버 와이피던 아파트먼트  (Guangzhou Royal River Waifiden Apartment)
+AC1556,CN004,진장 메트로폴로 호텔 - 항저우 트레인 이스트 스테이션 (Jinjiang Metropolo Hotel - Hangzhou Train East Station)
+AC1557,CN004,씨티고 호텔 항저우 시 후 후빈 인타이 (CitiGO Hotel Hangzhou Xi Hu Hubin Yintai)
+AC1558,CN004,Ji Hotel Hangzhou West Lake Hubin Erqing Building
+AC1559,CN004,래디슨 블루 항저우 신톈디 (Radisson Blu Hangzhou Xintiandi)
+AC1560,CN004,UrCove by HYATT Hangzhou Westlake
+AC1561,CN004,그랜드 페트로파크 호텔 항주 (Grand Metropark Hotel Hangzhou)
+AC1562,CN004,홀리데이 인 익스프레스 항저우 이스트 스테이션 (Holiday Inn Express Hangzhou East Station)
+AC1563,CN004,Shama Serviced Apartments Zijingang Hangzhou
+AC1564,KH001,로얄 크라운 호텔 앤 스파 (Royal Crown Hotel & Spa)
+AC1565,KH001,골든 템플 레지던스 (Golden Temple Residence)
+AC1566,KH001,쿨렌 호텔 (Koulen Hotel)
+AC1567,KH001,The Flex Hostel
+AC1568,KH001,ANGKOR LAND URBAN BOUTIQUE
+AC1569,KH001,호텔 소마데비 앙코르 리조트 앤 스파 (Hotel Somadevi Angkor Resort & Spa)
+AC1570,KH001,앙코르 홀리데이 호텔 (Angkor Holiday Hotel)
+AC1571,KH001,치타타 CTS 호텔 씨엠림 (Cheathata CTS Hotel Siem Reap)
+AC1572,KH001,쉐도우 앙코르 레지던스 (Shadow Angkor Residence)
+AC1573,KH002,메타바리 호텔 (Mettavary Hotel )
+AC1574,KH002,센서리 파크 어반 호텔 (Sensory Park Urban Hotel)
+AC1575,KH002,맨션 51 호텔 앤 아파트먼트 (Mansion 51 Hotel & Apartment)
+AC1576,KH002,풀사이드 빌라 (Poolside Villa)
+AC1577,KH002,라플레 호텔 르 로얄 (Raffles Hotel Le Royal)
+AC1578,KH002,오케이 부티크 호텔 (Okay Boutique Hotel)
+AC1579,KH002,오하나 프놈펜 팰리스 호텔 (Ohana Phnom Penh Palace Hotel)
+AC1580,KH002,HM 그랜드 센트럴 호텔 (HM Grand Central Hotel)
+AC1581,KH002,사라보안 로얄 팰리스 (Saravoan Royal Palace)
+AC1582,KH002,두옹 찬 호텔 (Duong Chan Hotel)
+AC1583,KH003,원더즈 시하누크빌 (Onederz Sihanoukville)
+AC1584,KH003,인비토 게스트하우스 (Invito Guesthouse)
+AC1585,KH003,RIVA Hotel SHV
+AC1586,KH003,아리스토크랫 레지던스 앤 호텔 (Aristocrat Residence & Hotel)
+AC1587,KH003,Ocean Delight Boutique Hotel
+AC1588,KH003,Legend Hotel and Resort
+AC1589,KH003,인디펜던스 호텔 리조트 앤 스파 (Independence Hotel Resort & Spa)
+AC1590,KH003,Naiya Sea Resort
+AC1591,KH003,미탈리 호텔 (Mittali Hotel)
+AC1592,KH004,더 B 리조트 (The B Resort)
+AC1593,KH004,RiverTree Villa & Resort
+AC1594,KH004,핌 시나 리조트 (Peam Snea Resort)
+AC1595,KH004,캄폿 스위트 부티크 (Kampot Sweet Boutique)
+AC1596,KH004,비볼라 게스트하우스 (VIBOLA Guesthouse)
+AC1597,KH004,호텔 파이브.S (Hotel Five.S)
+AC1598,KH004,몽키 리퍼블릭 캄폿 (Monkey Republic Kampot)
+AC1599,KH004,굿모닝 캄폿 게스트하우스 (Good Morning Kampot Guesthouse)
+AC1600,KH004,원더즈 캄폿 (Onederz Kampot)
+AC1601,CA001,원 킹 웨스트 호텔 앤 레지던스 (One King West Hotel and Residence)
+AC1602,CA001,팬티지스 호텔 토론토 센터 (Pantages Hotel Toronto Centre)
+AC1603,CA001,홀리데이 인 토론토 다운타운 센터 (Holiday Inn Toronto Downtown Centre)
+AC1604,CA001,Samesun Toronto
+AC1605,CA001,호텔 빅토리아 (Hotel Victoria)
+AC1606,CA001,Hilton Toronto
+AC1607,CA001,DoubleTree by Hilton Toronto Downtown
+AC1608,CA001,더 노보텔 토론토 센터 호텔 (The Novotel Toronto Center Hotel)
+AC1609,CA002,센추리 플라자 호텔 (Century Plaza Hotel)
+AC1610,CA002,하얏트 리젠시 밴쿠버 (Hyatt Regency Vancouver)
+AC1611,CA002,킹스턴 호텔 (Kingston Hotel)
+AC1612,CA002,쉐라톤 밴쿠버 월 센터 (Sheraton Vancouver Wall Centre)
+AC1613,CA002,베스트웨스턴 플러스 샤토 그랑빌 호텔 앤 스위트 앤 컨퍼런스 센터 (Best Western Premier Chateau Granville Hotel & Suites & Conference Centre)
+AC1614,CA002,YWCA 호텔 밴쿠버 (YWCA Hotel Vancouver)
+AC1615,CA002,블루 호라이즌 호텔 (Blue Horizon Hotel)
+AC1616,CA002,Best Western Plus Vancouver Airport Hotel
+AC1617,CA003,프리미에르 클라스 카르카손느 (Premiere Classe Carcassonne)
+AC1618,CA003,Kyriad Carcassonne - Aeroport
+AC1619,CA003,르 릴레 드 라 메종 바쿠 (Le Relais de la Maison Bacou)
+AC1620,TH001,차트리움 호텔 리버사이드 방콕 (SHA Extra Plus) (Chatrium Hotel Riverside Bangkok (SHA Extra Plus))
+AC1621,TH001,차트리움 레지던스 사톤 방콕 (SHA Plus+) (Chatrium Residence Sathon Bangkok (SHA Plus+))
+AC1622,TH001,마이트리아 호텔 라마 9 방콕 - 어 차트리움 컬렉션 (SHA Extra Plus) (Maitria Hotel Rama 9 Bangkok - A Chatrium Collection (SHA Extra Plus))
+AC1623,TH001,나라 호텔 (Narra hotel)
+AC1624,TH001,Radisson Blu Plaza Bangkok (SHA Plus+)
+AC1625,TH001,그랜드 BS 에어포트 호텔 수완나품 (Grand BS Airport Hotel Suvarnabhumi)
+AC1626,TH001,마이트리아 호텔 수쿰빗 18 방콕 - 어 차트리움 컬렉션 (Maitria Hotel Sukhumvit 18 Bangkok – A Chatrium Collection)
+AC1627,TH001,"The Standard, Bangkok Mahanakhon"
+AC1628,TH001,더 블레스 호텔 앤 레지던스 (The Bless Hotel & Residence)
+AC1629,TH001,Galleria 12 Sukhumvit Bangkok by Compass Hospitality
+AC1630,TH002,더 식스틴스 나이양 비치 호텔 (SHA Extra Plus) (The Sixteenth Naiyang Beach Hotel (SHA Extra Plus))
+AC1631,TH002,Anantara Koh Yao Yai Resort & Villas
+AC1632,TH002,Woovo Phuket Patong
+AC1633,TH002,빌라 알라나 푸켓 (Villa Alanna Phuket)
+AC1634,TH002,로얄 푸켓 시티 호텔 (SHA Extra Plus) (Royal Phuket City Hotel (SHA Extra Plus))
+AC1635,TH002,판푸리 레지던스 (SHA Extra Plus) (Panphuree Residence (SHA Extra Plus))
+AC1636,TH002,카말라 푸켓 스위트 앤 리조트 (SHA Extra Plus) (Radisson Resort & Suites Phuket)
+AC1637,TH002,"스플래쉬 비치 리조트, 마이 카오 푸켓 (SHA Plus+) (Splash Beach Resort, Mai Khao Phuket (SHA Plus+))"
+AC1638,TH002,코코텔 푸켓 나이양 비치 (SHA Extra Plus) (Kokotel Phuket Nai Yang Beach (SHA Extra Plus))
+AC1639,TH002,안다만트라 리조트 앤 빌라 푸켓 (SHA Extra Plus) (Andamantra Resort and Villa Phuket (SHA Extra plus))
+AC1640,TH003,SYN 부티크 호텔 (SHA Extra Plus) (SYN Boutique Hotel (SHA Extra Plus))
+AC1641,TH003,하이 치앙마이 호텔 (Hi Chiangmai Hotel)
+AC1642,TH003,Travelodge Nimman
+AC1643,TH003,프라 싱 빌리지 (SHA Extra Plus) (Phra Singh Village (SHA Extra Plus))
+AC1644,TH003,Hotel MAYU Chiang Mai
+AC1645,TH003,핑비만 호텔 (SHA Extra Plus) (Pingviman Hotel (SHA Extra Plus))
+AC1646,TH003,찰라 넘버 6 (SHA Extra Plus) (Chala Number 6 (SHA Extra Plus))
+AC1647,TH003,U Nimman Chiang Mai
+AC1648,TH003,컨텐트 빌라 치앙마이 (Content Villa Chiang Mai)
+AC1649,TH003,치앙마이 오키드 호텔 (SHA Extra Plus) (Chiang Mai Orchid Hotel (SHA Extra Plus))
+AC1650,TH004,Grande Centre Point Pattaya
+AC1651,TH004,파야 호텔 (Payaa Hotel)
+AC1652,TH004,Siam @ Siam Design Hotel Pattaya
+AC1653,TH004,테반 좀 티엔 호텔 파타야 (Tevan Jomtien Hotel Pattaya)
+AC1654,TH004,"Lewit Hotel Pattaya, a member of Radisson Individuals"
+AC1655,TH004,아버 호텔 앤 레지던스 파타야 (SHA Plus+) (Arbour Hotel and Residence Pattaya (SHA Plus+))
+AC1656,TH004,호텔 비스타 (Hotel Vista)
+AC1657,TH004,LK 에메랄드 비치 (SHA Extra Plus) (LK Emerald Beach (SHA Extra Plus))
+AC1658,TH004,나바나 네이처 이스케이프 (SHA Plus+) (Navana Nature Escape (SHA Plus+))
+AC1659,TH004,아나 아난 리조트 앤 빌라 파타야 (SHA Extra Plus) (Ana Anan Resort & Villas Pattaya (SHA Extra Plus))
+AC1660,TR001,한치 (HANCHI)
+AC1661,TR001,인터컨티넨탈 이스탄불 (InterContinental Istanbul)
+AC1662,TR001,Zeyn Otel Istanbul
+AC1663,TR001,모다 드레이 - 컨셉 호스텔 (Moda Drei - Concept Hostel)
+AC1664,TR001,콘래드 이스탄불 보스포러스 (Conrad Istanbul Bosphorus)
+AC1665,TR001,Shining Star Hotel
+AC1666,TR001,래디슨 블루 호텔 이스탄불 오토마레 (Radisson Blu Hotel Istanbul Ottomare)
+AC1667,TR001,VPLUS HOTEL
+AC1668,TR001,랄라한 호텔 (Lalahan Hotel)
+AC1669,TR001,Manu Startup House
+AC1670,TR002,카멜리야 케이브 호스텔 (Kamelya Cave Hostel)
+AC1671,TR002,사파이어 스톤 호텔 (Sapphire Stone Hotel)
+AC1672,TR002,로얄 스톤 하우스 - 괴레메 (Royal Stone Houses - Goreme)
+AC1673,TR002,히스토리컬 괴레메 하우스  (Historical Goreme House)
+AC1674,TR002,Serene Premium Stone House
+AC1675,TR002,올드 타운 스톤 하우스 (Old Town Stone House)
+AC1676,TR002,유수프 베이 하우스 괴레메 (Yusuf Bey House Goreme)
+AC1677,TR002,더 돔 케이브 바이 트래블러스 (The Dorm Cave By Travellers)
+AC1678,TR002,Balloon View Hotel
+AC1679,PH001,헤난 파크 리조트 (Henann Park Resort)
+AC1680,PH001,헤난 가든 리조트 (Henann Garden Resort)
+AC1681,PH001,헤난 팜 비치 리조트 (Henann Palm Beach Resort)
+AC1682,PH001,Marzon Beach Resort - Boracay
+AC1683,PH001,헤난 리젠시 리조트 앤 스파 (Henann Regency Resort And Spa)
+AC1684,PH001,헤난 크리스털 샌즈 리조트 (Henann Crystal Sands Resort)
+AC1685,PH001,헤난 라군 리조트 (Henann Lagoon Resort)
+AC1686,PH001,페어웨이즈 앤 블루워터 보라카이 (Fairways and Bluewater Boracay)
+AC1687,PH001,Signature Boracay Blue (Formerly La Banca House)
+AC1688,PH001,세린 라 플라야 보라카이 (Serene La Playa Boracay)
+AC1689,PH002,Savoy Hotel Manila
+AC1690,PH002,Hotel101 - Fort
+AC1691,PH002,Condo in AZURE Beach Resort Beach View #716
+AC1692,PH002,마이크로텔 바이 윈덤 몰 오브 아시아 - 다목적 호텔 (Microtel by Wyndham Mall of Asia)
+AC1693,PH002,Belmont Hotel Manila 
+AC1694,PH002,파크 인 바이 래디슨 노스 에드사 (Park Inn by Radisson North Edsa)
+AC1695,PH002,킹스포드 호텔 마닐라 (Kingsford Hotel Manila)
+AC1696,PH002,Bayprime Hotel
+AC1697,PH002,Diamond Hotel
+AC1698,PH002,Tropicana Suites
+AC1699,PH003,사보이 호텔 막탄 뉴타운 (Savoy Hotel Mactan Newtown)
+AC1700,PH003,Belmont Hotel Mactan
+AC1701,PH003,퀘스트 호텔 앤 컨퍼런스 센터 세부 (Quest Hotel and Conference Center Cebu)
+AC1702,PH003,래디슨 블루 세부 (Radisson Blu Cebu)
+AC1703,PH003,Sheraton Cebu Mactan Resort
+AC1704,PH003,bai Hotel
+AC1705,PH003,세부 화이트샌즈 리조트 앤 스파 (Cebu White Sands Resort and Spa)
+AC1706,PH003,세부 R 호텔 -마볼로 (Cebu R Hotel - Mabolo)
+AC1707,PH003,얼루어 호텔 앤 스위트 (Allure Hotel & Suites)
+AC1708,PH004,시티 가든 호텔 마카티 (City Garden Hotel Makati)
+AC1709,PH004,"세인트 자일스 마카티 - 어 세인트 자일스 호텔, 마닐라 - 다목적 호텔 (St Giles Makati – A St Giles Hotel, Manila)"
+AC1710,PH004,아임 호텔 (I'M Hotel)
+AC1711,PH004,Z 호스텔 (Z Hostel)
+AC1712,PH004,1898 호텔 콜로니아 엔 라스 필리피나스 (1898 Hotel Colonia En Las Filipinas)
+AC1713,PH004,시티 가든 그랜드 호텔 (City Garden GRAND Hotel)
+AC1714,PH004,Valero Grand Suites by Swiss-Belhotel
+AC1715,PH004,코로 호텔 (Coro Hotel)
+AC1716,PH004,Super OYO Capital O 907 Ceo Flats
+AC1717,PH004,Sunnette Tower Makati
+AC1718,HK001,라마다 홍콩 하버뷰 (Ramada Hong Kong Harbour View)
+AC1719,HK001,아이클럽 셩완 호텔 (iclub Sheung Wan Hotel)
+AC1720,HK001,Regala Skycity Hotel
+AC1721,HK001,베스트웨스턴 플러스 호텔 홍콩 (Best Western Plus Hotel Hong Kong)
+AC1722,HK001,Ramada Hong Kong Grand
+AC1723,HK001,이비스 홍콩 센트럴 앤 셩완 호텔 (Ibis Hong Kong Central & Sheung Wan Hotel)
+AC1724,HK001,B P 인터내셔널 (B P International)
+AC1725,HK001,비숍 레이 인터내셔널 하우스 (Bishop Lei International House)
+AC1726,HK001,Dash Living on Hollywood

@@ -1,924 +1,1092 @@
 ATTR_CODE,REG_CODE,ATTR_NAME
-AT1000,NZ003,크라이스트처치 식물원
-AT1001,NZ003,해글리 공원
-AT1002,NZ003,Quake City
-AT1003,NZ003,Christchurch Tramway
-AT1004,NZ003,International Antarctic Centre
-AT1005,NZ003,Christchurch Cathedral
-AT1006,NZ003,캔터베리 박물관
-AT1007,NZ003,Robert Falcon Scott Statue
-AT1008,NZ003,Margaret Mahy Family Playground
-AT1009,NZ003,Mona Vale
-AT1010,NZ003,Hassle Free Tours
-AT1011,NZ003,Botanic Gardens Tour
-AT1012,NZ003,Victoria Park
-AT1013,NZ004,웰링턴 케이블 카
-AT1014,NZ004,뉴질랜드 박물관 (테파파)
-AT1015,NZ004,빅토리아 산
-AT1016,NZ004,웰링턴 식물원
-AT1017,NZ004,쿠바 스트리트 지구
-AT1018,NZ004,Oriental Bay
-AT1019,NZ004,국회 의사당
-AT1020,NZ004,Wellington Waterfront
-AT1021,NZ004,웰링턴 시티 & 해양 박물관
-AT1022,NZ004,웰링턴 동물원
-AT1023,NZ004,인터아일랜더 쿡 스트레이트 페리
-AT1024,NZ004,Wellington Chocolate Factory
-AT1025,TW002,The Pier-2 Art Centre
-AT1026,TW002,포광산
-AT1027,TW002,Kaohsiung Main Public Library
-AT1028,TW002,Kaohsiung Museum of Fine Arts
-AT1029,TW002,Fo Guang Shan Buddha Museum
-AT1030,TW002,Dragon Tiger Tower
-AT1031,TW002,Tuntex 85 Sky Tower
-AT1032,TW002,Cijin Island
-AT1033,TW002,Xiziwan
-AT1034,TW002,Formosa Boulevard Station
-AT1035,TW002,Central Park Kaohsiung
-AT1036,TW002,Kaohsiung (Cihou) Lighthouse
-AT1037,TW002,The Dome of Light
-AT1038,TW002,Chengcing Lake
-AT1039,TW003,Chishingtan Scenic Area
-AT1040,TW003,Taroko National Park
-AT1041,TW003,Taroko Gorge
-AT1042,TW003,Hualien Tourist Fish Harbor
-AT1043,TW003,Hualien Harbor Scenic Bridge
-AT1044,TW003,Yanzihkou Trail (Swallow Grotto)
-AT1045,TW003,Dongdamen Night Market
-AT1046,TW003,Farglory Ocean Park
-AT1047,TW003,Yuli Antong Hot Spring
-AT1048,TW003,Su-Hua Highway
-AT1049,TW003,Zhuilu Old Trail
-AT1050,TW003,Shakadang Trail
-AT1051,TW003,Qingshui Cliff
-AT1052,TW004,Chihkan Tower (Fort Provintia)
-AT1053,TW004,Guanziling Hot Spring
-AT1054,TW004,Confucius Temple
-AT1055,TW004,Ji Dian Wu Miao
-AT1056,TW004,Chimei Museum
-AT1057,TW004,National Cheng Kung University
-AT1058,TW004,National Museum of Taiwan History
-AT1059,TW004,Tainan Art Museum
-AT1060,TW004,Anping Fort (Anping gubao)
-AT1061,TW004,Tainan Station
-AT1062,TW004,안평수옥
-AT1063,TW004,National Museum of Taiwan Literature
-AT1064,TW004,National Anping Harbor Historic Park
-AT1065,TW004,Hayashi Department Store
-AT1066,DE001,브란덴부르크 문 (브란덴부르크 토어)
-AT1067,DE001,이스트 사이드 갤러리
-AT1068,DE001,Berliner Dom
-AT1069,DE001,Berlin Central Station
-AT1070,DE001,Tiergarten
-AT1071,DE001,테러의 토포그래피 박물관
-AT1072,DE001,도이쳐 분데슈타크
-AT1073,DE001,홀로코스트 기념관 (유대인 학살 추모 공원)
-AT1074,DE001,Museum Island
-AT1075,DE001,베를린 장벽 기념관
-AT1076,DE001,Berliner Fernsehturm
-AT1077,DE001,Berliner Philharmonie
-AT1078,DE001,젠다르멘 광장
-AT1079,DE001,페르가몬 박물관
-AT1080,DE001,Mitte
-AT1081,DE002,마리엔 광장
-AT1082,DE002,New Town Hall (Neus Rathaus)
-AT1083,DE002,BMW 박물관
-AT1084,DE002,Allianz Arena
-AT1085,DE002,Nymphenburg Palace
-AT1086,DE002,Olympic Tower
-AT1087,DE002,잉글리쉬 가든
-AT1088,DE002,Residenz
-AT1089,DE002,FC Bayern Museum
-AT1090,DE002,Viktualienmarkt
-AT1091,DE002,Munich Central Station
-AT1092,DE002,St. Peter's Church
-AT1093,DE002,Rathaus-Glockenspiel
-AT1094,DE002,Theresienwiese
-AT1095,DE003,Romer
-AT1096,DE003,Cathedral of St. Bartholomew (Dom St. Bartholomaus)
-AT1097,DE003,Main Tower
-AT1098,DE003,Frankfurt am Main Hauptbahnhof
-AT1099,DE003,Roemerberg
-AT1100,DE003,Stadel Museum
-AT1101,DE003,Messe Frankfurt
-AT1102,DE003,Deutsche Bank Park
-AT1103,DE003,Iron Bridge
-AT1104,DE003,The Hauptwache
-AT1105,DE003,Mainkai
-AT1106,DE003,Commerzbank
-AT1107,DE003,Opera Frankfurt
-AT1108,DE003,Eschenheimer Turm
-AT1109,DE003,Frankfurt Christmas Market
-AT1110,RU001,붉은 광장
-AT1111,RU001,모스크바 크렘린
-AT1112,RU001,Moscow Metro
-AT1113,RU001,성 바실리 성당
-AT1114,RU001,Sparrow Hills (Vorobyovy Gory)
-AT1115,RU001,Lomonosov Moscow State University (MGU)
-AT1116,RU001,Moscow-City
-AT1117,RU001,Bolshoi Theatre
-AT1118,RU001,High-Speed Train Sapsan
-AT1119,RU001,Old Arbat (Stary Arbat)
-AT1120,RU001,GUM 백화점
-AT1121,RU001,Kremlin Walls and Towers
-AT1122,RU001,Moscow Cathedral Mosque
-AT1123,RU001,Ostankino TV Tower
-AT1124,RU001,Cathedral of Christ the Saviour
-AT1125,RU002,피의 사원
-AT1126,RU002,네프스키 프로스펙트
-AT1127,RU002,Palace Bridge
-AT1128,RU002,The State Museum St. Isaac’s Cathedral
-AT1129,RU002,Admiralteyskaya Station
-AT1130,RU002,Gazprom Arena
-AT1131,RU002,University Embankment
-AT1132,RU002,The Building Of The Admiralty
-AT1133,RU002,Moscow Railway Station
-AT1134,RU002,Monument to A. D. Sakharov
-AT1135,RU002,Catherine Palace and Park
-AT1136,RU002,Smolny Cathedral
-AT1137,RU002,Nicholas Naval Cathedral of The Epiphany
-AT1138,RU003,Eagle's Nest Mount
-AT1139,RU003,Memorial to the Fighters for the Soviet Power in the Far East
-AT1140,RU003,Golden Bridge
-AT1141,RU003,Russky Bridge
-AT1142,RU003,Monument to Sailors
-AT1143,RU003,Railroad Terminal
-AT1144,RU003,Railway Station
-AT1145,RU003,Svetlanskaya Street
-AT1146,RU003,Monument of Cyril and Methodius/ Educators and creators of the Slavic alphabet
-AT1147,RU003,Lighthouse Egersheld
-AT1148,RU003,Funicular in Vladivostok
-AT1149,RU003,Explore Primorye
-AT1150,RU003,Railroad Square
-AT1151,RU004,Arboretum Park
-AT1152,RU004,Krasnaya Polyana Mountain Cluster
-AT1153,RU004,Riviera Park
-AT1154,RU004,Rosa Khutor Ski Resort
-AT1155,RU004,Olimpiyskiy Park
-AT1156,RU004,Sochi Discovery World Aquarium
-AT1157,RU004,Sochi Park
-AT1158,RU004,Skypark
-AT1159,RU004,Southern Cultures Park
-AT1160,RU004,Agura Waterfalls
-AT1161,RU004,The Observation Tower on Akhun Mountain
-AT1162,MY001,페트로나스 트윈 타워
-AT1163,MY001,센트럴 마켓 쿠알라룸푸르
-AT1164,MY001,쿠알라룸푸르 컨벤션 센터
-AT1165,MY001,리틀 인디아 - 쿠알라룸푸르
-AT1166,MY001,KLCC Park
-AT1167,MY001,파빌리온 KL
-AT1168,MY001,쿠알라룸푸르 버드 파크
-AT1169,MY001,GO KL City Bus
-AT1170,MY001,KLIA Ekspres
-AT1171,MY001,Kuala Lumpur Sentral Railway Station
-AT1172,MY001,부킷 빈탕
-AT1173,MY001,잘란 알로
-AT1174,MY001,Kuala Lumpur City Gallery
-AT1175,MY001,로열 슬랑고르
-AT1176,MY002,마누칸 섬
-AT1177,MY002,Kota Kinabalu City Mosque
-AT1178,MY002,Tanjung Aru Beach
-AT1179,MY002,Imago Shopping Mall
-AT1180,MY002,Mantanani Island
-AT1181,MY002,자스민 마사지
-AT1182,MY002,Sapi Island
-AT1183,MY002,I Love KK
-AT1184,MY002,Tanjung Aru Perdana Park
-AT1185,MY002,Tunku Abdul Rahman Marine Park
-AT1186,MY002,Jesselton Point
-AT1187,MY002,Signal Hill Observatory Platform
-AT1188,MY002,"Night Market, Kota Kinabalu"
-AT1189,MY002,Land Below The Wind
-AT1190,MY002,Poring Hot Springs
-AT1191,MY003,Panorama Langkawi SkyCab
-AT1192,MY003,랑카위 스카이 브리지
-AT1193,MY003,Eagle Square
-AT1194,MY003,Cenang Beach
-AT1195,MY003,Kilim Karst Geoforest Park
-AT1196,MY003,Tanjung Rhu Beach
-AT1197,MY003,Oriental Village
-AT1198,MY003,Langkawi Night Market
-AT1199,MY003,Fauna Flora Eco
-AT1200,MY003,Cenang Mall
-AT1201,MY003,Tengah Beach
-AT1202,MY003,Pulau Payar Marine Park
-AT1203,MY003,Dev's Adventure Tours
-AT1204,MX001,Zocalo
-AT1205,MX001,국립 인류학 박물관
-AT1206,MX001,코요아칸
-AT1207,MX001,Paseo de la Reforma
-AT1208,MX001,마요르 사원 박물관
-AT1209,MX001,San Angel
-AT1210,MX001,Mercado De Artesanias La Ciudadela
-AT1211,MX001,Catedral Metropolitana de la Ciudad de México
-AT1212,MX001,차풀테펙 성
-AT1213,MX001,Mercado de San Juan
-AT1214,MX001,역사 지구
-AT1215,MX001,Basilica de Santa Maria de Guadalupe
-AT1216,MX001,프리다 칼로 박물관
-AT1217,MX001,La Merced
-AT1218,MX002,La Isla
-AT1219,MX002,Avenida Kukulkan
-AT1220,MX002,Playa Delfines
-AT1221,MX002,Happy Shuttle Cancun
-AT1222,MX002,Coco Bongo Cancun
-AT1223,MX002,Terminal Autobuses ADO
-AT1224,MX002,Entertainment Plus
-AT1225,MX002,Beto Avila Stadium
-AT1226,MX002,Plaza Las Americas
-AT1227,MX003,툴룸의 마야 유적지
-AT1228,MX003,Mayan Beach
-AT1229,MX003,OZ Adventures
-AT1230,MX003,Playa Paraiso
-AT1231,MX003,Gran Cenote
-AT1232,MX003,Laguna Kaan Luum
-AT1233,MN001,Zaisan Memorial
-AT1234,MN001,Gorkhi-Terelj National Park
-AT1235,MN001,Galleria Souvenir Store
-AT1236,MN001,Galleria Souvenir
-AT1237,MN001,Choijin Lama Temple Museum
-AT1238,MN001,Altai Bighorn Statue
-AT1239,MN001,Genghis Khan Square
-AT1240,MN001,The State Department Store
-AT1241,MN001,National History Museum
-AT1242,MN001,Genghis Khan Statue Complex
-AT1243,MN001,Dream Mongolia Tours
-AT1244,MN001,Lotus Thai Massage
-AT1245,MN001,Galleria Ulaanbaatar
-AT1246,MN001,Hustai National Park
-AT1247,US001,메트로폴리탄 미술관
-AT1248,US001,록펠러 센터 전망대
-AT1249,US001,센트럴 파크
-AT1250,US001,타임 스퀘어
-AT1251,US001,엠파이어 스테이트 빌딩
-AT1252,US001,뉴욕 공공 도서관
-AT1253,US001,브로드웨이
-AT1254,US001,하이 라인
-AT1255,US001,브라이언트 파크
-AT1256,US001,그랜드 센트럴 터미널
-AT1257,US001,현대 미술관
-AT1258,US001,자유의 여신상
-AT1259,US001,록펠러 센터
-AT1260,US001,5번가
-AT1261,US001,One World Observatory
-AT1262,US002,금문교
-AT1263,US002,샌프란시스코 베이
-AT1264,US002,케이블 카
-AT1265,US002,트윈 픽스
-AT1266,US002,샌프란시스코 현대 미술관
-AT1267,US002,샌프란시스코 시청
-AT1268,US002,샌프란시스코 베이 브리지
-AT1269,US002,Lombard Street
-AT1270,US002,피어 39
-AT1271,US002,알카트라즈
-AT1272,US002,케이블 카 박물관
-AT1273,US002,피셔맨즈 워프
-AT1274,US002,Mission Dolores Park
-AT1275,US002,코이트 타워
-AT1276,US002,유니언 스퀘어
-AT1277,US004,라스베이거스 프리미엄 아울렛
-AT1278,US004,The Strip
-AT1279,US004,Vegas Rockstar VIP
-AT1280,US004,Welcome to Fabulous Las Vegas Sign
-AT1281,US004,The Spa at Vdara
-AT1282,US004,The Grand Canal Shoppes at The Venetian Resort
-AT1283,US004,라스베가스 다운타운
-AT1284,US004,Paris Las Vegas
-AT1285,US004,Fremont Street Experience
-AT1286,US004,스트래토스피어 타워
-AT1287,US004,"Purple Reign, THE Prince Tribute Show!"
-AT1288,US004,Circus Circus Adventuredome Theme Park
-AT1289,MM001,Yangon Central Railway Station
-AT1290,MM001,쉐다곤 파고다
-AT1291,MM001,Sule Pagoda
-AT1292,MM001,Yangon Circular Train
-AT1293,MM001,Botahtaung Pagoda
-AT1294,MM001,Bogyoke Aung San Market
-AT1295,MM001,Myanmar Plaza Shopping Center
-AT1296,MM001,Immaculate Conception Cathedral
-AT1297,MM001,The Rangoon War Cemetery
-AT1298,MM001,JJ Express
-AT1299,MM001,Maha Bandula Park
-AT1300,MM001,Junction Square
-AT1301,MM001,Yangon Chinatown
-AT1302,MM001,Inya Lake
-AT1303,MM001,Hledan Centre
-AT1304,MM002,Mandalay Hill
-AT1305,MM002,Kuthodaw Pagoda & the World's Largest Book
-AT1306,MM002,미하무니 파고다
-AT1307,MM002,황금 궁전 수도원 (쉐난도 짜웅)
-AT1308,MM002,Sanda Muni Paya
-AT1309,MM002,Health Center Thai Massage
-AT1310,MM002,Mandalay Palace
-AT1311,MM002,Mandalay Fort
-AT1312,MM002,Kyauk Taw Gyi Pagoda
-AT1313,MM002,Pahtodawgyi
-AT1314,MM004,바간의 사원들
-AT1315,MM004,아난다 사원
-AT1316,MM004,쉐산도 파고다
-AT1317,MM004,Sulamani Guphaya Temple
-AT1318,MM004,쉐지곤 파야
-AT1319,MM004,Dhammayangyi Temple
-AT1320,MM004,Htilominlo Pahto
-AT1321,MM004,Thatbyinnyu Temple
-AT1322,MM004,Oriental Ballooning Bagan
-AT1323,MM004,Bagan Viewing Tower
-AT1324,MM004,Shwe-gyu-gyi
-AT1325,MM004,Buphaya Paya
-AT1326,MM004,Bagan Archaeological Museum
-AT1327,MM004,Jasmine Family Lacquerware Workshop
-AT1328,VN002,하노이 구시가
-AT1329,VN002,호안 끼엠 호수
-AT1330,VN002,LA Spa Trendy
-AT1331,VN002,Mido Spa
-AT1332,VN002,Serene Spa
-AT1333,VN002,La Belle Vie Spa
-AT1334,VN002,Hanoi Labelle Vie Spa
-AT1335,VN002,Mido Spa 1
-AT1336,VN002,Estheva Spa
-AT1337,VN002,L'essence Spa
-AT1338,VN002,Dragonfly Cruise
-AT1339,VN002,Midori Spa
-AT1340,VN002,호치민의 묘
-AT1341,VN002,Midori Spa 3
-AT1342,VN004,Dragon Bridge
-AT1343,VN004,Herbal Spa
-AT1344,VN004,다 낭 비치
-AT1345,VN004,Ba Na Hills
-AT1346,VN004,Lady Buddha
-AT1347,VN004,Dahan Spa Danang
-AT1348,VN004,Tabalo Outdoor
-AT1349,VN004,Panda Spa
-AT1350,VN004,My Khe Beach
-AT1351,VN004,NIRVA SPA
-AT1352,VN004,라스파
-AT1353,VN004,Da Nang Aodai Ridertour
-AT1354,ES001,구엘 공원
-AT1355,ES001,Spotify Camp Nou
-AT1356,ES001,몬주익 공원
-AT1357,ES001,고딕 지구 (바리 고틱)
-AT1358,ES001,Barcelona Cathedral
-AT1359,ES001,Aerobús
-AT1360,ES001,Parc d’Atraccions Tibidabo
-AT1361,ES001,카탈루냐 국립 미술관 - MNAC
-AT1362,ES001,Plaza de Catalunya
-AT1363,ES001,그라시아 거리
-AT1364,ES001,까딸라나 음악당
-AT1365,ES001,보케리아 시장
-AT1366,ES001,MUHBA Turó de la Rovira
-AT1367,ES002,프라도 박물관
-AT1368,ES002,Puerta del Sol
-AT1369,ES002,마드리드 왕궁
-AT1370,ES002,Santiago Bernabeu Stadium
-AT1371,ES002,Gran Via
-AT1372,ES002,Plaza de Cibeles
-AT1373,ES002,레티로 파크 (파르 델 레티로)
-AT1374,ES002,Palacio de Cibeles
-AT1375,ES002,Plaza Mayor
-AT1376,ES002,Templo de Debod
-AT1377,ES002,Estacion de Atocha
-AT1378,ES002,Madrid Metro
-AT1379,ES002,티센-보르네밋사 박물관
-AT1380,ES002,소피아 여왕 예술 센터
-AT1381,ES002,Catedral de Sta Maria la Real de la Almudena
-AT1382,ES003,Plaza Mayor
-AT1383,ES003,스페인 광장
-AT1384,ES003,세비야 대성당 (카테드랄 데 세비야)
-AT1385,ES003,Torre Giralda
-AT1386,ES003,알카사르
-AT1387,ES003,Centro Historico de Sevilla
-AT1388,ES003,Setas de Sevilla (Metropol Parasol)
-AT1389,ES003,Barrio Santa Cruz
-AT1390,ES003,마리아 루이사 공원
-AT1391,ES003,Torre del Oro
-AT1392,ES003,Iglesia Colegial del Salvador
-AT1393,ES003,Museo del Baile Flamenco
-AT1394,ES003,Plaza Nueva
-AT1395,ES003,Plaza del Triunfo
-AT1396,ES004,Ciudad de las Artes y las Ciencias
-AT1397,ES004,Oceanogràfic València
-AT1398,ES004,Central Market of Valencia
-AT1399,ES004,Valencia Cathedral
-AT1400,ES004,Estació del Nord
-AT1401,ES004,Miguelete
-AT1402,ES004,Plaza del Ayuntamiento
-AT1403,ES004,Plaza del Mercado (Placa del Mercat)
-AT1404,ES004,Museu Faller de València
-AT1405,ES004,La Lonja de la Seda
-AT1406,ES004,Segway Anyway Valencia
-AT1407,ES004,Rent Bike Virgen
-AT1408,ES004,Puerto de Valencia
-AT1409,ES004,Torres de Serranos
-AT1410,SI001,블레드 성
-AT1411,SI001,Lake Bled
-AT1412,SI001,Bled Island
-AT1413,SI001,성모 승천 교회
-AT1414,SI001,Mamut Slovenija
-AT1415,SI001,Straza Bled
-AT1416,SI001,Triglav National Park
-AT1417,SI001,Zipline Dolinka
-AT1418,SI001,3glav Adventures
-AT1419,SI002,The Ljubljana Castle
-AT1420,SI002,프레세렌 광장
-AT1421,SI002,River Ljubljanica Kanal
-AT1422,SI002,삼중교 (트로모스토브예)
-AT1423,SI002,Cankarjevo Nabrežje
-AT1424,SI002,Ljubljana Free Tour
-AT1425,SI002,Franciscan Church (Frančiškanska cerkev)
-AT1426,SI002,Skyscraper (Nebotičnik)
-AT1427,SI002,성 니콜라스 대성당
-AT1428,SI002,Ljubljana Old Town
-AT1429,SI002,Town Hall (Magistrat)
-AT1430,SI002,용의 다리 (즈마이스키 모스트)
-AT1431,SI002,Tivoli Park
-AT1432,SI002,Shoemaker's Bridge (Cevljarski Most)
-AT1433,SI002,Vodnik Square (Vodnikov trg)
-AT1434,SI003,Piran Town Walls
-AT1435,SI003,Church of St. George (Cerkev sv. Jurija) in Piran
-AT1436,SI003,타르티니 광장
-AT1437,SI003,Port Piran
-AT1438,SI003,First of May Square
-AT1439,SI003,Church of St. Francis of Assisi
-AT1440,SI003,Town Hall
-AT1441,GB001,런던아이
-AT1442,GB001,대영 박물관
-AT1443,GB001,국립 미술관
-AT1444,GB001,런던 지하철
-AT1445,GB001,빅 벤
-AT1446,GB001,버킹엄 궁전
-AT1447,GB001,런던 자연사 박물관
-AT1448,GB001,타워 브리지
-AT1449,GB001,런던 타워
-AT1450,GB001,Sky Garden
-AT1451,GB001,하이드 파크
-AT1452,GB001,하이드 파크
-AT1453,GB001,The View from The Shard
-AT1454,GB001,피카딜리 서커스
-AT1455,GB001,빅토리아 앨버트 박물관
-AT1456,GB001,Borough Market
-AT1457,AU001,하이드 파크
-AT1458,AU001,하이드 파크
-AT1459,AU001,시드니 오페라 하우스
-AT1460,AU001,시드니 하버
-AT1461,AU001,시드니 하버 브리지
-AT1462,AU001,시드니 아쿠아리움
-AT1463,AU001,시드니 페리
-AT1464,AU001,시드니 천문대
-AT1465,AU001,시드니 타워 아이 & 스카이워크
-AT1466,AU001,서큘러 키
-AT1467,AU001,본다이 비치
-AT1468,AU001,맨리 비치
-AT1469,AU001,퀸 빅토리아 빌딩 (QVB)
-AT1470,AU001,왓슨스 베이
-AT1471,AU001,더 록스
-AT1472,AU001,달링 하버
-AT1473,GB002,에든버러 성
-AT1474,GB002,로열 마일
-AT1475,GB002,Calton Hill
-AT1476,GB002,Scott Monument
-AT1477,GB002,Edinburgh Old Town
-AT1478,GB002,프린세스 스트리트 가든
-AT1479,GB002,Castle Rock
-AT1480,GB002,The Royal Edinburgh Military Tattoo
-AT1481,GB002,Grassmarket
-AT1482,GB002,홀리루드 파크
-AT1483,GB002,Edinburgh Waverley Station
-AT1484,GB002,Palace of Holyroodhouse
-AT1485,GB002,The Great Hall
-AT1486,GB002,St. Margaret's Chapel
-AT1487,GB002,The Edinburgh Dungeon
-AT1488,GB003,Old Trafford
-AT1489,GB003,Etihad Stadium
-AT1490,GB003,National Football Museum
-AT1491,GB003,The John Rylands Library
-AT1492,GB003,Manchester Metrolink
-AT1493,GB003,Victoria Station
-AT1494,GB003,Science and Industry Museum
-AT1495,GB003,Arndale Market
-AT1496,GB003,Chinatown
-AT1497,AU002,유레카 스카이덱 88
-AT1498,AU002,시티 서클 트램
-AT1499,AU002,플린더스 스트리트 역
-AT1500,AU002,야라 강
-AT1501,AU002,멜버른 박물관
-AT1502,AU002,세이트 패트릭 대성당
-AT1503,AU002,Degraves Street
-AT1504,AU002,멜버른 전쟁 기념관
-AT1505,AU002,구 멜버른 감옥
-AT1506,AU002,멜버른 왕립 식물원
-AT1507,AU002,블록 아케이드
-AT1508,AU002,Southbank
-AT1509,AU002,피츠로이 정원
-AT1510,AU002,Collins Street
-AT1511,AU003,브리즈번 강
-AT1512,AU003,마운트 쿠사 전망대
-AT1513,AU003,사우스 뱅크 파크랜드
-AT1514,AU003,휠 오브 브리즈번
-AT1515,AU003,시티캣 페리
-AT1516,AU003,브리즈번 식물원
-AT1517,AU003,City Hopper
-AT1518,AU003,론 파인 코알라 보호 구역
-AT1519,AU003,브리즈번 박물관
-AT1520,AU003,City Hall
-AT1521,AU003,스토리 브리지
-AT1522,AU003,Brisbane Greeters
-AT1523,AU003,Eat Street Northshore
-AT1524,AU003,Kangaroo Point Cliffs Park
-AT1525,AU003,Anzac Square & Memorial Galleries
-AT1526,AU004,Esplanade Boardwalk
-AT1527,AU004,Kuranda Scenic Railway
-AT1528,AU004,Cairns Aquarium
-AT1529,AU004,Northern Experience Eco Tours
-AT1530,AU004,Reef Magic Cruises
-AT1531,AU004,Cairns Esplanade Lagoon
-AT1532,AU004,Rusty's Market
-AT1533,AU004,Josephine Falls
-AT1534,AU004,Cairns Botanic Gardens
-AT1535,AU004,Great Barrier Reef
-AT1536,AU004,Down Under Cruise & Dive
-AT1537,AU004,Green Island
-AT1538,AU004,Night Markets
-AT1539,AU004,Divers Den
-AT1540,IN001,게이트웨이 오브 인디아
-AT1541,IN001,차트라바띠 시와지 역
-AT1542,IN001,마린 드라이브
-AT1543,IN001,Bandra-Worli Sea Link
-AT1544,IN001,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
-AT1545,IN001,Powai Lake
-AT1546,IN001,Hanging Gardens
-AT1547,IN001,High Street Phoenix
-AT1548,IN001,High Court Principal Bench Bombay
-AT1549,IN001,Sanjay Gandhi National Park
-AT1550,IN001,Juhu Beach
-AT1551,IN001,WOB India Tours
-AT1552,IN001,St. Thomas Cathedral Mumbai
-AT1553,IN001,시바지 공원
-AT1554,IN002,꾸뜹 미나르
-AT1555,IN002,인디아 게이트
-AT1556,IN002,Delhi Airport Metro Express
-AT1557,IN002,후마윤의 묘
-AT1558,IN002,Connaught Place
-AT1559,IN002,Driver India Private Tours
-AT1560,IN002,대통령 관저 (라파티 바반)
-AT1561,IN002,Classic Golf Resort
-AT1562,IN002,하우즈 카스 빌리지
-AT1563,IN002,North India Private Driver
-AT1564,IN002,잔타르 만타르 - 델리
-AT1565,IN002,찬드니 초크
-AT1566,IN002,붉은 요새 (랄 킬라)
-AT1567,IN002,Private India Tour Advisor
-AT1568,IN003,아그라 요새
-AT1569,IN003,타지마할
-AT1570,IN003,Raj Travels India
-AT1571,IN003,Sheesh Mahal
-AT1572,IN003,City of love boat tour
-AT1573,IN003,Ashok Cosmos Mall
-AT1574,IN003,이티마드 우드 다울라
-AT1575,IN004,안 벨성
-AT1576,IN004,바람의 궁전 (하와 마할)
-AT1577,IN004,자이푸르 시티 팰리스
-AT1578,IN004,Sunny Tour Travels
-AT1579,IN004,Jaigarh Fort
-AT1580,IN004,Unique Jaipur Tour
-AT1581,IN004,Easy Peasy Tours
-AT1582,IN004,Nahargarh Fort
-AT1583,IN004,Namaste Jaipur Tours
-AT1584,IN004,자이푸르 잔타르 만타르
-AT1585,IN004,Kerala Ayurveda Kendra
-AT1586,IN004,Jaipur Zoo
-AT1587,ID001,워터밤 발리
-AT1588,ID001,발리 컬렉션
-AT1589,ID001,Kuta Beach - Bali
-AT1590,ID001,발리 고급 스파 & 한국 식당 로즈힐
-AT1591,ID001,UP2U 서프 스쿨 발리
-AT1592,ID001,Bali SUN Tours
-AT1593,ID001,Bali Swing
-AT1594,ID001,몽키 포레스트
-AT1595,ID001,몰 발리 갤러리아
-AT1596,ID001,The Care Day Spa
-AT1597,ID001,Nusa Bali Spa
-AT1598,ID001,Zahra Spa
-AT1599,ID001,띠르따 엠풀 사원
-AT1600,ID001,Bhava Spa Kuta
-AT1601,ID001,Karsa Spa
-AT1602,ID003,Braga Street
-AT1603,ID003,Jalan Asia Afrika
-AT1604,ID003,Bandung Grand Mosque
-AT1605,ID003,Bandung City Square
-AT1606,ID003,Ciater Hot Spring
-AT1607,ID003,Trans Studio Bandung
-AT1608,ID003,Ola Family Spa & Reflexology
-AT1609,ID003,Rumah Mode Factory Outlet
-AT1610,ID003,Trans Studio Mall
-AT1611,ID003,Amazing Art World
-AT1612,ID003,Sudirman Street
-AT1613,JP001,도쿄 타워
-AT1614,JP001,오다이바
-AT1615,JP001,에도-도쿄 박물관
-AT1616,JP001,도쿄역
-AT1617,JP001,모리 타워
-AT1618,JP001,도쿄 스카이 트리
-AT1619,JP001,도쿄돔
-AT1620,JP001,도쿄 국립 박물관
-AT1621,JP001,도쿄 도청
-AT1622,JP001,Tokyo Metropolitan Government Building Observation Decks
-AT1623,JP001,아사쿠사
-AT1624,JP001,긴자 환락가
-AT1625,JP001,도쿄 돔 시티
-AT1626,JP002,도톤보리
-AT1627,JP002,유니버셜 스튜디오 재팬
-AT1628,JP002,우메다 스카이 빌딩 - 공중 정원 전망대
-AT1629,JP002,오사카 성
-AT1630,JP002,신사이바시
-AT1631,JP002,쿠로몬 시장
-AT1632,JP002,Osaka Kale Parkı
-AT1633,JP002,HEP FIVE 관람차
-AT1634,JP002,오사카 생활 박물관
-AT1635,JP002,텐포잔 대관람차
-AT1636,JP002,키즈 플라자 오사카
-AT1637,JP002,오사카 시립 동양 도자 미술관
-AT1638,JP002,Akiba Kart Osaka
-AT1639,JP002,오사카 텐만구
-AT1640,JP002,오사카 역사 박물관
-AT1641,JP003,금각사
-AT1642,JP003,후시미 이나리 신사
-AT1643,JP003,Kiyomizu-dera
-AT1644,JP003,은각사
-AT1645,JP003,교토역 빌딩
-AT1646,JP003,교토 타워
-AT1647,JP003,교토 니시키 시장
-AT1648,JP003,Gion
-AT1649,JP003,Arashiyama
-AT1650,JP003,교토 식물원
-AT1651,JP003,교토 궁전
-AT1652,JP003,Nijo Kalesi
-AT1653,JP003,산넨자카 니넨자카
-AT1654,JP003,에이칸도
-AT1655,JP003,산젠
-AT1656,JP004,JR 타워 전망대 T38
-AT1657,JP004,Odori Park
-AT1658,JP004,Susukino
-AT1659,JP004,Sapporo Beer Museum
-AT1660,JP004,삿포로 오쿠라야마 전망대
-AT1661,JP004,Sapporo TV Tower
-AT1662,JP004,홋카이도 대학 삿포로 캠퍼스
-AT1663,JP004,Clock Tower (Tokei-dai)
-AT1664,JP004,Mt. Moiwa
-AT1665,JP004,Sapporo Underground Pedestrian Space
-AT1666,JP004,Sapporo City Transportation (Tram)
-AT1667,JP004,Former Hokkaido Government Office Building
-AT1668,JP004,Sapporo Snow Festival
-AT1669,CN001,상하이의 와이탄 (와이탄)
-AT1670,CN001,신천지
-AT1671,CN001,번드 인터내셔널 아키텍처 익스히비션
-AT1672,CN001,Shanghai Urban Planning Exhibition Hall
-AT1673,CN001,Shanghai Metro
-AT1674,CN001,상하이 세계 금융 센터
-AT1675,CN001,상하이 역사 박물관
-AT1676,CN001,Pudong New Area
-AT1677,CN001,상하이 박물관
-AT1678,CN001,중국 고속 철도
-AT1679,CN001,난징로드
-AT1680,CN001,상하이 서커스 월드
-AT1681,CN001,Former French Concession
-AT1682,CN001,상해 대한민국 임시정부 유적지
-AT1683,CN002,만리장성
-AT1684,CN002,이화원
-AT1685,CN002,천안문
-AT1686,CN002,The Great Wall at Badaling
-AT1687,CN002,Wangfujing Street
-AT1688,CN002,Beijing Subway
-AT1689,CN002,천단 (티엔탄 공원)
-AT1690,CN002,경산 공원 (잉샨 꽁위엔)
-AT1691,CN002,천안문 광장
-AT1692,CN002,고궁 박물관
-AT1693,CN002,Beijing Tour Guide
-AT1694,CN002,Hall of Great Harmony (Taihe Dian)
-AT1695,CN002,Beijing Walking Tours
-AT1696,CN002,이화원 장랑
-AT1697,CN002,798 아트 존
-AT1698,CN003,Canton Tower
-AT1699,CN003,Shamian Island
-AT1700,CN003,Guangzhou Metro
-AT1701,CN003,Huaisheng Mosque
-AT1702,CN003,Museum of the Western Han Dynasty Mausoleum of the Nanyue King
-AT1703,CN003,Sacred Heart Cathedral
-AT1704,CN003,Beijing Road Ancient Avenue
-AT1705,CN003,Beijing Road Shopping District
-AT1706,CN003,Pearl River (Zhujiang)
-AT1707,CN003,Guangdong Museum of Art
-AT1708,CN003,Party Pier
-AT1709,CN003,Xiaogang park
-AT1710,CN003,Guangdong Museum
-AT1711,CN003,Baiyun Mountain
-AT1712,CN004,West Lake (Xi Hu)
-AT1713,CN004,Hangzhou Songcheng
-AT1714,CN004,QingHeFang
-AT1715,CN004,Fei Lai Feng
-AT1716,CN004,Pagoda of Six Harmonies
-AT1717,CN004,Xixi Wetland Park
-AT1718,CN004,Ping Hu Qiu Yue
-AT1719,CN004,National Tea Museum
-AT1720,CN004,Hangzhou Chenghuang Pagoda
-AT1721,CN004,River square Shopping Street
-AT1722,CN004,Gu Shan (Solitary Hill)
-AT1723,CN004,Three Pools Mirroring the Moon
-AT1724,CN004,China National Silk Museum
-AT1725,KH002,프놈펜 독립 기념탑
-AT1726,KH002,Angkor Spa
-AT1727,KH002,뚜얼 슬렝 대량학살 박물관
-AT1728,KH002,왓 프놈
-AT1729,KH002,Aeon Mall
-AT1730,KH002,Soma Spa
-AT1731,KH002,중앙 시장
-AT1732,KH002,로얄 팰리스
-AT1733,KH002,킬링 필드 (청아익)
-AT1734,KH002,나가월드 카지노
-AT1735,KH002,Kuntheak Spa
-AT1736,KH002,Russian Market
-AT1737,KH002,보디아 스파 프놈펜
-AT1738,KH002,Phnom Tamao Wildlife Rescue Center
-AT1739,KH002,실버 파고다
-AT1740,KH004,Phnom Chhngok Cave Temple
-AT1741,KH004,Butterfly Tours
-AT1742,KH004,La Plantation
-AT1743,KH004,Bokor National Park
-AT1744,KH004,Climbodia
-AT1745,KH004,Golden Hands Massage & Spa
-AT1746,KH004,SUP Asia
-AT1747,KH004,Old Catholic Church
-AT1748,KH004,Kampot-Kep Tuk Tuk-Taxi Drivers
-AT1749,KH004,Rany - The TukTuk Driver in Kampot and Kep
-AT1750,KH004,Bokor Hill Station
-AT1751,KH004,Popokvil Waterfall
-AT1752,KH004,Bokor Mountain
-AT1753,KH004,Arcadia Waterpark
-AT1754,KH004,Teuk Chhou Rapids
-AT1755,CA001,토론토 아일랜드 파크
-AT1756,CA001,Hockey Hall of Fame
-AT1757,CA001,Toronto City Hall
-AT1758,CA001,Toronto Zoo
-AT1759,CA001,로열 온타리오 박물관
-AT1760,CA002,밴쿠버 아쿠아리움
-AT1761,CA002,밴쿠버 전망대
-AT1762,CA002,밴쿠버 다운타운
-AT1763,CA002,밴쿠버 공공 도서관
-AT1764,CA002,스탠리 파크
-AT1765,CA002,스카이 트레인
-AT1766,CA002,퀸 엘리자베스 공원
-AT1767,CA002,잉글리시 베이
-AT1768,CA002,그라우스 마운틴
-AT1769,CA002,개스타운
-AT1770,CA002,False Creek
-AT1771,CA002,아쿠아버스 페리
-AT1772,CA002,캐나다 플레이스
-AT1773,CA002,키칠라노 비치
-AT1774,CA002,그랜빌 아일랜드
-AT1775,CA003,Old Montreal
-AT1776,CA003,마운트 로얄
-AT1777,CA003,몬트리올 미술관 (Musee des Beaux-Arts)
-AT1778,CA003,노트르담 성당 (바질리키 노트르 - 담)
-AT1779,CA003,Old Port of Montreal
-AT1780,CA003,성 요셉 대성당
-AT1781,CA003,VIA Rail Canada Montreal Station
-AT1782,CA003,Place des Arts
-AT1783,CA003,Jean-Talon Market
-AT1784,CA003,Montreal Botanical Garden
-AT1785,CA003,Parc Jean-Drapeau
-AT1786,CA003,McGill University
-AT1787,CA003,Notre-Dame-de-Bon-Secours Chapel
-AT1788,CA003,Chalet Du Mont Royal
-AT1789,CA003,Underground City
-AT1790,TH001,BTS 스카이트레인
-AT1791,TH001,석가모니 열반상이 있는 사원 (왓 포)
-AT1792,TH001,카오산 로드
-AT1793,TH001,왕궁
-AT1794,TH001,Chatuchak Weekend Market
-AT1795,TH001,시암 파라곤
-AT1796,TH001,에메랄드 사원 (왓 프라깨우)
-AT1797,TH001,Asiatique The Riverfront
-AT1798,TH001,룸피니 공원
-AT1799,TH001,짐 톰슨 하우스
-AT1800,TH001,Airport Rail Link
-AT1801,TH001,차오프라야 강
-AT1802,TH001,새벽 사원 (왓 아룬)
-AT1803,TH001,Retreat on VITAYU
-AT1804,TH001,방콕 문화 예술 센터
-AT1805,TH002,Banana Beach
-AT1806,TH002,푸켓 빅 부다
-AT1807,TH002,오리엔탈 드 푸켓
-AT1808,TH002,푸켓 사이먼 쇼
-AT1809,TH002,방라 로드
-AT1810,TH002,Patong Beach
-AT1811,TH002,정실론
-AT1812,TH002,왓찰롱
-AT1813,TH002,카타 비치
-AT1814,TH002,일요일 산책로 시장(랏야이)
-AT1815,TH002,Nai Harn Beach
-AT1816,TH002,Old Phuket Town
-AT1817,TH002,Freedom Beach
-AT1818,TH003,Night Bazaar
-AT1819,TH003,왓 체디 루앙
-AT1820,TH003,Wat Phra Singh
-AT1821,TH003,Wat Phra That Doi Kham (Temple of the Golden Mountain)
-AT1822,TH003,기빙트리
-AT1823,TH003,Tha Phae Gate
-AT1824,TH003,Anantara Spa
-AT1825,TH003,Zira Spa
-AT1826,TH003,Zabb E Lee Thai Cooking School Chiangmai By Anne
-AT1827,TH003,Maya Lifestyle Shopping Center
-AT1828,TH003,Old Chiangmai Cultural Center
-AT1829,TH004,워킹 스트리트 파타야
-AT1830,TH004,파타야 비치
-AT1831,TH004,파타야 수상 시장
-AT1832,TH004,CentralFestival Pattaya Beach
-AT1833,TH004,엘리펀트 빌리지 파타야
-AT1834,TH004,진리의 성전
-AT1835,TH004,Koh Larn
-AT1836,TH004,Grace Spa
-AT1837,TH004,좀티엔 비치
-AT1838,TH004,빅 부다
-AT1839,TH004,Airport Pattaya Bus
-AT1840,TH004,Beach road
-AT1841,TH004,파타야 워터 파크
-AT1842,TR001,Aya Sofya Müzesi / Kilisesi
-AT1843,TR001,이스탄불 역사 지구
-AT1844,TR001,술탄아흐메트 지구
-AT1845,TR001,블루 모스크 (술탄 아흐멧 모스크)
-AT1846,TR001,이스탄불 현대 미술관
-AT1847,TR001,지하 궁전
-AT1848,TR001,쉴레이마니예 모스크
-AT1849,TR001,갈라타 타워
-AT1850,TR001,보스포루스 해협
-AT1851,TR001,굴하네 파크
-AT1852,TR001,루멜리 성채
-AT1853,TR001,톱카프 궁전
-AT1854,TR001,돌마바흐체 궁전
-AT1855,TR001,Sultanahmet Square
-AT1856,TR001,이스티크랄 거리
-AT1857,TR004,괴레메 야외 박물관
-AT1858,TR004,괴레메 국립 공원
-AT1859,TR004,Fairy Chimneys
-AT1860,TR004,Sunset Point
-AT1861,TR004,피존 밸리
-AT1862,TR004,Love Valley
-AT1863,TR004,Goreme Panorama
-AT1864,TR004,로즈 밸리
-AT1865,TR004,Camel Rock
-AT1866,TR004,Rose Valley
-AT1867,TR004,Cappadocia Life Travel
-AT1868,TR004,Village Dowry Carpets - Cappadocia
-AT1869,PH001,화이트 비치
-AT1870,PH001,D'Mall
-AT1871,PH001,Red Whale Boracay
-AT1872,PH001,Crystal Cove Island
-AT1873,PH001,루호산
-AT1874,PH001,윌리스 록
-AT1875,PH001,불라복 비치
-AT1876,PH001,Fisheye Divers
-AT1877,PH001,야팍 비치
-AT1878,PH001,Funfun Boracay
-AT1879,PH001,디니위드 비치
-AT1880,PH001,iSite Boracay
-AT1881,PH001,WaterColors Boracay Diving Adventures
-AT1882,PH001,티르타 스파
-AT1883,PH002,마닐라 베이
-AT1884,PH002,마닐라 오션 파크
-AT1885,PH002,마닐라 대성당
-AT1886,PH002,인트라무로스
-AT1887,PH002,산 아구스틴 교회
-AT1888,PH002,SM Mall of Asia
-AT1889,PH002,산티아고 요새
-AT1890,PH002,리살 공원
-AT1891,PH002,Bonifacio Global City
-AT1892,PH002,Malate District
-AT1893,PH002,Venice Grand Canal Mall
-AT1894,PH002,산 아구스틴 박물관
-AT1895,PH002,Roxas Boulevard
-AT1896,PH002,그린벨트 파크
-AT1897,PH002,아얄라 박물관
-AT1898,PH004,그린벨트 파크
-AT1899,PH004,아얄라 박물관
-AT1900,PH004,Ayala Triangle Gardens
-AT1901,PH004,Ayala Center
-AT1902,PH004,Greenbelt Mall
-AT1903,PH004,Caracol Festival
-AT1904,PH004,P Burgos Street
-AT1905,PH004,Asian Massage
-AT1906,PH004,Museo Ng Makati
-AT1907,PH004,I'M Onsen Spa
-AT1908,PH003,Ayala Center Cebu
-AT1909,PH003,Santo Nino Bazilikası
-AT1910,PH003,Tops Lookout
-AT1911,PH003,Gold Moon Spa
-AT1912,PH003,Taoist Temple
-AT1913,PH003,Fort San Pedro
-AT1914,PH003,Magellan's Cross
-AT1915,PH003,SM City Cebu
-AT1916,PH003,Marcelo Fernan Bridge
-AT1917,PH003,Oslob Whale Sharks
-AT1918,PH003,Lapu Lapu Statue
-AT1919,PH003,Cebu Top
-AT1920,PH003,Osmena Peak
-AT1921,PH003,Nature Wellness Massage & Spa
-AT1922,PH003,카라스파
+AT1000,NZ001,오클랜드 도메인
+AT1001,NZ001,이든 산
+AT1002,NZ001,비아덕트 하버
+AT1003,NZ001,퀸 스트리트
+AT1004,NZ001,원 트리 힐
+AT1005,NZ001,오클랜드 하버 브리지
+AT1006,NZ001,스카이 타워
+AT1007,NZ001,Tamaki Makaurau Auckland isite
+AT1008,NZ001,알버트 파크
+AT1009,NZ001,North Head Historic Reserve
+AT1010,NZ001,오클랜드 박물관
+AT1011,NZ001,폰손비
+AT1012,NZ001,랑기토토 섬
+AT1013,NZ001,켈리 탈튼의 남극 체험관 & 언더워터 월드
+AT1014,NZ001,Tiritiri Matangi Island
+AT1015,NZ002,퀸즈타운 스카이 라인 - 곤돌라 & 루지
+AT1016,NZ002,Queenstown Hill
+AT1017,NZ002,Queenstown Gardens
+AT1018,NZ002,Lake Wakatipu
+AT1019,NZ002,Tahuna Queenstown isite Visitor Information Centre
+AT1020,NZ002,Queenstown Mall
+AT1021,NZ002,Frankton Therapeutic Massage Queenstown
+AT1022,NZ002,RealNZ
+AT1023,NZ002,AJ Hackett Bungy New Zealand
+AT1024,NZ003,크라이스트처치 식물원
+AT1025,NZ003,해글리 공원
+AT1026,NZ003,Quake City
+AT1027,NZ003,Christchurch Tramway
+AT1028,NZ003,International Antarctic Centre
+AT1029,NZ003,Christchurch Cathedral
+AT1030,NZ003,캔터베리 박물관
+AT1031,NZ003,Robert Falcon Scott Statue
+AT1032,NZ003,Margaret Mahy Family Playground
+AT1033,NZ003,Mona Vale
+AT1034,NZ003,Hassle Free Tours
+AT1035,NZ003,Botanic Gardens Tour
+AT1036,NZ003,Victoria Park
+AT1037,NZ004,웰링턴 케이블 카
+AT1038,NZ004,뉴질랜드 박물관 (테파파)
+AT1039,NZ004,빅토리아 산
+AT1040,NZ004,웰링턴 식물원
+AT1041,NZ004,쿠바 스트리트 지구
+AT1042,NZ004,Oriental Bay
+AT1043,NZ004,국회 의사당
+AT1044,NZ004,Wellington Waterfront
+AT1045,NZ004,웰링턴 시티 & 해양 박물관
+AT1046,NZ004,웰링턴 동물원
+AT1047,NZ004,인터아일랜더 쿡 스트레이트 페리
+AT1048,NZ004,Wellington Chocolate Factory
+AT1049,TW001,장개석 기념관
+AT1050,TW001,Taipei Metro System
+AT1051,TW001,Ximending
+AT1052,TW001,타이베이 101
+AT1053,TW001,Shilin Night Market
+AT1054,TW001,용산사
+AT1055,TW001,Elephant Mountain (aka Nangang District Hiking Trail)
+AT1056,TW001,Maokong Gondola
+AT1057,TW001,TAIPEI 101 Observatory
+AT1058,TW001,Taoyuan International Airport MRT
+AT1059,TW001,대만 국립 고궁 박물관
+AT1060,TW001,Taiwan High Speed Rail
+AT1061,TW001,타이페이 아이
+AT1062,TW001,Beitou Hot Spring
+AT1063,TW001,양민산 국립 공원
+AT1064,TW002,The Pier-2 Art Centre
+AT1065,TW002,포광산
+AT1066,TW002,Kaohsiung Main Public Library
+AT1067,TW002,Kaohsiung Museum of Fine Arts
+AT1068,TW002,Fo Guang Shan Buddha Museum
+AT1069,TW002,Dragon Tiger Tower
+AT1070,TW002,Tuntex 85 Sky Tower
+AT1071,TW002,Cijin Island
+AT1072,TW002,Xiziwan
+AT1073,TW002,Formosa Boulevard Station
+AT1074,TW002,Central Park Kaohsiung
+AT1075,TW002,Kaohsiung (Cihou) Lighthouse
+AT1076,TW002,The Dome of Light
+AT1077,TW002,Chengcing Lake
+AT1078,TW003,Chishingtan Scenic Area
+AT1079,TW003,Taroko National Park
+AT1080,TW003,Taroko Gorge
+AT1081,TW003,Hualien Tourist Fish Harbor
+AT1082,TW003,Hualien Harbor Scenic Bridge
+AT1083,TW003,Yanzihkou Trail (Swallow Grotto)
+AT1084,TW003,Dongdamen Night Market
+AT1085,TW003,Farglory Ocean Park
+AT1086,TW003,Yuli Antong Hot Spring
+AT1087,TW003,Su-Hua Highway
+AT1088,TW003,Zhuilu Old Trail
+AT1089,TW003,Shakadang Trail
+AT1090,TW003,Qingshui Cliff
+AT1091,TW004,Chihkan Tower (Fort Provintia)
+AT1092,TW004,Guanziling Hot Spring
+AT1093,TW004,Confucius Temple
+AT1094,TW004,Ji Dian Wu Miao
+AT1095,TW004,Chimei Museum
+AT1096,TW004,National Cheng Kung University
+AT1097,TW004,National Museum of Taiwan History
+AT1098,TW004,Tainan Art Museum
+AT1099,TW004,Anping Fort (Anping gubao)
+AT1100,TW004,Tainan Station
+AT1101,TW004,안평수옥
+AT1102,TW004,National Museum of Taiwan Literature
+AT1103,TW004,National Anping Harbor Historic Park
+AT1104,TW004,Hayashi Department Store
+AT1105,DE001,브란덴부르크 문 (브란덴부르크 토어)
+AT1106,DE001,이스트 사이드 갤러리
+AT1107,DE001,Berliner Dom
+AT1108,DE001,Berlin Central Station
+AT1109,DE001,Tiergarten
+AT1110,DE001,테러의 토포그래피 박물관
+AT1111,DE001,도이쳐 분데슈타크
+AT1112,DE001,홀로코스트 기념관 (유대인 학살 추모 공원)
+AT1113,DE001,Museum Island
+AT1114,DE001,베를린 장벽 기념관
+AT1115,DE001,Berliner Fernsehturm
+AT1116,DE001,Berliner Philharmonie
+AT1117,DE001,젠다르멘 광장
+AT1118,DE001,페르가몬 박물관
+AT1119,DE001,Mitte
+AT1120,DE002,마리엔 광장
+AT1121,DE002,New Town Hall (Neus Rathaus)
+AT1122,DE002,BMW 박물관
+AT1123,DE002,Allianz Arena
+AT1124,DE002,Nymphenburg Palace
+AT1125,DE002,Olympic Tower
+AT1126,DE002,잉글리쉬 가든
+AT1127,DE002,Residenz
+AT1128,DE002,FC Bayern Museum
+AT1129,DE002,Viktualienmarkt
+AT1130,DE002,Munich Central Station
+AT1131,DE002,St. Peter's Church
+AT1132,DE002,Rathaus-Glockenspiel
+AT1133,DE002,Theresienwiese
+AT1134,DE003,Romer
+AT1135,DE003,Cathedral of St. Bartholomew (Dom St. Bartholomaus)
+AT1136,DE003,Main Tower
+AT1137,DE003,Frankfurt am Main Hauptbahnhof
+AT1138,DE003,Roemerberg
+AT1139,DE003,Stadel Museum
+AT1140,DE003,Messe Frankfurt
+AT1141,DE003,Deutsche Bank Park
+AT1142,DE003,Iron Bridge
+AT1143,DE003,The Hauptwache
+AT1144,DE003,Mainkai
+AT1145,DE003,Commerzbank
+AT1146,DE003,Opera Frankfurt
+AT1147,DE003,Eschenheimer Turm
+AT1148,DE003,Frankfurt Christmas Market
+AT1149,DE004,Hamburg Town Hall
+AT1150,DE004,Port of Hamburg
+AT1151,DE004,Miniatur Wunderland
+AT1152,DE004,Kunsthalle Hamburg
+AT1153,DE004,Elbphilharmonie
+AT1154,DE004,Treppenviertel Blankenese
+AT1155,DE004,International Maritime Museum
+AT1156,DE004,Jungfernstieg
+AT1157,DE004,St. Michael's Church
+AT1158,DE004,Alster Lakes
+AT1159,DE004,Alter Elbtunnel
+AT1160,DE004,HafenCity
+AT1161,DE004,Hamburger Dom
+AT1162,DE004,Hamburg Hauptbahnhof
+AT1163,DE004,St Nikolai Memorial
+AT1164,RU001,붉은 광장
+AT1165,RU001,모스크바 크렘린
+AT1166,RU001,Moscow Metro
+AT1167,RU001,성 바실리 성당
+AT1168,RU001,Sparrow Hills (Vorobyovy Gory)
+AT1169,RU001,Lomonosov Moscow State University (MGU)
+AT1170,RU001,Moscow-City
+AT1171,RU001,Bolshoi Theatre
+AT1172,RU001,High-Speed Train Sapsan
+AT1173,RU001,Old Arbat (Stary Arbat)
+AT1174,RU001,GUM 백화점
+AT1175,RU001,Kremlin Walls and Towers
+AT1176,RU001,Moscow Cathedral Mosque
+AT1177,RU001,Ostankino TV Tower
+AT1178,RU001,Cathedral of Christ the Saviour
+AT1179,RU002,피의 사원
+AT1180,RU002,네프스키 프로스펙트
+AT1181,RU002,Palace Bridge
+AT1182,RU002,The State Museum St. Isaac’s Cathedral
+AT1183,RU002,Admiralteyskaya Station
+AT1184,RU002,Gazprom Arena
+AT1185,RU002,University Embankment
+AT1186,RU002,The Building Of The Admiralty
+AT1187,RU002,Moscow Railway Station
+AT1188,RU002,Monument to A. D. Sakharov
+AT1189,RU002,Catherine Palace and Park
+AT1190,RU002,Smolny Cathedral
+AT1191,RU002,Nicholas Naval Cathedral of The Epiphany
+AT1192,RU003,Eagle's Nest Mount
+AT1193,RU003,Memorial to the Fighters for the Soviet Power in the Far East
+AT1194,RU003,Golden Bridge
+AT1195,RU003,Russky Bridge
+AT1196,RU003,Monument to Sailors
+AT1197,RU003,Railroad Terminal
+AT1198,RU003,Railway Station
+AT1199,RU003,Svetlanskaya Street
+AT1200,RU003,Monument of Cyril and Methodius/ Educators and creators of the Slavic alphabet
+AT1201,RU003,Lighthouse Egersheld
+AT1202,RU003,Funicular in Vladivostok
+AT1203,RU003,Explore Primorye
+AT1204,RU003,Railroad Square
+AT1205,RU004,Arboretum Park
+AT1206,RU004,Krasnaya Polyana Mountain Cluster
+AT1207,RU004,Riviera Park
+AT1208,RU004,Rosa Khutor Ski Resort
+AT1209,RU004,Olimpiyskiy Park
+AT1210,RU004,Sochi Discovery World Aquarium
+AT1211,RU004,Sochi Park
+AT1212,RU004,Skypark
+AT1213,RU004,Southern Cultures Park
+AT1214,RU004,Agura Waterfalls
+AT1215,RU004,The Observation Tower on Akhun Mountain
+AT1216,MO001,성 바울 성당 유적
+AT1217,MO001,베네시안 마카오 카지노
+AT1218,MO001,세나도 광장
+AT1219,MO001,하우스 오브 댄싱 워터
+AT1220,MO001,마카오 타워 컨벤션 & 엔터테인먼트 센터
+AT1221,MO001,마카오 박물관
+AT1222,MO001,몬테 요새
+AT1223,MO001,Skypark Macau Tower by AJ Hackett
+AT1224,MO001,윈 마카오
+AT1225,MO001,마카오 역사지구
+AT1226,MO001,A-Ma Temple (Ma Kok Miu)
+AT1227,MO001,마카오 피셔맨스 워프
+AT1228,MO001,Performance Lake at Wynn Palace
+AT1229,MY001,페트로나스 트윈 타워
+AT1230,MY001,센트럴 마켓 쿠알라룸푸르
+AT1231,MY001,쿠알라룸푸르 컨벤션 센터
+AT1232,MY001,리틀 인디아 - 쿠알라룸푸르
+AT1233,MY001,KLCC Park
+AT1234,MY001,파빌리온 KL
+AT1235,MY001,쿠알라룸푸르 버드 파크
+AT1236,MY001,GO KL City Bus
+AT1237,MY001,KLIA Ekspres
+AT1238,MY001,Kuala Lumpur Sentral Railway Station
+AT1239,MY001,부킷 빈탕
+AT1240,MY001,잘란 알로
+AT1241,MY001,Kuala Lumpur City Gallery
+AT1242,MY001,로열 슬랑고르
+AT1243,MY002,마누칸 섬
+AT1244,MY002,Kota Kinabalu City Mosque
+AT1245,MY002,Tanjung Aru Beach
+AT1246,MY002,Imago Shopping Mall
+AT1247,MY002,Mantanani Island
+AT1248,MY002,자스민 마사지
+AT1249,MY002,Sapi Island
+AT1250,MY002,I Love KK
+AT1251,MY002,Tanjung Aru Perdana Park
+AT1252,MY002,Tunku Abdul Rahman Marine Park
+AT1253,MY002,Jesselton Point
+AT1254,MY002,Signal Hill Observatory Platform
+AT1255,MY002,"Night Market, Kota Kinabalu"
+AT1256,MY002,Land Below The Wind
+AT1257,MY002,Poring Hot Springs
+AT1258,MY003,Panorama Langkawi SkyCab
+AT1259,MY003,랑카위 스카이 브리지
+AT1260,MY003,Eagle Square
+AT1261,MY003,Cenang Beach
+AT1262,MY003,Kilim Karst Geoforest Park
+AT1263,MY003,Tanjung Rhu Beach
+AT1264,MY003,Oriental Village
+AT1265,MY003,Langkawi Night Market
+AT1266,MY003,Fauna Flora Eco
+AT1267,MY003,Cenang Mall
+AT1268,MY003,Tengah Beach
+AT1269,MY003,Pulau Payar Marine Park
+AT1270,MY003,Dev's Adventure Tours
+AT1271,MY004,A Famosa Fort
+AT1272,MY004,Christ Church
+AT1273,MY004,Melaka Clock Tower
+AT1274,MY004,Malacca River
+AT1275,MY004,Villa Sentosa (Malay Living Museum)
+AT1276,MY004,존커 스트리트
+AT1277,MY004,The Huskitory
+AT1278,MY004,Hang Jebat Mausoleum
+AT1279,MY004,St. Paul's Hill & Church (Bukit St. Paul)
+AT1280,MY004,Pengkalan Balak Beach (Pantai Pengkalan Balak)
+AT1281,MY004,AEON Bandaraya Melaka Shopping Centre
+AT1282,MY004,Melaka Straits Mosque
+AT1283,MY004,Dataran Pahlawan Melaka Megamall
+AT1284,MY004,Melaka River Cruise
+AT1285,MY004,Pantai Klebang
+AT1286,MX001,Zocalo
+AT1287,MX001,국립 인류학 박물관
+AT1288,MX001,코요아칸
+AT1289,MX001,Paseo de la Reforma
+AT1290,MX001,마요르 사원 박물관
+AT1291,MX001,San Angel
+AT1292,MX001,Mercado De Artesanias La Ciudadela
+AT1293,MX001,Catedral Metropolitana de la Ciudad de México
+AT1294,MX001,차풀테펙 성
+AT1295,MX001,Mercado de San Juan
+AT1296,MX001,역사 지구
+AT1297,MX001,Basilica de Santa Maria de Guadalupe
+AT1298,MX001,프리다 칼로 박물관
+AT1299,MX001,La Merced
+AT1300,MX002,La Isla
+AT1301,MX002,Avenida Kukulkan
+AT1302,MX002,Playa Delfines
+AT1303,MX002,Happy Shuttle Cancun
+AT1304,MX002,Coco Bongo Cancun
+AT1305,MX002,Terminal Autobuses ADO
+AT1306,MX002,Entertainment Plus
+AT1307,MX002,Beto Avila Stadium
+AT1308,MX002,Plaza Las Americas
+AT1309,MX003,툴룸의 마야 유적지
+AT1310,MX003,Mayan Beach
+AT1311,MX003,OZ Adventures
+AT1312,MX003,Playa Paraiso
+AT1313,MX003,Gran Cenote
+AT1314,MX003,Laguna Kaan Luum
+AT1315,MN001,Zaisan Memorial
+AT1316,MN001,Gorkhi-Terelj National Park
+AT1317,MN001,Galleria Souvenir Store
+AT1318,MN001,Galleria Souvenir
+AT1319,MN001,Choijin Lama Temple Museum
+AT1320,MN001,Altai Bighorn Statue
+AT1321,MN001,Genghis Khan Square
+AT1322,MN001,The State Department Store
+AT1323,MN001,National History Museum
+AT1324,MN001,Genghis Khan Statue Complex
+AT1325,MN001,Dream Mongolia Tours
+AT1326,MN001,Lotus Thai Massage
+AT1327,MN001,Galleria Ulaanbaatar
+AT1328,MN001,Hustai National Park
+AT1329,US001,메트로폴리탄 미술관
+AT1330,US001,록펠러 센터 전망대
+AT1331,US001,센트럴 파크
+AT1332,US001,타임 스퀘어
+AT1333,US001,엠파이어 스테이트 빌딩
+AT1334,US001,뉴욕 공공 도서관
+AT1335,US001,브로드웨이
+AT1336,US001,하이 라인
+AT1337,US001,브라이언트 파크
+AT1338,US001,그랜드 센트럴 터미널
+AT1339,US001,현대 미술관
+AT1340,US001,자유의 여신상
+AT1341,US001,록펠러 센터
+AT1342,US001,5번가
+AT1343,US001,One World Observatory
+AT1344,US002,금문교
+AT1345,US002,샌프란시스코 베이
+AT1346,US002,케이블 카
+AT1347,US002,트윈 픽스
+AT1348,US002,샌프란시스코 현대 미술관
+AT1349,US002,샌프란시스코 시청
+AT1350,US002,샌프란시스코 베이 브리지
+AT1351,US002,Lombard Street
+AT1352,US002,피어 39
+AT1353,US002,알카트라즈
+AT1354,US002,케이블 카 박물관
+AT1355,US002,피셔맨즈 워프
+AT1356,US002,Mission Dolores Park
+AT1357,US002,코이트 타워
+AT1358,US002,유니언 스퀘어
+AT1359,US004,라스베이거스 프리미엄 아울렛
+AT1360,US004,The Strip
+AT1361,US004,Vegas Rockstar VIP
+AT1362,US004,Welcome to Fabulous Las Vegas Sign
+AT1363,US004,The Spa at Vdara
+AT1364,US004,The Grand Canal Shoppes at The Venetian Resort
+AT1365,US004,라스베가스 다운타운
+AT1366,US004,Paris Las Vegas
+AT1367,US004,Fremont Street Experience
+AT1368,US004,스트래토스피어 타워
+AT1369,US004,"Purple Reign, THE Prince Tribute Show!"
+AT1370,US004,Circus Circus Adventuredome Theme Park
+AT1371,MM001,Yangon Central Railway Station
+AT1372,MM001,쉐다곤 파고다
+AT1373,MM001,Sule Pagoda
+AT1374,MM001,Yangon Circular Train
+AT1375,MM001,Botahtaung Pagoda
+AT1376,MM001,Bogyoke Aung San Market
+AT1377,MM001,Myanmar Plaza Shopping Center
+AT1378,MM001,Immaculate Conception Cathedral
+AT1379,MM001,The Rangoon War Cemetery
+AT1380,MM001,JJ Express
+AT1381,MM001,Maha Bandula Park
+AT1382,MM001,Junction Square
+AT1383,MM001,Yangon Chinatown
+AT1384,MM001,Inya Lake
+AT1385,MM001,Hledan Centre
+AT1386,MM002,Mandalay Hill
+AT1387,MM002,Kuthodaw Pagoda & the World's Largest Book
+AT1388,MM002,미하무니 파고다
+AT1389,MM002,황금 궁전 수도원 (쉐난도 짜웅)
+AT1390,MM002,Sanda Muni Paya
+AT1391,MM002,Health Center Thai Massage
+AT1392,MM002,Mandalay Palace
+AT1393,MM002,Mandalay Fort
+AT1394,MM002,Kyauk Taw Gyi Pagoda
+AT1395,MM002,Pahtodawgyi
+AT1396,MM003,바간의 사원들
+AT1397,MM003,아난다 사원
+AT1398,MM003,쉐산도 파고다
+AT1399,MM003,Sulamani Guphaya Temple
+AT1400,MM003,쉐지곤 파야
+AT1401,MM003,Dhammayangyi Temple
+AT1402,MM003,Htilominlo Pahto
+AT1403,MM003,Thatbyinnyu Temple
+AT1404,MM003,Oriental Ballooning Bagan
+AT1405,MM003,Bagan Viewing Tower
+AT1406,MM003,Shwe-gyu-gyi
+AT1407,MM003,Buphaya Paya
+AT1408,MM003,Bagan Archaeological Museum
+AT1409,MM003,Jasmine Family Lacquerware Workshop
+AT1410,VN002,하노이 구시가
+AT1411,VN002,호안 끼엠 호수
+AT1412,VN002,LA Spa Trendy
+AT1413,VN002,Mido Spa
+AT1414,VN002,Serene Spa
+AT1415,VN002,La Belle Vie Spa
+AT1416,VN002,Hanoi Labelle Vie Spa
+AT1417,VN002,Mido Spa 1
+AT1418,VN002,Estheva Spa
+AT1419,VN002,L'essence Spa
+AT1420,VN002,Dragonfly Cruise
+AT1421,VN002,Midori Spa
+AT1422,VN002,호치민의 묘
+AT1423,VN002,Midori Spa 3
+AT1424,VN003,Dragon Bridge
+AT1425,VN003,Herbal Spa
+AT1426,VN003,다 낭 비치
+AT1427,VN003,Ba Na Hills
+AT1428,VN003,Lady Buddha
+AT1429,VN003,Dahan Spa Danang
+AT1430,VN003,Tabalo Outdoor
+AT1431,VN003,Panda Spa
+AT1432,VN003,My Khe Beach
+AT1433,VN003,NIRVA SPA
+AT1434,VN003,라스파
+AT1435,VN003,Da Nang Aodai Ridertour
+AT1436,ES001,구엘 공원
+AT1437,ES001,Spotify Camp Nou
+AT1438,ES001,몬주익 공원
+AT1439,ES001,고딕 지구 (바리 고틱)
+AT1440,ES001,Barcelona Cathedral
+AT1441,ES001,Aerobús
+AT1442,ES001,Parc d’Atraccions Tibidabo
+AT1443,ES001,카탈루냐 국립 미술관 - MNAC
+AT1444,ES001,Plaza de Catalunya
+AT1445,ES001,그라시아 거리
+AT1446,ES001,까딸라나 음악당
+AT1447,ES001,보케리아 시장
+AT1448,ES001,MUHBA Turó de la Rovira
+AT1449,ES002,프라도 박물관
+AT1450,ES002,Puerta del Sol
+AT1451,ES002,마드리드 왕궁
+AT1452,ES002,Santiago Bernabeu Stadium
+AT1453,ES002,Gran Via
+AT1454,ES002,Plaza de Cibeles
+AT1455,ES002,레티로 파크 (파르 델 레티로)
+AT1456,ES002,Palacio de Cibeles
+AT1457,ES002,Plaza Mayor
+AT1458,ES002,Templo de Debod
+AT1459,ES002,Estacion de Atocha
+AT1460,ES002,Madrid Metro
+AT1461,ES002,티센-보르네밋사 박물관
+AT1462,ES002,소피아 여왕 예술 센터
+AT1463,ES002,Catedral de Sta Maria la Real de la Almudena
+AT1464,ES003,Plaza Mayor
+AT1465,ES003,스페인 광장
+AT1466,ES003,세비야 대성당 (카테드랄 데 세비야)
+AT1467,ES003,Torre Giralda
+AT1468,ES003,알카사르
+AT1469,ES003,Centro Historico de Sevilla
+AT1470,ES003,Setas de Sevilla (Metropol Parasol)
+AT1471,ES003,Barrio Santa Cruz
+AT1472,ES003,마리아 루이사 공원
+AT1473,ES003,Torre del Oro
+AT1474,ES003,Iglesia Colegial del Salvador
+AT1475,ES003,Museo del Baile Flamenco
+AT1476,ES003,Plaza Nueva
+AT1477,ES003,Plaza del Triunfo
+AT1478,ES004,Ciudad de las Artes y las Ciencias
+AT1479,ES004,Oceanogràfic València
+AT1480,ES004,Central Market of Valencia
+AT1481,ES004,Valencia Cathedral
+AT1482,ES004,Estació del Nord
+AT1483,ES004,Miguelete
+AT1484,ES004,Plaza del Ayuntamiento
+AT1485,ES004,Plaza del Mercado (Placa del Mercat)
+AT1486,ES004,Museu Faller de València
+AT1487,ES004,La Lonja de la Seda
+AT1488,ES004,Segway Anyway Valencia
+AT1489,ES004,Rent Bike Virgen
+AT1490,ES004,Puerto de Valencia
+AT1491,ES004,Torres de Serranos
+AT1492,SI001,블레드 성
+AT1493,SI001,Lake Bled
+AT1494,SI001,Bled Island
+AT1495,SI001,성모 승천 교회
+AT1496,SI001,Mamut Slovenija
+AT1497,SI001,Straza Bled
+AT1498,SI001,Triglav National Park
+AT1499,SI001,Zipline Dolinka
+AT1500,SI001,3glav Adventures
+AT1501,SI002,The Ljubljana Castle
+AT1502,SI002,프레세렌 광장
+AT1503,SI002,River Ljubljanica Kanal
+AT1504,SI002,삼중교 (트로모스토브예)
+AT1505,SI002,Cankarjevo Nabrežje
+AT1506,SI002,Ljubljana Free Tour
+AT1507,SI002,Franciscan Church (Frančiškanska cerkev)
+AT1508,SI002,Skyscraper (Nebotičnik)
+AT1509,SI002,성 니콜라스 대성당
+AT1510,SI002,Ljubljana Old Town
+AT1511,SI002,Town Hall (Magistrat)
+AT1512,SI002,용의 다리 (즈마이스키 모스트)
+AT1513,SI002,Tivoli Park
+AT1514,SI002,Shoemaker's Bridge (Cevljarski Most)
+AT1515,SI002,Vodnik Square (Vodnikov trg)
+AT1516,SI003,Piran Town Walls
+AT1517,SI003,Church of St. George (Cerkev sv. Jurija) in Piran
+AT1518,SI003,타르티니 광장
+AT1519,SI003,Port Piran
+AT1520,SI003,First of May Square
+AT1521,SI003,Church of St. Francis of Assisi
+AT1522,SI003,Town Hall
+AT1523,SG001,가든즈 바이 더 베이
+AT1524,SG001,유니버셜 스튜디오 싱가포르
+AT1525,SG001,마리나 베이
+AT1526,SG001,싱가포르 케이블 카
+AT1527,SG001,차이나 타운
+AT1528,SG001,싱가포르 식물원
+AT1529,SG001,싱가포르 동물원
+AT1530,SG001,머라이언 공원
+AT1531,SG001,싱가포르 플라이어
+AT1532,SG001,오차드 로드
+AT1533,SG001,Cloud Forest
+AT1534,SG001,싱가포르 국립 박물관
+AT1535,SG001,Singapore Mass Rapid Transit (SMRT)
+AT1536,SG001,싱가포르 국립 도서관
+AT1537,SG001,싱가포르 시티 갤러리
+AT1538,GB001,런던아이
+AT1539,GB001,대영 박물관
+AT1540,GB001,국립 미술관
+AT1541,GB001,런던 지하철
+AT1542,GB001,빅 벤
+AT1543,GB001,버킹엄 궁전
+AT1544,GB001,런던 자연사 박물관
+AT1545,GB001,타워 브리지
+AT1546,GB001,런던 타워
+AT1547,GB001,Sky Garden
+AT1548,GB001,하이드 파크
+AT1549,GB001,하이드 파크
+AT1550,GB001,The View from The Shard
+AT1551,GB001,피카딜리 서커스
+AT1552,GB001,빅토리아 앨버트 박물관
+AT1553,GB001,Borough Market
+AT1554,AU001,하이드 파크
+AT1555,AU001,하이드 파크
+AT1556,AU001,시드니 오페라 하우스
+AT1557,AU001,시드니 하버
+AT1558,AU001,시드니 하버 브리지
+AT1559,AU001,시드니 아쿠아리움
+AT1560,AU001,시드니 페리
+AT1561,AU001,시드니 천문대
+AT1562,AU001,시드니 타워 아이 & 스카이워크
+AT1563,AU001,서큘러 키
+AT1564,AU001,본다이 비치
+AT1565,AU001,맨리 비치
+AT1566,AU001,퀸 빅토리아 빌딩 (QVB)
+AT1567,AU001,왓슨스 베이
+AT1568,AU001,더 록스
+AT1569,AU001,달링 하버
+AT1570,GB002,에든버러 성
+AT1571,GB002,로열 마일
+AT1572,GB002,Calton Hill
+AT1573,GB002,Scott Monument
+AT1574,GB002,Edinburgh Old Town
+AT1575,GB002,프린세스 스트리트 가든
+AT1576,GB002,Castle Rock
+AT1577,GB002,The Royal Edinburgh Military Tattoo
+AT1578,GB002,Grassmarket
+AT1579,GB002,홀리루드 파크
+AT1580,GB002,Edinburgh Waverley Station
+AT1581,GB002,Palace of Holyroodhouse
+AT1582,GB002,The Great Hall
+AT1583,GB002,St. Margaret's Chapel
+AT1584,GB002,The Edinburgh Dungeon
+AT1585,GB003,Old Trafford
+AT1586,GB003,Etihad Stadium
+AT1587,GB003,National Football Museum
+AT1588,GB003,The John Rylands Library
+AT1589,GB003,Manchester Metrolink
+AT1590,GB003,Victoria Station
+AT1591,GB003,Science and Industry Museum
+AT1592,GB003,Arndale Market
+AT1593,GB003,Chinatown
+AT1594,GB004,The River Cam
+AT1595,GB004,Fitzwilliam Museum
+AT1596,GB004,하버드 대학교
+AT1597,GB004,매사추세츠 공과 대학교
+AT1598,GB004,Galt
+AT1599,GB004,하버드 광장
+AT1600,GB004,하버드 자연사 박물관
+AT1601,GB004,Salt Fork State Park
+AT1602,GB004,University of Cambridge
+AT1603,GB004,Cambridge Butterfly Conservatory
+AT1604,GB004,Hamilton Family Theatre Cambridge
+AT1605,GB004,Cambridge to Paris Rail Trail
+AT1606,GB004,The Cambridge Gin Laboratory
+AT1607,GB004,찰스 리버
+AT1608,AU002,유레카 스카이덱 88
+AT1609,AU002,시티 서클 트램
+AT1610,AU002,플린더스 스트리트 역
+AT1611,AU002,야라 강
+AT1612,AU002,멜버른 박물관
+AT1613,AU002,세이트 패트릭 대성당
+AT1614,AU002,Degraves Street
+AT1615,AU002,멜버른 전쟁 기념관
+AT1616,AU002,구 멜버른 감옥
+AT1617,AU002,멜버른 왕립 식물원
+AT1618,AU002,블록 아케이드
+AT1619,AU002,Southbank
+AT1620,AU002,피츠로이 정원
+AT1621,AU002,Collins Street
+AT1622,AU003,브리즈번 강
+AT1623,AU003,마운트 쿠사 전망대
+AT1624,AU003,사우스 뱅크 파크랜드
+AT1625,AU003,휠 오브 브리즈번
+AT1626,AU003,시티캣 페리
+AT1627,AU003,브리즈번 식물원
+AT1628,AU003,City Hopper
+AT1629,AU003,론 파인 코알라 보호 구역
+AT1630,AU003,브리즈번 박물관
+AT1631,AU003,City Hall
+AT1632,AU003,스토리 브리지
+AT1633,AU003,Brisbane Greeters
+AT1634,AU003,Eat Street Northshore
+AT1635,AU003,Kangaroo Point Cliffs Park
+AT1636,AU003,Anzac Square & Memorial Galleries
+AT1637,AU004,Esplanade Boardwalk
+AT1638,AU004,Kuranda Scenic Railway
+AT1639,AU004,Cairns Aquarium
+AT1640,AU004,Northern Experience Eco Tours
+AT1641,AU004,Reef Magic Cruises
+AT1642,AU004,Cairns Esplanade Lagoon
+AT1643,AU004,Rusty's Market
+AT1644,AU004,Josephine Falls
+AT1645,AU004,Cairns Botanic Gardens
+AT1646,AU004,Great Barrier Reef
+AT1647,AU004,Down Under Cruise & Dive
+AT1648,AU004,Green Island
+AT1649,AU004,Night Markets
+AT1650,AU004,Divers Den
+AT1651,IN001,게이트웨이 오브 인디아
+AT1652,IN001,차트라바띠 시와지 역
+AT1653,IN001,마린 드라이브
+AT1654,IN001,Bandra-Worli Sea Link
+AT1655,IN001,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
+AT1656,IN001,Powai Lake
+AT1657,IN001,Hanging Gardens
+AT1658,IN001,High Street Phoenix
+AT1659,IN001,High Court Principal Bench Bombay
+AT1660,IN001,Sanjay Gandhi National Park
+AT1661,IN001,Juhu Beach
+AT1662,IN001,WOB India Tours
+AT1663,IN001,St. Thomas Cathedral Mumbai
+AT1664,IN001,시바지 공원
+AT1665,IN002,꾸뜹 미나르
+AT1666,IN002,인디아 게이트
+AT1667,IN002,Delhi Airport Metro Express
+AT1668,IN002,후마윤의 묘
+AT1669,IN002,Connaught Place
+AT1670,IN002,Driver India Private Tours
+AT1671,IN002,대통령 관저 (라파티 바반)
+AT1672,IN002,Classic Golf Resort
+AT1673,IN002,하우즈 카스 빌리지
+AT1674,IN002,North India Private Driver
+AT1675,IN002,잔타르 만타르 - 델리
+AT1676,IN002,찬드니 초크
+AT1677,IN002,붉은 요새 (랄 킬라)
+AT1678,IN002,Private India Tour Advisor
+AT1679,IN003,아그라 요새
+AT1680,IN003,타지마할
+AT1681,IN003,Raj Travels India
+AT1682,IN003,Sheesh Mahal
+AT1683,IN003,City of love boat tour
+AT1684,IN003,Ashok Cosmos Mall
+AT1685,IN003,이티마드 우드 다울라
+AT1686,IN004,안 벨성
+AT1687,IN004,바람의 궁전 (하와 마할)
+AT1688,IN004,자이푸르 시티 팰리스
+AT1689,IN004,Sunny Tour Travels
+AT1690,IN004,Jaigarh Fort
+AT1691,IN004,Unique Jaipur Tour
+AT1692,IN004,Easy Peasy Tours
+AT1693,IN004,Nahargarh Fort
+AT1694,IN004,Namaste Jaipur Tours
+AT1695,IN004,자이푸르 잔타르 만타르
+AT1696,IN004,Kerala Ayurveda Kendra
+AT1697,IN004,Jaipur Zoo
+AT1698,ID001,워터밤 발리
+AT1699,ID001,발리 컬렉션
+AT1700,ID001,Kuta Beach - Bali
+AT1701,ID001,발리 고급 스파 & 한국 식당 로즈힐
+AT1702,ID001,UP2U 서프 스쿨 발리
+AT1703,ID001,Bali SUN Tours
+AT1704,ID001,Bali Swing
+AT1705,ID001,몽키 포레스트
+AT1706,ID001,몰 발리 갤러리아
+AT1707,ID001,The Care Day Spa
+AT1708,ID001,Nusa Bali Spa
+AT1709,ID001,Zahra Spa
+AT1710,ID001,띠르따 엠풀 사원
+AT1711,ID001,Bhava Spa Kuta
+AT1712,ID001,Karsa Spa
+AT1713,ID002,Braga Street
+AT1714,ID002,Jalan Asia Afrika
+AT1715,ID002,Bandung Grand Mosque
+AT1716,ID002,Bandung City Square
+AT1717,ID002,Ciater Hot Spring
+AT1718,ID002,Trans Studio Bandung
+AT1719,ID002,Ola Family Spa & Reflexology
+AT1720,ID002,Rumah Mode Factory Outlet
+AT1721,ID002,Trans Studio Mall
+AT1722,ID002,Amazing Art World
+AT1723,ID002,Sudirman Street
+AT1724,ID003,자카르타 대성당
+AT1725,ID003,모나스
+AT1726,ID003,Grand Indonesia Mall
+AT1727,ID003,이스티크랄 모스크 (이스티크랄 사원)
+AT1728,ID003,Gambir Train Station
+AT1729,ID003,Jakarta Old Town
+AT1730,ID003,스리부 섬 (천개의 섬)
+AT1731,ID003,Ragunan Zoo
+AT1732,ID003,타만 미니 인도네시아 인다
+AT1733,ID003,안촐 유원지
+AT1734,ID003,Taman Anggrek Mall
+AT1735,ID003,국립 박물관
+AT1736,ID003,Plaza Indonesia
+AT1737,ID003,Pondok Indah Water Park
+AT1738,ID003,차이나타운
+AT1739,JP001,도쿄 타워
+AT1740,JP001,오다이바
+AT1741,JP001,에도-도쿄 박물관
+AT1742,JP001,도쿄역
+AT1743,JP001,모리 타워
+AT1744,JP001,도쿄 스카이 트리
+AT1745,JP001,도쿄돔
+AT1746,JP001,도쿄 국립 박물관
+AT1747,JP001,도쿄 도청
+AT1748,JP001,Tokyo Metropolitan Government Building Observation Decks
+AT1749,JP001,아사쿠사
+AT1750,JP001,긴자 환락가
+AT1751,JP001,도쿄 돔 시티
+AT1752,JP002,도톤보리
+AT1753,JP002,유니버셜 스튜디오 재팬
+AT1754,JP002,우메다 스카이 빌딩 - 공중 정원 전망대
+AT1755,JP002,오사카 성
+AT1756,JP002,신사이바시
+AT1757,JP002,쿠로몬 시장
+AT1758,JP002,Osaka Kale Parkı
+AT1759,JP002,HEP FIVE 관람차
+AT1760,JP002,오사카 생활 박물관
+AT1761,JP002,텐포잔 대관람차
+AT1762,JP002,키즈 플라자 오사카
+AT1763,JP002,오사카 시립 동양 도자 미술관
+AT1764,JP002,Akiba Kart Osaka
+AT1765,JP002,오사카 텐만구
+AT1766,JP002,오사카 역사 박물관
+AT1767,JP003,금각사
+AT1768,JP003,후시미 이나리 신사
+AT1769,JP003,Kiyomizu-dera
+AT1770,JP003,은각사
+AT1771,JP003,교토역 빌딩
+AT1772,JP003,교토 타워
+AT1773,JP003,교토 니시키 시장
+AT1774,JP003,Gion
+AT1775,JP003,Arashiyama
+AT1776,JP003,교토 식물원
+AT1777,JP003,교토 궁전
+AT1778,JP003,Nijo Kalesi
+AT1779,JP003,산넨자카 니넨자카
+AT1780,JP003,에이칸도
+AT1781,JP003,산젠
+AT1782,JP004,JR 타워 전망대 T38
+AT1783,JP004,Odori Park
+AT1784,JP004,Susukino
+AT1785,JP004,Sapporo Beer Museum
+AT1786,JP004,삿포로 오쿠라야마 전망대
+AT1787,JP004,Sapporo TV Tower
+AT1788,JP004,홋카이도 대학 삿포로 캠퍼스
+AT1789,JP004,Clock Tower (Tokei-dai)
+AT1790,JP004,Mt. Moiwa
+AT1791,JP004,Sapporo Underground Pedestrian Space
+AT1792,JP004,Sapporo City Transportation (Tram)
+AT1793,JP004,Former Hokkaido Government Office Building
+AT1794,JP004,Sapporo Snow Festival
+AT1795,CN001,상하이의 와이탄 (와이탄)
+AT1796,CN001,신천지
+AT1797,CN001,번드 인터내셔널 아키텍처 익스히비션
+AT1798,CN001,Shanghai Urban Planning Exhibition Hall
+AT1799,CN001,Shanghai Metro
+AT1800,CN001,상하이 세계 금융 센터
+AT1801,CN001,상하이 역사 박물관
+AT1802,CN001,Pudong New Area
+AT1803,CN001,상하이 박물관
+AT1804,CN001,중국 고속 철도
+AT1805,CN001,난징로드
+AT1806,CN001,상하이 서커스 월드
+AT1807,CN001,Former French Concession
+AT1808,CN001,상해 대한민국 임시정부 유적지
+AT1809,CN002,만리장성
+AT1810,CN002,이화원
+AT1811,CN002,천안문
+AT1812,CN002,The Great Wall at Badaling
+AT1813,CN002,Wangfujing Street
+AT1814,CN002,Beijing Subway
+AT1815,CN002,천단 (티엔탄 공원)
+AT1816,CN002,경산 공원 (잉샨 꽁위엔)
+AT1817,CN002,천안문 광장
+AT1818,CN002,고궁 박물관
+AT1819,CN002,Beijing Tour Guide
+AT1820,CN002,Hall of Great Harmony (Taihe Dian)
+AT1821,CN002,Beijing Walking Tours
+AT1822,CN002,이화원 장랑
+AT1823,CN002,798 아트 존
+AT1824,CN003,Canton Tower
+AT1825,CN003,Shamian Island
+AT1826,CN003,Guangzhou Metro
+AT1827,CN003,Huaisheng Mosque
+AT1828,CN003,Museum of the Western Han Dynasty Mausoleum of the Nanyue King
+AT1829,CN003,Sacred Heart Cathedral
+AT1830,CN003,Beijing Road Ancient Avenue
+AT1831,CN003,Beijing Road Shopping District
+AT1832,CN003,Pearl River (Zhujiang)
+AT1833,CN003,Guangdong Museum of Art
+AT1834,CN003,Party Pier
+AT1835,CN003,Xiaogang park
+AT1836,CN003,Guangdong Museum
+AT1837,CN003,Baiyun Mountain
+AT1838,CN004,West Lake (Xi Hu)
+AT1839,CN004,Hangzhou Songcheng
+AT1840,CN004,QingHeFang
+AT1841,CN004,Fei Lai Feng
+AT1842,CN004,Pagoda of Six Harmonies
+AT1843,CN004,Xixi Wetland Park
+AT1844,CN004,Ping Hu Qiu Yue
+AT1845,CN004,National Tea Museum
+AT1846,CN004,Hangzhou Chenghuang Pagoda
+AT1847,CN004,River square Shopping Street
+AT1848,CN004,Gu Shan (Solitary Hill)
+AT1849,CN004,Three Pools Mirroring the Moon
+AT1850,CN004,China National Silk Museum
+AT1851,KH001,Pub Street
+AT1852,KH001,Lucky Mall Siem Reap
+AT1853,KH001,보디아 스파 시엠립
+AT1854,KH001,Siem Reap Shuttle Tours
+AT1855,KH001,Thai Zen Spa
+AT1856,KH001,Mudita Spa
+AT1857,KH001,ArtBox
+AT1858,KH001,Psar Chaa - Old Market
+AT1859,KH001,Heng Transport Service
+AT1860,KH001,Helicopters Cambodia
+AT1861,KH001,Chong Kneas Floating Village
+AT1862,KH001,프놈 바켕
+AT1863,KH001,반테아이 스레이
+AT1864,KH001,Srah Srang
+AT1865,KH001,Cambodia Private Taxi Driver
+AT1866,KH002,프놈펜 독립 기념탑
+AT1867,KH002,Angkor Spa
+AT1868,KH002,뚜얼 슬렝 대량학살 박물관
+AT1869,KH002,왓 프놈
+AT1870,KH002,Aeon Mall
+AT1871,KH002,Soma Spa
+AT1872,KH002,중앙 시장
+AT1873,KH002,로얄 팰리스
+AT1874,KH002,킬링 필드 (청아익)
+AT1875,KH002,나가월드 카지노
+AT1876,KH002,Kuntheak Spa
+AT1877,KH002,Russian Market
+AT1878,KH002,보디아 스파 프놈펜
+AT1879,KH002,Phnom Tamao Wildlife Rescue Center
+AT1880,KH002,실버 파고다
+AT1881,KH003,Golden Lion Gym
+AT1882,KH003,Otres Beach
+AT1883,KH003,Ochheuteal Beach
+AT1884,KH003,Saracen Bay Beach
+AT1885,KH003,Buddy Land Water Park
+AT1886,KH003,Red Shark Charter
+AT1887,KH003,Serendipity Beach
+AT1888,KH003,Independence Beach
+AT1889,KH003,Unique Spa
+AT1890,KH003,Jasmine Spa
+AT1891,KH003,Scuba Nation Diving Centre
+AT1892,KH003,Kbal Chhay Waterfall
+AT1893,KH003,The Party Boat
+AT1894,KH003,Queenco Fitness Club and Spa
+AT1895,KH004,Phnom Chhngok Cave Temple
+AT1896,KH004,Butterfly Tours
+AT1897,KH004,La Plantation
+AT1898,KH004,Bokor National Park
+AT1899,KH004,Climbodia
+AT1900,KH004,Golden Hands Massage & Spa
+AT1901,KH004,SUP Asia
+AT1902,KH004,Old Catholic Church
+AT1903,KH004,Kampot-Kep Tuk Tuk-Taxi Drivers
+AT1904,KH004,Rany - The TukTuk Driver in Kampot and Kep
+AT1905,KH004,Bokor Hill Station
+AT1906,KH004,Popokvil Waterfall
+AT1907,KH004,Bokor Mountain
+AT1908,KH004,Arcadia Waterpark
+AT1909,KH004,Teuk Chhou Rapids
+AT1910,CA001,토론토 아일랜드 파크
+AT1911,CA001,Hockey Hall of Fame
+AT1912,CA001,Toronto City Hall
+AT1913,CA001,Toronto Zoo
+AT1914,CA001,로열 온타리오 박물관
+AT1915,CA002,밴쿠버 아쿠아리움
+AT1916,CA002,밴쿠버 전망대
+AT1917,CA002,밴쿠버 다운타운
+AT1918,CA002,밴쿠버 공공 도서관
+AT1919,CA002,스탠리 파크
+AT1920,CA002,스카이 트레인
+AT1921,CA002,퀸 엘리자베스 공원
+AT1922,CA002,잉글리시 베이
+AT1923,CA002,그라우스 마운틴
+AT1924,CA002,개스타운
+AT1925,CA002,False Creek
+AT1926,CA002,아쿠아버스 페리
+AT1927,CA002,캐나다 플레이스
+AT1928,CA002,키칠라노 비치
+AT1929,CA002,그랜빌 아일랜드
+AT1930,CA003,Old Montreal
+AT1931,CA003,마운트 로얄
+AT1932,CA003,몬트리올 미술관 (Musee des Beaux-Arts)
+AT1933,CA003,노트르담 성당 (바질리키 노트르 - 담)
+AT1934,CA003,Old Port of Montreal
+AT1935,CA003,성 요셉 대성당
+AT1936,CA003,VIA Rail Canada Montreal Station
+AT1937,CA003,Place des Arts
+AT1938,CA003,Jean-Talon Market
+AT1939,CA003,Montreal Botanical Garden
+AT1940,CA003,Parc Jean-Drapeau
+AT1941,CA003,McGill University
+AT1942,CA003,Notre-Dame-de-Bon-Secours Chapel
+AT1943,CA003,Chalet Du Mont Royal
+AT1944,CA003,Underground City
+AT1945,TH001,BTS 스카이트레인
+AT1946,TH001,석가모니 열반상이 있는 사원 (왓 포)
+AT1947,TH001,카오산 로드
+AT1948,TH001,왕궁
+AT1949,TH001,Chatuchak Weekend Market
+AT1950,TH001,시암 파라곤
+AT1951,TH001,에메랄드 사원 (왓 프라깨우)
+AT1952,TH001,Asiatique The Riverfront
+AT1953,TH001,룸피니 공원
+AT1954,TH001,짐 톰슨 하우스
+AT1955,TH001,Airport Rail Link
+AT1956,TH001,차오프라야 강
+AT1957,TH001,새벽 사원 (왓 아룬)
+AT1958,TH001,Retreat on VITAYU
+AT1959,TH001,방콕 문화 예술 센터
+AT1960,TH002,Banana Beach
+AT1961,TH002,푸켓 빅 부다
+AT1962,TH002,오리엔탈 드 푸켓
+AT1963,TH002,푸켓 사이먼 쇼
+AT1964,TH002,방라 로드
+AT1965,TH002,Patong Beach
+AT1966,TH002,정실론
+AT1967,TH002,왓찰롱
+AT1968,TH002,카타 비치
+AT1969,TH002,일요일 산책로 시장(랏야이)
+AT1970,TH002,Nai Harn Beach
+AT1971,TH002,Old Phuket Town
+AT1972,TH002,Freedom Beach
+AT1973,TH003,Night Bazaar
+AT1974,TH003,왓 체디 루앙
+AT1975,TH003,Wat Phra Singh
+AT1976,TH003,Wat Phra That Doi Kham (Temple of the Golden Mountain)
+AT1977,TH003,기빙트리
+AT1978,TH003,Tha Phae Gate
+AT1979,TH003,Anantara Spa
+AT1980,TH003,Zira Spa
+AT1981,TH003,Zabb E Lee Thai Cooking School Chiangmai By Anne
+AT1982,TH003,Maya Lifestyle Shopping Center
+AT1983,TH003,Old Chiangmai Cultural Center
+AT1984,TH004,워킹 스트리트 파타야
+AT1985,TH004,파타야 비치
+AT1986,TH004,파타야 수상 시장
+AT1987,TH004,CentralFestival Pattaya Beach
+AT1988,TH004,엘리펀트 빌리지 파타야
+AT1989,TH004,진리의 성전
+AT1990,TH004,Koh Larn
+AT1991,TH004,Grace Spa
+AT1992,TH004,좀티엔 비치
+AT1993,TH004,빅 부다
+AT1994,TH004,Airport Pattaya Bus
+AT1995,TH004,Beach road
+AT1996,TH004,파타야 워터 파크
+AT1997,TR001,Aya Sofya Müzesi / Kilisesi
+AT1998,TR001,이스탄불 역사 지구
+AT1999,TR001,술탄아흐메트 지구
+AT2000,TR001,블루 모스크 (술탄 아흐멧 모스크)
+AT2001,TR001,이스탄불 현대 미술관
+AT2002,TR001,지하 궁전
+AT2003,TR001,쉴레이마니예 모스크
+AT2004,TR001,갈라타 타워
+AT2005,TR001,보스포루스 해협
+AT2006,TR001,굴하네 파크
+AT2007,TR001,루멜리 성채
+AT2008,TR001,톱카프 궁전
+AT2009,TR001,돌마바흐체 궁전
+AT2010,TR001,Sultanahmet Square
+AT2011,TR001,이스티크랄 거리
+AT2012,TR002,괴레메 야외 박물관
+AT2013,TR002,괴레메 국립 공원
+AT2014,TR002,Fairy Chimneys
+AT2015,TR002,Sunset Point
+AT2016,TR002,피존 밸리
+AT2017,TR002,Love Valley
+AT2018,TR002,Goreme Panorama
+AT2019,TR002,로즈 밸리
+AT2020,TR002,Camel Rock
+AT2021,TR002,Rose Valley
+AT2022,TR002,Cappadocia Life Travel
+AT2023,TR002,Village Dowry Carpets - Cappadocia
+AT2024,PH001,화이트 비치
+AT2025,PH001,D'Mall
+AT2026,PH001,Red Whale Boracay
+AT2027,PH001,Crystal Cove Island
+AT2028,PH001,루호산
+AT2029,PH001,윌리스 록
+AT2030,PH001,불라복 비치
+AT2031,PH001,Fisheye Divers
+AT2032,PH001,야팍 비치
+AT2033,PH001,Funfun Boracay
+AT2034,PH001,디니위드 비치
+AT2035,PH001,iSite Boracay
+AT2036,PH001,WaterColors Boracay Diving Adventures
+AT2037,PH001,티르타 스파
+AT2038,PH002,마닐라 베이
+AT2039,PH002,마닐라 오션 파크
+AT2040,PH002,마닐라 대성당
+AT2041,PH002,인트라무로스
+AT2042,PH002,산 아구스틴 교회
+AT2043,PH002,SM Mall of Asia
+AT2044,PH002,산티아고 요새
+AT2045,PH002,리살 공원
+AT2046,PH002,Bonifacio Global City
+AT2047,PH002,Malate District
+AT2048,PH002,Venice Grand Canal Mall
+AT2049,PH002,산 아구스틴 박물관
+AT2050,PH002,Roxas Boulevard
+AT2051,PH002,그린벨트 파크
+AT2052,PH002,아얄라 박물관
+AT2053,PH004,그린벨트 파크
+AT2054,PH004,아얄라 박물관
+AT2055,PH004,Ayala Triangle Gardens
+AT2056,PH004,Ayala Center
+AT2057,PH004,Greenbelt Mall
+AT2058,PH004,Caracol Festival
+AT2059,PH004,P Burgos Street
+AT2060,PH004,Asian Massage
+AT2061,PH004,Museo Ng Makati
+AT2062,PH004,I'M Onsen Spa
+AT2063,PH003,Ayala Center Cebu
+AT2064,PH003,Santo Nino Bazilikası
+AT2065,PH003,Tops Lookout
+AT2066,PH003,Gold Moon Spa
+AT2067,PH003,Taoist Temple
+AT2068,PH003,Fort San Pedro
+AT2069,PH003,Magellan's Cross
+AT2070,PH003,SM City Cebu
+AT2071,PH003,Marcelo Fernan Bridge
+AT2072,PH003,Oslob Whale Sharks
+AT2073,PH003,Lapu Lapu Statue
+AT2074,PH003,Cebu Top
+AT2075,PH003,Osmena Peak
+AT2076,PH003,Nature Wellness Massage & Spa
+AT2077,PH003,카라스파
+AT2078,HK001,빅토리아 피크
+AT2079,HK001,스타 페리
+AT2080,HK001,홍콩 디즈니랜드
+AT2081,HK001,피크 트램
+AT2082,HK001,MTR
+AT2083,HK001,침사추이 산책로
+AT2084,HK001,미드 레벨 에스컬레이터
+AT2085,HK001,홍콩 스카이라인
+AT2086,HK001,Airport Express
+AT2087,HK001,몽콕
+AT2088,HK001,이층 케이블 카
+AT2089,HK001,홍콩 과학 박물관
+AT2090,HK001,홍콩 공원
