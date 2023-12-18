@@ -6,6 +6,7 @@ import com.daily.tour.service.CountryIsoService;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
@@ -22,7 +23,7 @@ public class CountryIsoController {
     }
 
     @GetMapping("/country/iso")
-    public List<CountryIso> getCountryIsoCode(@Param("cntCodeList") List<String> cntCodeList) {
+    public List<CountryIso> getCountryIsoCode(@RequestBody List<String> cntCodeList) {
         log.info("getCountryIsoCode : {cntCodeList}", cntCodeList);
         return countryIsoService.getCountryIsoCodeList(cntCodeList);
     }
