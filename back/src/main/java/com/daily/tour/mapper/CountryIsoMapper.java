@@ -10,7 +10,7 @@ import java.util.List;
 @Mapper
 public interface CountryIsoMapper {
 
-    @Select({"<script> SELECT cit.ISO_CODE, SUM(cit.ISO_CODE) " +
+    @Select({"<script> SELECT cit.ISO_CODE as isoCode, SUM(cit.ISO_CODE) as totalEmi " +
             "FROM country_iso_tb cit join country_month_emi_tb cmt on cit.CNT_CODE = cmt.CNT_CODE " +
             "WHERE cit.CNT_CODE IN <foreach item='item' collection='cntCodeList' open='(' separator=',' close=')'>" +
             "#{item} </foreach>"  +

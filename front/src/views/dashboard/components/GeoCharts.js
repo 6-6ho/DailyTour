@@ -15,21 +15,25 @@ const GeoCharts = () => {
 
     useEffect(() => {
 
-      if (!cntCodeList.length) return;
+      if (cntCodeList.length > 0) {
+
       
-      console.log("GeoCharts cntCodeList : " + cntCodeList);
-      const queryParams = cntCodeList.map(code => `cntCodeList=${encodeURIComponent(code)}`).join('&');
-      // const param = { "cntCodeList" : cntCodeList }
+      
+        console.log("GeoCharts cntCodeList : " + cntCodeList);
+        const queryParams = cntCodeList.map(code => `cntCodeList=${encodeURIComponent(code)}`).join('&');
+        // const param = { "cntCodeList" : cntCodeList }
 
-      console.log(queryParams);
+        console.log(queryParams);
 
 
-      fetch(`${serverDomain}/country/iso?${queryParams}`)
-      .then(res => {return res.json()})
-      .then(data => { 
-          console.log("geo code data: " + data );
-          setGeoCodeList(data);
-        })
+        fetch(`${serverDomain}/country/iso?${queryParams}`)
+        .then(res => {return res.json()})
+        .then(data => { 
+            console.log("geo code data: " + data );
+            setGeoCodeList(data);
+          });
+
+        }
       }, [cntCodeList]);
 
     return(
