@@ -2,6 +2,30 @@
     {
         "country": "슬로베니아",
         "region": "블레드",
+        "hotel_name": "호텔 로벡 (Hotel Lovec)",
+        "score": 3.0,
+        "title": "파크호텔이 공사중이라 그나마 뷰보이는데로 했습니다”",
+        "content": "뷰는 앞건물이 조금 보이지만 섬이 아주 잘보였습니다 조식은 그냥 괜찮았는데 빵이 맛이 없었어요 크로와상만 평균치였어요 공식 조식 시간에 갔으나 음식 사진찰영을 하느라 엄청 불편하게 먹었습니다  운이 없었네요 11월은 가게도 안여는데도 많고 꼭 가고싶었던 파크호텔이 완전 리모델링중이라 어쩔수 없었습니다 직원은 무뚝뚝합니다 엘리베이터는 작고 복도는 엄청크고 좋은데 방은 작아요 소음은 괜찮습니다 깨끗한편이지만 이불에 외국인 머리카락이 있었습니다 그냥 별3개 딱 그가격 그만큼입니다 "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
+        "hotel_name": "호텔 로벡 (Hotel Lovec)",
+        "score": 3.0,
+        "title": "파크호텔이 공사중이라 그나마 뷰보이는데로 했습니다”",
+        "content": "뷰는 앞건물이 조금 보이지만 섬이 아주 잘보였습니다 조식은 그냥 괜찮았는데 빵이 맛이 없었어요 크로와상만 평균치였어요 공식 조식 시간에 갔으나 음식 사진찰영을 하느라 엄청 불편하게 먹었습니다  운이 없었네요 11월은 가게도 안여는데도 많고 꼭 가고싶었던 파크호텔이 완전 리모델링중이라 어쩔수 없었습니다 직원은 무뚝뚝합니다 엘리베이터는 작고 복도는 엄청크고 좋은데 방은 작아요 소음은 괜찮습니다 깨끗한편이지만 이불에 외국인 머리카락이 있었습니다 그냥 별3개 딱 그가격 그만큼입니다 "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
+        "hotel_name": "호텔 로벡 (Hotel Lovec)",
+        "score": 3.0,
+        "title": "파크호텔이 공사중이라 그나마 뷰보이는데로 했습니다”",
+        "content": "뷰는 앞건물이 조금 보이지만 섬이 아주 잘보였습니다 조식은 그냥 괜찮았는데 빵이 맛이 없었어요 크로와상만 평균치였어요 공식 조식 시간에 갔으나 음식 사진찰영을 하느라 엄청 불편하게 먹었습니다  운이 없었네요 11월은 가게도 안여는데도 많고 꼭 가고싶었던 파크호텔이 완전 리모델링중이라 어쩔수 없었습니다 직원은 무뚝뚝합니다 엘리베이터는 작고 복도는 엄청크고 좋은데 방은 작아요 소음은 괜찮습니다 깨끗한편이지만 이불에 외국인 머리카락이 있었습니다 그냥 별3개 딱 그가격 그만큼입니다 "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
         "hotel_name": "호텔 파크 - 사바 호텔 앤 리조트 (Hotel Park - Sava Hotels & Resorts)",
         "score": 4.0,
         "title": "최고”",
@@ -10,10 +34,42 @@
     {
         "country": "슬로베니아",
         "region": "블레드",
-        "hotel_name": "호텔 콤파스 (Hotel Kompas)",
-        "score": 3.0,
-        "title": "경치보기 좋고 주변에 마트등이 있어 지내기편합니다.”",
-        "content": "숙소는 깨끗하고 위치 좋습니다.\n수영장과 식당도 깔큼하네요.\n음식은 걍 한끼 때울만 합니다.\n나이 지긋한 리셉션 직원분들 불친절 합니다."
+        "hotel_name": "호텔 파크 - 사바 호텔 앤 리조트 (Hotel Park - Sava Hotels & Resorts)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "호수 뷰 최고입니다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
+        "hotel_name": "호텔 파크 - 사바 호텔 앤 리조트 (Hotel Park - Sava Hotels & Resorts)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "호수 뷰 최고입니다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
+        "hotel_name": "블레드 로즈 호텔 (Bled Rose hotel)",
+        "score": 4.0,
+        "title": "편안하고 위치좋음”",
+        "content": "하루일정으로 블레드를 방문하기에 적합하다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
+        "hotel_name": "블레드 로즈 호텔 (Bled Rose hotel)",
+        "score": 4.0,
+        "title": "편안하고 위치좋음”",
+        "content": "하루일정으로 블레드를 방문하기에 적합하다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
+        "hotel_name": "블레드 로즈 호텔 (Bled Rose hotel)",
+        "score": 4.0,
+        "title": "편안하고 위치좋음”",
+        "content": "하루일정으로 블레드를 방문하기에 적합하다"
     },
     {
         "country": "슬로베니아",
@@ -26,10 +82,98 @@
     {
         "country": "슬로베니아",
         "region": "블레드",
-        "hotel_name": "호텔 로벡 (Hotel Lovec)",
+        "hotel_name": "올드 패리시 하우스 (Old Parish House)",
+        "score": 5.0,
+        "title": "블레드 호수의 좋은추억”",
+        "content": "블레드 호수 시내쪽과 도보로 가능하고,\n저는 차타고갔지만 블레드성 바로 아래에 위치하고 있는것같아요.\n조식이 종류는 적지만 알차고, 가정식먹는 기분이들어요.\n침대는 약간별루지만, 주차장도넓고 쾌적하고 전체적으로 만족스럽습니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "블레드",
+        "hotel_name": "올드 패리시 하우스 (Old Parish House)",
+        "score": 5.0,
+        "title": "블레드 호수의 좋은추억”",
+        "content": "블레드 호수 시내쪽과 도보로 가능하고,\n저는 차타고갔지만 블레드성 바로 아래에 위치하고 있는것같아요.\n조식이 종류는 적지만 알차고, 가정식먹는 기분이들어요.\n침대는 약간별루지만, 주차장도넓고 쾌적하고 전체적으로 만족스럽습니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
         "score": 3.0,
-        "title": "파크호텔이 공사중이라 그나마 뷰보이는데로 했습니다”",
-        "content": "뷰는 앞건물이 조금 보이지만 섬이 아주 잘보였습니다 조식은 그냥 괜찮았는데 빵이 맛이 없었어요 크로와상만 평균치였어요 공식 조식 시간에 갔으나 음식 사진찰영을 하느라 엄청 불편하게 먹었습니다  운이 없었네요 11월은 가게도 안여는데도 많고 꼭 가고싶었던 파크호텔이 완전 리모델링중이라 어쩔수 없었습니다 직원은 무뚝뚝합니다 엘리베이터는 작고 복도는 엄청크고 좋은데 방은 작아요 소음은 괜찮습니다 깨끗한편이지만 이불에 외국인 머리카락이 있었습니다 그냥 별3개 딱 그가격 그만큼입니다 "
+        "title": "위치는 좋아요.”",
+        "content": "위치는 좋지만 가격만큼의 호텔은 아니었던 것 같아요. 어메니티는 비누 하나 있었고 생수나 커피포트 그 어떤 것도 없었어요. 단기 숙박에 적합합니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 5.0,
+        "title": "조식이 맛있어요.”",
+        "content": "꿀이 직접 양봉한 건가 진하고 맛있어요. 직원들도 친절하고 방도 깨끗해서 좋습니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 5.0,
+        "title": "친절한 응대와 깨끗한 방 컨디션 ”",
+        "content": "기차연착으로 저녁에 못들어가고 다음날 아침에 도착했는데. 친절하게 응대해주며 잠시라도 다음 이동전에 방을 이용하고 조식을 이용하는데 편안하게 해주었습니다.  짧은 시간 방에 있었는데 USB 충전코드가 침대옆에 있어서 충전도 편하고 9층이었는데 뷰도 너무 좋았습니다. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 3.0,
+        "title": "좋음”",
+        "content": "고성과의 위치가 매우가깝다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 3.0,
+        "title": "위치”",
+        "content": "시네에  있어서 많이 구경했어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 2.0,
+        "title": "무난함”",
+        "content": "굿입니당 "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 5.0,
+        "title": "직원들 너무 친절해요”",
+        "content": "올드타운 기차역 접근성 매우 좋고\n직원들 너무 친절하고 좋았습니다.\n시설도 매우 최신식에 청결했어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 5.0,
+        "title": "조식이 맛있어요.”",
+        "content": "꿀이 직접 양봉한 건가 진하고 맛있어요. 직원들도 친절하고 방도 깨끗해서 좋습니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "score": 5.0,
+        "title": "친절한 응대와 깨끗한 방 컨디션 ”",
+        "content": "기차연착으로 저녁에 못들어가고 다음날 아침에 도착했는데. 친절하게 응대해주며 잠시라도 다음 이동전에 방을 이용하고 조식을 이용하는데 편안하게 해주었습니다.  짧은 시간 방에 있었는데 USB 충전코드가 침대옆에 있어서 충전도 편하고 9층이었는데 뷰도 너무 좋았습니다. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 5.0,
+        "title": "최고의 숙소”",
+        "content": "위치며 룸컨디션 친절도 모두 최고였어요"
     },
     {
         "country": "슬로베니아",
@@ -186,226 +330,442 @@
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
-        "title": "위치가 좋고 청결해요”",
-        "content": "류블랴나 시내 관광지를 도보로 갈 수 있을 정도로 가까워서 좋았어요. 가격은 저렴한데 청결하고 쾌적해서 만족스러웠어요. 다만 칫솔, 치약 등 세면 도구는 직접 가져오셔야 해요!"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
-        "title": "위치가 매우 좋음!”",
-        "content": "관광지와 가깝고~ 침대도 꽤 편했습니당\n냉장고가 없고, 3일에 한번 풀청소기는한데 청소는 리셉션에 얘기하면 해결해주셨어요! 조식은 10유로인데 꽤 괜찮았습니다!"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
-        "title": "깨끗하고 좋아요”",
-        "content": "2박 머무는 동안 편안하게 잘 지냈어요\n"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
-        "title": "잠만 자기 좋아요”",
-        "content": "싱글룸 가격대비 좋습니다 역. 터미널에서 멀지않고 구시가지도 가까워요 지은지 얼마안되 깨끗합니다 다만 직원들이 좀 무뚝뚝해요"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
-        "title": "굿”",
-        "content": "가격이 저렴한지는 모르겠으나 깔끔하고\n넓었다 만족한다"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 3.0,
-        "title": "좋음”",
-        "content": "고성과의 위치가 매우가깝다"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
-        "title": "매우 좋음”",
-        "content": "공항에서 들어가기 좀 힘들었어요\n조식도 그냥그래요\n구시가지로 다니기는 편하지만 편의시설이 너무 않좋아요"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "Good to know this fantastic place”",
-        "content": "I had two nights there and everything was just fine. The location and attitude of staffs, what else? The elevator were two and sometimes they were crowded but not a big deal. Ljubjuljana is actually very small town so you can reach anywhere you want  "
+        "title": "최고의 숙소”",
+        "content": "위치며 룸컨디션 친절도 모두 최고였어요"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "주차가 좀 애매하긴해요 ”",
-        "content": "근처 아파트? 주차장의 번호 안 써있는곳에 주차하면 된다고합니다 "
+        "title": "행복한 시간”",
+        "content": "식사와 룸이 좋고 시티투어도 매우 가까움"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
-        "title": "깨끗하고 위치좋은 호텔”",
-        "content": "조식은 그럭저럭인데 깨끗하고 시설이좋아요 직원들도 친절하고요.냉장고 커피포트 없어요.위치가 좋아서 걸어다니다가 화장실 급하면 호텔로 가는게 편해요"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 4.0,
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 5.0,
         "title": "최고”",
-        "content": "신축한지 얼마 안된것 같아요. 내부 매우 깨끗합니다. 드래곤 다리까지 5분이내로 위치도 좋습니다."
+        "content": "컴포트더블룸 진짜 넓어서 좋았어요. 조식도 좋았습니다.\n단 화장실 문이 내려앉아 여닫을 때마다 뻑뻑했습니다."
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "추천합니다”",
-        "content": "딱 가볍게머물다가기 좋습니다 조식도 종류는적지만 먹기에 좋았어요 침구도 좋았습니다"
+        "title": "깨끗해요”",
+        "content": "작지만 깔끔했어요. 위치도 역과 드래곤다리 중간이라 다니기 편했어요"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "강추 합니다”",
-        "content": "그냥 다 좋아요 흠잡을거 없음"
+        "title": "최고”",
+        "content": "위치도 너무 좋고, 깨끗하고 친절하고 모든게 좋았습니다. 다만 주차 사전예약이 있는지 몰라서 급하게 체크인 전 날에 물어보니 이미 꽉 찼다고 하여 호텔 정문 앞 주차장 이용했습니다. 1일 21유로로 조금 비싼가 싶지만 호텔 주차장도 1일에 18유로니까 큰 상관은 없습니다."
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 5.0,
+        "title": "아주 훌륭하고 편안한 시설과 기차역과 버스터미널이 도보5분이내의 위치 ”",
+        "content": "4성급 정도의 깔끔함과 조식이 제공되며 조용하고 친절하다. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "최상의 휴식공간”",
+        "content": "류블랴나에서 정말 좋은 여행을 했어요. 위치도 너무 좋았어요. 모든 걸어서 이동 가능합니다. 아침마다 종소리가 너머 좋았어요. 침대도 좋았구요.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "위치 좋은 깔끔한 호텔”",
+        "content": "방은 좁은 편이지만 위치가 좋습니다. 기차역에서 도보로 7분 구시가까지는 5분 입니다. 호텔 자체는 크고, 호텔 내 세미나, 패키지 여행객등 손님이 많았습니다. 조식당도 크고 메뉴도 많은 편입니다. 가격대가 호텔에 비해 조금 비싼 듯하지만 위치며 청결도에선 만족스러워요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "시티택스 너무 비싸요.”",
+        "content": "3박4일 2인 시티택스 19유로예요.\n이렇게 비싼 곳은 처음이예요 ㅠㅠ\n꼼꼼하게 청소 안해주셨지만 (수건을 안치우거나 쓰레기가 그대로 있는 정도) 불편할 정도는 아니였구요. 조식도 맛있고 위치도 좋고 깔끔한 호텔이라 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "위치좋고 깨끗하고. 그러나”",
+        "content": "주차공간이 협소하고 주차비가 하루에 18유로추가됨. 그마저도 자리가 없어서 다른 사설주차장에 16유로 주고 주차했음.....위치,위생,친절함 등등은 아주 좋음. 차 타고 오지 않는 여행자라면 이만한데가 없을듯..~"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "위치, 조식, 룸컨디션 모두만족!”",
+        "content": "메인버스정류장에서 도보5분? 캐리어끌고가도 힘들지않은거리고, 리셉션직원도 꽤친절했음 룸컨디션도깨끗했음. 무엇보다좋았던건 전혀기대하지않았던조식. 원래호텔조식잘안먹는데 여긴조식포함이었어서 그냥먹어본건데 퀄리티가 5성급호텔 수준이었음 가지수만 적다뿐이지 완벽했음. 다만저녁도 조식수준을기대하고 호텔 레스토랑에서 먹었는데 그건그냥그랬음. 다음에또방문하게된다면또묵을의사있음"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "3박4일 잘 머물다간 호텔”",
+        "content": "호텔이 역에서 걸어서 10분 정도 걸어갔지만, \n위치가 시내 중심지에서 가까워서 이동 거리가 좋았습니다. \n\n특히, 조식이 너무 맛있고 다양해서 정말 마음에 들었고, \n방도 깨끗하고 상당히 넓어서 편안하게 사용했어요. \n택시 셔틀도 있고 다양한 서비스가 있어서 편안하게 이용하실 수 있으세요. 직원들도 친절해서 편안했습니다. \n\n단점일 수도 있는점, 방에서 음식 섭취가 안되서 \n혹 라면같은 음식은 드시면 안되세요. \n한식을 드셔야 하시는 분들은 고려하시길 바랍니다. \n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "환불불가 내 날짜 변경도 안되니 주의 하세요”",
+        "content": "환불불가에 연락을 해도 날짜변경조차 안 된다고 해서 어쩔수없이 날렸습니다 "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "시내중심의 깨끗한 호텔”",
+        "content": "전반적으로 좋았던 호텔!\n마지막날 호텔로 가는 리무진도 공짜로 예약해주셔서 도 좋았어요ㅎㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 3.0,
+        "title": "버스-기차 등 대중교통과 올드타운 접근성이 좋은 호텔”",
+        "content": "가격에 비해 방이 작은 편이고 객실 내에서 와이파이가 되지 않아 다소 불편함. (1층 로비에서는 와이파이 사용 가능)"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 3.0,
+        "title": "주차요금 비쌈”",
+        "content": "주차 절차도 복잡하고 주차요금 넘 비쌈"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 2.0,
-        "title": "무난함”",
-        "content": "굿입니당 "
+        "title": "중심에 있고 조식이 좋지만 소음은 최악이었다”",
+        "content": "시내 관광에 편리하고 아침이 훌륭하지만 단체관광객이 많아 시끄럽고 무질서하다. 당여니 스텝들도 사람에 지쳐 사무적이고 딱딱하다. 객실소음은 더더더욱 심각한데, 큰방을 문하나로 나누어서 옆방 대화소리까지 다 들린다."
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 2.0,
+        "title": "조식 훌륭, 침구와 방 깨끗 ”",
+        "content": "주차장은 본관에 자리가 없을 경우 걸어서 좀 떨어진 곳으로 안내함. 따라서 먼저 호텔 앞에 주차해서 체크인 하면서 안내 받고, 일행 먼저 내려주고 나는 주차하고 다시 걸어서 돌아 와야함. 이 모든 것이 대략 20-30분 정도 걸림. 조식도 훌륭하고 다양함. 그리고 시내와도 가깝고 위치도 좋음. 단 주차가 좀 편리하면좋겠음 . "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 2.0,
+        "title": "난방도 안되고 냉장고도 없어요”",
+        "content": "난방도 안되고 방 안에 미니 냉장고도 없고\n너무 좁아요.. \n직원들 별로 친절하지 않고.. 메뉴는 일전 전이나 똑 같고 맛 없어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "버스 터미널과 올드타운 중간 지점에 위치하여 위치적 가성비는 양호하지만, 가격이 비싸고 시설은 매우 열악하여 가격적 가성비는 0입니다.\n리블레냐호텔들이 다소 비싼 것 같지만, 이 호텔이 비싼 이유를 도저히 모르겠습니다. 조금 떨어져 있더라도 5성급 호텔이 낫다고 생각합니다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "버스 터미널과 올드타운 중간 지점에 위치하여 위치적 가성비는 양호하지만, 가격이 비싸고 시설은 매우 열악하여 가격적 가성비는 0입니다.\n리블레냐호텔들이 다소 비싼 것 같지만, 이 호텔이 비싼 이유를 도저히 모르겠습니다. 조금 떨어져 있더라도 5성급 호텔이 낫다고 생각합니다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 2.0,
+        "title": "조식 훌륭, 침구와 방 깨끗 ”",
+        "content": "주차장은 본관에 자리가 없을 경우 걸어서 좀 떨어진 곳으로 안내함. 따라서 먼저 호텔 앞에 주차해서 체크인 하면서 안내 받고, 일행 먼저 내려주고 나는 주차하고 다시 걸어서 돌아 와야함. 이 모든 것이 대략 20-30분 정도 걸림. 조식도 훌륭하고 다양함. 그리고 시내와도 가깝고 위치도 좋음. 단 주차가 좀 편리하면좋겠음 . "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 2.0,
+        "title": "난방도 안되고 냉장고도 없어요”",
+        "content": "난방도 안되고 방 안에 미니 냉장고도 없고\n너무 좁아요.. \n직원들 별로 친절하지 않고.. 메뉴는 일전 전이나 똑 같고 맛 없어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 2.0,
+        "title": "중심에 있고 조식이 좋지만 소음은 최악이었다”",
+        "content": "시내 관광에 편리하고 아침이 훌륭하지만 단체관광객이 많아 시끄럽고 무질서하다. 당여니 스텝들도 사람에 지쳐 사무적이고 딱딱하다. 객실소음은 더더더욱 심각한데, 큰방을 문하나로 나누어서 옆방 대화소리까지 다 들린다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 3.0,
-        "title": "위치”",
-        "content": "시네에  있어서 많이 구경했어요"
+        "title": "주차요금 비쌈”",
+        "content": "주차 절차도 복잡하고 주차요금 넘 비쌈"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
-        "score": 5.0,
-        "title": "직원들 너무 친절해요”",
-        "content": "올드타운 기차역 접근성 매우 좋고\n직원들 너무 친절하고 좋았습니다.\n시설도 매우 최신식에 청결했어요."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 3.0,
-        "title": "위치는 좋아요.”",
-        "content": "위치는 좋지만 가격만큼의 호텔은 아니었던 것 같아요. 어메니티는 비누 하나 있었고 생수나 커피포트 그 어떤 것도 없었어요. 단기 숙박에 적합합니다."
+        "title": "버스-기차 등 대중교통과 올드타운 접근성이 좋은 호텔”",
+        "content": "가격에 비해 방이 작은 편이고 객실 내에서 와이파이가 되지 않아 다소 불편함. (1층 로비에서는 와이파이 사용 가능)"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "환불불가 내 날짜 변경도 안되니 주의 하세요”",
+        "content": "환불불가에 연락을 해도 날짜변경조차 안 된다고 해서 어쩔수없이 날렸습니다 "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "시내중심의 깨끗한 호텔”",
+        "content": "전반적으로 좋았던 호텔!\n마지막날 호텔로 가는 리무진도 공짜로 예약해주셔서 도 좋았어요ㅎㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "3박4일 잘 머물다간 호텔”",
+        "content": "호텔이 역에서 걸어서 10분 정도 걸어갔지만, \n위치가 시내 중심지에서 가까워서 이동 거리가 좋았습니다. \n\n특히, 조식이 너무 맛있고 다양해서 정말 마음에 들었고, \n방도 깨끗하고 상당히 넓어서 편안하게 사용했어요. \n택시 셔틀도 있고 다양한 서비스가 있어서 편안하게 이용하실 수 있으세요. 직원들도 친절해서 편안했습니다. \n\n단점일 수도 있는점, 방에서 음식 섭취가 안되서 \n혹 라면같은 음식은 드시면 안되세요. \n한식을 드셔야 하시는 분들은 고려하시길 바랍니다. \n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "시티택스 너무 비싸요.”",
+        "content": "3박4일 2인 시티택스 19유로예요.\n이렇게 비싼 곳은 처음이예요 ㅠㅠ\n꼼꼼하게 청소 안해주셨지만 (수건을 안치우거나 쓰레기가 그대로 있는 정도) 불편할 정도는 아니였구요. 조식도 맛있고 위치도 좋고 깔끔한 호텔이라 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "위치좋고 깨끗하고. 그러나”",
+        "content": "주차공간이 협소하고 주차비가 하루에 18유로추가됨. 그마저도 자리가 없어서 다른 사설주차장에 16유로 주고 주차했음.....위치,위생,친절함 등등은 아주 좋음. 차 타고 오지 않는 여행자라면 이만한데가 없을듯..~"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "위치, 조식, 룸컨디션 모두만족!”",
+        "content": "메인버스정류장에서 도보5분? 캐리어끌고가도 힘들지않은거리고, 리셉션직원도 꽤친절했음 룸컨디션도깨끗했음. 무엇보다좋았던건 전혀기대하지않았던조식. 원래호텔조식잘안먹는데 여긴조식포함이었어서 그냥먹어본건데 퀄리티가 5성급호텔 수준이었음 가지수만 적다뿐이지 완벽했음. 다만저녁도 조식수준을기대하고 호텔 레스토랑에서 먹었는데 그건그냥그랬음. 다음에또방문하게된다면또묵을의사있음"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "최상의 휴식공간”",
+        "content": "류블랴나에서 정말 좋은 여행을 했어요. 위치도 너무 좋았어요. 모든 걸어서 이동 가능합니다. 아침마다 종소리가 너머 좋았어요. 침대도 좋았구요.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "위치 좋은 깔끔한 호텔”",
+        "content": "방은 좁은 편이지만 위치가 좋습니다. 기차역에서 도보로 7분 구시가까지는 5분 입니다. 호텔 자체는 크고, 호텔 내 세미나, 패키지 여행객등 손님이 많았습니다. 조식당도 크고 메뉴도 많은 편입니다. 가격대가 호텔에 비해 조금 비싼 듯하지만 위치며 청결도에선 만족스러워요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "조식이 맛있어요.”",
-        "content": "꿀이 직접 양봉한 건가 진하고 맛있어요. 직원들도 친절하고 방도 깨끗해서 좋습니다."
+        "title": "최고의 숙소”",
+        "content": "위치며 룸컨디션 친절도 모두 최고였어요"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "비앤비 호텔 류블랴나 파크 (B&B Hotel Ljubljana Park)",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "친절한 응대와 깨끗한 방 컨디션 ”",
-        "content": "기차연착으로 저녁에 못들어가고 다음날 아침에 도착했는데. 친절하게 응대해주며 잠시라도 다음 이동전에 방을 이용하고 조식을 이용하는데 편안하게 해주었습니다.  짧은 시간 방에 있었는데 USB 충전코드가 침대옆에 있어서 충전도 편하고 9층이었는데 뷰도 너무 좋았습니다. "
+        "title": "행복한 시간”",
+        "content": "식사와 룸이 좋고 시티투어도 매우 가까움"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
-        "score": 5.0,
-        "title": "개굴”",
-        "content": "유럽여행하면서 이가격에 1인실인곳은 거의처음보는거같아요 살짝 높긴한데 침대도 넓고 좋아용"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
         "title": "최고”",
-        "content": "모든게 좋았어요\n방은 좁지만 싱글룸이고 맪은 넓은 휴식공간이 있어요\n직원분들 너무 친절하고 아무때나 출입이 가능해요\n"
+        "content": "컴포트더블룸 진짜 넓어서 좋았어요. 조식도 좋았습니다.\n단 화장실 문이 내려앉아 여닫을 때마다 뻑뻑했습니다."
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "나름 개인실”",
-        "content": "좁지만 혼자 쓰는 방이고 샤워실과 화장실은 공용입니나. 조식도 포함이고 가성비 좋아요"
+        "title": "깨끗해요”",
+        "content": "작지만 깔끔했어요. 위치도 역과 드래곤다리 중간이라 다니기 편했어요"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
-        "score": 3.0,
-        "title": "특가로 싸게 나와서 사용해봤는데”",
-        "content": "특가로 싸게 나와서 사용해봤는데 침대가 너무 높은곳에 있어서 사다리를 타고 올라가야합니다. 부상위험이 있어서 추천하지 않습니다."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
-        "score": 5.0,
-        "title": "추천합니다”",
-        "content": "너무 좋았어요! "
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
-        "score": 4.0,
-        "title": "가성비 최고! ”",
-        "content": "저렴한 가격에 조식도 주고 깔끔해서 좋습니다! 시내와의 거리가 멀지도 않습니다. 화장실 및 샤워실도 공유지만, 개별 칸으로 다 되어있어 이용에 불편함이 없고 공유 테라스가 있어 쉬어가기도 좋습니다. 방이 좁고 거의 2층 침대에 가깝지만.. 그래도 추천드립니다! "
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
-        "score": 4.0,
-        "title": "modern style hostel”",
-        "content": "clean, good facility, various guest"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
         "title": "최고”",
-        "content": "최고. 여기 묵으세요. "
+        "content": "위치도 너무 좋고, 깨끗하고 친절하고 모든게 좋았습니다. 다만 주차 사전예약이 있는지 몰라서 급하게 체크인 전 날에 물어보니 이미 꽉 찼다고 하여 호텔 정문 앞 주차장 이용했습니다. 1일 21유로로 조금 비싼가 싶지만 호텔 주차장도 1일에 18유로니까 큰 상관은 없습니다."
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "hotel_name": "시티 호텔 리주발자나 (City Hotel Ljubljana)",
         "score": 5.0,
-        "title": "가격대비 최고 가성비”",
-        "content": "도미토리 혹은 캡슐호텔인줄 알았으나 개인 방이였음"
+        "title": "아주 훌륭하고 편안한 시설과 기차역과 버스터미널이 도보5분이내의 위치 ”",
+        "content": "4성급 정도의 깔끔함과 조식이 제공되며 조용하고 친절하다. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "very good place. Its cleaning and very good location. Also have a pub, i recommend!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 4.0,
+        "title": "Great location ”",
+        "content": "Awesome little place! Unique and stands out. Walkable everywhere! Hot water, aircon, good wifi"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Hostel位於酒吧旁邊，比較熱鬧，冷氣機是壞掉的、衛生狀況一般、沒有熱水，位置不俗，位於古城區最入邊，步行至龍橋大約15分鐘"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "Mala elección”",
+        "content": "Alojamiento ruidoso. La habitación no estaba muy limpia y las alfombras olían a pie. Camas cómodas. A 20 minutos del centro, buena zona. Personal amable."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "Hyvä ja siisti hostelli ”",
+        "content": "Hyvä hostelli jossa yöpyy mielellään pari yötä. Yleiset tilat aika pienet mutta kuitenkin kaikki tarpeellinen löytyy (jääkaappi, uuni, liedet) Hostellin yhteydessä oleva pubi aika hintava (pieni olut melkein 5 e) "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "very good place. Its cleaning and very good location. Also have a pub, i recommend!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 4.0,
+        "title": "Great location ”",
+        "content": "Awesome little place! Unique and stands out. Walkable everywhere! Hot water, aircon, good wifi"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Hostel位於酒吧旁邊，比較熱鬧，冷氣機是壞掉的、衛生狀況一般、沒有熱水，位置不俗，位於古城區最入邊，步行至龍橋大約15分鐘"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "Mala elección”",
+        "content": "Alojamiento ruidoso. La habitación no estaba muy limpia y las alfombras olían a pie. Camas cómodas. A 20 minutos del centro, buena zona. Personal amable."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "Hyvä ja siisti hostelli ”",
+        "content": "Hyvä hostelli jossa yöpyy mielellään pari yötä. Yleiset tilat aika pienet mutta kuitenkin kaikki tarpeellinen löytyy (jääkaappi, uuni, liedet) Hostellin yhteydessä oleva pubi aika hintava (pieni olut melkein 5 e) "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 4.0,
+        "title": "Great location ”",
+        "content": "Awesome little place! Unique and stands out. Walkable everywhere! Hot water, aircon, good wifi"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "very good place. Its cleaning and very good location. Also have a pub, i recommend!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Hostel位於酒吧旁邊，比較熱鬧，冷氣機是壞掉的、衛生狀況一般、沒有熱水，位置不俗，位於古城區最入邊，步行至龍橋大約15分鐘"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "Mala elección”",
+        "content": "Alojamiento ruidoso. La habitación no estaba muy limpia y las alfombras olían a pie. Camas cómodas. A 20 minutos del centro, buena zona. Personal amable."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Sax Pub Hostel",
+        "score": 3.0,
+        "title": "Hyvä ja siisti hostelli ”",
+        "content": "Hyvä hostelli jossa yöpyy mielellään pari yötä. Yleiset tilat aika pienet mutta kuitenkin kaikki tarpeellinen löytyy (jääkaappi, uuni, liedet) Hostellin yhteydessä oleva pubi aika hintava (pieni olut melkein 5 e) "
     },
     {
         "country": "슬로베니아",
@@ -490,10 +850,426 @@
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "Occidental Ljubliana",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 5.0,
+        "title": "EXCELLENT BREAKFAST ”",
+        "content": "The Raddison Blu is my goto place in Ljubljana. My son is 10 years old and enjoys the surrounding activities and they are all a walk away. BTC shopping is also a 5 minute walk. \nThe breakfast is always great, soo many choices. The tea station has soo many options. The staff is always helpful and polite. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "Good"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
         "score": 4.0,
-        "title": "우수”",
-        "content": "호텔 컨디션은 좋은데 주차가 너무 힘들어요\n그리고 호텔 주차장 시간당 2.5유로 입니다 너무비싸요 참고하세요"
+        "title": "A pleasant stay”",
+        "content": "Close to shopping, clean and well serviced. Helpful concierge and service people. Not walking distance to centre, but reduced rate taxis available. Would recommend."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Outstanding ”",
+        "content": "Very good hotel. Rooms are big & clean & the staff is amazing especially Mr. Luka in the reception \nTjanks a lot for the outstanding hospitality "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Clean and comfortable but away from city center ”",
+        "content": "Very clean and comfortable. It takes 25 minutes to drive by car to the city center. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 2.0,
+        "title": "Disappointed”",
+        "content": "Staff were not helpful.\nThey doubled charged us althought we had already paid the booking in full with "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Confort et modernité ”",
+        "content": "Toujours agréable d’avoir la machine à café dans sa chambre, petit déjeuner très varié. Très bonne literie et splendide vue sur Ljubljana "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Bella struttura ”",
+        "content": "Struttura molto bella con ottima posizione \nColazione molto varia e buona"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 3.0,
+        "title": "Helaas ditmaal geen succes ”",
+        "content": "Om de laaste dag van onze reis te vieren had ik de juniorsuite voor mijn gezin geboekt. Als Radisson member gaan altijd geaag naar haar hotels. \n\nHelaas bleek het douchekop ophangsysteem kapot  te zijn waardoor de douchekop elke keer naar beneden deed zakken. Lekker Douchen zat er daardoor niet in. \nToch maar even naar de balie om te vragen of hier iets aan gedaan kon worden. Ik vroeg ook meteen of het nstmasl was dat de wifi zo enorm zwak was op onze kamer en dat het kon kloppen dat er maar 1 TV afstandsbediening was voir \n\nOok bleek de wifi zeer zwak te zijn en hadden we maar e"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "טוב מאוד”",
+        "content": "מלון טוב חדרים טובים וגדולים ,מיקום רחוק מהמרכז .סך הכל מומלץ למי שמתאים המיקום -נמתא ליד מרכז קניות טוב."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 2.0,
+        "title": "Disappointed”",
+        "content": "Staff were not helpful.\nThey doubled charged us althought we had already paid the booking in full with "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Clean and comfortable but away from city center ”",
+        "content": "Very clean and comfortable. It takes 25 minutes to drive by car to the city center. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Outstanding ”",
+        "content": "Very good hotel. Rooms are big & clean & the staff is amazing especially Mr. Luka in the reception \nTjanks a lot for the outstanding hospitality "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "A pleasant stay”",
+        "content": "Close to shopping, clean and well serviced. Helpful concierge and service people. Not walking distance to centre, but reduced rate taxis available. Would recommend."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 5.0,
+        "title": "EXCELLENT BREAKFAST ”",
+        "content": "The Raddison Blu is my goto place in Ljubljana. My son is 10 years old and enjoys the surrounding activities and they are all a walk away. BTC shopping is also a 5 minute walk. \nThe breakfast is always great, soo many choices. The tea station has soo many options. The staff is always helpful and polite. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "Good"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Confort et modernité ”",
+        "content": "Toujours agréable d’avoir la machine à café dans sa chambre, petit déjeuner très varié. Très bonne literie et splendide vue sur Ljubljana "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "Bella struttura ”",
+        "content": "Struttura molto bella con ottima posizione \nColazione molto varia e buona"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 3.0,
+        "title": "Helaas ditmaal geen succes ”",
+        "content": "Om de laaste dag van onze reis te vieren had ik de juniorsuite voor mijn gezin geboekt. Als Radisson member gaan altijd geaag naar haar hotels. \n\nHelaas bleek het douchekop ophangsysteem kapot  te zijn waardoor de douchekop elke keer naar beneden deed zakken. Lekker Douchen zat er daardoor niet in. \nToch maar even naar de balie om te vragen of hier iets aan gedaan kon worden. Ik vroeg ook meteen of het nstmasl was dat de wifi zo enorm zwak was op onze kamer en dat het kon kloppen dat er maar 1 TV afstandsbediening was voir \n\nOok bleek de wifi zeer zwak te zijn en hadden we maar e"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "래디슨 블루 플라자 호텔 류블랴나 (Radisson Blu Plaza Hotel, Ljubljana)",
+        "score": 4.0,
+        "title": "טוב מאוד”",
+        "content": "מלון טוב חדרים טובים וגדולים ,מיקום רחוק מהמרכז .סך הכל מומלץ למי שמתאים המיקום -נמתא ליד מרכז קניות טוב."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "가성비 최고 \n조식도 맛있고 \n밑에 헬스장도 좋아요 (돈내야함)"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "완벽한 호텔”",
+        "content": "오스트리아 트렌드호텔 계열을 오스트리아에서 몇군데 숙박해봤는데, 류블라냐가 그중에 최고였다. 호텔안에서 모든걸 해결할수있었고, 모든직원들이 프로페셔널했다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "조식이 괜찮고 별도의 주차장도 있습니다.  하루 최대 주차요금은 25유로이니 참고하세요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 3.0,
+        "title": "오리지날 가격을 너무 올린상태”",
+        "content": "호텔 가격이 원래 4십몇만원을 10만원초반대로 할인된 가격으로 사용할 수 있는것처럼 되어서 오늘 저녁은 고급호텔에서 자 볼까 하는 마음으로 예약했는데 그 호텔의 값어치는 디스카운트 그 가격이하도 이상도 아니었다\n즉 40만원대의 숙소가 아니라 10만원대 숙소를 마치 특별가격인양 내놔서 낚인것 같은 기분을 들게 했다\n그리고 중국인 단체관광객들이 주로 사용하는 호텔인듯 아침 부페식당의 중국인들의 떠들썩함은 아침기분을 잡치게 만들기애 충분했다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "가성비 최고 \n조식도 맛있고 \n밑에 헬스장도 좋아요 (돈내야함)"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "완벽한 호텔”",
+        "content": "오스트리아 트렌드호텔 계열을 오스트리아에서 몇군데 숙박해봤는데, 류블라냐가 그중에 최고였다. 호텔안에서 모든걸 해결할수있었고, 모든직원들이 프로페셔널했다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "조식이 괜찮고 별도의 주차장도 있습니다.  하루 최대 주차요금은 25유로이니 참고하세요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 3.0,
+        "title": "오리지날 가격을 너무 올린상태”",
+        "content": "호텔 가격이 원래 4십몇만원을 10만원초반대로 할인된 가격으로 사용할 수 있는것처럼 되어서 오늘 저녁은 고급호텔에서 자 볼까 하는 마음으로 예약했는데 그 호텔의 값어치는 디스카운트 그 가격이하도 이상도 아니었다\n즉 40만원대의 숙소가 아니라 10만원대 숙소를 마치 특별가격인양 내놔서 낚인것 같은 기분을 들게 했다\n그리고 중국인 단체관광객들이 주로 사용하는 호텔인듯 아침 부페식당의 중국인들의 떠들썩함은 아침기분을 잡치게 만들기애 충분했다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 3.0,
+        "title": "오리지날 가격을 너무 올린상태”",
+        "content": "호텔 가격이 원래 4십몇만원을 10만원초반대로 할인된 가격으로 사용할 수 있는것처럼 되어서 오늘 저녁은 고급호텔에서 자 볼까 하는 마음으로 예약했는데 그 호텔의 값어치는 디스카운트 그 가격이하도 이상도 아니었다\n즉 40만원대의 숙소가 아니라 10만원대 숙소를 마치 특별가격인양 내놔서 낚인것 같은 기분을 들게 했다\n그리고 중국인 단체관광객들이 주로 사용하는 호텔인듯 아침 부페식당의 중국인들의 떠들썩함은 아침기분을 잡치게 만들기애 충분했다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "완벽한 호텔”",
+        "content": "오스트리아 트렌드호텔 계열을 오스트리아에서 몇군데 숙박해봤는데, 류블라냐가 그중에 최고였다. 호텔안에서 모든걸 해결할수있었고, 모든직원들이 프로페셔널했다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "조식이 괜찮고 별도의 주차장도 있습니다.  하루 최대 주차요금은 25유로이니 참고하세요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "오스트리아 트랜드 호텔 루블랴나 (Austria Trend Hotel Ljubljana)",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "가성비 최고 \n조식도 맛있고 \n밑에 헬스장도 좋아요 (돈내야함)"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Wow”",
+        "content": "No complaints. Club Floor. Ramona was great. All very clean. Rooms very well designed. Staff great. Nice stay for sure here."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "Excellent option ”",
+        "content": "Very good hotel located 10 min walk from the city center. Great choice for a short retreat or business travel. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 2.0,
+        "title": "Last time I book an Intercontinental”",
+        "content": "I run marathons and I travel a lot allover the world and I´'ve stayed in many 5 star hotels as well as hostels. \nWhat I wasn't expecting in a Intercontinental 5 star hotel in a european union capital?\n1 - I dont understant that in a 5 star intercontinental hotel no one could open a heavy door (and I mean heavy) to enter the hotel to a couple with lots fo luggage and carring a baby at 11 pm, so we had to put the babycok inth ground to open the door with both hands.\n2 - I have to ask everyday to clean up my room\n3 - the room was nice but had curtains allover it, large curtains difficult to handle so I took every night 5 min just to close them as, as you may guess, they were all hanging loose from the ceiling in differente places because of the strenth that was necessary to make to move them\n4 - the room had dust all over it, even after cleaning\n5 - the maids that clean the room took a jar (from a collection of jars) from our babies food that didn´t belong to the hotel, so we had to ask for them to get us another one that, of course, was not equal\n 6 - even the towel I used to wash myself after the marathon (you may guess how it looked like) was not changed and was hanged again in the bathroom (and of course I put it on the floor)\n7 - we had to leave in the early morning (5.30 am) so I asked in the reception for them to get us two breakfast boxes for us to carry to the airport - guess what? next morning tehre were no breakfast so we had to travel with a baby for five hours without had nothing to eat"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Best in Ljubljana ”",
+        "content": "This is the best you can get in Ljubljana. We are given a corner room facing the station and the city and we are utterly surprised by the quality of the room. It is the most luxurious room I have stayed in, detailed introduction during check-in, personalised service and offers a first-tier experience. They care to make sure they pronounce my name right(as an asian in europe), and offer timely service. \n\nThe swimming pool, with suna and hot pool, overlooking the city is nice and an amenities that one should enjoy the fullest. They offer complementary snacks which is of high quality.\n\nYet two pieces of advice: flies attracted to light  tend to stick all over the exterior window and it is kind of unpleasant to a \"window display\" of flies when returning the room.  (though nothing much can be done about it) \n\nI book for 2 person but the room is only equipped with one slipper, and when I request toothbrushes and an extra slipper, I am offered one toothbrush  - There is a lingering theme that the room is only for one person which makes me think the slipper problem is more than a minor slip. Neither is the room a single person room, so I suspect the repletion service is of 5 star standard of Ljubljana but not the true 5 star standard.  \n\nThat said, it remains the best of Ljubljana.\n "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Отличный отель. Один из немногих в любляне с пятью звёздами. Прекрасное обслуживание, превосходные комнаты. \nУдивительное расположение ресторана с шикарным меню. \nЧастная парковка, правда стоит 30 евро в день, что для нас оказалось неожиданностью. \nРасположение вполне удобное, хотя и не в самом центре города. \nРекомендую друзьям с удовольствием. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "GREAT XMAS STAY”",
+        "content": "Can't complain with anything "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Love it”",
+        "content": "Will come back again"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Wow”",
+        "content": "No complaints. Club Floor. Ramona was great. All very clean. Rooms very well designed. Staff great. Nice stay for sure here."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Best in Ljubljana ”",
+        "content": "This is the best you can get in Ljubljana. We are given a corner room facing the station and the city and we are utterly surprised by the quality of the room. It is the most luxurious room I have stayed in, detailed introduction during check-in, personalised service and offers a first-tier experience. They care to make sure they pronounce my name right(as an asian in europe), and offer timely service. \n\nThe swimming pool, with suna and hot pool, overlooking the city is nice and an amenities that one should enjoy the fullest. They offer complementary snacks which is of high quality.\n\nYet two pieces of advice: flies attracted to light  tend to stick all over the exterior window and it is kind of unpleasant to a \"window display\" of flies when returning the room.  (though nothing much can be done about it) \n\nI book for 2 person but the room is only equipped with one slipper, and when I request toothbrushes and an extra slipper, I am offered one toothbrush  - There is a lingering theme that the room is only for one person which makes me think the slipper problem is more than a minor slip. Neither is the room a single person room, so I suspect the repletion service is of 5 star standard of Ljubljana but not the true 5 star standard.  \n\nThat said, it remains the best of Ljubljana.\n "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "Excellent option ”",
+        "content": "Very good hotel located 10 min walk from the city center. Great choice for a short retreat or business travel. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 2.0,
+        "title": "Last time I book an Intercontinental”",
+        "content": "I run marathons and I travel a lot allover the world and I´'ve stayed in many 5 star hotels as well as hostels. \nWhat I wasn't expecting in a Intercontinental 5 star hotel in a european union capital?\n1 - I dont understant that in a 5 star intercontinental hotel no one could open a heavy door (and I mean heavy) to enter the hotel to a couple with lots fo luggage and carring a baby at 11 pm, so we had to put the babycok inth ground to open the door with both hands.\n2 - I have to ask everyday to clean up my room\n3 - the room was nice but had curtains allover it, large curtains difficult to handle so I took every night 5 min just to close them as, as you may guess, they were all hanging loose from the ceiling in differente places because of the strenth that was necessary to make to move them\n4 - the room had dust all over it, even after cleaning\n5 - the maids that clean the room took a jar (from a collection of jars) from our babies food that didn´t belong to the hotel, so we had to ask for them to get us another one that, of course, was not equal\n 6 - even the towel I used to wash myself after the marathon (you may guess how it looked like) was not changed and was hanged again in the bathroom (and of course I put it on the floor)\n7 - we had to leave in the early morning (5.30 am) so I asked in the reception for them to get us two breakfast boxes for us to carry to the airport - guess what? next morning tehre were no breakfast so we had to travel with a baby for five hours without had nothing to eat"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Отличный отель. Один из немногих в любляне с пятью звёздами. Прекрасное обслуживание, превосходные комнаты. \nУдивительное расположение ресторана с шикарным меню. \nЧастная парковка, правда стоит 30 евро в день, что для нас оказалось неожиданностью. \nРасположение вполне удобное, хотя и не в самом центре города. \nРекомендую друзьям с удовольствием. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Love it”",
+        "content": "Will come back again"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "GREAT XMAS STAY”",
+        "content": "Can't complain with anything "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 2.0,
+        "title": "Last time I book an Intercontinental”",
+        "content": "I run marathons and I travel a lot allover the world and I´'ve stayed in many 5 star hotels as well as hostels. \nWhat I wasn't expecting in a Intercontinental 5 star hotel in a european union capital?\n1 - I dont understant that in a 5 star intercontinental hotel no one could open a heavy door (and I mean heavy) to enter the hotel to a couple with lots fo luggage and carring a baby at 11 pm, so we had to put the babycok inth ground to open the door with both hands.\n2 - I have to ask everyday to clean up my room\n3 - the room was nice but had curtains allover it, large curtains difficult to handle so I took every night 5 min just to close them as, as you may guess, they were all hanging loose from the ceiling in differente places because of the strenth that was necessary to make to move them\n4 - the room had dust all over it, even after cleaning\n5 - the maids that clean the room took a jar (from a collection of jars) from our babies food that didn´t belong to the hotel, so we had to ask for them to get us another one that, of course, was not equal\n 6 - even the towel I used to wash myself after the marathon (you may guess how it looked like) was not changed and was hanged again in the bathroom (and of course I put it on the floor)\n7 - we had to leave in the early morning (5.30 am) so I asked in the reception for them to get us two breakfast boxes for us to carry to the airport - guess what? next morning tehre were no breakfast so we had to travel with a baby for five hours without had nothing to eat"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "Excellent option ”",
+        "content": "Very good hotel located 10 min walk from the city center. Great choice for a short retreat or business travel. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Wow”",
+        "content": "No complaints. Club Floor. Ramona was great. All very clean. Rooms very well designed. Staff great. Nice stay for sure here."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Best in Ljubljana ”",
+        "content": "This is the best you can get in Ljubljana. We are given a corner room facing the station and the city and we are utterly surprised by the quality of the room. It is the most luxurious room I have stayed in, detailed introduction during check-in, personalised service and offers a first-tier experience. They care to make sure they pronounce my name right(as an asian in europe), and offer timely service. \n\nThe swimming pool, with suna and hot pool, overlooking the city is nice and an amenities that one should enjoy the fullest. They offer complementary snacks which is of high quality.\n\nYet two pieces of advice: flies attracted to light  tend to stick all over the exterior window and it is kind of unpleasant to a \"window display\" of flies when returning the room.  (though nothing much can be done about it) \n\nI book for 2 person but the room is only equipped with one slipper, and when I request toothbrushes and an extra slipper, I am offered one toothbrush  - There is a lingering theme that the room is only for one person which makes me think the slipper problem is more than a minor slip. Neither is the room a single person room, so I suspect the repletion service is of 5 star standard of Ljubljana but not the true 5 star standard.  \n\nThat said, it remains the best of Ljubljana.\n "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Отличный отель. Один из немногих в любляне с пятью звёздами. Прекрасное обслуживание, превосходные комнаты. \nУдивительное расположение ресторана с шикарным меню. \nЧастная парковка, правда стоит 30 евро в день, что для нас оказалось неожиданностью. \nРасположение вполне удобное, хотя и не в самом центре города. \nРекомендую друзьям с удовольствием. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 4.0,
+        "title": "GREAT XMAS STAY”",
+        "content": "Can't complain with anything "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "Intercontinental Ljubljana",
+        "score": 5.0,
+        "title": "Love it”",
+        "content": "Will come back again"
     },
     {
         "country": "슬로베니아",
@@ -506,202 +1282,1266 @@
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "어반 호텔 유블랴나 (Urban Hotel Ljubljana)",
+        "hotel_name": "홀리데이 인 익스프레스 류블랴나 (Holiday Inn Express Ljubljana)",
+        "score": 2.0,
+        "title": "무난함”",
+        "content": "환풍기,욕실 소음 상당합니다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "홀리데이 인 익스프레스 류블랴나 (Holiday Inn Express Ljubljana)",
+        "score": 2.0,
+        "title": "무난함”",
+        "content": "환풍기,욕실 소음 상당합니다"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
         "score": 4.0,
-        "title": "계란 요리는 꼭 주문하세요.”",
-        "content": "주문하지 않으면 안 줍니다.. 물어보지도 않더라구요.\n체크인할때도 설명 안해줍니다. "
+        "title": "가성비 진짜 좋습니다”",
+        "content": "아주 좋았어요 류블랴나 사랑스러워~"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "어반 호텔 유블랴나 (Urban Hotel Ljubljana)",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
         "score": 5.0,
-        "title": "can't be better!”",
-        "content": "위치 너무좋아요. 아이동반이라 관광하다가 잠시 쉬었다가 나갈수도있었어요. 넓고 깨끗한 객실, 친절한 직원분들도 인상적입니다. 조식도 깔끔하고 맛있었어요! 킥보드 빌려서 하루종일 아이가 다리아프지않게 잘다닐수있었어요. 다음에도 가게된다면 당연히 이호텔을 선택하겠어요!"
+        "title": "개굴”",
+        "content": "유럽여행하면서 이가격에 1인실인곳은 거의처음보는거같아요 살짝 높긴한데 침대도 넓고 좋아용"
     },
     {
         "country": "슬로베니아",
         "region": "류블랴나",
-        "hotel_name": "어반 호텔 유블랴나 (Urban Hotel Ljubljana)",
-        "score": 5.0,
-        "title": "정말 만족합니다”",
-        "content": "류블라냐 첫 방문이라 걱정이 많았는데 좋은 호텔에서 편한하게 쉬다 갑니다 다음번 방문시에도 또 선택하고 싶은 호텔입니다 ㅎㅎ"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "어반 호텔 유블랴나 (Urban Hotel Ljubljana)",
-        "score": 4.0,
-        "title": "위치, 가격, 컨디션 모두 좋습니다.”",
-        "content": "올드 타운 근처이고, 가격 대비 룸 컨디션도 좋고, 직원들도 친절 합니다.\n방도 넓으며 아침도 가지수는 적지만 모두 맛있습니다.\n루블랴나 관광시 무조건 묵을겁니다"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "차 차 룸 (Cha cha rooms)",
-        "score": 4.0,
-        "title": "좋아요.”",
-        "content": "위치와 방 창문에서 보이는 전망이 너무 좋아요."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "차 차 룸 (Cha cha rooms)",
-        "score": 5.0,
-        "title": "위치최고 상태최고”",
-        "content": "버스정류장이랑 매우가깝고 메인거리랑도 가깝습니다\n호텔상태도 너무 좋고 직원들은 매우 친절합니다."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "류블랴나",
-        "hotel_name": "차 차 룸 (Cha cha rooms)",
-        "score": 5.0,
-        "title": "굿”",
-        "content": "위치 진짜 좋음! 1층이 방이 더 넓고 싼 대신에 창문열면 바로 사람들 지나다니는 길이어서 조금 위험하겠다는 느낌을 받았음.방 넓고 침대도 넓고 전기포트 있어서 라면 먹을 수 있고 화장실 엄청 깨끗했음!!관광지 걸어서 전부 다 갈 수 있고 대형마트 5분거리안에 2개나 있어요.조금 큰 호텔에서 따로 관리하는 느낌이라 조식도 돈내면 먹을 수 있고 필요한거 말하면 이야기 잘 들어줌.너무 좋았어요"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "피란",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 4.0,
-        "title": "최고”",
-        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "피란",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 5.0,
-        "title": "좋아요”",
-        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "피란",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 5.0,
-        "title": "꼭 추천.. ”",
-        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
-    },
-    {
-        "country": "슬로베니아",
-        "region": "피란",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 5.0,
-        "title": "위치가 넘 좋고 예쁜호텔”",
-        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 4.0,
-        "title": "최고”",
-        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 5.0,
-        "title": "좋아요”",
-        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 5.0,
-        "title": "꼭 추천.. ”",
-        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 피란 (Hotel Piran)",
-        "score": 5.0,
-        "title": "위치가 넘 좋고 예쁜호텔”",
-        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
         "score": 5.0,
         "title": "최고”",
-        "content": "WFM"
+        "content": "모든게 좋았어요\n방은 좁지만 싱글룸이고 맪은 넓은 휴식공간이 있어요\n직원분들 너무 친절하고 아무때나 출입이 가능해요\n"
     },
     {
         "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "나름 개인실”",
+        "content": "좁지만 혼자 쓰는 방이고 샤워실과 화장실은 공용입니나. 조식도 포함이고 가성비 좋아요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 3.0,
+        "title": "특가로 싸게 나와서 사용해봤는데”",
+        "content": "특가로 싸게 나와서 사용해봤는데 침대가 너무 높은곳에 있어서 사다리를 타고 올라가야합니다. 부상위험이 있어서 추천하지 않습니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "추천합니다”",
+        "content": "너무 좋았어요! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "가성비 최고! ”",
+        "content": "저렴한 가격에 조식도 주고 깔끔해서 좋습니다! 시내와의 거리가 멀지도 않습니다. 화장실 및 샤워실도 공유지만, 개별 칸으로 다 되어있어 이용에 불편함이 없고 공유 테라스가 있어 쉬어가기도 좋습니다. 방이 좁고 거의 2층 침대에 가깝지만.. 그래도 추천드립니다! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "modern style hostel”",
+        "content": "clean, good facility, various guest"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "최고. 여기 묵으세요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "가격대비 최고 가성비”",
+        "content": "도미토리 혹은 캡슐호텔인줄 알았으나 개인 방이였음"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "개굴”",
+        "content": "유럽여행하면서 이가격에 1인실인곳은 거의처음보는거같아요 살짝 높긴한데 침대도 넓고 좋아용"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "모든게 좋았어요\n방은 좁지만 싱글룸이고 맪은 넓은 휴식공간이 있어요\n직원분들 너무 친절하고 아무때나 출입이 가능해요\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "나름 개인실”",
+        "content": "좁지만 혼자 쓰는 방이고 샤워실과 화장실은 공용입니나. 조식도 포함이고 가성비 좋아요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "추천합니다”",
+        "content": "너무 좋았어요! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "최고. 여기 묵으세요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "가격대비 최고 가성비”",
+        "content": "도미토리 혹은 캡슐호텔인줄 알았으나 개인 방이였음"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "가성비 최고! ”",
+        "content": "저렴한 가격에 조식도 주고 깔끔해서 좋습니다! 시내와의 거리가 멀지도 않습니다. 화장실 및 샤워실도 공유지만, 개별 칸으로 다 되어있어 이용에 불편함이 없고 공유 테라스가 있어 쉬어가기도 좋습니다. 방이 좁고 거의 2층 침대에 가깝지만.. 그래도 추천드립니다! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "modern style hostel”",
+        "content": "clean, good facility, various guest"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "가성비 진짜 좋습니다”",
+        "content": "아주 좋았어요 류블랴나 사랑스러워~"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 3.0,
+        "title": "특가로 싸게 나와서 사용해봤는데”",
+        "content": "특가로 싸게 나와서 사용해봤는데 침대가 너무 높은곳에 있어서 사다리를 타고 올라가야합니다. 부상위험이 있어서 추천하지 않습니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 3.0,
+        "title": "특가로 싸게 나와서 사용해봤는데”",
+        "content": "특가로 싸게 나와서 사용해봤는데 침대가 너무 높은곳에 있어서 사다리를 타고 올라가야합니다. 부상위험이 있어서 추천하지 않습니다."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "가성비 진짜 좋습니다”",
+        "content": "아주 좋았어요 류블랴나 사랑스러워~"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "modern style hostel”",
+        "content": "clean, good facility, various guest"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 4.0,
+        "title": "가성비 최고! ”",
+        "content": "저렴한 가격에 조식도 주고 깔끔해서 좋습니다! 시내와의 거리가 멀지도 않습니다. 화장실 및 샤워실도 공유지만, 개별 칸으로 다 되어있어 이용에 불편함이 없고 공유 테라스가 있어 쉬어가기도 좋습니다. 방이 좁고 거의 2층 침대에 가깝지만.. 그래도 추천드립니다! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "개굴”",
+        "content": "유럽여행하면서 이가격에 1인실인곳은 거의처음보는거같아요 살짝 높긴한데 침대도 넓고 좋아용"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "모든게 좋았어요\n방은 좁지만 싱글룸이고 맪은 넓은 휴식공간이 있어요\n직원분들 너무 친절하고 아무때나 출입이 가능해요\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "나름 개인실”",
+        "content": "좁지만 혼자 쓰는 방이고 샤워실과 화장실은 공용입니나. 조식도 포함이고 가성비 좋아요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "추천합니다”",
+        "content": "너무 좋았어요! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "최고”",
+        "content": "최고. 여기 묵으세요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana The Fuzzy Log",
+        "score": 5.0,
+        "title": "가격대비 최고 가성비”",
+        "content": "도미토리 혹은 캡슐호텔인줄 알았으나 개인 방이였음"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 4.0,
+        "title": "가성비 좋은 숙소”",
+        "content": "호텔 위치가 좋아 주요 관광지로의 이동 편의성이 뛰어나고 부대시설도 잘 갖춰져  편안한 숙박이 가능해 좋았음."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 5.0,
+        "title": "위치가 너무 좋아요!”",
+        "content": "방이 진짜 넓었구요! \n터미널에서 도보 3분, 주요관광지 도보로 슬렁슬렁~ 10분? 15분? 정도였어요 ! 얼리체크인은 안되었지만, 짐을 락커에 따로 맡아주어서, 짐 걱정 없이 편하게 관광할 수 있어서 좋았습니다◡̈ "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 4.0,
+        "title": "위치 최고, 화장실은 애매”",
+        "content": "버스와 기차를 많이 이용하는 여행객으로 완벽한 위치, 주변에 맛있는 테이크아웃 집도 많아요. 화장실이 건식도 습식도 아닌게 방 안에 덜렁 있는 구조라 당황스럽고 불편해요.. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 5.0,
+        "title": "위치가 너무 좋아요!”",
+        "content": "방이 진짜 넓었구요! \n터미널에서 도보 3분, 주요관광지 도보로 슬렁슬렁~ 10분? 15분? 정도였어요 ! 얼리체크인은 안되었지만, 짐을 락커에 따로 맡아주어서, 짐 걱정 없이 편하게 관광할 수 있어서 좋았습니다◡̈ "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 4.0,
+        "title": "가성비 좋은 숙소”",
+        "content": "호텔 위치가 좋아 주요 관광지로의 이동 편의성이 뛰어나고 부대시설도 잘 갖춰져  편안한 숙박이 가능해 좋았음."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 4.0,
+        "title": "위치 최고, 화장실은 애매”",
+        "content": "버스와 기차를 많이 이용하는 여행객으로 완벽한 위치, 주변에 맛있는 테이크아웃 집도 많아요. 화장실이 건식도 습식도 아닌게 방 안에 덜렁 있는 구조라 당황스럽고 불편해요.. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 4.0,
+        "title": "위치 최고, 화장실은 애매”",
+        "content": "버스와 기차를 많이 이용하는 여행객으로 완벽한 위치, 주변에 맛있는 테이크아웃 집도 많아요. 화장실이 건식도 습식도 아닌게 방 안에 덜렁 있는 구조라 당황스럽고 불편해요.. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 4.0,
+        "title": "가성비 좋은 숙소”",
+        "content": "호텔 위치가 좋아 주요 관광지로의 이동 편의성이 뛰어나고 부대시설도 잘 갖춰져  편안한 숙박이 가능해 좋았음."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "류블랴나",
+        "hotel_name": "ibis Styles Ljubljana Centre",
+        "score": 5.0,
+        "title": "위치가 너무 좋아요!”",
+        "content": "방이 진짜 넓었구요! \n터미널에서 도보 3분, 주요관광지 도보로 슬렁슬렁~ 10분? 15분? 정도였어요 ! 얼리체크인은 안되었지만, 짐을 락커에 따로 맡아주어서, 짐 걱정 없이 편하게 관광할 수 있어서 좋았습니다◡̈ "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Too Expensive. Outdated Furnishings. Cumbersome Check-in.”",
+        "content": "Five star hotels just aren't what they used to be. The outdated processes and furnishings make this a relic of the past. For what you get, the price isn't justified.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Grand Palace but Wellness and gym are not adequate ”",
+        "content": "Very small and fitness room with not adequate equipment. \nCold outdoor pool \nService level not on 5*"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "Good place to stay”",
+        "content": "Lovely breakfast. \nRoom was comfortable, bathroom a bit on the small side. A bit disappointing to pay extra for parking.\nPool a good plus to this hotel. \nPortoroz suitable for young children."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "wery nice hotel with great ambient and staff”",
+        "content": "this was our first time in hotel kempinsky in portorose. its very nice hotel with all services. wery good location on the beach in city center. they have nice spa center with many masages and other posibilitys. big swimming pool and great offer of drink and food. i come back with my girlfriend next year and i will enjoy in this ambient. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Genial”",
+        "content": "Services de qualité, petit déjeuner féerique sur une très belle terrasse ombragée où on peut prendre le temps de se prélasser jusqu midi !\nUn endroit magique sans fausse note, la piscine d'eau de mer est très agréable, on y sert à boire et à manger sur des transats confortables\nLe personnel est top! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Sehr hilfsbereit und höfliche Personal.\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "bester Luxus toller Service”",
+        "content": "perfekte Lage, toller service und sehr sauber auch der Spa Bereich ist 1A.\r\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "deludente”",
+        "content": "bellissimo hotel peccato che la zona piscina  sia  piccola e fredda, la cena  elegante ma pochissima scelta nel menu e porzioni piccolissime; la colazione eccellente!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 1.0,
+        "title": "מלון ברמה אחרת. מושלם !”",
+        "content": "זו הפעם השניה שאני מתארח במלון הזה. \nשלושה לילות במסגרת נסיעת עסקים.\nלמעשה, מדובר בארמון קיץ של משפחת המלוכה האוסטרו-הונגרית, ששופץ והפך לאחד המלונות המדהימים שיש.  \nסגנון, שירות, נקיון, גישה, מתקנים, מזון- כל אלו ברמה גבוהה מאוד, מה שהופך את הבחירה בו לקלה מאוד.\nשימו לב למחירים. העונה מתחילה באפריל ומסתיימת בסוף אוקטובר- כיאה למלון ברמה זו,  המחירים לא נמוכים. \nיחד עם זאת, עם אגודה ניתן למצוא מציאות - מצאתם? קחו. אל תהססו.\nלילה אחד, שניים, שלושה - תרגישו מהי תחושת מלוכה. בהתחייבות !\nתהנו."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Elegáns, kultúrált, stílusos csodálatos hely.”",
+        "content": "Nagyszerű hely, kulturált környezetben csodálatos parkkal közel a tengerparthoz.A szobából pazar kilátás a tengerre, felszereltsége pompás, stílusos, újszerű állapotú abszolút nem lelakott.Az ágy keménysége ölelkezéshez is ideális /nem elefánt bölcső/!A wellness részleg tiszta, kulturált és elegáns.Mindenkinek szívesen ajánlom! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Jedan od najboljih hotela od svih u kojima sam boravio ”",
+        "content": "Savršen spoj povijesnog i modernog dijela hotela, zaslužuje svaku zvijedicu"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "wery nice hotel with great ambient and staff”",
+        "content": "this was our first time in hotel kempinsky in portorose. its very nice hotel with all services. wery good location on the beach in city center. they have nice spa center with many masages and other posibilitys. big swimming pool and great offer of drink and food. i come back with my girlfriend next year and i will enjoy in this ambient. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "Good place to stay”",
+        "content": "Lovely breakfast. \nRoom was comfortable, bathroom a bit on the small side. A bit disappointing to pay extra for parking.\nPool a good plus to this hotel. \nPortoroz suitable for young children."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Grand Palace but Wellness and gym are not adequate ”",
+        "content": "Very small and fitness room with not adequate equipment. \nCold outdoor pool \nService level not on 5*"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Too Expensive. Outdated Furnishings. Cumbersome Check-in.”",
+        "content": "Five star hotels just aren't what they used to be. The outdated processes and furnishings make this a relic of the past. For what you get, the price isn't justified.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Genial”",
+        "content": "Services de qualité, petit déjeuner féerique sur une très belle terrasse ombragée où on peut prendre le temps de se prélasser jusqu midi !\nUn endroit magique sans fausse note, la piscine d'eau de mer est très agréable, on y sert à boire et à manger sur des transats confortables\nLe personnel est top! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "bester Luxus toller Service”",
+        "content": "perfekte Lage, toller service und sehr sauber auch der Spa Bereich ist 1A.\r\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Sehr hilfsbereit und höfliche Personal.\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "deludente”",
+        "content": "bellissimo hotel peccato che la zona piscina  sia  piccola e fredda, la cena  elegante ma pochissima scelta nel menu e porzioni piccolissime; la colazione eccellente!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 1.0,
+        "title": "מלון ברמה אחרת. מושלם !”",
+        "content": "זו הפעם השניה שאני מתארח במלון הזה. \nשלושה לילות במסגרת נסיעת עסקים.\nלמעשה, מדובר בארמון קיץ של משפחת המלוכה האוסטרו-הונגרית, ששופץ והפך לאחד המלונות המדהימים שיש.  \nסגנון, שירות, נקיון, גישה, מתקנים, מזון- כל אלו ברמה גבוהה מאוד, מה שהופך את הבחירה בו לקלה מאוד.\nשימו לב למחירים. העונה מתחילה באפריל ומסתיימת בסוף אוקטובר- כיאה למלון ברמה זו,  המחירים לא נמוכים. \nיחד עם זאת, עם אגודה ניתן למצוא מציאות - מצאתם? קחו. אל תהססו.\nלילה אחד, שניים, שלושה - תרגישו מהי תחושת מלוכה. בהתחייבות !\nתהנו."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Elegáns, kultúrált, stílusos csodálatos hely.”",
+        "content": "Nagyszerű hely, kulturált környezetben csodálatos parkkal közel a tengerparthoz.A szobából pazar kilátás a tengerre, felszereltsége pompás, stílusos, újszerű állapotú abszolút nem lelakott.Az ágy keménysége ölelkezéshez is ideális /nem elefánt bölcső/!A wellness részleg tiszta, kulturált és elegáns.Mindenkinek szívesen ajánlom! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Jedan od najboljih hotela od svih u kojima sam boravio ”",
+        "content": "Savršen spoj povijesnog i modernog dijela hotela, zaslužuje svaku zvijedicu"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Too Expensive. Outdated Furnishings. Cumbersome Check-in.”",
+        "content": "Five star hotels just aren't what they used to be. The outdated processes and furnishings make this a relic of the past. For what you get, the price isn't justified.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Grand Palace but Wellness and gym are not adequate ”",
+        "content": "Very small and fitness room with not adequate equipment. \nCold outdoor pool \nService level not on 5*"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "Good place to stay”",
+        "content": "Lovely breakfast. \nRoom was comfortable, bathroom a bit on the small side. A bit disappointing to pay extra for parking.\nPool a good plus to this hotel. \nPortoroz suitable for young children."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "wery nice hotel with great ambient and staff”",
+        "content": "this was our first time in hotel kempinsky in portorose. its very nice hotel with all services. wery good location on the beach in city center. they have nice spa center with many masages and other posibilitys. big swimming pool and great offer of drink and food. i come back with my girlfriend next year and i will enjoy in this ambient. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Genial”",
+        "content": "Services de qualité, petit déjeuner féerique sur une très belle terrasse ombragée où on peut prendre le temps de se prélasser jusqu midi !\nUn endroit magique sans fausse note, la piscine d'eau de mer est très agréable, on y sert à boire et à manger sur des transats confortables\nLe personnel est top! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Sehr hilfsbereit und höfliche Personal.\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "bester Luxus toller Service”",
+        "content": "perfekte Lage, toller service und sehr sauber auch der Spa Bereich ist 1A.\r\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "deludente”",
+        "content": "bellissimo hotel peccato che la zona piscina  sia  piccola e fredda, la cena  elegante ma pochissima scelta nel menu e porzioni piccolissime; la colazione eccellente!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 1.0,
+        "title": "מלון ברמה אחרת. מושלם !”",
+        "content": "זו הפעם השניה שאני מתארח במלון הזה. \nשלושה לילות במסגרת נסיעת עסקים.\nלמעשה, מדובר בארמון קיץ של משפחת המלוכה האוסטרו-הונגרית, ששופץ והפך לאחד המלונות המדהימים שיש.  \nסגנון, שירות, נקיון, גישה, מתקנים, מזון- כל אלו ברמה גבוהה מאוד, מה שהופך את הבחירה בו לקלה מאוד.\nשימו לב למחירים. העונה מתחילה באפריל ומסתיימת בסוף אוקטובר- כיאה למלון ברמה זו,  המחירים לא נמוכים. \nיחד עם זאת, עם אגודה ניתן למצוא מציאות - מצאתם? קחו. אל תהססו.\nלילה אחד, שניים, שלושה - תרגישו מהי תחושת מלוכה. בהתחייבות !\nתהנו."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Elegáns, kultúrált, stílusos csodálatos hely.”",
+        "content": "Nagyszerű hely, kulturált környezetben csodálatos parkkal közel a tengerparthoz.A szobából pazar kilátás a tengerre, felszereltsége pompás, stílusos, újszerű állapotú abszolút nem lelakott.Az ágy keménysége ölelkezéshez is ideális /nem elefánt bölcső/!A wellness részleg tiszta, kulturált és elegáns.Mindenkinek szívesen ajánlom! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Jedan od najboljih hotela od svih u kojima sam boravio ”",
+        "content": "Savršen spoj povijesnog i modernog dijela hotela, zaslužuje svaku zvijedicu"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Grand hotel Portorož”",
+        "content": "Dobre situovaný hotel v centre mesta. Bohaté raňajky, milý personál. Vybývané izby so starými matracmi, chcelo by to rekonštrukciu, nevkusný koberec. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "exellent place to stay”",
+        "content": "good service, good value price, worse to stay"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Très jolie endroits”",
+        "content": "Service de haute qualité. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Gutes hotel”",
+        "content": "Wenn man sehr pingelig wäre könnte man ein paar Kleinigkeiten anmerken aber im Großen und Ganzen ein sehr gutes Hotel "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Inventar der Zimmer verträgt Investitionen "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Pred hotelom ni parkirišča za invalide, kopalnica ni primerna za invalide, saj je v njej kopalna kad. So nama menjali sobo za invalidsko, kjer pa je bilo v kopalnici skladišče omare in mize, postelje ločene. Čeprav so vedeli 3 mesece vnaprej, niso priskrbeli normlne sobe z tušem. Hotel je potreben obnove, oprema istrošena. Imela sva sobo direktno pred skladiščem čistilnega osebja, tako da od 7.45 naprej ni bilo več miru, čistilke so se glasno pogovarjala, kričale po hodniku. Hvala, me ne vidite več. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "Bilder: modern, Realität: in die Jahre gekommen”",
+        "content": "Die Bilder haben suggeriert, dass dies ein sehr modernes Hotel ist. In Wirklichkeit wurden dort selektiv die Teile gezeigt, die scheinbar nachträglich modernisiert wurden (z.B. Teile der Lobby). Das Hotel ist spürbar in die Jahre gekommen. Wer Zimmer mit Teppichböden und Holzvertäfelung mag, wird sich zuhause fühlen. Das Frühstück ist sehr durchschnittlich und lieblos. Im Nachhinein hätten wir lieber woanders frühstücken sollen. Positiv anzumerken ist lediglich die Lage, da alles prima zu Fuß erreichbar ist und der Bus nach Piran direkt vor der Tür fährt. Wir kommen eher nicht wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Das Hotel liegt in unmittelbarer Nähe der Promenade und wird nur durch die Verbindungsstraße nach Piran getrennt. \nDas Personal war sehr nett, das Zimmer ausreichend groß, sehr ruhig und sauber.\nDas Essen ( Halbpension ) war immer frisch, abwechslungsreich und sehr schmackhaft zubereitet. Der tägliche Thermenbesuch war Balsam für Haut und Atemwege.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Ein charmantes Hotel mit integrierter Therme.\nKlasse Ausstattung, sehr sauber, große Zimmer und Betten. Im Hotel sehr ruhig, auf der Sonnenterasse etwas turbulenter durch die Lage an der Straße.\nTolles Essen, riesige Auswahl an frischen Speisen, angenehm freundliches und zuvorkommendes Personal.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Sehr zufrieden ”",
+        "content": "Hotel ist sehr sauber\nFrühstück war sehr gut"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Upgrade in eine Suite sehr von Vorteil”",
+        "content": "sehr gutes Essen, sehr freundlicher und kompetenter Empfang, jedezeit gerne wieder"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 1.0,
+        "title": "무난함”",
+        "content": "This is a smelly hotel. It stinks everywhere and the hotel is not maintained at all. The rooms and the restaurant is terrible. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
         "score": 4.0,
         "title": "우수”",
-        "content": "Lovely location - can walk all down the coast to Piran easily. The room was quite dated but did the job for a one night stay. Check in was at the next hotel (4 star) and all the facilities to use were there.  Excellent breakfast and indoor pool. Free parking was a benefit. Staff (or the process of) checking in / out was too slow. Took over 30mins to check in and 15 to check out. "
+        "content": "Tutto molto bello tranne che la SPA, non perché è brutta, ma se uno sceglie quell’ Albergo (come ho fatto io), per rilassarsi in acqua non va bene, sembra una piscina Comunale, troppa gente, troppo rumore, acqua non caldissima e girare senza le ciabatte addosso non mi sembra igienico, per il resto lo consiglio assolutamente!, camere pulite,silenziose e cibo abbondante e molto buono… La SPA Bocciata!! "
     },
     {
         "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
         "score": 4.0,
-        "title": "Really good stay”",
-        "content": "The room was the whole day in pleasant shade, so climate control was almost not needed in spite of the heat. Shower excellent, wifi also, beds comfortable and room has enough space. Quiet surroundings and good night sleep, excellent breakfast. Friendly and helpful staff. Clean sea water pool and welness area. Would definitely recommend  👍"
+        "title": "vacanza di lavoro”",
+        "content": "weekend in ottobre con clima meraviglioso, struttura in posizione ottima fronte mare"
     },
     {
         "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
-        "score": 3.0,
-        "title": "Hotel confortable”",
-        "content": "Hotel bien situé  literie confortable  petit dejeuner tres bon,  parc aquatique super , parking gratuit , le batiment a besoin d un rafraichissement..."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
-        "score": 5.0,
-        "title": "Kurzurlaub”",
-        "content": "Wir haben uns so wohl gefüllt\nZimmer praktisch und nett\nFrühstück super\nkommen gerne wieder"
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
-        "score": 5.0,
-        "title": "Spontaner Kurzurlaub ”",
-        "content": "War wie immer alles okay "
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
-        "score": 3.0,
-        "title": "Die Rezeption ist leider nicht sehr freundlich. ”",
-        "content": "Im großen und ganzen Preis - Leistung passt. Aber Personal an der Rezeption spricht leider kein Deutsch "
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
-        "score": 3.0,
-        "title": "Sehr in die Jahre gekommener Apartment Komplex”",
-        "content": "Von Außen sieht der Apartment-Komplex renovierungsbedürftig aus. \nDas Zimmer selber ist auch nicht sehr einladend, alte Teppiche und nicht wirklich zum wohlfühlen. Zimmer ist fast direkt überhalb eines Restaurants in dem es lautstark bis weit nach Mitternacht zugeht.\nDie Betten waren okay und die Lage fast direkt am Meer war gut."
-    },
-    {
-        "country": "슬로베니아",
-        "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
         "score": 4.0,
-        "title": "buono ma struttura vecchia”",
-        "content": "Molto belle le attrazioni e l’ hotel in cui c’è la piacina interna e in cui si fa la colazione, ma il vie parking l’ ho trovato una struttura un po’ vecchiotta che magari andrebbe ristrutturata in quanto c’è un abisso con la struttura li presente. Detto ció, cordiale lo staff che parla varie lingue, formidabile la colazione e ottima la posizione."
+        "title": "매우 좋음”",
+        "content": "Tutto bellissimo unica pecca il parcheggio troppo piccolo in sede, ne hanno un altro nella marina portuale ma molto distante che di fatto ti costringe a usare poco e niente l'auto. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Превосходно”",
+        "content": "Великолепно"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "موقع متميز و الغرفه ممتازه”",
+        "content": "سكنة في الفندق في شهر اكتوبر - موقع ممتاز - غرف مريحه ونظيف - يوجد بها تكيف وبلكونه تطل علي البحر يوجد مصح وسبا تابع للفندق ومجمع صغير من المحلات وامام الفندق ممشا ومحلات ومقاهي يوجد مطعما كبير .وجميع الموظفين مريحين فالتعامل."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Taxi”",
+        "content": "10"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Grand hotel Portorož”",
+        "content": "Dobre situovaný hotel v centre mesta. Bohaté raňajky, milý personál. Vybývané izby so starými matracmi, chcelo by to rekonštrukciu, nevkusný koberec. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "exellent place to stay”",
+        "content": "good service, good value price, worse to stay"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Très jolie endroits”",
+        "content": "Service de haute qualité. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Das Hotel liegt in unmittelbarer Nähe der Promenade und wird nur durch die Verbindungsstraße nach Piran getrennt. \nDas Personal war sehr nett, das Zimmer ausreichend groß, sehr ruhig und sauber.\nDas Essen ( Halbpension ) war immer frisch, abwechslungsreich und sehr schmackhaft zubereitet. Der tägliche Thermenbesuch war Balsam für Haut und Atemwege.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Ein charmantes Hotel mit integrierter Therme.\nKlasse Ausstattung, sehr sauber, große Zimmer und Betten. Im Hotel sehr ruhig, auf der Sonnenterasse etwas turbulenter durch die Lage an der Straße.\nTolles Essen, riesige Auswahl an frischen Speisen, angenehm freundliches und zuvorkommendes Personal.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Inventar der Zimmer verträgt Investitionen "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Upgrade in eine Suite sehr von Vorteil”",
+        "content": "sehr gutes Essen, sehr freundlicher und kompetenter Empfang, jedezeit gerne wieder"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Gutes hotel”",
+        "content": "Wenn man sehr pingelig wäre könnte man ein paar Kleinigkeiten anmerken aber im Großen und Ganzen ein sehr gutes Hotel "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Sehr zufrieden ”",
+        "content": "Hotel ist sehr sauber\nFrühstück war sehr gut"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Pred hotelom ni parkirišča za invalide, kopalnica ni primerna za invalide, saj je v njej kopalna kad. So nama menjali sobo za invalidsko, kjer pa je bilo v kopalnici skladišče omare in mize, postelje ločene. Čeprav so vedeli 3 mesece vnaprej, niso priskrbeli normlne sobe z tušem. Hotel je potreben obnove, oprema istrošena. Imela sva sobo direktno pred skladiščem čistilnega osebja, tako da od 7.45 naprej ni bilo več miru, čistilke so se glasno pogovarjala, kričale po hodniku. Hvala, me ne vidite več. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "Bilder: modern, Realität: in die Jahre gekommen”",
+        "content": "Die Bilder haben suggeriert, dass dies ein sehr modernes Hotel ist. In Wirklichkeit wurden dort selektiv die Teile gezeigt, die scheinbar nachträglich modernisiert wurden (z.B. Teile der Lobby). Das Hotel ist spürbar in die Jahre gekommen. Wer Zimmer mit Teppichböden und Holzvertäfelung mag, wird sich zuhause fühlen. Das Frühstück ist sehr durchschnittlich und lieblos. Im Nachhinein hätten wir lieber woanders frühstücken sollen. Positiv anzumerken ist lediglich die Lage, da alles prima zu Fuß erreichbar ist und der Bus nach Piran direkt vor der Tür fährt. Wir kommen eher nicht wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 1.0,
+        "title": "무난함”",
+        "content": "This is a smelly hotel. It stinks everywhere and the hotel is not maintained at all. The rooms and the restaurant is terrible. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "우수”",
+        "content": "Tutto molto bello tranne che la SPA, non perché è brutta, ma se uno sceglie quell’ Albergo (come ho fatto io), per rilassarsi in acqua non va bene, sembra una piscina Comunale, troppa gente, troppo rumore, acqua non caldissima e girare senza le ciabatte addosso non mi sembra igienico, per il resto lo consiglio assolutamente!, camere pulite,silenziose e cibo abbondante e molto buono… La SPA Bocciata!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "vacanza di lavoro”",
+        "content": "weekend in ottobre con clima meraviglioso, struttura in posizione ottima fronte mare"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "매우 좋음”",
+        "content": "Tutto bellissimo unica pecca il parcheggio troppo piccolo in sede, ne hanno un altro nella marina portuale ma molto distante che di fatto ti costringe a usare poco e niente l'auto. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Превосходно”",
+        "content": "Великолепно"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "موقع متميز و الغرفه ممتازه”",
+        "content": "سكنة في الفندق في شهر اكتوبر - موقع ممتاز - غرف مريحه ونظيف - يوجد بها تكيف وبلكونه تطل علي البحر يوجد مصح وسبا تابع للفندق ومجمع صغير من المحلات وامام الفندق ممشا ومحلات ومقاهي يوجد مطعما كبير .وجميع الموظفين مريحين فالتعامل."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Taxi”",
+        "content": "10"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "exellent place to stay”",
+        "content": "good service, good value price, worse to stay"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Grand hotel Portorož”",
+        "content": "Dobre situovaný hotel v centre mesta. Bohaté raňajky, milý personál. Vybývané izby so starými matracmi, chcelo by to rekonštrukciu, nevkusný koberec. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Très jolie endroits”",
+        "content": "Service de haute qualité. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "Bilder: modern, Realität: in die Jahre gekommen”",
+        "content": "Die Bilder haben suggeriert, dass dies ein sehr modernes Hotel ist. In Wirklichkeit wurden dort selektiv die Teile gezeigt, die scheinbar nachträglich modernisiert wurden (z.B. Teile der Lobby). Das Hotel ist spürbar in die Jahre gekommen. Wer Zimmer mit Teppichböden und Holzvertäfelung mag, wird sich zuhause fühlen. Das Frühstück ist sehr durchschnittlich und lieblos. Im Nachhinein hätten wir lieber woanders frühstücken sollen. Positiv anzumerken ist lediglich die Lage, da alles prima zu Fuß erreichbar ist und der Bus nach Piran direkt vor der Tür fährt. Wir kommen eher nicht wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Pred hotelom ni parkirišča za invalide, kopalnica ni primerna za invalide, saj je v njej kopalna kad. So nama menjali sobo za invalidsko, kjer pa je bilo v kopalnici skladišče omare in mize, postelje ločene. Čeprav so vedeli 3 mesece vnaprej, niso priskrbeli normlne sobe z tušem. Hotel je potreben obnove, oprema istrošena. Imela sva sobo direktno pred skladiščem čistilnega osebja, tako da od 7.45 naprej ni bilo več miru, čistilke so se glasno pogovarjala, kričale po hodniku. Hvala, me ne vidite več. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Gutes hotel”",
+        "content": "Wenn man sehr pingelig wäre könnte man ein paar Kleinigkeiten anmerken aber im Großen und Ganzen ein sehr gutes Hotel "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Sehr zufrieden ”",
+        "content": "Hotel ist sehr sauber\nFrühstück war sehr gut"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Upgrade in eine Suite sehr von Vorteil”",
+        "content": "sehr gutes Essen, sehr freundlicher und kompetenter Empfang, jedezeit gerne wieder"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Inventar der Zimmer verträgt Investitionen "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Das Hotel liegt in unmittelbarer Nähe der Promenade und wird nur durch die Verbindungsstraße nach Piran getrennt. \nDas Personal war sehr nett, das Zimmer ausreichend groß, sehr ruhig und sauber.\nDas Essen ( Halbpension ) war immer frisch, abwechslungsreich und sehr schmackhaft zubereitet. Der tägliche Thermenbesuch war Balsam für Haut und Atemwege.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Ein charmantes Hotel mit integrierter Therme.\nKlasse Ausstattung, sehr sauber, große Zimmer und Betten. Im Hotel sehr ruhig, auf der Sonnenterasse etwas turbulenter durch die Lage an der Straße.\nTolles Essen, riesige Auswahl an frischen Speisen, angenehm freundliches und zuvorkommendes Personal.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 1.0,
+        "title": "무난함”",
+        "content": "This is a smelly hotel. It stinks everywhere and the hotel is not maintained at all. The rooms and the restaurant is terrible. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "매우 좋음”",
+        "content": "Tutto bellissimo unica pecca il parcheggio troppo piccolo in sede, ne hanno un altro nella marina portuale ma molto distante che di fatto ti costringe a usare poco e niente l'auto. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "vacanza di lavoro”",
+        "content": "weekend in ottobre con clima meraviglioso, struttura in posizione ottima fronte mare"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "우수”",
+        "content": "Tutto molto bello tranne che la SPA, non perché è brutta, ma se uno sceglie quell’ Albergo (come ho fatto io), per rilassarsi in acqua non va bene, sembra una piscina Comunale, troppa gente, troppo rumore, acqua non caldissima e girare senza le ciabatte addosso non mi sembra igienico, per il resto lo consiglio assolutamente!, camere pulite,silenziose e cibo abbondante e molto buono… La SPA Bocciata!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Превосходно”",
+        "content": "Великолепно"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "موقع متميز و الغرفه ممتازه”",
+        "content": "سكنة في الفندق في شهر اكتوبر - موقع ممتاز - غرف مريحه ونظيف - يوجد بها تكيف وبلكونه تطل علي البحر يوجد مصح وسبا تابع للفندق ومجمع صغير من المحلات وامام الفندق ممشا ومحلات ومقاهي يوجد مطعما كبير .وجميع الموظفين مريحين فالتعامل."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Taxi”",
+        "content": "10"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "좋아요”",
+        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "꼭 추천.. ”",
+        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "위치가 넘 좋고 예쁜호텔”",
+        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "좋아요”",
+        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "꼭 추천.. ”",
+        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "위치가 넘 좋고 예쁜호텔”",
+        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "좋아요”",
+        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "꼭 추천.. ”",
+        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "위치가 넘 좋고 예쁜호텔”",
+        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Im Winter lohnt és sich hier zu nächtigen”",
+        "content": "Sehr sauber und schöne Zimmer. Personal nicht so freundlich bei mir jedenfalls!! Top Zimmer Top kostenlose Poollandschaft mit Slazwasser!! Im Winter lohnt és sich hier zu nächtigen!! Absolut Top Frühstücksbuffet mit freunlichen Bedinungen!! Komme gern wieder!! Absolut empfehlenswert!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Sehr sehr gut”",
+        "content": "Alles Prefekt wir sind sehr sehr zufrieden mit allem wir kommen wieder herlich"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "Hotel centrale vicino alle Terme strapiene di gente , mancanza di ossigeno dentro le terme , troppe persone "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Sehr sehr gut”",
+        "content": "Alles Prefekt wir sind sehr sehr zufrieden mit allem wir kommen wieder herlich"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Im Winter lohnt és sich hier zu nächtigen”",
+        "content": "Sehr sauber und schöne Zimmer. Personal nicht so freundlich bei mir jedenfalls!! Top Zimmer Top kostenlose Poollandschaft mit Slazwasser!! Im Winter lohnt és sich hier zu nächtigen!! Absolut Top Frühstücksbuffet mit freunlichen Bedinungen!! Komme gern wieder!! Absolut empfehlenswert!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "Hotel centrale vicino alle Terme strapiene di gente , mancanza di ossigeno dentro le terme , troppe persone "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Im Winter lohnt és sich hier zu nächtigen”",
+        "content": "Sehr sauber und schöne Zimmer. Personal nicht so freundlich bei mir jedenfalls!! Top Zimmer Top kostenlose Poollandschaft mit Slazwasser!! Im Winter lohnt és sich hier zu nächtigen!! Absolut Top Frühstücksbuffet mit freunlichen Bedinungen!! Komme gern wieder!! Absolut empfehlenswert!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Sehr sehr gut”",
+        "content": "Alles Prefekt wir sind sehr sehr zufrieden mit allem wir kommen wieder herlich"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "피란",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "Hotel centrale vicino alle Terme strapiene di gente , mancanza di ossigeno dentro le terme , troppe persone "
     },
     {
         "country": "슬로베니아",
         "region": "포르토로즈",
-        "hotel_name": "호텔 빌 파크 (Hotel Vile Park)",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Im Winter lohnt és sich hier zu nächtigen”",
+        "content": "Sehr sauber und schöne Zimmer. Personal nicht so freundlich bei mir jedenfalls!! Top Zimmer Top kostenlose Poollandschaft mit Slazwasser!! Im Winter lohnt és sich hier zu nächtigen!! Absolut Top Frühstücksbuffet mit freunlichen Bedinungen!! Komme gern wieder!! Absolut empfehlenswert!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
         "score": 5.0,
-        "title": "Vízimádó gyerekkel tökéletes ”",
-        "content": "A szálláshoz többféle  strand tartozik: tengeri sekely es mély, ugralovarral, tengervizes szabafteri medence, tengervizes belteri medencek, hidegebb es melegebb vizzel, elmenyfurdo, csuszda. Reggeli szuper. Minden kozel van, Piranba ingyenes kisbusz visz, de setalva is 20 perc."
+        "title": "Sehr sehr gut”",
+        "content": "Alles Prefekt wir sind sehr sehr zufrieden mit allem wir kommen wieder herlich"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "Hotel centrale vicino alle Terme strapiene di gente , mancanza di ossigeno dentro le terme , troppe persone "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Sehr sehr gut”",
+        "content": "Alles Prefekt wir sind sehr sehr zufrieden mit allem wir kommen wieder herlich"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Im Winter lohnt és sich hier zu nächtigen”",
+        "content": "Sehr sauber und schöne Zimmer. Personal nicht so freundlich bei mir jedenfalls!! Top Zimmer Top kostenlose Poollandschaft mit Slazwasser!! Im Winter lohnt és sich hier zu nächtigen!! Absolut Top Frühstücksbuffet mit freunlichen Bedinungen!! Komme gern wieder!! Absolut empfehlenswert!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "Hotel centrale vicino alle Terme strapiene di gente , mancanza di ossigeno dentro le terme , troppe persone "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Im Winter lohnt és sich hier zu nächtigen”",
+        "content": "Sehr sauber und schöne Zimmer. Personal nicht so freundlich bei mir jedenfalls!! Top Zimmer Top kostenlose Poollandschaft mit Slazwasser!! Im Winter lohnt és sich hier zu nächtigen!! Absolut Top Frühstücksbuffet mit freunlichen Bedinungen!! Komme gern wieder!! Absolut empfehlenswert!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Sehr sehr gut”",
+        "content": "Alles Prefekt wir sind sehr sehr zufrieden mit allem wir kommen wieder herlich"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 2.0,
+        "title": "보통”",
+        "content": "Hotel centrale vicino alle Terme strapiene di gente , mancanza di ossigeno dentro le terme , troppe persone "
     },
     {
         "country": "슬로베니아",
@@ -846,5 +2686,653 @@
         "score": 5.0,
         "title": "Taxi”",
         "content": "10"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Grand hotel Portorož”",
+        "content": "Dobre situovaný hotel v centre mesta. Bohaté raňajky, milý personál. Vybývané izby so starými matracmi, chcelo by to rekonštrukciu, nevkusný koberec. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "exellent place to stay”",
+        "content": "good service, good value price, worse to stay"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Très jolie endroits”",
+        "content": "Service de haute qualité. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Das Hotel liegt in unmittelbarer Nähe der Promenade und wird nur durch die Verbindungsstraße nach Piran getrennt. \nDas Personal war sehr nett, das Zimmer ausreichend groß, sehr ruhig und sauber.\nDas Essen ( Halbpension ) war immer frisch, abwechslungsreich und sehr schmackhaft zubereitet. Der tägliche Thermenbesuch war Balsam für Haut und Atemwege.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Ein charmantes Hotel mit integrierter Therme.\nKlasse Ausstattung, sehr sauber, große Zimmer und Betten. Im Hotel sehr ruhig, auf der Sonnenterasse etwas turbulenter durch die Lage an der Straße.\nTolles Essen, riesige Auswahl an frischen Speisen, angenehm freundliches und zuvorkommendes Personal.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Inventar der Zimmer verträgt Investitionen "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Upgrade in eine Suite sehr von Vorteil”",
+        "content": "sehr gutes Essen, sehr freundlicher und kompetenter Empfang, jedezeit gerne wieder"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Gutes hotel”",
+        "content": "Wenn man sehr pingelig wäre könnte man ein paar Kleinigkeiten anmerken aber im Großen und Ganzen ein sehr gutes Hotel "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Sehr zufrieden ”",
+        "content": "Hotel ist sehr sauber\nFrühstück war sehr gut"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Pred hotelom ni parkirišča za invalide, kopalnica ni primerna za invalide, saj je v njej kopalna kad. So nama menjali sobo za invalidsko, kjer pa je bilo v kopalnici skladišče omare in mize, postelje ločene. Čeprav so vedeli 3 mesece vnaprej, niso priskrbeli normlne sobe z tušem. Hotel je potreben obnove, oprema istrošena. Imela sva sobo direktno pred skladiščem čistilnega osebja, tako da od 7.45 naprej ni bilo več miru, čistilke so se glasno pogovarjala, kričale po hodniku. Hvala, me ne vidite več. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "Bilder: modern, Realität: in die Jahre gekommen”",
+        "content": "Die Bilder haben suggeriert, dass dies ein sehr modernes Hotel ist. In Wirklichkeit wurden dort selektiv die Teile gezeigt, die scheinbar nachträglich modernisiert wurden (z.B. Teile der Lobby). Das Hotel ist spürbar in die Jahre gekommen. Wer Zimmer mit Teppichböden und Holzvertäfelung mag, wird sich zuhause fühlen. Das Frühstück ist sehr durchschnittlich und lieblos. Im Nachhinein hätten wir lieber woanders frühstücken sollen. Positiv anzumerken ist lediglich die Lage, da alles prima zu Fuß erreichbar ist und der Bus nach Piran direkt vor der Tür fährt. Wir kommen eher nicht wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 1.0,
+        "title": "무난함”",
+        "content": "This is a smelly hotel. It stinks everywhere and the hotel is not maintained at all. The rooms and the restaurant is terrible. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "우수”",
+        "content": "Tutto molto bello tranne che la SPA, non perché è brutta, ma se uno sceglie quell’ Albergo (come ho fatto io), per rilassarsi in acqua non va bene, sembra una piscina Comunale, troppa gente, troppo rumore, acqua non caldissima e girare senza le ciabatte addosso non mi sembra igienico, per il resto lo consiglio assolutamente!, camere pulite,silenziose e cibo abbondante e molto buono… La SPA Bocciata!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "vacanza di lavoro”",
+        "content": "weekend in ottobre con clima meraviglioso, struttura in posizione ottima fronte mare"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "매우 좋음”",
+        "content": "Tutto bellissimo unica pecca il parcheggio troppo piccolo in sede, ne hanno un altro nella marina portuale ma molto distante che di fatto ti costringe a usare poco e niente l'auto. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Превосходно”",
+        "content": "Великолепно"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "موقع متميز و الغرفه ممتازه”",
+        "content": "سكنة في الفندق في شهر اكتوبر - موقع ممتاز - غرف مريحه ونظيف - يوجد بها تكيف وبلكونه تطل علي البحر يوجد مصح وسبا تابع للفندق ومجمع صغير من المحلات وامام الفندق ممشا ومحلات ومقاهي يوجد مطعما كبير .وجميع الموظفين مريحين فالتعامل."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Taxi”",
+        "content": "10"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "exellent place to stay”",
+        "content": "good service, good value price, worse to stay"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Grand hotel Portorož”",
+        "content": "Dobre situovaný hotel v centre mesta. Bohaté raňajky, milý personál. Vybývané izby so starými matracmi, chcelo by to rekonštrukciu, nevkusný koberec. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Très jolie endroits”",
+        "content": "Service de haute qualité. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "Bilder: modern, Realität: in die Jahre gekommen”",
+        "content": "Die Bilder haben suggeriert, dass dies ein sehr modernes Hotel ist. In Wirklichkeit wurden dort selektiv die Teile gezeigt, die scheinbar nachträglich modernisiert wurden (z.B. Teile der Lobby). Das Hotel ist spürbar in die Jahre gekommen. Wer Zimmer mit Teppichböden und Holzvertäfelung mag, wird sich zuhause fühlen. Das Frühstück ist sehr durchschnittlich und lieblos. Im Nachhinein hätten wir lieber woanders frühstücken sollen. Positiv anzumerken ist lediglich die Lage, da alles prima zu Fuß erreichbar ist und der Bus nach Piran direkt vor der Tür fährt. Wir kommen eher nicht wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 3.0,
+        "title": "양호”",
+        "content": "Pred hotelom ni parkirišča za invalide, kopalnica ni primerna za invalide, saj je v njej kopalna kad. So nama menjali sobo za invalidsko, kjer pa je bilo v kopalnici skladišče omare in mize, postelje ločene. Čeprav so vedeli 3 mesece vnaprej, niso priskrbeli normlne sobe z tušem. Hotel je potreben obnove, oprema istrošena. Imela sva sobo direktno pred skladiščem čistilnega osebja, tako da od 7.45 naprej ni bilo več miru, čistilke so se glasno pogovarjala, kričale po hodniku. Hvala, me ne vidite več. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Gutes hotel”",
+        "content": "Wenn man sehr pingelig wäre könnte man ein paar Kleinigkeiten anmerken aber im Großen und Ganzen ein sehr gutes Hotel "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Sehr zufrieden ”",
+        "content": "Hotel ist sehr sauber\nFrühstück war sehr gut"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "Upgrade in eine Suite sehr von Vorteil”",
+        "content": "sehr gutes Essen, sehr freundlicher und kompetenter Empfang, jedezeit gerne wieder"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Inventar der Zimmer verträgt Investitionen "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Das Hotel liegt in unmittelbarer Nähe der Promenade und wird nur durch die Verbindungsstraße nach Piran getrennt. \nDas Personal war sehr nett, das Zimmer ausreichend groß, sehr ruhig und sauber.\nDas Essen ( Halbpension ) war immer frisch, abwechslungsreich und sehr schmackhaft zubereitet. Der tägliche Thermenbesuch war Balsam für Haut und Atemwege.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Tolles Hotel mit Therme in Toplage.”",
+        "content": "Ein charmantes Hotel mit integrierter Therme.\nKlasse Ausstattung, sehr sauber, große Zimmer und Betten. Im Hotel sehr ruhig, auf der Sonnenterasse etwas turbulenter durch die Lage an der Straße.\nTolles Essen, riesige Auswahl an frischen Speisen, angenehm freundliches und zuvorkommendes Personal.\nWir kommen auf jeden Fall wieder."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 1.0,
+        "title": "무난함”",
+        "content": "This is a smelly hotel. It stinks everywhere and the hotel is not maintained at all. The rooms and the restaurant is terrible. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "매우 좋음”",
+        "content": "Tutto bellissimo unica pecca il parcheggio troppo piccolo in sede, ne hanno un altro nella marina portuale ma molto distante che di fatto ti costringe a usare poco e niente l'auto. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "vacanza di lavoro”",
+        "content": "weekend in ottobre con clima meraviglioso, struttura in posizione ottima fronte mare"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "우수”",
+        "content": "Tutto molto bello tranne che la SPA, non perché è brutta, ma se uno sceglie quell’ Albergo (come ho fatto io), per rilassarsi in acqua non va bene, sembra una piscina Comunale, troppa gente, troppo rumore, acqua non caldissima e girare senza le ciabatte addosso non mi sembra igienico, per il resto lo consiglio assolutamente!, camere pulite,silenziose e cibo abbondante e molto buono… La SPA Bocciata!! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Превосходно”",
+        "content": "Великолепно"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 4.0,
+        "title": "موقع متميز و الغرفه ممتازه”",
+        "content": "سكنة في الفندق في شهر اكتوبر - موقع ممتاز - غرف مريحه ونظيف - يوجد بها تكيف وبلكونه تطل علي البحر يوجد مصح وسبا تابع للفندق ومجمع صغير من المحلات وامام الفندق ممشا ومحلات ومقاهي يوجد مطعما كبير .وجميع الموظفين مريحين فالتعامل."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "Hotel Neptun - LifeClass Hotels & Spa",
+        "score": 5.0,
+        "title": "Taxi”",
+        "content": "10"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "좋아요”",
+        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "꼭 추천.. ”",
+        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "위치가 넘 좋고 예쁜호텔”",
+        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "좋아요”",
+        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "꼭 추천.. ”",
+        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "위치가 넘 좋고 예쁜호텔”",
+        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "화장실에서 하수구 냄새가 올라오는거 빼면 위치도 좋고 방 시설도 다 좋았습니다 ㅎㅎ"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "좋아요”",
+        "content": "2박하고 모토분 풀라 피란 주변 다니기 좋았어요"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "꼭 추천.. ”",
+        "content": "렌트하시면 피란 주차장에 주차하시게 되는데 바로바로 셔틀도 운영해주시고 주차료도 할인해주세요. 방은 작지만 바로 앞 바다 뷰 좋아 석양도 볼 수 있어서 너무 만족스러웠어요. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 피란 (Hotel Piran)",
+        "score": 5.0,
+        "title": "위치가 넘 좋고 예쁜호텔”",
+        "content": "아고다 평점이 낮아 망설였는데, 피란 최고의 호텔이었네요. 위치도 좋고 이쁘고 아스기자기하고 스텝들은 동구권 특징의 츤데레스탈~~   겨울 피란은 5시전에 상가들이 눈닫고 맛집들도 일찍문닫아 대략난감.. 여름에 오면 호텔.. 비싸겠쥬??  조식좋았고 아침먹으며 바다바라보기 참 좋았어요."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Too Expensive. Outdated Furnishings. Cumbersome Check-in.”",
+        "content": "Five star hotels just aren't what they used to be. The outdated processes and furnishings make this a relic of the past. For what you get, the price isn't justified.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Grand Palace but Wellness and gym are not adequate ”",
+        "content": "Very small and fitness room with not adequate equipment. \nCold outdoor pool \nService level not on 5*"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "Good place to stay”",
+        "content": "Lovely breakfast. \nRoom was comfortable, bathroom a bit on the small side. A bit disappointing to pay extra for parking.\nPool a good plus to this hotel. \nPortoroz suitable for young children."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "wery nice hotel with great ambient and staff”",
+        "content": "this was our first time in hotel kempinsky in portorose. its very nice hotel with all services. wery good location on the beach in city center. they have nice spa center with many masages and other posibilitys. big swimming pool and great offer of drink and food. i come back with my girlfriend next year and i will enjoy in this ambient. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Genial”",
+        "content": "Services de qualité, petit déjeuner féerique sur une très belle terrasse ombragée où on peut prendre le temps de se prélasser jusqu midi !\nUn endroit magique sans fausse note, la piscine d'eau de mer est très agréable, on y sert à boire et à manger sur des transats confortables\nLe personnel est top! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Sehr hilfsbereit und höfliche Personal.\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "bester Luxus toller Service”",
+        "content": "perfekte Lage, toller service und sehr sauber auch der Spa Bereich ist 1A.\r\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "deludente”",
+        "content": "bellissimo hotel peccato che la zona piscina  sia  piccola e fredda, la cena  elegante ma pochissima scelta nel menu e porzioni piccolissime; la colazione eccellente!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 1.0,
+        "title": "מלון ברמה אחרת. מושלם !”",
+        "content": "זו הפעם השניה שאני מתארח במלון הזה. \nשלושה לילות במסגרת נסיעת עסקים.\nלמעשה, מדובר בארמון קיץ של משפחת המלוכה האוסטרו-הונגרית, ששופץ והפך לאחד המלונות המדהימים שיש.  \nסגנון, שירות, נקיון, גישה, מתקנים, מזון- כל אלו ברמה גבוהה מאוד, מה שהופך את הבחירה בו לקלה מאוד.\nשימו לב למחירים. העונה מתחילה באפריל ומסתיימת בסוף אוקטובר- כיאה למלון ברמה זו,  המחירים לא נמוכים. \nיחד עם זאת, עם אגודה ניתן למצוא מציאות - מצאתם? קחו. אל תהססו.\nלילה אחד, שניים, שלושה - תרגישו מהי תחושת מלוכה. בהתחייבות !\nתהנו."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Elegáns, kultúrált, stílusos csodálatos hely.”",
+        "content": "Nagyszerű hely, kulturált környezetben csodálatos parkkal közel a tengerparthoz.A szobából pazar kilátás a tengerre, felszereltsége pompás, stílusos, újszerű állapotú abszolút nem lelakott.Az ágy keménysége ölelkezéshez is ideális /nem elefánt bölcső/!A wellness részleg tiszta, kulturált és elegáns.Mindenkinek szívesen ajánlom! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Jedan od najboljih hotela od svih u kojima sam boravio ”",
+        "content": "Savršen spoj povijesnog i modernog dijela hotela, zaslužuje svaku zvijedicu"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "wery nice hotel with great ambient and staff”",
+        "content": "this was our first time in hotel kempinsky in portorose. its very nice hotel with all services. wery good location on the beach in city center. they have nice spa center with many masages and other posibilitys. big swimming pool and great offer of drink and food. i come back with my girlfriend next year and i will enjoy in this ambient. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "Good place to stay”",
+        "content": "Lovely breakfast. \nRoom was comfortable, bathroom a bit on the small side. A bit disappointing to pay extra for parking.\nPool a good plus to this hotel. \nPortoroz suitable for young children."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Grand Palace but Wellness and gym are not adequate ”",
+        "content": "Very small and fitness room with not adequate equipment. \nCold outdoor pool \nService level not on 5*"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Too Expensive. Outdated Furnishings. Cumbersome Check-in.”",
+        "content": "Five star hotels just aren't what they used to be. The outdated processes and furnishings make this a relic of the past. For what you get, the price isn't justified.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Genial”",
+        "content": "Services de qualité, petit déjeuner féerique sur une très belle terrasse ombragée où on peut prendre le temps de se prélasser jusqu midi !\nUn endroit magique sans fausse note, la piscine d'eau de mer est très agréable, on y sert à boire et à manger sur des transats confortables\nLe personnel est top! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "bester Luxus toller Service”",
+        "content": "perfekte Lage, toller service und sehr sauber auch der Spa Bereich ist 1A.\r\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Sehr hilfsbereit und höfliche Personal.\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "deludente”",
+        "content": "bellissimo hotel peccato che la zona piscina  sia  piccola e fredda, la cena  elegante ma pochissima scelta nel menu e porzioni piccolissime; la colazione eccellente!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 1.0,
+        "title": "מלון ברמה אחרת. מושלם !”",
+        "content": "זו הפעם השניה שאני מתארח במלון הזה. \nשלושה לילות במסגרת נסיעת עסקים.\nלמעשה, מדובר בארמון קיץ של משפחת המלוכה האוסטרו-הונגרית, ששופץ והפך לאחד המלונות המדהימים שיש.  \nסגנון, שירות, נקיון, גישה, מתקנים, מזון- כל אלו ברמה גבוהה מאוד, מה שהופך את הבחירה בו לקלה מאוד.\nשימו לב למחירים. העונה מתחילה באפריל ומסתיימת בסוף אוקטובר- כיאה למלון ברמה זו,  המחירים לא נמוכים. \nיחד עם זאת, עם אגודה ניתן למצוא מציאות - מצאתם? קחו. אל תהססו.\nלילה אחד, שניים, שלושה - תרגישו מהי תחושת מלוכה. בהתחייבות !\nתהנו."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Elegáns, kultúrált, stílusos csodálatos hely.”",
+        "content": "Nagyszerű hely, kulturált környezetben csodálatos parkkal közel a tengerparthoz.A szobából pazar kilátás a tengerre, felszereltsége pompás, stílusos, újszerű állapotú abszolút nem lelakott.Az ágy keménysége ölelkezéshez is ideális /nem elefánt bölcső/!A wellness részleg tiszta, kulturált és elegáns.Mindenkinek szívesen ajánlom! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Jedan od najboljih hotela od svih u kojima sam boravio ”",
+        "content": "Savršen spoj povijesnog i modernog dijela hotela, zaslužuje svaku zvijedicu"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Too Expensive. Outdated Furnishings. Cumbersome Check-in.”",
+        "content": "Five star hotels just aren't what they used to be. The outdated processes and furnishings make this a relic of the past. For what you get, the price isn't justified.  "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "Grand Palace but Wellness and gym are not adequate ”",
+        "content": "Very small and fitness room with not adequate equipment. \nCold outdoor pool \nService level not on 5*"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "Good place to stay”",
+        "content": "Lovely breakfast. \nRoom was comfortable, bathroom a bit on the small side. A bit disappointing to pay extra for parking.\nPool a good plus to this hotel. \nPortoroz suitable for young children."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "wery nice hotel with great ambient and staff”",
+        "content": "this was our first time in hotel kempinsky in portorose. its very nice hotel with all services. wery good location on the beach in city center. they have nice spa center with many masages and other posibilitys. big swimming pool and great offer of drink and food. i come back with my girlfriend next year and i will enjoy in this ambient. "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Genial”",
+        "content": "Services de qualité, petit déjeuner féerique sur une très belle terrasse ombragée où on peut prendre le temps de se prélasser jusqu midi !\nUn endroit magique sans fausse note, la piscine d'eau de mer est très agréable, on y sert à boire et à manger sur des transats confortables\nLe personnel est top! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "최고”",
+        "content": "Sehr hilfsbereit und höfliche Personal.\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 4.0,
+        "title": "bester Luxus toller Service”",
+        "content": "perfekte Lage, toller service und sehr sauber auch der Spa Bereich ist 1A.\r\n"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 3.0,
+        "title": "deludente”",
+        "content": "bellissimo hotel peccato che la zona piscina  sia  piccola e fredda, la cena  elegante ma pochissima scelta nel menu e porzioni piccolissime; la colazione eccellente!"
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 1.0,
+        "title": "מלון ברמה אחרת. מושלם !”",
+        "content": "זו הפעם השניה שאני מתארח במלון הזה. \nשלושה לילות במסגרת נסיעת עסקים.\nלמעשה, מדובר בארמון קיץ של משפחת המלוכה האוסטרו-הונגרית, ששופץ והפך לאחד המלונות המדהימים שיש.  \nסגנון, שירות, נקיון, גישה, מתקנים, מזון- כל אלו ברמה גבוהה מאוד, מה שהופך את הבחירה בו לקלה מאוד.\nשימו לב למחירים. העונה מתחילה באפריל ומסתיימת בסוף אוקטובר- כיאה למלון ברמה זו,  המחירים לא נמוכים. \nיחד עם זאת, עם אגודה ניתן למצוא מציאות - מצאתם? קחו. אל תהססו.\nלילה אחד, שניים, שלושה - תרגישו מהי תחושת מלוכה. בהתחייבות !\nתהנו."
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Elegáns, kultúrált, stílusos csodálatos hely.”",
+        "content": "Nagyszerű hely, kulturált környezetben csodálatos parkkal közel a tengerparthoz.A szobából pazar kilátás a tengerre, felszereltsége pompás, stílusos, újszerű állapotú abszolút nem lelakott.Az ágy keménysége ölelkezéshez is ideális /nem elefánt bölcső/!A wellness részleg tiszta, kulturált és elegáns.Mindenkinek szívesen ajánlom! "
+    },
+    {
+        "country": "슬로베니아",
+        "region": "포르토로즈",
+        "hotel_name": "호텔 켐핀스키 팰리스 포르토로즈 (Hotel Kempinski Palace Portoroz)",
+        "score": 5.0,
+        "title": "Jedan od najboljih hotela od svih u kojima sam boravio ”",
+        "content": "Savršen spoj povijesnog i modernog dijela hotela, zaslužuje svaku zvijedicu"
     }
 ]

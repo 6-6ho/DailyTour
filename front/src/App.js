@@ -8,19 +8,19 @@ import {BrowserRouter,Route,Routes} from 'react-router-dom';
 
 function App() {
   return (
-    <BrowserRouter>
-      <div className="App">
-        <Routes>
+<BrowserRouter>
+    <div className="App">
+      <Routes>
           <Route path="/" element={<Dashboard/>}></Route>
-          <Route path="/country/:regCode" element={<Tourboard/>}></Route>
+          <Route path="/country/:cntCode" element={<Tourboard/>}></Route>
         </Routes>
         {/* <div className="col-2">
-          <Sidebar></Sidebar>
-        </div>
-        <div className="col-8 right-wrap">
-          <Navbar></Navbar>
-          <Dashboard></Dashboard>
-        </div> */}
+        <Sidebar></Sidebar>
+      </div>
+      <div className="col-8 right-wrap">
+        <Navbar></Navbar>
+        <Dashboard></Dashboard>
+</div> */}
       </div>
     </BrowserRouter>
   );

@@ -5,7 +5,10 @@ from konlpy.tag import Okt
 import pandas as pd
 from train import remove_locations
 from wordcloud import WordCloud
-
+from PIL import Image
+import numpy as np
+    
+img_mask = np.array(Image.open('airplane.png'))
 
 def text_normalization(text: str)-> str:
     okt = Okt()
@@ -50,11 +53,10 @@ def parse_json_to_string(json_file, item_type):
     with open(json_file, 'r', encoding='utf-8') as file:
         item_reviews = json.load(file)
         for item_review in item_reviews:
-            # 선행 공백을 제거
             if item_type == 'accom':
-                item_name = item_review['hotel_name'].lstrip()
+                item_name = item_review['hotel_name']
             else:
-                item_name = item_review['attr_name'].lstrip()
+                item_name = item_review['attr_name']
             # 제목과 내용을 결합하고 위치 정보를 제거
             extracted_text = remove_locations(item_review['title'] + " " + item_review['content'], item_review['region'])
             # item이 이미 존재하면 텍스트에 추가하고, 그렇지 않으면 새로운 항목을 생성
@@ -72,12 +74,16 @@ def generate_wordcloud(text, item_name, item_type):
     item_code = get_item_code(item_name, item_type)
     
     if item_code:
-        try:
-            wordcloud = WordCloud(width=400, height=200, max_words=100,
-                                  background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
-            save_wordcloud(wordcloud, item_code)
-        except ValueError:
-            print(f'Not enough words to create a word cloud for: {item_name}')
+        word_count = len(normed_text.split())
+        if word_count >= 10:
+            try:
+                wordcloud = WordCloud(width=250, height=200, max_words=100, mask=img_mask, max_font_size=50, min_font_size=13,
+                                      background_color='white', font_path="C:\Windows\Fonts\H2HDRM.TTF").generate(normed_text)
+                save_wordcloud(wordcloud, item_code)
+            except ValueError:
+                print(f'Not enough words to create a word cloud for: {item_name}')
+        else:
+            print(f'Not generating word cloud for {item_name}: Word count is less than 5')
     else:
         print(f'Item code not found for: {item_name}')
 
@@ -91,7 +97,7 @@ def save_wordcloud(wordcloud, item_code):
 
 
 if __name__ == '__main__':
-    item_types = ['accom']
+    item_types = ['attr']
 
     for item in item_types:
         load_review_files(item)

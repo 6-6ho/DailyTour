@@ -6,10 +6,10 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import json
 
-
 driver = webdriver.Chrome()
 main_url = 'https://www.tripadvisor.co.kr/'
-input_path = '../Data/Region_Data/region_data.json'
+input_path = '../Data/Region_Data/region_data_copy_attr.json'
+ATTR_MAX = 15
 
 def load_json_data(json_path):
     with open(json_path, 'r', encoding='utf-8') as file:
@@ -84,23 +84,38 @@ def country_crawler(country, regions):
                 seen.add(href)
                 attr_hrefs_no_duplicates.append(href)
 
-        attr_hrefs = attr_hrefs_no_duplicates
+        attr_hrefs = attr_hrefs_no_duplicates[:ATTR_MAX]
         
-        print(attr_hrefs)
         print(len(attr_hrefs))
         
+        # 관광지 5개 마다 광고 1개씩 12345, 7891011, 1314151617 이런 형태
+        to_remove = []
+
+        for i in range(1, len(attr_hrefs) + 1):
+            adjusted_index = i + (i - 1) // 5
+            xpath = f'/html/body/div[2]/div/div[2]/div/div/div/div/div[1]/div/div[1]/div/div[3]/div/div[1]/div/div[2]/div/div/div[{adjusted_index}]/div/div/div/div[2]/div[1]/div[3]/div[1]'
+            region_data = driver.find_element(By.XPATH, xpath).text
+            if region not in region_data:
+                to_remove.append(i)
+
+        # 제거할 인덱스 리스트를 역순으로 정렬
+        to_remove.sort(reverse=True)
         
-        
-        # 관광지 개수가 15개 미만이라면 href의 개수만큼, 아니라면 15개
-        for i in range(min(10, len(attr_hrefs))):
+        for index in to_remove:
+            attr_hrefs.pop(index - 1)                
+            
+        print(len(attr_hrefs))
+                
+        for i in range(min(ATTR_MAX, len(attr_hrefs))):
             driver.get(f"{main_url}{attr_hrefs[i]}")
             driver.implicitly_wait(5)
             sleep(3)
             
             # 관광지 이름        
-            attr_name = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]').text
+            attr_name = driver.find_element(By.XPATH, '//*[@id="lithium-root"]/main/div[1]/div[2]/div[2]/div[2]/div/div[1]/div/div[1]/div/div[2]/div[1]').text.lstrip()
             print(attr_name)
             sleep(5)
+            
             
             ################### 긍정적 리뷰 (4~5점)
             # 4,5점만 선택
@@ -325,6 +340,7 @@ def country_crawler(country, regions):
             print(f'review content length : {review_length}')
             
             for i in range(review_length):
+                len(f'title len : {len(title)}')
                 title = attr_review_content_list[i*2]
                 content = attr_review_content_list[i*2-1]
                 score = attr_review_score_list[i]

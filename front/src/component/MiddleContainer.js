@@ -27,7 +27,7 @@ Chart.register(
   );
 
 
-export default function MiddleContainer() {
+export default function MiddleContainer() {     
     const [yearList, setYearList] = useState([]);
     const [selected, setSelected] = useState("");
     const [countryStatData, setCountryStatData] = useState({
@@ -140,9 +140,17 @@ export default function MiddleContainer() {
                 </div>
             </div>
 
-            <div className="col-6 h-10 pl-1">
+            <div className="col-3 h-10 pl-1">
                 <div className="word-cloud-box">
-
+                    
+                </div>
+            </div>
+            <div className="col-3 h-10 pl-1">
+                <div className="word-cloud-box p-1">
+                    <span className="word-cloud-title text-center"> 해외여행 기사 주요 키워드 </span>
+                    <div className="img-wrap">
+                        <img src="img/news_wordcloud2.png"></img>
+                    </div>
                 </div>
             </div>
         </div>

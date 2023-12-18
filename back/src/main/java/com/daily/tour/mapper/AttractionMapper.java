@@ -15,7 +15,13 @@ public interface AttractionMapper {
 //            "JOIN Attr_Info_tb ait ON rat.attr_code = ait.attr_code" +
 //            "WHERE rat.reg_code = {regCode}")
 
-    @Select("SELECT ct.cnt_code as cntCode, rat.reg_code as regCode, rat.attr_code as attrCode, " +
+    @Select("SELECT distinct rat.reg_code as regCode, ct.reg_name as regName, ct.cnt_name as cntName " +
+            "FROM REG_ATTR_TB rat JOIN COUNTRY_TB ct ON rat.reg_code = ct.reg_code " +
+            "JOIN ATTR_INFO_TB ait ON rat.attr_code = ait.attr_code " +
+            "WHERE ct.cnt_code=#{cntCode}")
+    List<Attraction> findRegListByCntCode(@Param("cntCode") String cntCode);    // 지역 리스트
+
+    @Select("SELECT distinct ct.cnt_code as cntCode, rat.reg_code as regCode, rat.attr_code as attrCode, " +
             "rat.attr_name as attrName, ait.attr_score as attrScore " +
             "FROM REG_ATTR_TB rat JOIN COUNTRY_TB ct ON rat.reg_code = ct.reg_code " +
             "JOIN ATTR_INFO_TB ait ON rat.attr_code = ait.attr_code " +

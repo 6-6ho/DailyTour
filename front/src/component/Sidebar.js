@@ -1,9 +1,10 @@
 import './Bar.css'
+import GitNotionBox from './GitNotionBox'
 import SideChart from './SideChart'
 import SideChart from './SideChart'
 
 export default function Sidebar() {
-    return(
+    return (
         <div className='side-bar-wrap'>
             <div className='side-bar'>
                 <div className='logo-wrap'>
@@ -13,6 +14,7 @@ export default function Sidebar() {
                     </div>
                 </div>
                 <SideChart></SideChart>
+                <GitNotionBox/>
             </div>
         </div>
     

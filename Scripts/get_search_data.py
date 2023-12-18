@@ -25,7 +25,7 @@ def aggregate_search_volumes(file_pattern):
 
 def save_to_csv(df, output_file):
     # Save the DataFrame to a CSV file
-    df.to_csv(output_file, index=False, encoding='utf-8-sig')
+    df.to_csv(output_file, index=False, encoding='utf-8')
 
 def main_process():
     # Define the input directory where the CSV files are located
@@ -33,7 +33,7 @@ def main_process():
     # Define the output directory where the aggregated CSV file will be saved
     output_directory = '../Data/'
     # Specify the pattern to match the files
-    file_pattern = os.path.join(input_directory, 'DM_OVSEA_TOUR_TOP10_TREND_DATA_RESULT_*.csv')
+    file_pattern = os.path.join(input_directory, 'DM_OVSEA_TOUR_*.csv')
     # Specify the output file name
     output_filename = 'aggregated_search_volumes.csv'
 

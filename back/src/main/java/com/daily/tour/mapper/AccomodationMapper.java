@@ -15,7 +15,7 @@ public interface AccomodationMapper {   // 숙소
             "FROM Country_tb")
     List<Accommodation> findRegListByCntCode(@Param("cntCode") String cntCode); // 지역 리스트
 
-    @Select("SELECT ct.cnt_code as cntCode, rat.reg_code as regCode, rat.accom_code as accomCode, " +
+    @Select("SELECT distinct ct.cnt_code as cntCode, rat.reg_code as regCode, rat.accom_code as accomCode, " +
             "rat.accom_name as accomName, ait.accom_score as  accomScore " +
             "FROM REG_ACCOM_TB rat JOIN COUNTRY_TB ct ON rat.reg_code = ct.reg_code " +
             "JOIN ACCOM_INFO_TB ait ON rat.accom_code = ait.accom_code " +

@@ -1,0 +1,15 @@
+.notionIcon, .githubIcon {
+    width: 40px; /* 공통 width */
+}
+
+.notionIcon {
+    height: 42px;
+}
+
+.githubIcon {
+    height: 37px;
+}
+
+.icon img {
+    display: block; /* 이미지를 블록 요소로 만들어 마진 적용 가능하게 함 */
+}

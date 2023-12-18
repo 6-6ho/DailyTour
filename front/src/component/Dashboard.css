@@ -1,10 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Noto+Sans+KR:wght@500;600;900&display=swap');
 .dashboard-wrap {
-    
     width: 100%;
     display: flex;
     flex: row;
-
 }
 
 html, body {
@@ -121,10 +119,29 @@ option {
     background-color: white;
 }
 
+.word-cloud-title{
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+}
+.img-wrap {
+    width: 100%;
+    height: 245px;
+    overflow: hidden;
+}
+.img-wrap img {
+    width: 100%;  /* div의 너비에 맞춤 */
+    height: 100%; /* div의 높이에 맞춤 */
+    object-fit: contain; /* 이미지가 잘리지 않도록 유지 */
+    object-position: center; /* 이미지를 가운데 정렬 */
+}
+
+
+
 /* Tourboard */
 .exchange-rate-box-wrap {
     width: 100%;
-    height: 300px;
+    height: 380px;
     padding: 10px;
     box-sizing: border-box;
 }
@@ -141,9 +158,10 @@ option {
 }
 .rank-div {
     width: 100%;
-    height: calc(100vh - 375px);
+    height: calc(100vh - 455px);
     display: flex;
     flex-direction: row;
+    font-size: 18px;
 }
 
 .rank-box-wrap {
@@ -151,6 +169,10 @@ option {
     height: 100%;
     padding: 10px;
     box-sizing: border-box;
+}
+.rank-title {
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .rank-box {
@@ -160,4 +182,23 @@ option {
     border-radius: 10px;
     box-sizing: border-box;
     background-color: white;
+}
+.rank-list {
+    width: 100%;
+}
+.table-style {
+    width: 100%;
+    border-collapse: collapse
+}
+table.table-style > tr > th, td {
+    border-bottom: 1px solid rgba(207, 207, 218, 0.1);
+    text-align: left;
+    padding: 10px;
+    height: 50px;
+}
+.title-column {
+    width: 75%;
+}
+.score-column {
+    width: 25%;
 }

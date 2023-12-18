@@ -28,7 +28,7 @@ def load_data_and_labels(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         reviews_data = json.load(file)
         comments = [' '.join(tokenize_korean_text(remove_locations(review['title'] + " " + review['content'], [review.get('region', ''), review.get('country', '')]))) for review in reviews_data]
-        labels = [1 if int(review['score']) > 3 else 0 for review in reviews_data]
+        labels = [1 if int(review['SCORE']) > 3 else 0 for review in reviews_data]
     return comments, labels
 
 def train_and_evaluate(review_type):
