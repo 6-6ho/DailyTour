@@ -12,7 +12,7 @@ import java.util.List;
 @RestController
 public class AccomodationController {   // 숙박시설 관련 컨트롤러
 
-    private static AccomodationService accomodationService;
+    private final AccomodationService accomodationService;
 
 
     public AccomodationController(AccomodationService accomodationService) {

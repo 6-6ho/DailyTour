@@ -8,7 +8,7 @@ import java.util.List;
 
 @Service
 public class AccomodationService {
-    private static AccomodationMapper accomodationMapper;
+    private final AccomodationMapper accomodationMapper;
 
     public AccomodationService(AccomodationMapper accomodationMapper) {
         this.accomodationMapper = accomodationMapper;

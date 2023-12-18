@@ -12,6 +12,8 @@ test.py
 # chromedriver
 chromedriver.exe
 
+front2
+
 # C extensions
 *.so
 Data/Search_Data
