@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import DashboardCard from '../../../components/shared/DashboardCard';
 // import Chart from 'react-apexcharts';
 import {Line} from 'react-chartjs-2';
+import {Box} from '@mui/material';
 import { serverDomain } from 'src/domain/ServerDomain';
 import {
     Chart,
@@ -15,7 +16,6 @@ import {
     Legend
   } from "chart.js";
 // import GeoCharts from './GeoCharts';
-
 
 Chart.register(
     CategoryScale,
@@ -45,7 +45,7 @@ const MonthlyCharts = () => {
                 if (!acc[cntName]) {
                   acc[cntName] = { cntName, month: [], emi: [] };
                 }
-                acc[cntName].month.push(month);
+                acc[cntName].month.push(month + "월");
                 acc[cntName].emi.push(emi);
                 return acc;
               }, {});
@@ -97,6 +97,7 @@ const MonthlyCharts = () => {
     
         const options = {
             maintainAspectRatio: true,
+            
             charts: {
               type: 'line',
               
@@ -115,16 +116,15 @@ const MonthlyCharts = () => {
     return (
 
        
-      <DashboardCard title="2023년 국가별 월별 출국자 수" >
-
-                <Line 
-                    options={options}
-                    data={countryStatData}
-                    type="line"
-                    height="130px"
-                ></Line>
-            
-      </DashboardCard>
+      // <DashboardCard title="2023년 국가별 월별 출국자 수" >
+        <Box style={{ width: "100%", height: "300px" }}> 
+            <Line 
+                options={options}
+                data={countryStatData}
+                type="line" 
+            ></Line>
+        </Box>    
+      // </DashboardCard>
         
     );
 };

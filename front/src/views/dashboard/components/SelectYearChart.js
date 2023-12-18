@@ -1,4 +1,4 @@
-import { Select, MenuItem } from '@mui/material';
+import { Select, MenuItem, Box } from '@mui/material';
 import React, { useState, useEffect } from 'react';
 import DashboardCard from '../../../components/shared/DashboardCard';
 import { Bar} from 'react-chartjs-2';
@@ -64,7 +64,6 @@ const SelectYearChart = () => {
               labels: data.map((country) => country.cntName),
               datasets: [{
                       type:'bar',
-                      
                       data: data.map((country) => country.emi),
                       backgroundColor: [
                       'rgba(255, 99, 132, 0.2)',
@@ -85,9 +84,7 @@ const SelectYearChart = () => {
               borderWidth: 2
               
               };
-
               setCountryStatData(countryStat);
-
               console.log(countryStat); 
               } 
       ); 
@@ -96,6 +93,7 @@ const SelectYearChart = () => {
   
   const options = {
       maintainAspectRatio: true,
+      
       charts: {
           type: 'bar',
         },
@@ -116,15 +114,17 @@ const SelectYearChart = () => {
     
     return (
       <DashboardCard title={selected + "년 국가별 출국자 수" } >
-        <Select  labelId="month-dd" id="month-dd" value={ selected }   size="small"
-            onChange={changeSelect}>
-            {
-              yearList && ( yearList.map((year) => (
-                <MenuItem value={year}>{year}년</MenuItem>
-              )))
-            }
-        </Select>
-        <Bar type='bar' data={countryStatData} options={options} height="168px" className='monthly-line-charts'/>
+        <Box >
+          <Select  labelId="month-dd" id="month-dd" value={ selected }   size="small"
+              onChange={changeSelect}>
+              {
+                yearList && ( yearList.map((year) => (
+                  <MenuItem value={year}>{year}년</MenuItem>
+                )))
+              }
+          </Select>
+          <Bar type='bar' data={countryStatData} options={options} height="200px" className='monthly-line-charts'/>
+        </Box>
       </DashboardCard>
 
     )

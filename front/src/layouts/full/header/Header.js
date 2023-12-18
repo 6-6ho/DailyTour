@@ -1,8 +1,9 @@
 import React from 'react';
 import { Box, AppBar, Toolbar, styled, Stack, IconButton, Badge, Button } from '@mui/material';
 import PropTypes from 'prop-types';
-import { IconBellRinging, IconMenu } from '@tabler/icons';
-
+import { IconMenu } from '@tabler/icons';
+import { useLocation } from 'react-router';
+import CountryRegInfo from '../sidebar/CountryInfo/CountryRegInfo';
 
 const Header = (props) => {
 
@@ -23,6 +24,7 @@ const Header = (props) => {
     width: '100%',
     color: theme.palette.text.secondary,
   }));
+  const location = useLocation();
 
   return (
     <AppBarStyled position="sticky" color="default">
@@ -57,11 +59,19 @@ const Header = (props) => {
   
           <Badge color="primary">
             <span> Dash board</span>
-          </Badge>
-
-          
+          </Badge>        
 
         </IconButton>
+        {
+                location.pathname.startsWith('/country')  ? (
+                  
+                    <CountryRegInfo />
+               
+                ) :               
+                null
+                  
+               
+              }
         <Box flexGrow={1} />
        
       </ToolbarStyled>

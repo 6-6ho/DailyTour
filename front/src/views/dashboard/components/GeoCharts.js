@@ -1,5 +1,6 @@
 import React from "react";
 import { ResponsiveChoropleth } from "@nivo/geo";
+import {Box} from '@mui/material';
 import { scaleQuantize } from "d3-scale";
 import countries from "../data/world_countries.json";
 import data from "../data/test_data";
@@ -9,8 +10,8 @@ import DashboardCard from "src/components/shared/DashboardCard";
 const GeoCharts = () => {
     const getColor = scaleQuantize().domain([1]).range(["#ededed", "orange"]);
     return(
-        <DashboardCard>
-     <div style={{ width: "100%", height: "233px" }}>
+      // <DashboardCard title="2023년 국가별 월별 출국자 수 국가">
+     <Box style={{ width: "100%", height: "300px" }}>
       <ResponsiveChoropleth
         data={data}
 
@@ -30,6 +31,7 @@ const GeoCharts = () => {
         tooltip={(data, color) => (
           <div
             style={{
+              maintainAspectRatio: true,
               responsive: false,
               padding: 12,
               color,
@@ -49,8 +51,8 @@ const GeoCharts = () => {
           </div>
         )}
       />
-    </div>
-    </DashboardCard>
+    </Box>
+    // </DashboardCard>
 
   );
 

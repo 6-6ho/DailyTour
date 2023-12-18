@@ -1,17 +1,7 @@
 import { serverDomain } from "src/domain/ServerDomain";
 import React, { useState, useEffect } from 'react';
-import {
-    TableContainer,
-    Paper,
-    Typography, Box,
-    Table,
-    TableBody,
-    TableCell,
-    TableHead,
-    TableRow,
-    Modal,
-    Button  
-} from '@mui/material';
+import { TableContainer, Paper,  Typography, Box, Table, TableBody, TableCell,
+    TableHead, TableRow, Modal, Grid } from '@mui/material';
 import DashboardCard from '../../../components/shared/DashboardCard';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Pie } from 'react-chartjs-2';
@@ -29,8 +19,8 @@ const Attractions = (props) => {
         top: '50%',
         left: '50%',
         transform: 'translate(-50%, -50%)',
-        width: 700,
-        height: 700,
+        width: 1000,
+        height: 800,
         bgcolor: 'background.paper',
         border: '2px solid #000',
         boxShadow: 24,
@@ -92,10 +82,24 @@ const Attractions = (props) => {
                     <Typography id="modal-modal-title" variant="h3" component="h2">
                         {attr.attrName}
                     </Typography>
-                    <Pie type="doughnut" data={pieChart}/>
-                    <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                        Duis mollis, est non commodo luctus, nisi erat porttitor ligula.
-                    </Typography>
+                    <Grid container spacing={3}>
+                        <Grid item xs={12} lg={12}>
+                            <Box sx={{height: "300px"}}>
+                                <Pie type="doughnut" data={pieChart}/>
+                            </Box>
+                        </Grid>
+                        <Grid item xs={12} lg={6}>
+                            <Box sx={{height: "300px"}}>
+                                <Pie type="doughnut" data={pieChart}/>
+                            </Box>
+                        </Grid>
+                        <Grid item xs={12} lg={6}>
+                            <Box sx={{height: "300px"}}>
+                                <Pie type="doughnut" data={pieChart}/>
+                            </Box>
+                        </Grid>
+                    </Grid>
+                    
                 </Box>
             </Modal>
 
@@ -113,7 +117,14 @@ const Attractions = (props) => {
                                 </TableHead>
                                 <TableBody>
                                     { attrList && ( attrList.map((attr) => (
-                                        <TableRow key={attr.attrCode} onClick={() => handleOpen(true, attr.attrCode)}  >
+                                        <TableRow key={attr.attrCode} 
+                                            onClick={() => handleOpen(true, attr.attrCode)} 
+                                            sx={{ 
+                                            '&:hover': {
+                                                backgroundColor: 'rgba(0, 0, 0, 0.04)' ,
+                                                cursor : 'pointer'
+                                            }
+                                        }} >
                                             <TableCell sx={{fontSize: 17}}>{attr.attrName}</TableCell>
                                             <TableCell sx={{fontSize: 17}} align="right">
                                                 {attr.attrScore}

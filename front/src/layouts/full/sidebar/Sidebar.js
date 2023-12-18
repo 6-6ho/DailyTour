@@ -1,9 +1,6 @@
 import { useMediaQuery, Box, Drawer } from '@mui/material';
 import Logo from '../shared/logo/Logo';
 import SidebarItems from './SidebarItems';
-import RecentlyMonthRank from './CountryRank/RecentlyMonthRank';
-import RecentlyYearRank from './CountryRank/RecentlyYearRank';
-import CountryRegInfo from './CountryInfo/CountryRegInfo';
 import { useLocation } from 'react-router';
 import CountryList from './CountryInfo/CountryList';
 
