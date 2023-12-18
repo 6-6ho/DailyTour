@@ -24,7 +24,7 @@ public class CountryIsoController {
 
     @GetMapping("/country/iso")
     public List<CountryIso> getCountryIsoCode(@RequestParam List<String> cntCodeList) {
-        log.info("getCountryIsoCode : {cntCodeList}", cntCodeList);
+        log.info("getCountryIsoCode : {}", cntCodeList);
         return countryIsoService.getCountryIsoCodeList(cntCodeList);
     }
 }
