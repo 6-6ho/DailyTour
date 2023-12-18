@@ -119,7 +119,7 @@ const SelectYearChart = () => {
               onChange={changeSelect}>
               {
                 yearList && ( yearList.map((year) => (
-                  <MenuItem value={year}>{year}년</MenuItem>
+                  <MenuItem key={year} value={year}>{year}년</MenuItem>
                 )))
               }
           </Select>

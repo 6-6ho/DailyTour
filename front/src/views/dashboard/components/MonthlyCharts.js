@@ -1,38 +1,19 @@
 import React, { useState, useEffect } from 'react';
-import DashboardCard from '../../../components/shared/DashboardCard';
-// import Chart from 'react-apexcharts';
 import {Line} from 'react-chartjs-2';
 import {Box} from '@mui/material';
 import { serverDomain } from 'src/domain/ServerDomain';
-import {
-    Chart,
-    LineController,
-    CategoryScale,
-    LinearScale,
-    PointElement,
-    LineElement,
-    Title,
-    Tooltip,
-    Legend
-  } from "chart.js";
-// import GeoCharts from './GeoCharts';
+import { Chart, LineController, CategoryScale,  LinearScale, PointElement,
+    LineElement, Title, Tooltip, Legend } from "chart.js";
+import { useCntCodeList } from 'src/context/CntCodeListContext';
 
-Chart.register(
-    CategoryScale,
-    LinearScale,
-    PointElement,
-    LineElement,
-    Title,
-    Tooltip,
-    Legend
-  );
-
+Chart.register( CategoryScale, LinearScale, PointElement,  LineElement,
+    Title,  Tooltip,  Legend);
 
 const MonthlyCharts = () => {
-
     const [countryStatData, setCountryStatData] = useState({
         datasets : []
       });
+    const {cntCodeList, setCntCodeList} = useCntCodeList();
       
       useEffect (() => {
           fetch(`${serverDomain}/country/month`)
@@ -40,15 +21,22 @@ const MonthlyCharts = () => {
           .then(data => {
               // setCountry(data);
               console.log(data);
-    
-              const dataArray = data.reduce((acc, { cntName, month, emi }) => {
+
+
+              const dataArray = data.reduce((acc, { cntName, month, emi, cntCode }) => {
                 if (!acc[cntName]) {
                   acc[cntName] = { cntName, month: [], emi: [] };
                 }
+
+                acc[cntName].cntCode = cntCode;
                 acc[cntName].month.push(month + "월");
                 acc[cntName].emi.push(emi);
                 return acc;
               }, {});
+            
+              const codeList = Array.from(new Set(Object.values(data).map(item => item.cntCode)));
+              console.log(codeList);
+              setCntCodeList(codeList);
           
               const countryData = Object.values(dataArray);
               

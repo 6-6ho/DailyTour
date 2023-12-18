@@ -3,6 +3,7 @@ package com.daily.tour.controller;
 
 import com.daily.tour.dto.CountryIso;
 import com.daily.tour.service.CountryIsoService;
+import org.apache.ibatis.annotations.Param;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -19,7 +20,7 @@ public class CountryIsoController {
     }
 
     @GetMapping("/country/iso")
-    public List<CountryIso> getCountryIsoCode(List<String> cntCodeList) {
+    public List<CountryIso> getCountryIsoCode(@Param("cntCodeList") List<String> cntCodeList) {
         return countryIsoService.getCountryIsoCodeList(cntCodeList);
     }
 }

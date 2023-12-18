@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import React, { useState, useEffect, useContext } from 'react';
 import { serverDomain } from "src/domain/ServerDomain";
-import { List, ListItem, ListItemText,ListItemButton, Divider, FormControl, InputLabel, Box, Select, MenuItem } from '@mui/material';
+import {  FormControl, InputLabel, Box, Select, MenuItem } from '@mui/material';
 import { useRegCode } from "src/context/RegCodeContext";
 
 const CountryRegInfo = () => {

@@ -11,11 +11,10 @@ import RecentlyMonthRank from './components/RecentlyMonthRank';
 import RecentlyYearRank from './components/RecentlyYearRank';
 import TravelHashtag from './components/TravelHashtag';
 import DashboardCard from 'src/components/shared/DashboardCard';
-// import RecentlyMonthRank from 'src/layouts/full/sidebar/CountryRank/RecentlyMonthRank';
-// import RecentlyYearRank from 'src/layouts/full/sidebar/CountryRank/RecentlyYearRank';
+import { useCntCodeList } from 'src/context/CntCodeListContext';
 
 const Dashboard = () => {
-  return (
+   return (
     <PageContainer title="Dashboard" description="this is Dashboard">
       <Box>
         
@@ -23,8 +22,8 @@ const Dashboard = () => {
           <Grid item xs={12} lg={12}>
             <DashboardCard title="2023년 국가별 월별 출국자 수">
               <Stack direction="row">  
-                <GeoCharts />cd 
                 <MonthlyCharts />
+                <GeoCharts />
               </Stack>
             </DashboardCard>
           </Grid>
