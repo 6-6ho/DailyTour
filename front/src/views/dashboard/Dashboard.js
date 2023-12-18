@@ -22,8 +22,8 @@ const Dashboard = () => {
           <Grid item xs={12} lg={12}>
             <DashboardCard title="2023년 국가별 월별 출국자 수">
               <Stack direction="row">  
-                <MonthlyCharts />
                 <GeoCharts />
+                <MonthlyCharts />
               </Stack>
             </DashboardCard>
           </Grid>

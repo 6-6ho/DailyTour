@@ -12,13 +12,16 @@ const GeoCharts = () => {
     const getColor = scaleQuantize().domain([1]).range(["#ededed", "orange"]);
     const {cntCodeList} = useCntCodeList();
     const [geoCodeList, setGeoCodeList] = useState([]);
+
     useEffect(() => {
 
       if (!cntCodeList.length) return;
       
-      // const queryParams = cntCodeList.map(code => `cntCodeList=${code}`).join('&'); // cntCodeList를 쿼리 파라미터로 변환
-      // console.log(queryParams); 
-      fetch(`${serverDomain}/country/iso?cntCodeList=${cntCodeList}`)
+      console.log("GeoCharts cntCodeList : " + cntCodeList);
+      const queryParams = cntCodeList.map(code => `cntCodeList=${encodeURIComponent(code)}`).join('&');
+      // const param = { "cntCodeList" : cntCodeList };
+
+      fetch(`${serverDomain}/country/iso?${queryParams}`)
       .then(res => {return res.json()})
       .then(data => { 
           console.log("geo code data: " + data );
