@@ -21,6 +21,8 @@ const GeoCharts = () => {
       const queryParams = cntCodeList.map(code => `cntCodeList=${encodeURIComponent(code)}`).join('&');
       // const param = { "cntCodeList" : cntCodeList }
 
+      console.log(queryParams);
+
 
       fetch(`${serverDomain}/country/iso?${queryParams}`)
       .then(res => {return res.json()})
@@ -34,7 +36,7 @@ const GeoCharts = () => {
       // <DashboardCard title="2023년 국가별 월별 출국자 수 국가">
      <Box style={{ width: "100%", height: "300px" }}>
       <ResponsiveChoropleth
-        data={data}
+        data={geoCodeList && (geoCodeList)}
 
         features={countries.features}
         margin={{ top: 0, right: 0, bottom: 0, left: 0 }}
