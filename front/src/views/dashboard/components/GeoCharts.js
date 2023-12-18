@@ -19,12 +19,10 @@ const GeoCharts = () => {
       
       console.log("GeoCharts cntCodeList : " + cntCodeList);
       const queryParams = cntCodeList.map(code => `cntCodeList=${encodeURIComponent(code)}`).join('&');
-      // const param = { "cntCodeList" : cntCodeList };
+      // const param = { "cntCodeList" : cntCodeList }
 
-      fetch(`${serverDomain}/country/iso?${queryParams}`, 
-        {headers : {
-        'Content-Type' : "application/json"},
-        })
+
+      fetch(`${serverDomain}/country/iso?${queryParams}`)
       .then(res => {return res.json()})
       .then(data => { 
           console.log("geo code data: " + data );
