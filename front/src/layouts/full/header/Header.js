@@ -3,7 +3,7 @@ import { Box, AppBar, Toolbar, styled, Stack, IconButton, Badge, Button } from '
 import PropTypes from 'prop-types';
 import { IconMenu } from '@tabler/icons';
 import { useLocation } from 'react-router';
-import CountryRegInfo from '../sidebar/CountryInfo/CountryRegInfo';
+import CountryRegList from '../sidebar/CountryInfo/CountryRegList';
 
 const Header = (props) => {
 
@@ -65,7 +65,7 @@ const Header = (props) => {
         {
                 location.pathname.startsWith('/country')  ? (
                   
-                    <CountryRegInfo />
+                    <CountryRegList />
                
                 ) :               
                 null

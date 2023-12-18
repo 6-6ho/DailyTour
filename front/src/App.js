@@ -9,19 +9,20 @@ import { CntCodeListProvider } from './context/CntCodeListContext';
 function App() {
   const routing = useRoutes(Router);
   const theme = baselightTheme;
-  const [regCode, setRegCode] = useState(null);
-  const [cntCodeList, setCntCodeList] = useState(null);
+  // const [regCode, setRegCode] = useState(null);
+  // const [cntCodeList, setCntCodeList] = useState(null);
 
   return (
     <ThemeProvider theme={theme}>
 
       <CssBaseline />
       <RegCodeProvider>
-        {routing}
-      </RegCodeProvider>
-      <CntCodeListProvider>
-        {routing}
-      </CntCodeListProvider>
+        <CntCodeListProvider>
+          
+            {routing}
+          
+        </CntCodeListProvider>
+        </RegCodeProvider>
     </ThemeProvider>
   );
 }

@@ -2,12 +2,14 @@ import { useParams } from "react-router-dom";
 import React, { useState, useEffect, useContext } from 'react';
 import { serverDomain } from "src/domain/ServerDomain";
 import { List, ListItem, ListItemText,ListItemButton, Divider, Box, Select, MenuItem, Card } from '@mui/material';
-
+import { useRegCode } from "src/context/RegCodeContext";
 
 const CountryList = () => {
     const params = useParams();
     const cntCode = params.cntCode;     // select한 국가 보기
     const [cntList, setCntList] = useState([]); // 국가리스트
+    const {setRegCode} = useRegCode();
+
 
     useEffect( ()=>  {  
         fetch(`${serverDomain}/country-list`)   // JSON-Server에 국가 리스트 요청 

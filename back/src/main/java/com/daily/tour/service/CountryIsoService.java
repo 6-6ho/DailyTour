@@ -17,6 +17,6 @@ public class CountryIsoService {
     }
 
     public List<CountryIso> getCountryIsoCodeList(List<String> cntCodeList) {
-        countryIsoMapper.findCountryIsoCode(cntCodeList);
+        return countryIsoMapper.findCountryIsoCode(cntCodeList);
     }
 }

@@ -5,10 +5,10 @@ import { TableContainer, Paper,  Typography, Box, Table, TableBody, TableCell,
 import DashboardCard from '../../../components/shared/DashboardCard';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Pie } from 'react-chartjs-2';
-
+import { useRegCode } from "src/context/RegCodeContext";
 
 const Attractions = (props) => {
-    const regCode = props.regCode;
+    // const regCode = props.regCode;
     const [attrList, setAttrList] = useState([]);
     const [attr, setAttr] = useState ({});
     const [attrCode, setAttrCode] = useState('');
@@ -26,6 +26,8 @@ const Attractions = (props) => {
         boxShadow: 24,
         p: 5,
     };
+
+    const {regCode} = useRegCode();
 
     useEffect( ()=>  {  
         if(regCode) {

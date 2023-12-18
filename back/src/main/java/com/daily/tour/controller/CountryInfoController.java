@@ -27,7 +27,7 @@ public class CountryInfoController {
 
     @GetMapping("/country/reg/{cntCode}")
     public ResponseEntity<List<Attraction>> getRegList(@PathVariable String cntCode) {  // 국가별 지역리스트
-        log.info("{}", countryInfoService.getRegList(cntCode));
+        log.info("getRegList : {}", countryInfoService.getRegList(cntCode));
         return ResponseEntity.ok().body(countryInfoService.getRegList(cntCode));
     }
 

@@ -4,14 +4,12 @@ import PageContainer from 'src/components/container/PageContainer';
 import Attractions from './Attractions';
 import Accomodations from './Accomodations';
 import { useRegCode } from "src/context/RegCodeContext";
-
 import PresentExchangeRate from './PresentExchangeRate';
 import AverageExchangeRate from './AverageExchangeRate';
-import { useCntCodeList } from 'src/context/CntCodeListContext';
 
 const CountryBoard = () => {
     const {regCode} = useRegCode();
- 
+    
     return (
         <PageContainer title="Dashboard" description="this is Dashboard">
             <Box>
