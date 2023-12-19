@@ -10,10 +10,11 @@ import java.util.List;
 @Mapper
 public interface CountryIsoMapper {
 
-    @Select({"<script> SELECT cit.ISO_CODE as isoCode, SUM(cmt.emi) as totalEmi " +
+    @Select("<script> SELECT cit.ISO_CODE as isoCode, SUM(cmt.emi) as totalEmi " +
             "FROM country_iso_tb cit join country_month_emi_tb cmt on cit.CNT_CODE = cmt.CNT_CODE " +
-            "WHERE cit.CNT_CODE IN <foreach item='item' collection='cntCodeList' open='(' separator=',' close=')'>" +
-            "#{item} </foreach>"  +
-            "</script>"})
+            "WHERE cit.CNT_CODE IN " +
+            "<foreach item='item' index='index' collection='cntCodeList' open='(' separator=',' close=')'>" +
+            "#{item} </foreach> " +
+            "GROUP BY cit.ISO_CODE, cmt.CNT_CODE </script>" )
     List<CountryIso> findCountryIsoCode(List<String> cntCodeList);  // 국제 표준으로 변환 후 월별 출국자 수 총 합계
 }
