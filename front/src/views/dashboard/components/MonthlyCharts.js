@@ -105,7 +105,7 @@ const MonthlyCharts = () => {
 
        
       // <DashboardCard title="2023년 국가별 월별 출국자 수" >
-        <Box style={{ width: "100%", height: "300px" }}> 
+        <Box style={{ width: "100%", height: "400px" }}> 
             <Line 
                 options={options}
                 data={countryStatData}

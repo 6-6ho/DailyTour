@@ -16,8 +16,6 @@ const GeoCharts = () => {
     useEffect(() => {
 
       if (cntCodeList.length > 0) {
-
-      
       
         console.log("GeoCharts cntCodeList : " + cntCodeList);
         const queryParams = cntCodeList.map(code => `cntCodeList=${encodeURIComponent(code)}`).join('&');
@@ -38,7 +36,7 @@ const GeoCharts = () => {
 
     return(
       // <DashboardCard title="2023년 국가별 월별 출국자 수 국가">
-     <Box style={{ width: "100%", height: "300px" }}>
+     <Box style={{ width: "100%", height: "400px" }}>
       <ResponsiveChoropleth
         data={geoCodeList && (geoCodeList)}
 
