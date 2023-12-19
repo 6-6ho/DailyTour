@@ -17,4 +17,5 @@ public class Attraction {   // 관광지
     private double attrScore;   // 관광지 평점
     private int attrRevPos;   // 관광지 긍정 리뷰 개수
     private int attrRevNeg;   // 관광지 부정 리뷰 개수
+    private String imgPath; // 사진 경로
 }

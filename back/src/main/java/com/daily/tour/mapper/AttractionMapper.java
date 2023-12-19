@@ -23,8 +23,9 @@ public interface AttractionMapper {
     List<Attraction> findAttrListByRegCode(@Param("regCode") String regCode); // 관광지 상위 5개 리스트
 
     @Select("SELECT rat.ATTR_CODE as attrCode, rat.ATTR_NAME as attrName, ait.ATTR_SCORE as attrScore, " +
-            "ait.ATTR_REV_POS as attrRevPos, ait.ATTR_REV_NEG as attrRevNeg " +
+            "ait.ATTR_REV_POS as attrRevPos, ait.ATTR_REV_NEG as attrRevNeg, amt.img_path as imgPath " +
             "FROM reg_attr_tb rat JOIN attr_info_tb ait ON rat.ATTR_CODE = ait.ATTR_CODE " +
+            "JOIN attr_img_tb amt ON rat.ATTR_CODE = amt.ATTR_CODE  " +
             "WHERE rat.ATTR_CODE = #{attrCode}")
     Attraction findAttrDetailByAttrCode(@Param("attrCode") String attrCode); // 관광지 디테일 정보*/
 

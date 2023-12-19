@@ -14,5 +14,6 @@ public class Accommodation {    // 숙소
     private double accomScore;  // 숙소 평점
     private double accomRevPos;   // 긍정리뷰개수
     private double accomRevNeg;   // 부정리뷰개수
+    private String imgPath; // 사진 경로
     
 }
