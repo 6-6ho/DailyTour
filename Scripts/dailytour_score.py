@@ -21,3 +21,33 @@ COUNTRY_INFO_TB에 다시 병합
 ../Data/DB/COUNTRY_TB.csv
 ../Data/DB/COUNTRY_INFO_TB.csv
 """
+
+
+import pandas as pd
+
+def merge_scores_with_country_info():
+    # 데이터 불러오기
+    accom_df = pd.read_csv("../Data/Predicted_Data/accom_scaled.csv", index_col=False)
+    attr_df = pd.read_csv("../Data/Predicted_Data/attr_scaled.csv", index_col=False)
+    country_tb = pd.read_csv("../Data/DB/COUNTRY_TB.csv", index_col=False)
+    country_info_tb = pd.read_csv("../Data/DB/COUNTRY_INFO_TB.csv", index_col=False)
+
+    # accom_scaled.csv와 attr_scaled.csv에서 SCORE 평균 계산
+    accom_score = accom_df.groupby('CNT_NAME')['SCORE'].mean().reset_index().rename(columns={'SCORE': 'ACCOM_SCORE'})
+    attr_score = attr_df.groupby('CNT_NAME')['SCORE'].mean().reset_index().rename(columns={'SCORE': 'ATTR_SCORE'})
+
+    # COUNTRY_TB와 병합
+    merged_country_tb = country_tb.merge(accom_score, on='CNT_NAME', how='left').merge(attr_score, on='CNT_NAME', how='left')
+
+    # 필요한 컬럼만 선택 및 CNT_CODE를 기준으로 중복 제거
+    merged_country_tb = merged_country_tb[['CNT_CODE', 'ACCOM_SCORE', 'ATTR_SCORE']].drop_duplicates(subset=['CNT_CODE'])
+
+    # COUNTRY_INFO_TB와 병합
+    final_merged_df = country_info_tb.merge(merged_country_tb, on='CNT_CODE', how='left')
+
+    return final_merged_df.drop(columns='Unnamed: 5').drop(columns="SERACH_RATE")
+
+# 함수 실행 및 결과 확인
+final_result = merge_scores_with_country_info()
+print(final_result)
+

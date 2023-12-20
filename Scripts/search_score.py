@@ -25,13 +25,13 @@ def calculate_search_rate():
     filtered_df['SEARCH_RATE_SCALED'] = scaler.fit_transform(filtered_df[['SEARCH_RATE']].dropna())
 
     # SEARCH_RATE가 높을수록 점수가 낮아짐 (1에 가까워짐)
-    filtered_df['SCORE'] = filtered_df['SEARCH_RATE_SCALED'].apply(lambda x: round((1 - x) * 4 + 1, 2))
+    filtered_df['SEARCH_SCORE'] = filtered_df['SEARCH_RATE_SCALED'].apply(lambda x: round((1 - x) * 4 + 1, 2))
 
     # 원본 데이터프레임에 점수 업데이트
-    merged_df['SCORE'] = 0
-    merged_df.loc[filtered_df.index, 'SCORE'] = filtered_df['SCORE']
+    merged_df['SEARCH_SCORE'] = 0
+    merged_df.loc[filtered_df.index, 'SEARCH_SCORE'] = filtered_df['SEARCH_SCORE']
 
-    return merged_df[['CNT_CODE', 'SEARCH_VOL', 'OUTBOUND_COUNT', 'SEARCH_RATE', 'SCORE']]
+    return merged_df[['CNT_CODE', 'CURRENCY', 'EX_RATE', 'EX_AVG', 'SEARCH_SCORE']]
 
 if __name__ == "__main__":
     result = calculate_search_rate()
