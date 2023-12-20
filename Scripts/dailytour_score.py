@@ -9,3 +9,15 @@ dailytour score
 검색량을 반영하기엔 검색량이 0인 국가가 많기 때문에 많이 떨어질 것 같음
 """
 
+"""
+Predicted_Data에서 accom_scaled, attr_scaled가 점수상 최종 데이터
+(accom_scaled.csv와 attr_scaled.csv에서 CNT_NAME을 기준으로 SCORE의 평균을 냄(round(,2)) -> ATTR_SCORE, ACCOM_SCORE로 각각 저장 한 후
+COUNTRY_TB와 병합(기준 CNT_NAME)해서 CNT_CODE, ATTR_SCORE, ACCOM_SCORE를 남기고
+COUNTRY_INFO_TB에 다시 병합
+
+../Data/Predicted_Data/accom_scaled.csv
+../Data/Predicted_Data/attr_scaled.csv
+
+../Data/DB/COUNTRY_TB.csv
+../Data/DB/COUNTRY_INFO_TB.csv
+"""
