@@ -36,4 +36,5 @@ def calculate_search_rate():
 if __name__ == "__main__":
     result = calculate_search_rate()
     print(result)
-
+    result.to_csv('../Data/COUNTRY_INFO_TB_SEARCH_SCORE.csv', index=False, encoding='utf-8')
+    

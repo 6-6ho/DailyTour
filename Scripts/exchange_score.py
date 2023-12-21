@@ -3,7 +3,7 @@ COUNTRY_INFO_TB.CSV파일에서 EX_AVG / EX_RATE한 값을 RATE_DIV로 저장
 """
 import pandas as pd
 
-file_path = '../Data/DB/COUNTRY_INFO_TB.csv'
+file_path = '../Data/COUNTRY_INFO_TB_SEARCH_SCORE.csv'
 
 def exchange_score():
 
@@ -40,9 +40,10 @@ def exchange_score():
         country_info.at[idx, 'EX_SCORE'] = calculate_rate_div_score(row['RATE_DIV'], min_div_without_TR_MN, max_div_without_TR_MN, 4.0)
     
 
-    result_df = country_info[['CNT_CODE', 'CURRENCY', 'EX_RATE', 'EX_AVG', 'SEARCH_VOL', 'EX_SCORE']]
+    result_df = country_info[['CNT_CODE', 'CURRENCY', 'EX_RATE', 'EX_AVG', 'SEARCH_SCORE', 'EX_SCORE']]
     print(result_df)
+    return result_df
 
 if __name__ == "__main__":
     result = exchange_score()
-    result.to_csv(file_path, index=False)
+    result.to_csv('../Data/COUNTRY_INFO_TB_EX_SC.csv', index=False)
