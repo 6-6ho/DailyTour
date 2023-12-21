@@ -51,8 +51,8 @@ public class CountryInfoController {
         return ResponseEntity.ok().body(countryInfoService.getCountryList());
     }
 
-    @GetMapping("/country/ex-score")
-    public ResponseEntity<CountryInfo> getCountryExScore(String cntCode) {  // 국가 환율 점수
+    @GetMapping("/country/ex-score/{cntCode}")
+    public ResponseEntity<CountryInfo> getCountryExScore(@PathVariable String cntCode) {  // 국가 환율 점수
         return ResponseEntity.ok().body(countryInfoService.getCountryExScore(cntCode));
     }
 

@@ -47,6 +47,6 @@ public interface CountryInfoMapper {
 
     @Select("SELECT distinct ct.CNT_CODE as cntCode, ct.CNT_NAME as cntName, cit.DT_SCORE as dtScore " +
             "FROM country_info_tb cit JOIN country_tb ct ON cit.CNT_CODE = ct.CNT_CODE " +
-            "ORDER BY cit.EX_SCORE DESC Limit 4")
+            "ORDER BY cit.EX_SCORE DESC Limit 5")
     List<CountryInfo> findCountryDtScoreRank(); // daily trip 점수 순위 1~5위까지
 }

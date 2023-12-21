@@ -12,6 +12,7 @@ import RecentlyYearRank from './components/RecentlyYearRank';
 import TravelHashtag from './components/TravelHashtag';
 import DashboardCard from 'src/components/shared/DashboardCard';
 import { useCntCodeList } from 'src/context/CntCodeListContext';
+import DailyTourScoreRank from './components/DailyTourScoreRank';
 
 const Dashboard = () => {
    return (
@@ -78,6 +79,9 @@ const Dashboard = () => {
           </Grid>
           <Grid item xs={12} lg={4}>
             <SearchRankCountry />
+          </Grid>
+          <Grid item xs={12} lg={4}>
+            <DailyTourScoreRank />
           </Grid>
           {/* <Grid item xs={12} lg={4}>
             <TravelHashtag />
