@@ -14,7 +14,7 @@ public interface CountryInfoMapper {
 
     @Select("SELECT distinct ct.CNT_NAME as cntName, cit.SEARCH_SCORE as searchScore " +
             "FROM country_info_tb cit JOIN country_tb ct On cit.CNT_CODE = ct.CNT_CODE " +
-            "ORDER BY cit.SEARCH_VOL DESC LIMIT 5")
+            "ORDER BY cit.SEARCH_SCORE DESC LIMIT 5")
     List<CountryInfo> findSearchVolRank();  // 상위 검색량 순위 5개 국가
 
     @Select("SELECT EX_RATE as exRate, CURRENCY " +

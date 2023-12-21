@@ -34,7 +34,7 @@ const SearchRankCountry = () => {
                         <TableHead>
                             <TableRow>
                                 <TableCell sx={{fontSize: 17}}>국가</TableCell>
-                                <TableCell align="right" sx={{fontSize: 17}}>검색량</TableCell>
+                                <TableCell align="right" sx={{fontSize: 17}}>검색량 점수</TableCell>
                             </TableRow>
                         </TableHead>
                         <TableBody>
@@ -42,7 +42,7 @@ const SearchRankCountry = () => {
                                 <TableRow key={item.cntName}>
                                     <TableCell sx={{fontSize: 17}}>{item.cntName}</TableCell>
                                     <TableCell sx={{fontSize: 17}} align="right" >
-                                        {item.searchVol}
+                                        {item.searchScore}
                                     </TableCell>
                                 </TableRow>
                                 )))
