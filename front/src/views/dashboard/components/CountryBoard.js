@@ -1,12 +1,15 @@
 import React, { useEffect, useState } from 'react';
-import { Grid, Box, Card, CardMedia } from '@mui/material';
+import { Grid, Box, Card, CardMedia, Stack } from '@mui/material';
 import PageContainer from 'src/components/container/PageContainer';
 import Attractions from './Attractions';
 import Accomodations from './Accomodations';
 import { useRegCode } from "src/context/RegCodeContext";
 import PresentExchangeRate from './PresentExchangeRate';
 import AverageExchangeRate from './AverageExchangeRate';
+import CountryExchnageScore from './CountryExchangeScore';
+import CountryExchnageScoreRank from './CountryExchangeScoreRank';
 import { useSelectCntCode } from 'src/context/SelectCntCodeContext';
+import DashboardCard from 'src/components/shared/DashboardCard';
 
 const CountryBoard = () => {
     const {regCode} = useRegCode();
@@ -35,6 +38,7 @@ const CountryBoard = () => {
                             <CardMedia component="img" height="400" src={imgPath}></CardMedia>
                         </Card>
                     </Grid>
+
                     <Grid item xs={12} lg={3}>
                         <PresentExchangeRate />
                     </Grid>
@@ -42,8 +46,19 @@ const CountryBoard = () => {
                         <AverageExchangeRate />
                     </Grid>
                     <Grid item xs={12} lg={6}>
-                        <AverageExchangeRate />
+                        <DashboardCard title="" >
+                        <Stack direction="row">  
+                            <Grid item xs={7} lg={7}>
+                                <CountryExchnageScore />
+                            </Grid>
+                            <Grid item xs={5} lg={5}>
+                                <CountryExchnageScoreRank />
+                            </Grid>
+                            
+                        </Stack>
+                        </DashboardCard>
                     </Grid>
+
                     <Grid item xs={12} lg={6}>
                         <Attractions regCode={regCode}/>
                     </Grid>

@@ -26,7 +26,7 @@ const DailyTourScoreRank = () => {
     }, [scoreList])
 
     return (
-        <DashboardCard title="국가 검색량 TOP5">
+        <DashboardCard title="Daily Tour 점수 순위">
         {/* <Typography variant="h1" mb={2} align="center">국가 검색량 TOP5</Typography> */}
         <Box>
             <TableContainer component={Paper}>
@@ -34,7 +34,7 @@ const DailyTourScoreRank = () => {
                     <TableHead>
                         <TableRow>
                             <TableCell sx={{fontSize: 17}}>국가</TableCell>
-                            <TableCell align="right" sx={{fontSize: 17}}>검색량 점수</TableCell>
+                            <TableCell align="right" sx={{fontSize: 17}}>점수</TableCell>
                         </TableRow>
                     </TableHead>
                     <TableBody>
@@ -50,7 +50,7 @@ const DailyTourScoreRank = () => {
                     </TableBody>
                 </Table>
             </TableContainer>
-            <Typography variant="subtitle1" mt={2} textAlign="right">출처 : 문화 빅데이터 플랫폼(한국문화정보원)</Typography>
+            <Typography variant="subtitle1" mt={2} textAlign="right">자체적으로 국가 별 종합 점수를 냈습니다.</Typography>
         </Box>
     </DashboardCard>
     )
