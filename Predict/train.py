@@ -53,7 +53,7 @@ def train_and_evaluate(review_type):
     # 데이터를 학습 세트와 테스트 세트로 분리
     X_train, X_test, y_train, y_test = train_test_split(comment_vectors, all_labels, test_size=0.2, random_state=42)
 
-    # 그리드 서치를 사용하여 최적의 하이퍼파라미터를 찾기
+    # 그리드 서치
     param_grid = {
         'alpha': [0.0001, 0.001, 0.01, 0.1],
         'penalty': ['l2', 'l1', 'elasticnet'],

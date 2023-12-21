@@ -90,7 +90,7 @@ def generate_wordcloud(text, item_name, item_type):
 
 def save_wordcloud(wordcloud, item_code):
     save_path = '../Data/word-cloud/'
-    file_name = f'{item_code}_worldcloud.png'
+    file_name = f'{item_code}_wordcloud.png'
     wordcloud.to_file(save_path + file_name)
 
     print(f'save file : {file_name}')
