@@ -51,5 +51,19 @@ public class CountryInfoController {
         return ResponseEntity.ok().body(countryInfoService.getCountryList());
     }
 
+    @GetMapping("/country/ex-score")
+    public ResponseEntity<CountryInfo> getCountryExScore(String cntCode) {  // 국가 환율 점수
+        return ResponseEntity.ok().body(countryInfoService.getCountryExScore(cntCode));
+    }
+
+    @GetMapping("/country/ex-score/rank")
+    public ResponseEntity<List<CountryInfo>> getCountryExScoreRank() {  //  국가  환율 점수 순위
+        return ResponseEntity.ok().body(countryInfoService.getCountryExScoreRank());
+    }
+
+    @GetMapping("/country/dt-score/rank")
+    public ResponseEntity<List<CountryInfo>> getCountryDtScoreRank() {  // daily trip 점수 순위
+        return  ResponseEntity.ok().body(countryInfoService.getCountryDtScoreRank());
+    }
 
 }

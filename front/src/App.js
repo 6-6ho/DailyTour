@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { baselightTheme } from "./theme/DefaultColors";
 import { RegCodeProvider } from './context/RegCodeContext';
 import { CntCodeListProvider } from './context/CntCodeListContext';
+import { SelectCntCodeProvider } from './context/SelectCntCodeContext';
 
 function App() {
   const routing = useRoutes(Router);
@@ -18,9 +19,9 @@ function App() {
       <CssBaseline />
       <RegCodeProvider>
         <CntCodeListProvider>
-          
+          <SelectCntCodeProvider>
             {routing}
-          
+          </SelectCntCodeProvider>
         </CntCodeListProvider>
         </RegCodeProvider>
     </ThemeProvider>

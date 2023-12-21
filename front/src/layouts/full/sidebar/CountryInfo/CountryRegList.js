@@ -3,6 +3,7 @@ import React, { useState, useEffect, useContext } from 'react';
 import { serverDomain } from "src/domain/ServerDomain";
 import { List, ListItem, ListItemText,ListItemButton, Divider, FormControl, InputLabel, Box, Select, MenuItem } from '@mui/material';
 import { useRegCode } from "src/context/RegCodeContext";
+import { useSelectCntCode } from "src/context/SelectCntCodeContext";
 
 const CountryRegList = () => {
     const params = useParams();
@@ -10,13 +11,15 @@ const CountryRegList = () => {
     const [regList, setRegList] = useState([]); // 지역리스트 
     const [cntName, setCntName] = useState('');
     const {regCode, setRegCode} = useRegCode();
- 
+    const {selectCntCode, setSelectCntCode} = useSelectCntCode(); 
+
     console.log(cntCode);
 
     useEffect( ()=>  {  
         fetch(`${serverDomain}/country/reg/${cntCode}`)   // JSON-Server에 국가의 지역 리스트 요청
 	        .then( res => { return res.json() } ) 
 	        .then( data => {
+                setSelectCntCode(cntCode);
                 setRegList(data);
                 if(data.length > 0) {
                     setCntName(data[0].cntName);
@@ -36,6 +39,7 @@ const CountryRegList = () => {
     const changeSelect = (event) => {
         console.log("chanageSelect :  " + event.target.value);
         setRegCode(event.target.value);
+        
     }
 
     return (

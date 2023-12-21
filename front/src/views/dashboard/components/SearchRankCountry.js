@@ -50,6 +50,7 @@ const SearchRankCountry = () => {
                         </TableBody>
                     </Table>
                 </TableContainer>
+                <Typography variant="subtitle1" mt={2} textAlign="right">출처 : 문화 빅데이터 플랫폼(한국문화정보원)</Typography>
             </Box>
         </DashboardCard>
     )

@@ -14,5 +14,7 @@ public class CountryInfo {
     private String currency; // 통화
     private double exRate;    // 환율
     private double exAvg;  // 평균 환율
-    private long searchVol;   // 검색량
+    private double searchScore;   // 검색량 점수
+    private double exScore;
+    private double dtScore;
 }

@@ -1,4 +1,4 @@
-import { Select, MenuItem, Box } from '@mui/material';
+import { Select, MenuItem, Box, Typography, Stack } from '@mui/material';
 import React, { useState, useEffect } from 'react';
 import DashboardCard from '../../../components/shared/DashboardCard';
 import { Bar} from 'react-chartjs-2';
@@ -114,16 +114,18 @@ const SelectYearChart = () => {
     
     return (
       <DashboardCard title={selected + "년 국가별 출국자 수" } >
-        <Box >
+        <Box>
           <Select  labelId="month-dd" id="month-dd" value={ selected }   size="small"
               onChange={changeSelect}>
               {
                 yearList && ( yearList.map((year) => (
                   <MenuItem key={year} value={year}>{year}년</MenuItem>
-                )))
-              }
+                  )))
+                }
           </Select>
-          <Bar type='bar' data={countryStatData} options={options} height="200px" className='monthly-line-charts'/>
+          <Bar type='bar' data={countryStatData} options={options} height="150px" className='monthly-line-charts'/>
+          <Typography variant="subtitle1" mt={2} textAlign="right">국민 해외관광객 주요 목적지별 통계</Typography>
+          <Typography variant="subtitle1" textAlign="right">기간 : 2023년 / 기간 : 2014~2023년</Typography>
         </Box>
       </DashboardCard>
 

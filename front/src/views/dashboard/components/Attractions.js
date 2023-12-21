@@ -1,7 +1,7 @@
 import { serverDomain } from "src/domain/ServerDomain";
 import React, { useState, useEffect } from 'react';
 import { TableContainer, Paper,  Typography, Box, Table, TableBody, TableCell,
-    TableHead, TableRow, Modal, Grid } from '@mui/material';
+    TableHead, TableRow, Modal, Grid, Card, CardMedia } from '@mui/material';
 import DashboardCard from '../../../components/shared/DashboardCard';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { Pie } from 'react-chartjs-2';
@@ -14,13 +14,14 @@ const Attractions = (props) => {
     const [attrCode, setAttrCode] = useState('');
     const [open, setOpen] = React.useState(false);
     const [pieChart, setPieChart] = useState({ datasets : [] });
+    const [imgPath, setImgPath] = useState('');
     const modal = {             // modal style
         position: 'absolute',
         top: '50%',
         left: '50%',
         transform: 'translate(-50%, -50%)',
         width: 1000,
-        height: 800,
+        height: 900,
         bgcolor: 'background.paper',
         border: '2px solid #000',
         boxShadow: 24,
@@ -65,6 +66,11 @@ const Attractions = (props) => {
                     }
                     setPieChart(reviewStat);
 
+                     // 이미지 경로
+                     const path = require(`../../../assets/images/word-cloud/${attrCode}_worldcloud.png`);
+                     setImgPath(path);
+                     console.log("imgPath : " + path);
+
             });
         }
     }, [attrCode]);
@@ -79,16 +85,18 @@ const Attractions = (props) => {
 
     return (
         <Box>
+            {/* ------------------ modal 창 -------------------------- */}
             <Modal open={open} onClose={handleClose} aria-labelledby="modal-modal-title" aria-describedby="modal-modal-description">
                 <Box sx={modal}>
-                    <Typography id="modal-modal-title" variant="h3" component="h2">
+                    <Typography id="modal-modal-title" variant="h3" component="h2" mb={2}>
                         {attr.attrName}
                     </Typography>
+                    
                     <Grid container spacing={3}>
                         <Grid item xs={12} lg={12}>
-                            <Box sx={{height: "300px"}}>
-                                <Pie type="doughnut" data={pieChart}/>
-                            </Box>
+                            <Card>
+                                <CardMedia component="img" height="400" src={attr.imgPath} sx={{objectFit : "cover"}} alt="해당 관광지 이미지를 제공하지 않습니다."></CardMedia>
+                            </Card>
                         </Grid>
                         <Grid item xs={12} lg={6}>
                             <Box sx={{height: "300px"}}>
@@ -96,19 +104,22 @@ const Attractions = (props) => {
                             </Box>
                         </Grid>
                         <Grid item xs={12} lg={6}>
-                            <Box sx={{height: "300px"}}>
-                                <Pie type="doughnut" data={pieChart}/>
-                            </Box>
+                        <Card>
+                                <CardMedia component="img" height="380" src={imgPath} sx={{objectFit : "cover"}} alt="해당 관광지 이미지를 제공하지 않습니다."></CardMedia>
+                            </Card>
                         </Grid>
                     </Grid>
                     
                 </Box>
             </Modal>
+            {/* ------------------ modal 창 -------------------------- */}
 
+            
             <DashboardCard >
                 <Box>
                     <Typography variant="h1" mb={2} align="center">관광지</Typography>
                     <Box>
+                    <Typography variant="subtitle1" mt={3} mb={2} textAlign="right">출처 : 트립어드바이저</Typography>
                         <TableContainer component={Paper}>
                             <Table aria-label="simple table">
                                 <TableHead>

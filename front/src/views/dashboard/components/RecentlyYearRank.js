@@ -3,7 +3,8 @@ import React, { useState, useEffect } from 'react';
 import {Link} from "react-router-dom"
 import { serverDomain } from 'src/domain/ServerDomain';
 import DashboardCard from '../../../components/shared/DashboardCard';
-import {List, ListItem, ListItemButton, ListItemText } from '@mui/material';
+import {List, ListItem, ListItemButton, ListItemIcon, ListItemText, Typography } from '@mui/material';
+import { Padding } from '@mui/icons-material';
 
 
 const RecentlyYearRank = () => {
@@ -21,12 +22,14 @@ const RecentlyYearRank = () => {
 
     return (
         <DashboardCard title="연도별 랭킹">
+            <Typography variant="caption" textAlign="right">출처 : 한국관광 데이터랩(한국관광공사)</Typography>
             <List>
                 {
-                    (yearList && (yearList.map((year) => 
-                        <ListItem>
-                             <ListItemButton component="a" href={"/country/" + year.cntCode }>
-                            <ListItemText primary={year.cntName} primaryTypographyProps={{fontSize: 18}} />
+                    (yearList && (yearList.map((year, index) => 
+                        <ListItem sx={{paddingLeft: "2px", paddingRight: "2px"}}>
+                             <ListItemButton sx={{paddingLeft: 0}} component="a" href={"/country/" + year.cntCode }>
+                                <ListItemIcon  primaryTypographyProps={{fontSize: 18}}>{index+1} 위 </ListItemIcon>
+                                <ListItemText primary={year.cntName} primaryTypographyProps={{fontSize: 18}} />
                         </ListItemButton>
                         </ListItem>
                     )))

@@ -12,7 +12,7 @@ import java.util.List;
 @Mapper
 public interface CountryInfoMapper {
 
-    @Select("SELECT distinct ct.CNT_NAME as cntName, cit.SEARCH_VOL as searchVol " +
+    @Select("SELECT distinct ct.CNT_NAME as cntName, cit.SEARCH_SCORE as searchScore " +
             "FROM country_info_tb cit JOIN country_tb ct On cit.CNT_CODE = ct.CNT_CODE " +
             "ORDER BY cit.SEARCH_VOL DESC LIMIT 5")
     List<CountryInfo> findSearchVolRank();  // 상위 검색량 순위 5개 국가
@@ -37,5 +37,16 @@ public interface CountryInfoMapper {
             "FROM country_tb")
     List<Country> findCountryList();        // 국가 리스트
 
+    @Select("SELECT EX_SCORE as exScore FROM country_info_tb WHERE CNT_CODE = #{cntCode}")
+    CountryInfo findCountryExScore(String cntCode); // 환율 평균 점수
 
+    @Select("SELECT distinct ct.CNT_CODE as cntCode, ct.CNT_NAME as cntName, cit.EX_SCORE as exScore " +
+            "FROM country_info_tb cit JOIN country_tb ct ON cit.CNT_CODE = ct.CNT_CODE " +
+            "ORDER BY cit.EX_SCORE DESC Limit 4")
+    List<CountryInfo> findCountryExScoreRank(); // 환율 점수 순위 1 ~ 4위까지
+
+    @Select("SELECT distinct ct.CNT_CODE as cntCode, ct.CNT_NAME as cntName, cit.DT_SCORE as dtScore " +
+            "FROM country_info_tb cit JOIN country_tb ct ON cit.CNT_CODE = ct.CNT_CODE " +
+            "ORDER BY cit.EX_SCORE DESC Limit 4")
+    List<CountryInfo> findCountryDtScoreRank(); // daily trip 점수 순위 1~5위까지
 }

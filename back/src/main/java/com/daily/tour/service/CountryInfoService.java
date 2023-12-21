@@ -38,4 +38,17 @@ public class CountryInfoService {
     public List<Country> getCountryList() {
         return countryInfoMapper.findCountryList();
     }
+
+    public CountryInfo getCountryExScore(String cntCode) {
+        return countryInfoMapper.findCountryExScore(cntCode);
+    }
+
+    public List<CountryInfo> getCountryExScoreRank() {
+        return countryInfoMapper.findCountryExScoreRank();
+    }
+
+    public List<CountryInfo> getCountryDtScoreRank() {
+        return countryInfoMapper.findCountryDtScoreRank();
+    }
+
 }

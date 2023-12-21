@@ -32,6 +32,8 @@ const PresentExchangeRate = () => {
                         </Stack>
                     </Stack>
                 </CardContent>
+                <Typography variant="subtitle1" mt={2} textAlign="right"> 출처 : 하나은행</Typography>
+                <Typography variant="subtitle1" textAlign="right"> 기간 : 2023.01.01~2023.11.30</Typography>
             </Box>
         </DashboardCard>
     )

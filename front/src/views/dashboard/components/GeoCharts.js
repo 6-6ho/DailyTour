@@ -3,15 +3,18 @@ import { ResponsiveChoropleth } from "@nivo/geo";
 import {Box} from '@mui/material';
 import { scaleQuantize } from "d3-scale";
 import countries from "../data/world_countries.json";
-import data from "../data/test_data";
-import DashboardCard from "src/components/shared/DashboardCard";
 import { useCntCodeList } from "src/context/CntCodeListContext";
 import { serverDomain } from "src/domain/ServerDomain";
 
 const GeoCharts = () => {
     const getColor = scaleQuantize().domain([1]).range(["#ededed", "orange"]);
     const {cntCodeList} = useCntCodeList();
-    const [geoCodeList, setGeoCodeList] = useState([]);
+    const [geoCodeList, setGeoCodeList] = useState([
+      { "id" : null,
+        "value" : null  
+      }
+    ]);
+    
 
     useEffect(() => {
 
@@ -28,7 +31,15 @@ const GeoCharts = () => {
         .then(res => {return res.json()})
         .then(data => { 
             console.log("geo code data: " + data );
-            setGeoCodeList(data);
+            
+            const geoData = data.map(item => {
+              return { 
+                  "id": item.isoCode, 
+                  "value": item.totalEmi 
+              };
+            });
+
+              setGeoCodeList(geoData);
           });
 
         }
@@ -46,7 +57,8 @@ const GeoCharts = () => {
         domain={[0, 1]}
         unknownColor="#ededed"
         valueFormat=".2s"
-        projectionScale={50}
+        projectionType="equirectangular"
+        projectionScale={140}
         projectionTranslation={[0.5, 0.5]}
         projectionRotation={[0, 0, 0]}
         enableGraticule={true}

@@ -14,7 +14,7 @@ const TravelHashtag = () => {
             <Chip label="#유심" color="primary" size="large" sx={{ height: '35px', fontSize: '18px', '& .MuiChip-label': { display: 'block', whiteSpace: 'normal',} ,}}> </Chip>
             <Chip label="#비행기" color="primary" size="large" sx={{ height: '35px', fontSize: '18px', '& .MuiChip-label': { display: 'block', whiteSpace: 'normal',} ,}}> </Chip>
            </Stack>
-          
+           <Typography variant="subtitle1" textAlign="right" mt={2}>출처 : 구글 트렌드 분석</Typography>
         </DashboardCard>
     )
 
