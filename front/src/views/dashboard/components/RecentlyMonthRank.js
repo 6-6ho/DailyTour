@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import {Link} from "react-router-dom"
 import { serverDomain } from 'src/domain/ServerDomain';
 import DashboardCard from '../../../components/shared/DashboardCard';
-import {List, ListItem, ListItemButton, ListItemText, ListItemIcon, Typography, Divider } from '@mui/material';
+import {List, ListItem, ListItemButton, ListItemText, ListItemIcon, Typography, Divider, Stack } from '@mui/material';
 const RecentlyMonthRank = () => {
     const [monthList, setMonthList] = useState([]); // 월별 rank
 
@@ -20,7 +20,10 @@ const RecentlyMonthRank = () => {
     
     return (
         <DashboardCard title="월별 랭킹">
-            <Typography variant="caption" textAlign="right">출처 : 한국관광 데이터랩(한국관광공사)</Typography>
+            <Stack direction="column" mb={1}>
+                <Typography variant="caption" textAlign="right" >출처 : 한국관광 데이터랩(한국관광공사)</Typography>
+                <Typography variant="caption" textAlign="right">2023년 8월 기준</Typography>
+            </Stack>
             <List >
             {
                 (monthList && (monthList.map((month, index) =>

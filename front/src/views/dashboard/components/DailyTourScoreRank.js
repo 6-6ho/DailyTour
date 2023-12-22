@@ -26,7 +26,7 @@ const DailyTourScoreRank = () => {
     }, [scoreList])
 
     return (
-        <DashboardCard title="Daily Tour 점수 순위">
+        <DashboardCard title="Daily Tour 점수 순위" sx={{minHeight: '500px'}}>
         {/* <Typography variant="h1" mb={2} align="center">국가 검색량 TOP5</Typography> */}
         <Box>
             <TableContainer component={Paper}>

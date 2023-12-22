@@ -26,7 +26,7 @@ const SearchRankCountry = () => {
     }, []);
 
     return (
-        <DashboardCard title="국가 검색량 TOP5">
+        <DashboardCard title="국가 검색량 TOP5" sx={{minHeight: '500px'}}>
             {/* <Typography variant="h1" mb={2} align="center">국가 검색량 TOP5</Typography> */}
             <Box>
                 <TableContainer component={Paper}>
@@ -39,7 +39,7 @@ const SearchRankCountry = () => {
                         </TableHead>
                         <TableBody>
                             { searchRank && ( searchRank.map((item) => (
-                                <TableRow key={item.cntName}>
+                                <TableRow key={item.cntName}  >
                                     <TableCell sx={{fontSize: 17}}>{item.cntName}</TableCell>
                                     <TableCell sx={{fontSize: 17}} align="right" >
                                         {item.searchScore}
