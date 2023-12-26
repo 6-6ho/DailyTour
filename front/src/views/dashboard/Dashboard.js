@@ -37,23 +37,23 @@ const Dashboard = () => {
 
           
       {/* 오른쪽 섹션: SelectYearChart */}
-      <Grid item xs={12} lg={7}>
-        <SelectYearChart />
-      </Grid>
+        <Grid item xs={12} lg={7}>
+          <SelectYearChart />
+        </Grid>
 
-          <Grid item xs={12} lg={5}>
-            <Grid container spacing={2} sx={{height : "100%"}}>
-          {/* 위쪽: RecentlyMonthRank와 RecentlyYearRank */}
-          <Grid item xs={6}>
-            <RecentlyMonthRank />
-          </Grid>
-          <Grid item xs={6}>
-            <RecentlyYearRank />
-          </Grid>
-          {/* 아래쪽: TravelHashtag */}
-          <Grid item xs={12}>
-            <TravelHashtag />
-          </Grid>
+        <Grid item xs={12} lg={5}>
+          <Grid container spacing={1} sx={{height : "100%"}}>
+            {/* 위쪽: RecentlyMonthRank와 RecentlyYearRank */}
+            <Grid item xs={6}>
+              <RecentlyMonthRank />
+            </Grid>
+            <Grid item xs={6}>
+              <RecentlyYearRank />
+            </Grid>
+        {/* 아래쪽: TravelHashtag */}
+        <Grid item xs={12}>
+          <TravelHashtag />
+        </Grid>
         </Grid>
         </Grid>
 

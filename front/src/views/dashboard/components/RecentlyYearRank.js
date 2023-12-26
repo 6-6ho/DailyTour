@@ -22,7 +22,7 @@ const RecentlyYearRank = () => {
 
     return (
         <DashboardCard title="연도별 랭킹">
-            <Stack direction="column"  mb={1}>
+            <Stack direction="column">
                 <Typography variant="caption" textAlign="right">출처 : 한국관광 데이터랩(한국관광공사)</Typography>
                 <Typography variant="caption" textAlign="right">2023년 기준</Typography>
             </Stack>
@@ -31,8 +31,8 @@ const RecentlyYearRank = () => {
                     (yearList && (yearList.map((year, index) => 
                         <ListItem sx={{paddingLeft: "2px", paddingRight: "2px"}}>
                              <ListItemButton sx={{paddingLeft: 0}} component="a" href={"/country/" + year.cntCode }>
-                                <ListItemIcon  primaryTypographyProps={{fontSize: 18}}>{index+1} 위 </ListItemIcon>
-                                <ListItemText primary={year.cntName} primaryTypographyProps={{fontSize: 18}} />
+                                <ListItemIcon  primaryTypographyProps={{fontSize: 16}}>{index+1} 위 </ListItemIcon>
+                                <ListItemText primary={year.cntName} primaryTypographyProps={{fontSize: 16}} />
                         </ListItemButton>
                         </ListItem>
                     )))

@@ -39,11 +39,8 @@ const SelectYearChart = () => {
       fetch(`${serverDomain}/country/year/list`)  // JSON-Server 에게 year List 요청
         .then( res => { return res.json() } ) 
         .then( data => {
-
-
               setYearList(data);
               console.log(yearList);
-              // console.log(month);
            } 
       ); 
   }, []);
@@ -63,6 +60,7 @@ const SelectYearChart = () => {
                   
               labels: data.map((country) => country.cntName),
               datasets: [{
+                label: '년도 별 출국자 수',
                       type:'bar',
                       data: data.map((country) => country.emi),
                       backgroundColor: [

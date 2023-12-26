@@ -19,7 +19,7 @@ const CountryExchnageScore = () => {
             )
         }
         
-    }, [countryInfo])
+    }, [])
 
     return (
         <Box>
