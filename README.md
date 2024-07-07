@@ -11,3 +11,14 @@
 * `React`
 * `Spring Boot`
 * `scikit-learn`
+
+### 화면 구성
+
+![1](img/1.png)
+<br>
+
+![2](img/2.png)
+<br>
+
+![3](img/3.png)
+<br>
